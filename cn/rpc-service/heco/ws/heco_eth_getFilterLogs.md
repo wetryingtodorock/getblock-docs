@@ -1,0 +1,36 @@
+---
+title: heco:eth_getFilterLogs \[WebSocket\]
+description: Returns an array of all logs matching filter with given id.
+---
+
+### Parameters
+
+
+`QUANTITY` - string
+
+The filter id.
+
+### Request
+
+``` java
+wscat -c wss://heco.getblock.io/YOUR-API-KEY/mainnet/ 
+# wait for connection and send the request body 
+{"jsonrpc": "2.0",
+"method": "eth_getFilterLogs",
+"params": ["0x7373bf81a29e9491199289fab72c499f"],
+"id": "getblock.io"}
+```
+
+###  Response
+
+``` java
+{
+    "error": {
+        "code": -32000,
+        "message": "filter not found"
+    },
+    "id": "getblock.io",
+    "jsonrpc": "2.0"
+}
+```
+

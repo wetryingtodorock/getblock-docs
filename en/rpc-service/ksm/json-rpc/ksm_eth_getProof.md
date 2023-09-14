@@ -1,0 +1,43 @@
+---
+title: ksm:eth_getProof \[POST\] {disallowed}
+description: Returns proof for account and storage.
+---
+
+### Parameters
+
+
+`address` - H160
+
+None
+
+`storageKeys` - Vector of H256
+
+None
+
+`number` - BlockNumber
+
+None
+
+### Request
+
+``` java
+curl --location --request POST 'https://ksm.getblock.io/mainnet/' 
+--header 'x-api-key: YOUR-API-KEY' 
+--header 'Content-Type: application/json' 
+--data-raw '{"jsonrpc": "2.0",
+"method": "eth_getProof",
+"params": [null, null, null],
+"id": "getblock.io"}'
+```
+
+###  Response
+
+``` java
+{
+    "result": "null",
+    "id": "getblock.io",
+    "status_code": 405,
+    "message": "Method not allowed"
+}
+```
+

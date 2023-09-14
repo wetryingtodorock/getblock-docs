@@ -1,0 +1,46 @@
+---
+title: ont:/api/v1/allowancev2 \[GET\]
+description: Return the allowance from the from account to the to account, with ONTdecimals being 9, and ONG decimals being 18
+---
+
+### Parameters
+
+
+`asset` - path
+
+string
+
+Asset contract hash
+
+`from` - path
+
+string
+
+Source account address
+
+`to` - path
+
+string
+
+Recipient account address
+
+### Request
+
+``` java
+curl --location --request GET 'https://ont.getblock.io/mainnet/rest/api/v1/allowance2/ont/A9yD14Nj9j7xAB4dbGeiX9h8unkKHxuWwb/AA4WVfUB1ipHL8s3PRSYgeV1HhAU3KcKTq' 
+--header 'x-api-key: YOUR-API-KEY' 
+--header 'Content-Type: application/json' 
+```
+
+###  Response
+
+``` java
+{
+    "Action": "getallowance",
+    "Desc": "SUCCESS",
+    "Error": 0,
+    "Result": "10",
+    "Version": "1.0.0"
+}
+```
+

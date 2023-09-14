@@ -1,0 +1,5 @@
+# IDE / Editor
+.idea
+
+# macOS
+.DS_Store

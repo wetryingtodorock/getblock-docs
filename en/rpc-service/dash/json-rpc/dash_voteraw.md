@@ -1,0 +1,62 @@
+---
+title: dash:voteraw \[POST\] {disallowed}
+description: compiles and relays a governance vote with provided external signatureinstead of signing vote internally
+---
+
+### Parameters
+
+
+`masternode-collateral-tx-hash` - string (hex)
+
+Hash of the masternode collateral transaction.
+
+`masternode-collateral-tx-index` - string
+
+Index of the masternode collateral transaction.
+
+`governance-hash` - string (hex)
+
+Hash of the governance object.
+
+`signal` - string
+
+Vote signal: funding, valid, or delete
+
+`outcome` - string
+
+Vote outcome: yes, no, or abstain
+
+`time` - int64_t
+
+Create time
+
+`vote-sig` - string (base64)
+
+The vote signature created by external application (i.e. Dash Masternode
+Tool or dashmnb).
+
+Must match the Dash Core (governance vote signature format).
+
+### Request
+
+``` java
+curl --location --request POST 'https://dash.getblock.io/mainnet/' 
+--header 'x-api-key: YOUR-API-KEY' 
+--header 'Content-Type: application/json' 
+--data-raw '{"jsonrpc": "2.0",
+"method": "voteraw",
+"params": [null, null, null, null, null, null, null],
+"id": "getblock.io"}'
+```
+
+###  Response
+
+``` java
+{
+    "result": "null",
+    "id": "getblock.io",
+    "status_code": 405,
+    "message": "Method not allowed"
+}
+```
+

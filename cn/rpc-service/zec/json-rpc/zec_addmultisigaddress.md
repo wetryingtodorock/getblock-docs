@@ -1,0 +1,44 @@
+---
+title: zec:addmultisigaddress \[POST\] {disallowed}
+description: Add a nrequired-to-sign multisignature address to the wallet.Each key is a Zcash address or hex-encoded public key.If account is specified (DEPRECATED), assign address to that account.
+---
+
+### Parameters
+
+
+`nrequired` - numeric
+
+The number of required signatures out of the n keys or addresses.
+
+`keysobject` - string
+
+A json array of Zcash addresses or hex-encoded public keys.
+
+`account` - string
+
+DEPRECATED. If provided, MUST be set to the empty string "" to represent
+the default account. Passing any other string will result in an error.
+
+### Request
+
+``` java
+curl --location --request POST 'https://zec.getblock.io/mainnet/' 
+--header 'x-api-key: YOUR-API-KEY' 
+--header 'Content-Type: application/json' 
+--data-raw '{"jsonrpc": "2.0",
+"method": "addmultisigaddress",
+"params": [null, null, null],
+"id": "getblock.io"}'
+```
+
+###  Response
+
+``` java
+{
+    "result": "null",
+    "id": "getblock.io",
+    "status_code": 405,
+    "message": "Method not allowed"
+}
+```
+

@@ -2,64 +2,64 @@
 lastUpdated: June 10, 2023
 ---
 
-# Get started with GetBlock public API
+# 開始使用 GetBlock 公共 API
 
->If you are on this page - congratulations, you are only a few minutes away from diving in our developer API with 40,000 free requests every day. All you need to do is set up an account.
+>如果您在這個頁面上 - 恭喜您，您只需幾分鐘即可深入了解我們的開發人員 API，每天有 40,000 個免費請求。 您所需要做的就是設置一個帳戶。
 
-### How to set up an account?
+### 如何設立賬戶？
 
-To set up an account on GetBlock you need either click on the “Account” button in the upper right corner of the [main page](https://getblock.io/) or follow [this link](https://account.getblock.io/sign-in).
+要在 GetBlock 上設置帳戶，您需要單擊右上角的“帳戶”按鈕 [主頁](https://getblock.io/) 或關注 [這個鏈接](https://account.getblock.io/sign-in).
 
-### Step 1. Signing up to GetBlock
+### 步驟 1. 註冊 GetBlock
 
-Please, select a preferred sign-up option:
+請選擇首選的註冊選項：
 
-1. Connect wallet. By choosing this option, you are not required to share your email address and create a new password. If you do not currently have a wallet browser extension, you will be asked to install the extension.
-2. Sign in with Google. Google will share your name, email address, language preference, and profile picture with getblock.io.
-3. Sign up with email. You will be asked to provide your name and email address. Should you choose the first option, you’ll be asked to verify the email address you entered.
+1. 連接錢包。 通過選擇此選項，您無需共享您的電子郵件地址並創建新密碼。 如果您當前沒有錢包瀏覽器擴展程序，系統會要求您安裝該擴展程序。
+2. 使用 Google 登錄。 Google 將與 getblock.io 分享您的姓名、電子郵件地址、語言偏好和個人資料圖片。
+3. 使用電子郵件註冊。 您將被要求提供您的姓名和電子郵件地址。 如果您選擇第一個選項，系統會要求您驗證輸入的電子郵件地址。
 
-Note that to start using our service you will be asked to accept our [Terms of Service](https://getblock.io/terms-of-service/) and [Privacy Policy](https://getblock.io/privacy-policy/).
+請注意，要開始使用我們的服務，您將被要求接受我們的 [服務條款](https://getblock.io/terms-of-service/) 和[隱私政策](https://getblock.io/privacy-policy/).
 
 ![screenshot 1](https://storage.getblock.io/web/docs/explorer-api/get-started/screenshot_1.webp)
 
-### Step 2. Check your user ID.
+### 步驟 2. 檢查您的用戶 ID。
 
-Find your user ID located in the ‘Account Settings’ section. Please use it when contacting GetBlock’s team so we can identify your account and help you faster.
+在“帳戶設置”部分找到您的用戶 ID。 請在聯繫 GetBlock 團隊時使用它，以便我們識別您的帳戶並更快地為您提供幫助。
 
 ![screenshot 2](https://storage.getblock.io/web/docs/explorer-api/get-started/screenshot_2.webp)
 
-### Step 3. Figuring out API access.
+### 第 3 步：確定 API 訪問權限。
 
-Select “NEAR Protocol” in the “Select Protocol”, then click “Mainnet” in the next “Select Network” tab. You can also find your API key from your account’s main page.
+在“選擇協議”中選擇“NEAR協議”，然後在接下來的“選擇網絡”選項卡中單擊“主網”。 您還可以從帳戶的主頁找到您的 API 密鑰。
 
 ![screenshot 3](https://storage.getblock.io/web/docs/explorer-api/get-started/screenshot_3.webp)
 
-### Step 4. Get to know request packages.
+### 步驟 4. 了解請求包。
 
-In the ‘Account settings’ section, you will find available pricing plans under the “Requests balance” button. You can also click “Add” in the top right corner of the account’s main page to see the plans. The free plan includes a daily limit of 40,000 requests per account. Unused requests cannot be transferred to the next day and are, therefore, lost.
+在“帳戶設置”部分中，您將在“請求餘額”按鈕下找到可用的定價計劃。 您還可以點擊賬戶主頁右上角的“添加”來查看計劃。 免費計劃包括每個帳戶每日 40,000 次請求的限制。 未使用的請求無法轉移到第二天，因此會丟失。
 
-When your application is accessing a certain blockchain (sends tokens, verifies network states, etc.) it is called a ‘request’. You can choose between ‘Launch’, ‘Build’, ‘Scale’, and ‘Unlimited’ options.
+當您的應用程序訪問某個區塊鏈（發送令牌、驗證網絡狀態等）時，稱為“請求”。 您可以在“啟動”、“構建”、“擴展”和“無限制”選項之間進行選擇。
 
-‘Launch’, ‘Build’, and ‘Scale’ plans are pay-per-use options. Purchased requests do not burn even if not used in 30 days.
+“啟動”、“構建”和“擴展”計劃是按使用付費的選項。 即使 30 天內未使用，購買的請求也不會被銷毀。
 
-Here is the calculation that helps to determine the time during which the whole amount of requests from a particular package will be spent at a maximum capacity set to 60 requests per second (RpS):
+以下計算有助於確定在最大容量設置為每秒 60 個請求 (RpS) 的情況下，來自特定包的全部請求量將花費的時間：
 
-- **‘Launch’ pack**: 5 000 000 requests / (60 RpS * 60 sec) = 1 388 min (or 23 hrs 8 min);
-- **‘Build’ pack**: 10 000 000 requests / (60 RpS * 60 sec) = 2 777 min (or 46 hrs 17 min);
-- **‘Scale’ pack**: 50 000 000 requests / (60 RpS * 60 sec) = 13 888 min (or 9 days 15 hrs 28 min).
+- **“啟動”包**：5 000 000 個請求/（60 RpS * 60 秒）= 1 388 分鐘（或 23 小時 8 分鐘）；
+- **“構建”包**：10 000 000 個請求/（60 RpS * 60 秒）= 2 777 分鐘（或 46 小時 17 分鐘）；
+- **“規模”包**：50 000 000 個請求/（60 RpS * 60 秒）= 13 888 分鐘（或 9 天 15 小時 28 分鐘）。
 
-With the ‘Unlimited’ plan, users are given access to an unlimited number of requests on all dev APIs (now only NEAR available) for 30 days.
+通過“無限制”計劃，用戶可以在 30 天內訪問所有開發 API（現在僅 NEAR 可用）上無限數量的請求。
 
 ![screenshot 4](https://storage.getblock.io/web/docs/explorer-api/get-started/screenshot_4.webp)
 
-### Step 5. Study GetBlock API documentation
+### 步驟 5. 研究 GetBlock API 文檔
 
-You can see the “NEAR Protocol Explorer” tab on the left side menu. Go there and dive deeper into how GetBlock API works, which methods it uses.
+您可以在左側菜單中看到“NEAR Protocol Explorer”選項卡。 去那裡深入了解 GetBlock API 的工作原理以及它使用的方法。
 
 ![screenshot 5](https://storage.getblock.io/web/docs/explorer-api/get-started/screenshot_5.webp)
 
-To use the API, you’ll need to paste your API key into the ‘header’ row that says ‘x-api-key: YOUR-API-KEY’.
+要使用 API，您需要將 API 密鑰粘貼到標有“x-api-key: YOUR-API-KEY”的“標題”行中。
 
-### Step 6. Voila! You’re ready to use the API.
+### 第 6 步。瞧！ 您已準備好使用 API。
 
-Once the docs are studied, let your dev journey begin! You have 40,000 free requests per day, and you can use them for anything. They are also renewed everyday, but the unused requests are not transferred to the next day. Enjoy!
+研究完文檔後，就可以開始您的開發之旅了！ 您每天有 40,000 個免費請求，您可以將它們用於任何用途。 它們也會每天更新，但未使用的請求不會轉移到第二天。 享受！

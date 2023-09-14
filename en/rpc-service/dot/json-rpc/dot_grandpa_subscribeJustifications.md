@@ -1,0 +1,33 @@
+---
+title: dot:grandpa_subscribeJustifications \[POST\] {disallowed}
+description: Subscribes to grandpa justifications.
+---
+
+### Parameters
+
+
+\-
+
+### Request
+
+``` java
+curl --location --request POST 'https://dot.getblock.io/mainnet/' 
+--header 'x-api-key: YOUR-API-KEY' 
+--header 'Content-Type: application/json' 
+--data-raw '{"jsonrpc": "2.0",
+"method": "grandpa_subscribeJustifications",
+"params": [],
+"id": "getblock.io"}'
+```
+
+###  Response
+
+``` java
+{
+    "result": "null",
+    "id": "getblock.io",
+    "status_code": 405,
+    "message": "Method not allowed"
+}
+```
+

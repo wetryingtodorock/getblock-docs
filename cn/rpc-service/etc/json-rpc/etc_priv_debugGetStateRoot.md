@@ -1,0 +1,40 @@
+---
+title: etc:priv_debugGetStateRoot \[POST\] {disallowed}
+description: Returns the state root of the specified privacy group at the specifiedblock.
+---
+
+### Parameters
+
+
+`data` - None
+
+32-byte privacy Group ID.
+
+`quantity|tag` - None
+
+Integer representing a block number or one of the string tags latest,
+earliest, or pending, as described in Block Parameter.
+
+### Request
+
+``` java
+curl --location --request POST 'https://etc.getblock.io/mainnet/' 
+--header 'x-api-key: YOUR-API-KEY' 
+--header 'Content-Type: application/json' 
+--data-raw '{"jsonrpc": "2.0",
+"method": "priv_debugGetStateRoot",
+"params": [null, null],
+"id": "getblock.io"}'
+```
+
+###  Response
+
+``` java
+{
+    "result": "null",
+    "id": "getblock.io",
+    "status_code": 405,
+    "message": "Method not allowed"
+}
+```
+
