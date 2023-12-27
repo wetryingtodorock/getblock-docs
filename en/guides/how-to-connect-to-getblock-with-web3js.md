@@ -1,5 +1,5 @@
 ---
-lastUpdated: June 10, 2023
+lastUpdated: October 23, 2023
 ---
 
 # How to connect to GetBlock with Web3.js
@@ -18,9 +18,9 @@ After that you need to create a web3 instance and set a provider.
 // In case you are using Node.js
 const Web3 = require('web3');
 // Setting getblock node as HTTP provider
-const provider = new Web3.providers.HttpProvider("https://eth.getblock.io/mainnet/?api_key=YOUR_API_KEY_HERE");
+const provider = new Web3.providers.HttpProvider("https://go.getblock.io/<ACCESS-TOKEN>/");
 // or as WebSocket provider
-const provider = new Web3.providers.WebsocketProvider("wss://eth.getblock.io/mainnet/?api_key=YOUR_API_KEY_HERE");
+const provider = new Web3.providers.WebsocketProvider("wss://go.getblock.io/<ACCESS-TOKEN>/");
 // Creating web3 instance with given provider
 const web3 = new Web3(provider);
 // Initializing web3.eth method

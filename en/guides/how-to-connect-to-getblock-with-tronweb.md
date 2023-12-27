@@ -1,5 +1,5 @@
 ---
-lastUpdated: June 10, 2023
+lastUpdated: October 23, 2023
 ---
 
 # How to connect to GetBlock with TronWeb
@@ -29,19 +29,17 @@ Which works as a jolly. If you do so, though, the more precise specification has
 
 ```javascript
 const tronWeb = new TronWeb({
-fullHost: "https://trx.getblock.io/mainnet/",
-headers: {"x-api-key": "YOUR_API_KEY_HERE"}
+fullHost: "https://go.getblock.io/<ACCESS-TOKEN>/"
 })
 ```
 
 For retro-compatibility, though, you can continue to use the old approach, where any parameter is passed separately (using the GetBlock node as an example here):
 
 ```javascript
-const fullNode = new TronWeb.providers.HttpProvider("https://trx.getblock.io/mainnet/")
-const solidityNode = new TronWeb.providers.HttpProvider("https://trx.getblock.io/mainnet/")
-const eventServer = new TronWeb.providers.HttpProvider("https://trx.getblock.io/mainnet/")
+const fullNode = new TronWeb.providers.HttpProvider("https://go.getblock.io/<ACCESS-TOKEN>/")
+const solidityNode = new TronWeb.providers.HttpProvider("https://go.getblock.io/<ACCESS-TOKEN>/")
+const eventServer = new TronWeb.providers.HttpProvider("https://go.getblock.io/<ACCESS-TOKEN>/")
 const tronWeb = new TronWeb(fullNode, solidityNode, eventServer)
-tronWeb.setHeader({"x-api-key":"YOUR_API_KEY_HERE"})
 ```
 
 After this you can call any TronWeb method:

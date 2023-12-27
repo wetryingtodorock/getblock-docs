@@ -1,5 +1,5 @@
 ---
-lastUpdated: June 10, 2023
+lastUpdated: October 23, 2023
 ---
 
 # How to generate accounts and send transactions
@@ -21,7 +21,7 @@ const Web3 = require('web3');
 const apikey = process.env['apikey'];
 const network = 'testnet'; // Change to mainnet for production
 const chainId = 97; // 97 is BSC testnet, 95 is BSC mainnet
-const node = 'https://bsc.getblock.io/${network}/?api_key=${apikey}';
+const node = 'https://go.getblock.io/<ACCESS-TOKEN>/';
 const web3 = new Web3(node);
 // Generate new address and private key
 const accountTo = web3.eth.accounts.create();

@@ -1,14 +1,26 @@
 ---
 title: eth:eth_newFilter \[POST\]
-description: Creates a filter object, based on filter options, to notify when thestate changes (logs). To check if the state has changed, calleth_getFilterChanges.A note on specifying topic filtersTopics are order-dependent. A transaction with a log with topics \[A,B\] will be matched by the following topic filters\[\] “anything”\[A\] “A in first position (and anything after)”\[null, B\] “anything in first position AND B in second position (andanything after)”\[A, B\] “A in first position AND B in second position (and anythingafter)”\[\[A, B\], \[A, B\]\] “(A OR B) in first position AND (A OR B) insecond position (and anything after)”
+description: 根據給定的過濾器選項建立過濾器對象，以在狀態變更（日誌）時發出通知。 若要檢查狀態是否已更改，請呼叫 eth_getFilterChanges。
 ---
 
 ### Parameters
 
+具有以下鍵及其值的“過濾器物件”：
 
-`Object` - object
+- `address`：[可選] 合約位址或日誌應源自的位址清單。
+- `fromBlock`: [可選，預設為最新] 十六進位區塊號，或字串最新、最早或待定。
+- `toBlock`: [可選，預設為最新] 十六進位區塊號，或字串最新、最早或待定。
+- `topics`：[可選] 32 位元組 DATA 主題的陣列。 主題與順序相關。
 
-Filter options
+### 指定主題篩選器
+
+主題與順序相關。 具有主題 [A, B] 的日誌的事務將由以下主題過濾器匹配：
+
+- `[]`：任何東西。
+- `[A]`：第一個位置是 A，後面是所有內容。
+- `[null, B]`：第一個位置的任何內容和第二個位置的 B 以及之後的任何內容。
+- `[A, B]`：A 在第一個位置，B 在第二個位置，以及之後的任何內容。
+- `[[A, B], [A, B]]`：（A OR B）在第一個位置並且（A OR B）在第二個位置，以及之後的任何內容。
 
 ### Request
 

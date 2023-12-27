@@ -11,7 +11,7 @@ description: Returns the number of the most recent block.
 ### Request
 
 ``` java
-curl --location --request POST 'https://trx.getblock.io/mainnet/fullnode/jsonrpc' \
+curl --location --request POST 'https://trx.getblock.io/mainnet/jsonrpc' \
 --header 'x-api-key: YOUR-API-KEY' \
 --header 'Content-Type: application/json' \
 --data-raw '{"jsonrpc": "2.0",

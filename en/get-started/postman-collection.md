@@ -1,31 +1,25 @@
 ---
-lastUpdated: June 10, 2023
+lastUpdated: November 3, 2023
 ---
 
 # Postman Collection
 
-This Postman collection contains all the available endpoints of our nodes.
+This comprehensive Postman collection encompasses all the accessible endpoints of our nodes, providing you with a complete toolkit for interacting with our services.
 
-For the demonstration, each request asks for a method that returns the last block.
+Within this collection, you'll find demonstration requests designed to retrieve the last block using various methods. These examples serve as practical starting points for your interactions.
 
-By importing this collection, you can quickly get access to the nodes you are requiring. All you need is to copy the API Key from [your account](https://account.getblock.io/) and paste it to the field: x-api-key.
+By importing this collection into your Postman workspace, you can gain access to the specific nodes you need. The process is straightforward—simply retrieve your unique access token from [your account](https://account.getblock.io/), and insert it into the designated field labeled <your_access_token>. This token will grant you the necessary permissions to explore our node functionalities.
 
 ## Procedure:
 
-1. Just click the following link: [https://documenter.getpostman.com/view/12951625/TWDTNKP9](https://documenter.getpostman.com/view/12951625/TWDTNKP9)
+- To access the collection, click the following link: [https://documenter.getpostman.com/view/28751185/2s9YRDzqcX](https://documenter.getpostman.com/view/28751185/2s9YRDzqcX)
 
-2. Open the collection in Postman. To do so, please press the “Run in Postman” button on the top-right corner.
+- Once the page loads, you'll find a 'Run in Postman' button in the top-right corner. Click this button to open the collection directly in your Postman application;
+
+- In Postman, you can easily select the desired network from the drop-down list on the sidebar;
 
 ![screenshot 1](https://storage.getblock.io/web/docs/get-started/postman-collection/screenshot_1.webp)
 
-3. In Postman, please select “Edit” in the drop-down list.
+- On the tab that opens, please insert the access token retrieved from your account instead of <your_access_token>.
 
-![screenshot 2](https://storage.getblock.io/web/docs/get-started/postman-collection/screenshot_2.webp)
-
-4. Here, please select “Variables” to insert your API KEY instead of x-api-key
-
-![screenshot 3](https://storage.getblock.io/web/docs/get-started/postman-collection/screenshot_3.webp)
-
-5. Finally, press the “Update” button to start 🙂
-
-![screenshot 4](https://storage.getblock.io/web/docs/get-started/postman-collection/screenshot_4.webp)
+With that, you're all set to begin sending requests to GetBlock's nodes. Enjoy seamless interaction with our services!

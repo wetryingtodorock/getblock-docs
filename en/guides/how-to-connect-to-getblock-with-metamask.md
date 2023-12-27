@@ -1,5 +1,5 @@
 ---
-lastUpdated: June 10, 2023
+lastUpdated: October 23, 2023
 ---
 
 # How to connect to GetBlock with MetaMask
@@ -21,12 +21,11 @@ Then click on the Custom RPC button.
 After this fill in the following fields:
 
 - Network name – call it whatever you want; 
-- New RPC URL – https://eth.getblock.io/mainnet/?api_key=YOUR_API_KEY;
+- New RPC URL – ```https://go.getblock.io/<ACCESS_TOKEN>/```;
 - Chain ID – you can get Chain ID with this curl command:
 
 ```shell
-curl --location --request POST 'https://eth.getblock.io' \
---header 'x-api-key: YOUR-API-KEY' \
+curl --location --request POST 'https://go.getblock.io/<ACCESS-TOKEN>/' \
 --header 'Content-Type: application/json' \
 --data-raw '{
   "jsonrpc": "2.0",

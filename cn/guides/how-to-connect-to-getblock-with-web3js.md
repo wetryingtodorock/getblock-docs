@@ -1,5 +1,5 @@
 ---
-lastUpdated: June 10, 2023
+lastUpdated: October 23, 2023
 ---
 
 # 如何使用 Web3.js 連接到 GetBlock
@@ -18,9 +18,9 @@ Web3.js 是一個為與以太坊區塊鏈交互而構建的 JavaScript 庫。 �
 // In case you are using Node.js
 const Web3 = require('web3');
 // Setting getblock node as HTTP provider
-const provider = new Web3.providers.HttpProvider("https://eth.getblock.io/mainnet/?api_key=YOUR_API_KEY_HERE");
+const provider = new Web3.providers.HttpProvider("https://go.getblock.io/<ACCESS-TOKEN>/");
 // or as WebSocket provider
-const provider = new Web3.providers.WebsocketProvider("wss://eth.getblock.io/mainnet/?api_key=YOUR_API_KEY_HERE");
+const provider = new Web3.providers.WebsocketProvider("wss://go.getblock.io/<ACCESS-TOKEN>/");
 // Creating web3 instance with given provider
 const web3 = new Web3(provider);
 // Initializing web3.eth method

@@ -1,5 +1,5 @@
 ---
-lastUpdated: June 10, 2023
+lastUpdated: October 23, 2023
 ---
 
 # 如何使用 MetaMask 連接到 GetBlock
@@ -21,12 +21,11 @@ MetaMask 是一個瀏覽器擴展，可用作以太坊錢包，使您能夠在�
 之後填寫以下字段：
 
 - 網絡名稱 – 隨意命名；
-- 新的 RPC URL – https://eth.getblock.io/mainnet/?api_key=YOUR_API_KEY；
+- 新的 RPC URL – ```https://go.getblock.io/<ACCESS_TOKEN>/```；
 - 鏈 ID – 您可以使用以下curl 命令獲取鏈 ID：
 
 ```shell
-curl --location --request POST 'https://eth.getblock.io' \
---header 'x-api-key: YOUR-API-KEY' \
+curl --location --request POST 'https://go.getblock.io/<ACCESS-TOKEN>/' \
 --header 'Content-Type: application/json' \
 --data-raw '{
   "jsonrpc": "2.0",

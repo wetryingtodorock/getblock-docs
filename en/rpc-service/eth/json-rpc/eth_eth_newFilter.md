@@ -1,14 +1,26 @@
 ---
 title: eth:eth_newFilter \[POST\]
-description: Creates a filter object, based on filter options, to notify when thestate changes (logs). To check if the state has changed, calleth_getFilterChanges.A note on specifying topic filtersTopics are order-dependent. A transaction with a log with topics \[A,B\] will be matched by the following topic filters\[\] “anything”\[A\] “A in first position (and anything after)”\[null, B\] “anything in first position AND B in second position (andanything after)”\[A, B\] “A in first position AND B in second position (and anythingafter)”\[\[A, B\], \[A, B\]\] “(A OR B) in first position AND (A OR B) insecond position (and anything after)”
+description: Creates a filter object based on the given filter options, to notify when the state changes (logs). To check if the state has changed, call eth_getFilterChanges.
 ---
 
 ### Parameters
 
+A `filter object` with the fillowing keys and their values:
 
-`Object` - object
+- `address`: [optional] A contract address or a list of addresses from which logs should originate.
+- `fromBlock`: [optional, default is latest] A hexadecimal block number, or the string latest, earliest or pending.
+- `toBlock`: [optional, default is latest] A hexadecimal block number, or the string latest, earliest or pending.
+- `topics`: [optional] An array of 32 bytes DATA topics. Topics are order-dependent.
 
-Filter options
+### Specifying topic filters
+
+Topics are order-dependent. A transaction with a log with topics [A, B] will be matched by the following topic filters:
+
+- `[]`: Anything.
+- `[A]`: A in the first position, and anything after.
+- `[null, B]`: Anything in first position AND B in second position, and anything after.
+- `[A, B]`: A in the first position AND B in second position, and anything after.
+- `[[A, B], [A, B]]`: (A OR B) in first position AND (A OR B) in second position, and anything after.
 
 ### Request
 

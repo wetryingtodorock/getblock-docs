@@ -1,5 +1,5 @@
 ---
-lastUpdated: June 10, 2023
+lastUpdated: October 23, 2023
 ---
 
 # 如何使用 TronWeb 連接到 GetBlock
@@ -29,19 +29,17 @@ TronWeb是TRON全節點API函數的JavaScript庫，用於部署智能合約、�
 
 ```javascript
 const tronWeb = new TronWeb({
-fullHost: "https://trx.getblock.io/mainnet/",
-headers: {"x-api-key": "YOUR_API_KEY_HERE"}
+fullHost: "https://go.getblock.io/<ACCESS-TOKEN>/"
 })
 ```
 
 不過，為了向後兼容，您可以繼續使用舊方法，其中任何參數都單獨傳遞（此處使用 GetBlock 節點作為示例）：
 
 ```javascript
-const fullNode = new TronWeb.providers.HttpProvider("https://trx.getblock.io/mainnet/")
-const solidityNode = new TronWeb.providers.HttpProvider("https://trx.getblock.io/mainnet/")
-const eventServer = new TronWeb.providers.HttpProvider("https://trx.getblock.io/mainnet/")
+const fullNode = new TronWeb.providers.HttpProvider("https://go.getblock.io/<ACCESS-TOKEN>/")
+const solidityNode = new TronWeb.providers.HttpProvider("https://go.getblock.io/<ACCESS-TOKEN>/")
+const eventServer = new TronWeb.providers.HttpProvider("https://go.getblock.io/<ACCESS-TOKEN>/")
 const tronWeb = new TronWeb(fullNode, solidityNode, eventServer)
-tronWeb.setHeader({"x-api-key":"YOUR_API_KEY_HERE"})
 ```
 
 之後你可以調用任何 TronWeb 方法：

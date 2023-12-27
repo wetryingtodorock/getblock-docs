@@ -1,18 +1,14 @@
 ---
-lastUpdated: June 10, 2023
+lastUpdated: October 24, 2023
 ---
 
 # Authentication with API Key
 
-Once you have created an account and signed in, you will be taken to the GetBlock Dashboard. There you will find an automatically generated first project that has a unique API key – a token required for interacting with the service and making API requests.
+**Note: This authentication method is deprecated and will be disabled on February 1st, 2024.**
 
-![screenshot 1](https://storage.getblock.io/web/docs/get-started/auth-with-api-key/new_screenshot_1.png)
+You can still find your API-key based endpoints in the “Migration Required” section. Choose a project (each has its own API key) and access all previously created endpoints within the project. Please migrate them to access tokens as soon as possible to ensure uninterrupted access to all GetBlock functionality.
 
-You can create several projects if needed. Simply press the “+” button in the “My projects” section and enter a name for a new project.
-
-![screenshot 2](https://storage.getblock.io/web/docs/get-started/auth-with-api-key/new_screenshot_2.png)
-
-To send requests to our blockchain nodes, create an endpoint in the chosen project. Endpoints created in different projects will contain different API keys. Endpoints are created with the API key in the path string. Your requests cannot be processed without the API key, and you will receive a 400 Bad Request error with the response body "Apikey missed."
+All endpoints contain API key in the path string. Your requests cannot be processed without the API key, and you will receive a 400 Bad Request error with the response body "Apikey missed."
 
 You can authenticate with the API key using two methods, both of which work the same way:
 

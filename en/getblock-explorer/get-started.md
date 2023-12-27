@@ -44,9 +44,9 @@ When your application is accessing a certain blockchain (sends tokens, verifies 
 
 Here is the calculation that helps to determine the time during which the whole amount of requests from a particular package will be spent at a maximum capacity set to 60 requests per second (RpS):
 
-- **‘Launch’ pack**: 5 000 000 requests / (60 RpS * 60 sec) = 1 388 min (or 23 hrs 8 min);
-- **‘Build’ pack**: 10 000 000 requests / (60 RpS * 60 sec) = 2 777 min (or 46 hrs 17 min);
-- **‘Scale’ pack**: 50 000 000 requests / (60 RpS * 60 sec) = 13 888 min (or 9 days 15 hrs 28 min).
+- **‘Launch’ pack**: 5,000,000 requests / (200 RpS * 60 sec) = 416 min (or 6 hrs 57 min);
+- **‘Build’ pack**: 10,000,000 requests / (200 RpS * 60 sec) = 833 min (or 13 hrs 53 min);
+- **‘Scale’ pack**: 50,000,000 requests / (200 RpS * 60 sec) = 4166 min (or 69 hrs 27 min).
 
 With the ‘Unlimited’ plan, users are given access to an unlimited number of requests on all dev APIs (now only NEAR available) for 30 days.
 

@@ -1,5 +1,5 @@
 ---
-lastUpdated: June 10, 2023
+lastUpdated: October 23, 2023
 ---
 
 # API 方法（JSON-RPC、REST、WebSockets 等）
@@ -7,8 +7,7 @@ lastUpdated: June 10, 2023
 
 例如，您可以獲取有關以太坊網絡中最後一個區塊的信息，如下所示：
 <pre>
-curl --location --request POST 'https://eth.getblock.io/mainnet/' \
---header 'x-api-key: <YOUR-API-KEY>' \
+curl --location --request POST 'https://go.getblock.io/<ACCESS-TOKEN>/' \
 --header 'Content-Type: application/json' \
 --data-raw '{
   "id": "blockNumber",
