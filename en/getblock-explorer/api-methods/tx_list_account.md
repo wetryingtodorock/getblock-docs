@@ -1,6 +1,7 @@
 ---
+metaTitle: Method (tx_list_account)
 title: tx_list_account \[POST\]
-description: List latest transactions by account. With custom count and offset
+description: Discover how to retrieve a list of transactions for a specific account using the GetBlock Explorer API. Utilize blockchain data to enhance your applications.
 ---
 
 ### Example

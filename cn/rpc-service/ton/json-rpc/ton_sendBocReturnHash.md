@@ -1,5 +1,5 @@
 ---
-title: ton:/sendBocReturnHash \[POST\] {disallowed}
+title: ton:/sendBocReturnHash \[POST\]
 description: Send serialized boc file fully packed and serialized external messageto blockchain. The method returns message hash.
 ---
 

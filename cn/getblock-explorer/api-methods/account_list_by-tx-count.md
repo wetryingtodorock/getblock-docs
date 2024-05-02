@@ -1,6 +1,7 @@
 ---
+metaTitle: Method (account_list_by-tx-count)
 title: account_list_by-tx-count \[POST\]
-description: Show an ordered list of accounts, sorted by total transactions count
+description: Discover how to retrieve a list of accounts based on transaction count using the GetBlock Explorer API. Harness the power of blockchain data for your applications.
 ---
 
 ### Example

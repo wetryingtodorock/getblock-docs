@@ -1,5 +1,7 @@
 ---
 lastUpdated: October 24, 2023
+title: Authentication with API Key
+description: Discover the steps for using the API key in the path string or as part of the x-api-key request header to ensure uninterrupted access to all GetBlock functionality.
 ---
 
 # Authentication with API Key

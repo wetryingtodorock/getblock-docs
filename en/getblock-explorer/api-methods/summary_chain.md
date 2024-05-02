@@ -1,6 +1,7 @@
 ---
+metaTitle: Method (summary_chain)
 title: summary_chain \[GET\]
-description: Returns actual blockchain info
+description: Retrieve summary information about the blockchain using the GetBlock Explorer API. Empower your applications with essential blockchain data effortlessly.
 ---
 
 ### Example

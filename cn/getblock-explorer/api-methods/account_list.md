@@ -1,6 +1,7 @@
 ---
+metaTitle: Method (account_list)
 title: account_list \[POST\]
-description: List latest accounts
+description: Learn how to access and retrieve a list of accounts using the GetBlock Explorer API. Empower your applications with blockchain data easily and efficiently.
 ---
 
 ### Example

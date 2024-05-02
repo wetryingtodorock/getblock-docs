@@ -1,6 +1,7 @@
 ---
+metaTitle: Method (block_list)
 title: node_list \[POST\]
-description: List nodes. Filter by type(active, proposal, idle, kickout, validating)
+description: Access the GetBlock Explorer API to retrieve a list of available nodes. Utilize the power of blockchain infrastructure for your applications effortlessly.
 ---
 
 ### Example

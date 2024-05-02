@@ -1,6 +1,7 @@
 ---
+metaTitle: Method (statistic)
 title: statistic \[POST\]
-description: Returns an array of days filled with chosen statistics data
+description: Learn how to obtain statistical information from the blockchain using the GetBlock Explorer API. Unlock insights into blockchain data for your applications.
 ---
 
 ### Example

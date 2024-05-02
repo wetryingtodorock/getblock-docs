@@ -1,6 +1,7 @@
 ---
+metaTitle: Method (tx_list)
 title: tx_list \[POST\]
-description: List latest transactions. With custom count and offset
+description: Access the GetBlock Explorer API to retrieve a list of transactions. Leverage blockchain data for your applications seamlessly and efficiently.
 ---
 
 ### Example

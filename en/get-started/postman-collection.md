@@ -1,5 +1,7 @@
 ---
 lastUpdated: November 3, 2023
+title: Postman Collection
+description: Explore the Postman Collection on GetBlock and gain access to all the accessible endpoints of their nodes. With this toolkit, you can interact with their services seamlessly and effortlessly.
 ---
 
 # Postman Collection

@@ -1,5 +1,7 @@
 ---
 lastUpdated: October 24, 2023
+title: Authentication with Access Token
+description: Get started with GetBlock's APIs by learning how to authenticate your requests with an access token. This beginner-friendly guide provides all the information you need to get your project up and running.
 ---
 
 # Authentication with Access Token

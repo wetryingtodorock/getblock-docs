@@ -1,5 +1,7 @@
 ---
 lastUpdated: October 23, 2023
+title: How to connect to GetBlock with MetaMask
+description: Learn how to connect MetaMask to GetBlock using our step-by-step guide. Ensure seamless integration and enjoy access to blockchain data to enhance your dApp development.
 ---
 
 # 如何使用 MetaMask 連接到 GetBlock

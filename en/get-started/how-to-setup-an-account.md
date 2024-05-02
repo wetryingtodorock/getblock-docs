@@ -1,5 +1,7 @@
 ---
 lastUpdated: October 24, 2023
+title: How to set up an account
+description: Follow the simple signup process and create unlimited endpoints for your shared or dedicated nodes. Keep track of your requests, balance, and statistics, and get help from GetBlock's team if needed.
 ---
 
 # How to set up an account
@@ -54,31 +56,38 @@ With your GetBlock account, you can create an unlimited number of endpoints for 
 
 Next to each protocol or dedicated node, you will find an associated configuration file. Expand the endpoint to see all the access tokens generated for the protocol.
 
-## Step 5. Get to know request packages for shared nodes
+## Step 5. Get to know Subscriptions for shared nodes
 
-GetBlock offers various blockchain services, including access to nodes of 50+ leading networks.
+GetBlock connects customers’ apps to 50+ blockchain RPC nodes.
 
-Head to the 'Add Requests' tab in the sidebar to find the available pricing plans. The free plan includes a daily limit of 40,000 requests per account. Unused requests cannot be transferred to the next day and are, therefore, lost.
+Every time your software (wallet, dApp, crypto exchange, etc.) interacts with blockchains via GetBlock infrastructure, the interaction is called “request”. For instance, you can request the blockchain to demonstrate block details by hash, to display account balance by its address, and so on.
 
-When your application is accessing a certain blockchain (sends tokens, verifies network states, etc.) it is called a ‘request’. You can choose between the ‘Pay Per Request’ and ‘Unlimited Access’ options.
+In order to start sending requests to GetBlock’s shared nodes, users can choose between “Start” subscriptions (with a limited number of requests) and “Unlimited” ones. Also, Free plan with 40,000 requests in 24 hours are available.
 
-With the pay-per-use option, purchased requests do not burn even if not used in 30 days.
+On paid subscriptions, users can purchase from 5 to 100 mln requests per month. Unused requests can be transferred to the next period once the subscription for this period is activated.
 
-Here is the calculation that helps to determine the time during which the whole amount of requests from the ‘Pay Per Request’ package will be spent at a maximum capacity set to 60 requests per second (RpS):
+![screenshot 12](https://storage.getblock.io/web/docs/get-started/how-to-setup-account/screenshot_12.png)
+
+For instance, if Alice pays for a one-month subscription with 50 mln requests on Oct.10, it expires on Nov.10. If she doesn’t use all of the 50 mln requests, the remaining ones become available once she pays for the next period.
+
+Also, if she decides that 50 mln requests are not enough for her goals, she can purchase additional packages in her dashboard.
+
+Users can pay for subscriptions with fiat via Puddle; recurrent payments are set by default to automate the process of payments. Also, customers can top up accounts with crypto via Coinbase; one-time payments are available. If the balance of the card is insufficient, GetBlock attempts to top up the account one more time in three days before freezing the requests.
+
+Here is the calculation that helps to determine the time during which the whole amount of requests from the “Start” subscription will be spent at a maximum capacity set to 200 requests per second (RpS):
 
 - 5,000,000 requests / (200 RpS * 60 sec) = 416 min (or 6 hrs 57 min);
 - 10,000,000 requests / (200 RpS * 60 sec) = 833 min (or 13 hrs 53 min);
-- 50,000,000 requests / (200 RpS * 60 sec) = 4166 min (or 69 hrs 27 min).
+- 50,000,000 requests / (200 RpS * 60 sec) = 4166 min (or 69 hrs 27 min);
+- 100,000,000 requests / (200 RpS * 60 sec) = 8332 min (or 138 hrs 54 min).
 
-The ‘Unlimited’ plan users are given access to an infinite number of requests on all shared nodes for 1, 6, or 12 months.
+The ‘Unlimited’ plan users are given access to an infinite number of requests with unrivaled bandwidth of 300 RpS on all shared nodes for 1, 3, 6, 9 or 12 months.
 
-![screenshot 5](https://storage.getblock.io/web/docs/get-started/how-to-setup-account/screenshot_5.webp)
+To interact with shared nodes, select the required protocol and network, click ‘Get’, and receive your endpoint address and API token in a matter of a few seconds.
 
-To interact with shared nodes, select the required protocol and network, click ‘Get’, and receive your endpoint link in a matter of a few seconds.
+![screenshot 12](https://storage.getblock.io/web/docs/get-started/how-to-setup-account/screenshot_13.png)
 
 Note that your balance of requests for shared nodes is distributed on all endpoints added under the ‘Shared nodes’ tab.
-
-Additionally, you can increase your custom rate limit for shared nodes using the ‘Boost’ button found on the dashboard. Once approved, the limit will be applied to all shared endpoints. Contact our support team for more information.
 
 ## Step 6. Configure a dedicated node
 

@@ -1,5 +1,7 @@
 ---
 lastUpdated: October 24, 2023
+title: 使用 API 金鑰進行身份驗證
+description: 了解在路徑字串中或作為 x-api-key 請求標頭的一部分使用 API 金鑰的步驟，以確保不間斷地存取所有 GetBlock 功能。
 ---
 
 # 使用 API 金鑰進行身份驗證

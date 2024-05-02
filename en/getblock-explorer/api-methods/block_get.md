@@ -1,6 +1,7 @@
 ---
+metaTitle: Method (block_get)
 title: block_get \[POST\]
-description: Retrieve block by its height or hash. Use either height or hash
+description: Utilize the GetBlock Explorer API to retrieve detailed information about a specific block on the blockchain. Leverage blockchain data for your applications.
 ---
 
 ### Example

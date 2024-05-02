@@ -1,5 +1,7 @@
 ---
 lastUpdated: October 23, 2023
+title: API methods (JSON-RPC, REST, WebSockets, etc.)
+description: Choose the appropriate protocol and follow the provided documentation per node to leverage the full capabilities of the GetBlock APIs.
 ---
 
 # API methods (JSON-RPC, REST, WebSockets, etc.)

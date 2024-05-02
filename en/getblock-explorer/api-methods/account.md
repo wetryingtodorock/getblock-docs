@@ -1,6 +1,7 @@
 ---
+metaTitle: Method (account)
 title: account \[POST\]
-description: Retrieve account by address
+description: Explore the GetBlock Explorer API and its methods for retrieving account information from the blockchain. Unlock the potential of blockchain data effortlessly.
 ---
 
 ### Example

@@ -1,5 +1,5 @@
 ---
-title: ton:/runGetMethod \[POST\] {disallowed}
+title: ton:/runGetMethod \[POST\]
 description: Run get method on smart contract.
 ---
 
@@ -28,20 +28,9 @@ array of elements in format '\[\["num", int\], \["cell", cell_object\],
 ### Request
 
 ``` java
-curl --location --request POST 'https://ton.getblock.io/mainnet/rest//runGetMethod?' 
+curl --location --request POST 'https://ton.getblock.io/mainnet/rest/runGetMethod?' 
 --header 'x-api-key: YOUR-API-KEY' 
 --header 'Content-Type: application/json' 
 --data-raw '{}'
-```
-
-###  Response
-
-``` java
-{
-    "result": "null",
-    "id": "getblock.io",
-    "status_code": 405,
-    "message": "Method not allowed"
-}
 ```
 

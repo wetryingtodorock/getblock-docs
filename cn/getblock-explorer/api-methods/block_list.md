@@ -1,6 +1,7 @@
 ---
+metaTitle: Method (block_list)
 title: block_list \[POST\]
-description: List latest blocks. Use either height or hash
+description: Discover how to retrieve a list of blocks using the GetBlock Explorer API. Harness the power of blockchain data for your applications seamlessly.
 ---
 
 ### Example

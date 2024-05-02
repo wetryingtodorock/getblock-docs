@@ -1,5 +1,7 @@
 ---
 lastUpdated: October 23, 2023
+title: How to use GetBlock configuration files
+description: GetBlock's comprehensive guide on using configuration files will help you effortlessly configure and optimize your GetBlock integration. Streamline your blockchain development process.
 ---
 
 # How to use GetBlock configuration files

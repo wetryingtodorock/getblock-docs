@@ -1,5 +1,5 @@
 ---
-title: ton:/sendBoc \[POST\] {disallowed}
+title: ton:/sendBoc \[POST\]
 description: Send serialized boc file fully packed and serialized external messageto blockchain.
 ---
 

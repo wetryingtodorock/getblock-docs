@@ -1,6 +1,7 @@
 ---
+metaTitle: Method (tx_get)
 title: tx_get \[POST\]
-description: Gets tx by hash
+description: Harness the power of the GetBlock Explorer API to retrieve detailed information about a specific transaction on the blockchain. Unlock blockchain data easily.
 ---
 
 ### Example

@@ -1,6 +1,7 @@
 ---
+metaTitle: Method (summary_markets)
 title: summary_markets \[GET\]
-description: Returns actual market info
+description: Explore the GetBlock Explorer API to retrieve summary information about the blockchain markets. Leverage blockchain data for your applications effortlessly.
 ---
 
 ### Example

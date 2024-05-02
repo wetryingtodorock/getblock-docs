@@ -1,5 +1,7 @@
 ---
 lastUpdated: October 23, 2023
+title: How to connect to GetBlock with TronWeb
+description: Connect TronWeb to GetBlock effortlessly with our comprehensive guide. Access Tron blockchain data, interact with smart contracts, and optimize your Tron dApp development.
 ---
 
 # 如何使用 TronWeb 連接到 GetBlock

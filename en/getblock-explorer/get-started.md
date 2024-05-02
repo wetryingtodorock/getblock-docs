@@ -1,5 +1,7 @@
 ---
 lastUpdated: June 10, 2023
+title: Get started with GetBlock public API
+description: Learn how to set up an account and access developer API with 40,000 daily requests free of charge. Follow the step-by-step guide to make your cryptocurrency applications work effortlessly.
 ---
 
 # Get started with GetBlock public API

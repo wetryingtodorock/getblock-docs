@@ -1,5 +1,7 @@
 ---
 lastUpdated: October 23, 2023
+title: How to generate accounts and send transactions
+description: Learn how to generate accounts and send transactions with GetBlock. Gain insights on account creation, transaction signing, and streamline your blockchain application development.
 ---
 
 # 如何生成賬戶並發送交易
@@ -14,7 +16,7 @@ lastUpdated: October 23, 2023
 
 ## 創建賬戶
 
-首先，我們需要設置一個屬於每個 GetBlock 用戶的 API 密鑰。 整套交互是通過 Web3.js 庫組織的。 在下面的演示中，我們嘗試在世界領先交易所幣安的可編程區塊鏈【幣安智能鏈】(https://getblock.io/nodes/bsc/)中創建賬戶：
+首先，我們需要設置一個屬於每個 GetBlock 用戶的 API 密鑰。 整套交互是通過 Web3.js 庫組織的。 在下面的演示中，我們嘗試在世界領先交易所幣安的可編程區塊鏈 [幣安智能鏈](https://getblock.io/nodes/bsc/) 中創建賬戶：
 
 ```javascript
 const Web3 = require('web3');
@@ -75,4 +77,4 @@ createSignedTx(rawTx).then(sendSignedTx)
 
 就是這樣：您的賬戶一切順利，交易已成功提交！
 
-如果您有興趣運行或分叉此代碼，請不要猶豫再檢查一次：[https://replit.com/@getblock/BSCKeyGenAndSignTx](https://replit.com/@getblock /BSCKeyGenAndSignTx)
+如果您有興趣運行或分叉此代碼，請不要猶豫再檢查一次：[https://replit.com/@getblock/BSCKeyGenAndSignTx](https://replit.com/@getblock/BSCKeyGenAndSignTx)

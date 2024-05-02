@@ -1,5 +1,7 @@
 ---
 lastUpdated: October 23, 2023
+title: How to generate accounts and send transactions
+description: Learn how to generate accounts and send transactions with GetBlock. Gain insights on account creation, transaction signing, and streamline your blockchain application development.
 ---
 
 # How to generate accounts and send transactions

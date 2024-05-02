@@ -1,5 +1,7 @@
 ---
 lastUpdated: June 10, 2023
+title: How to query web3 data on GetBlock using Covalent API
+description: Explore our guide on querying Web3 data on GetBlock using Covalent API. Leverage Covalent's vast data network to access comprehensive blockchain data for your dApp development.
 ---
 
 # 如何使用 Covalent API 查詢 GetBlock 上的 web3 數據

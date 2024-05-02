@@ -1,5 +1,7 @@
 ---
 lastUpdated: October 23, 2023
+title: How to connect to GetBlock with Web3.js
+description: Discover how to seamlessly integrate Web3.js with GetBlock using our detailed guide. Access blockchain data, interact with smart contracts, and enhance your dApp development.
 ---
 
 # How to connect to GetBlock with Web3.js
