@@ -15,7 +15,7 @@ Masterchain seqno to fetch shards of.
 ### Request
 
 ``` java
-curl --location --request GET 'https://ton.getblock.io/mainnet//shards?seqno=30497145' 
+curl --location --request GET 'https://ton.getblock.io/mainnet/shards?seqno=30497145' 
 --header 'x-api-key: YOUR-API-KEY' 
 --header 'Content-Type: application/json'
 ```
