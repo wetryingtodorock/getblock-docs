@@ -1,5 +1,5 @@
 ---
-title: trx:/wallet/broadcasttransaction \[POST\] {disallowed}
+title: trx:/wallet/broadcasttransaction \[POST\]
 description: Broadcast the signed transaction
 ---
 
