@@ -1,5 +1,5 @@
 ---
-title: trx:/wallet/createtransaction \[POST\] {disallowed}
+title: trx:/wallet/createtransaction \[POST\]
 description: Create a TRX transfer transaction. If to_address does not exist, thencreate the account on the blockchain.
 ---
 
