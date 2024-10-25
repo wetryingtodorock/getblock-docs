@@ -1,5 +1,5 @@
 ---
-title: btc:estimatesmartfee \[POST\] {disallowed}
+title: btc:estimatesmartfee \[POST\]
 description: Estimates the approximate fee per kilobyte needed for a transaction tobegin confirmation within conf_target blocks if possible and return thenumber of blocks for which the estimate is valid. Uses virtualtransaction size as defined in BIP 141 (witness data is discounted).
 ---
 
