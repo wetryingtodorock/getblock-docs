@@ -1,6 +1,6 @@
 ---
-title: trx:/wallet/getblockbalance \[POST\] {disallowed}
-description: Get all balance change operations in a block.(Note At present, theinterface data can only be queried through the following official nodes47.241.20.47, 161.117.85.97, 161.117.224.116, 161.117.83.38)
+title: trx:/wallet/getblockbalance  {disallowed} - TRON
+description: Example code for the trx:/wallet/getblockbalance  {disallowed} rest method. Сomplete guide on how to use trx:/wallet/getblockbalance  {disallowed} rest in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

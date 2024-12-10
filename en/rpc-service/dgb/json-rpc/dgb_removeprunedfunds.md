@@ -1,6 +1,6 @@
 ---
-title: dgb:removeprunedfunds \[POST\] {disallowed}
-description: Deletes the specified transaction from the wallet. Meant for use withpruned wallets and as a companion to importprunedfunds. This will affectwallet balances.
+title: dgb:removeprunedfunds  {disallowed} - DigiByte
+description: Example code for the dgb:removeprunedfunds  {disallowed} json-rpc method. Сomplete guide on how to use dgb:removeprunedfunds  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

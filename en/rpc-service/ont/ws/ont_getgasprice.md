@@ -1,6 +1,6 @@
 ---
-title: ont:getgasprice \[WebSocket\]
-description: Fetch gas price.
+title: ont:getgasprice - Ontology
+description: Example code for the ont:getgasprice ws method. Сomplete guide on how to use ont:getgasprice ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

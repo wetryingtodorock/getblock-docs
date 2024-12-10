@@ -1,6 +1,6 @@
 ---
-title: heco:net_listening \[WebSocket\]
-description: Returns true if client is actively listening for network connections.
+title: heco:net_listening - Huobi ECO Chain
+description: Example code for the heco:net_listening ws method. Сomplete guide on how to use heco:net_listening ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

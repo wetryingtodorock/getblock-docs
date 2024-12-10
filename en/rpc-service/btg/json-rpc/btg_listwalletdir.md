@@ -1,6 +1,6 @@
 ---
-title: btg:listwalletdir \[POST\] {disallowed}
-description: Returns a list of wallets in the wallet directory.
+title: btg:listwalletdir  {disallowed} - Bitcoin Gold
+description: Example code for the btg:listwalletdir  {disallowed} json-rpc method. Сomplete guide on how to use btg:listwalletdir  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

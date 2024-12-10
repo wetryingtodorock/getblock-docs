@@ -1,6 +1,6 @@
 ---
-title: avax:eth_getBlockTransactionCountByNumber \[POST\]
-description: Returns the number of transactions in a block matching the given blocknumber.
+title: avax:eth_getBlockTransactionCountByNumber - Avalanche
+description: Example code for the avax:eth_getBlockTransactionCountByNumber json-rpc method. Сomplete guide on how to use avax:eth_getBlockTransactionCountByNumber json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

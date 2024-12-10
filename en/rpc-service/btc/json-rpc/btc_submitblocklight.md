@@ -1,6 +1,6 @@
 ---
-title: btc:submitblocklight \[POST\] {disallowed}
-description: Attempts to submit a new block to network, based on a previous call togetblocktemplatelight.See the getblocktemplatelight spec in the doc folder for fullspecification.
+title: btc:submitblocklight  {disallowed} - Bitcoin
+description: Example code for the btc:submitblocklight  {disallowed} json-rpc method. Сomplete guide on how to use btc:submitblocklight  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

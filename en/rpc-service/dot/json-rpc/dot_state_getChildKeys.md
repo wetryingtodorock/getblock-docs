@@ -1,6 +1,6 @@
 ---
-title: dot:state_getChildKeys \[POST\] {disallowed}
-description: Retrieves the keys with prefix of a specific child storage
+title: dot:state_getChildKeys  {disallowed} - Polkadot
+description: Example code for the dot:state_getChildKeys  {disallowed} json-rpc method. Сomplete guide on how to use dot:state_getChildKeys  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: arbitrum:eth_getBalance \[WebSocket\]
-description: Returns the balance of the account of given address.
+title: arbitrum:eth_getBalance - Arbitrum
+description: Example code for the arbitrum:eth_getBalance ws method. Сomplete guide on how to use arbitrum:eth_getBalance ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

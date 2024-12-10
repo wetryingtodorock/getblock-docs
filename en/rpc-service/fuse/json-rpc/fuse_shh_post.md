@@ -1,6 +1,6 @@
 ---
-title: fuse:shh_post \[POST\] {disallowed}
-description: Sends a whisper message.
+title: fuse:shh_post  {disallowed} - Fuse Network
+description: Example code for the fuse:shh_post  {disallowed} json-rpc method. Сomplete guide on how to use fuse:shh_post  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

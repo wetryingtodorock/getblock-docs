@@ -1,6 +1,6 @@
 ---
-title: xem:/namespace/mosaic/definition/page \[GET\]
-description: Gets the mosaic definitions for a given namespace. The request supportspaging.
+title: xem:/namespace/mosaic/definition/page - NEM
+description: Example code for the xem:/namespace/mosaic/definition/page rest method. Сomplete guide on how to use xem:/namespace/mosaic/definition/page rest in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: xem:/account/mosaic/definition/page \[GET\]
-description: Gets an array of mosaic definition objects for a given account address.The parent parameter is optional. If supplied, only mosaic definitionsfor the given parent namespace are returned. The id parameter isoptional and allows retrieving mosaic definitions in batches of 25mosaic definitions.
+title: xem:/account/mosaic/definition/page - NEM
+description: Example code for the xem:/account/mosaic/definition/page rest method. Сomplete guide on how to use xem:/account/mosaic/definition/page rest in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

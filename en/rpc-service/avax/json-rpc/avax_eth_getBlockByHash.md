@@ -1,6 +1,6 @@
 ---
-title: avax:eth_getBlockByHash \[POST\]
-description: Returns information about a block by hash.
+title: avax:eth_getBlockByHash - Avalanche
+description: Example code for the avax:eth_getBlockByHash json-rpc method. Сomplete guide on how to use avax:eth_getBlockByHash json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

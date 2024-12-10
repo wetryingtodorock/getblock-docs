@@ -1,6 +1,6 @@
 ---
-title: gno:net_listening \[WebSocket\]
-description: Whether the client is actively listening for network connections.
+title: gno:net_listening - Gnosis
+description: Example code for the gno:net_listening ws method. Сomplete guide on how to use gno:net_listening ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

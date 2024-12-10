@@ -1,6 +1,6 @@
 ---
-title: ksm:system_chain \[POST\]
-description: Retrieves the chain.
+title: ksm:system_chain - Kusama
+description: Example code for the ksm:system_chain json-rpc method. Сomplete guide on how to use ksm:system_chain json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

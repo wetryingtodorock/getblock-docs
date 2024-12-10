@@ -1,6 +1,6 @@
 ---
-title: xmr:get_bans \[POST\] {disallowed}
-description: Get list of banned IPs.
+title: xmr:get_bans  {disallowed} - Monero
+description: Example code for the xmr:get_bans  {disallowed} json-rpc method. Сomplete guide on how to use xmr:get_bans  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

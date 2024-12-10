@@ -1,6 +1,6 @@
 ---
-title: btg:importwallet \[POST\] {disallowed}
-description: Imports keys from a wallet dump file (see dumpwallet). Requires a newwallet backup to include imported keys.Note Use “getwalletinfo” to query the scanning progress.
+title: btg:importwallet  {disallowed} - Bitcoin Gold
+description: Example code for the btg:importwallet  {disallowed} json-rpc method. Сomplete guide on how to use btg:importwallet  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: dgb:loadwallet \[POST\] {disallowed}
-description: Loads a wallet from a wallet file or directory.Note that all wallet command-line options used when starting bitcoindwill be applied to the new wallet (eg -rescan, etc).
+title: dgb:loadwallet  {disallowed} - DigiByte
+description: Example code for the dgb:loadwallet  {disallowed} json-rpc method. Сomplete guide on how to use dgb:loadwallet  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

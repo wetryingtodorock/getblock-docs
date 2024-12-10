@@ -1,6 +1,6 @@
 ---
-title: bch:savemempool \[POST\] {disallowed}
-description: Dumps the mempool to disk. It will fail until the previous dump is fullyloaded.
+title: bch:savemempool  {disallowed} - Bitcoin Cash
+description: Example code for the bch:savemempool  {disallowed} json-rpc method. Сomplete guide on how to use bch:savemempool  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

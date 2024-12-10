@@ -1,6 +1,6 @@
 ---
-title: heco:eth_submitHashrate \[POST\] {disallowed}
-description: Submits the mining hashrate.
+title: heco:eth_submitHashrate  {disallowed} - Huobi ECO Chain
+description: Example code for the heco:eth_submitHashrate  {disallowed} json-rpc method. Сomplete guide on how to use heco:eth_submitHashrate  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

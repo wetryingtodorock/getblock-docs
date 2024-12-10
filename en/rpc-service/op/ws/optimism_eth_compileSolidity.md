@@ -1,6 +1,6 @@
 ---
-title: optimism:eth_compileSolidity \[WebSocket\] {disallowed}
-description: Returns compiled solidity code.
+title: optimism:eth_compileSolidity  {disallowed} - Optimism
+description: Example code for the optimism:eth_compileSolidity  {disallowed} ws method. Сomplete guide on how to use optimism:eth_compileSolidity  {disallowed} ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

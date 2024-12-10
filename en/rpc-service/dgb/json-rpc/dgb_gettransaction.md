@@ -1,6 +1,6 @@
 ---
-title: dgb:gettransaction \[POST\] {disallowed}
-description: Get detailed information about in-wallet transaction txid
+title: dgb:gettransaction  {disallowed} - DigiByte
+description: Example code for the dgb:gettransaction  {disallowed} json-rpc method. Сomplete guide on how to use dgb:gettransaction  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

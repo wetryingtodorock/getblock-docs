@@ -1,6 +1,6 @@
 ---
-title: gno:eth_chainId \[WebSocket\]
-description: Returns the chain ID.
+title: gno:eth_chainId - Gnosis
+description: Example code for the gno:eth_chainId ws method. Сomplete guide on how to use gno:eth_chainId ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

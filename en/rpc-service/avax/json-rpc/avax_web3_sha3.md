@@ -1,6 +1,6 @@
 ---
-title: avax:web3_sha3 \[POST\]
-description: Returns Keccak-256 (not the standardized SHA3-256) of the given data.
+title: avax:web3_sha3 - Avalanche
+description: Example code for the avax:web3_sha3 json-rpc method. Сomplete guide on how to use avax:web3_sha3 json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

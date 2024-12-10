@@ -1,6 +1,6 @@
 ---
-title: bsc:net_version \[WebSocket\]
-description: Returns the network ID.
+title: bsc:net_version - Binance Smart Chain
+description: Example code for the bsc:net_version ws method. Сomplete guide on how to use bsc:net_version ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

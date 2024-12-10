@@ -1,6 +1,6 @@
 ---
-title: eth:clique_getSignerMetrics \[POST\] {disallowed}
-description: Provides validator metrics for the specified rangeNumber of blocks from each validator.Block number of the last block proposed by each validator (if anyproposed in the specified range).All validators present in the last block.
+title: eth:clique_getSignerMetrics  {disallowed} - Ethereum
+description: Example code for the eth:clique_getSignerMetrics  {disallowed} json-rpc method. Сomplete guide on how to use eth:clique_getSignerMetrics  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

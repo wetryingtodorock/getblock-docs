@@ -1,6 +1,6 @@
 ---
-title: bch:listunspent \[POST\] {disallowed}
-description: Returns array of unspent transaction outputs with between minconf andmaxconf (inclusive) confirmations.Optionally filter to only include txouts paid to specified addresses.
+title: bch:listunspent  {disallowed} - Bitcoin Cash
+description: Example code for the bch:listunspent  {disallowed} json-rpc method. Сomplete guide on how to use bch:listunspent  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

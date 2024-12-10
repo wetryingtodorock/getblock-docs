@@ -1,6 +1,6 @@
 ---
-title: avax:eth_coinbase \[WebSocket\]
-description: Returns the client coinbase address.
+title: avax:eth_coinbase - Avalanche
+description: Example code for the avax:eth_coinbase ws method. Сomplete guide on how to use avax:eth_coinbase ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

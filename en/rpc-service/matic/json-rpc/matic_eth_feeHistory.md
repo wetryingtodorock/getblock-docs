@@ -1,6 +1,6 @@
 ---
-title: matic:eth_feeHistory \[POST\]
-description: Returns a list of historical gas information.
+title: matic:eth_feeHistory - Polygon
+description: Example code for the matic:eth_feeHistory json-rpc method. Сomplete guide on how to use matic:eth_feeHistory json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: matic:shh_newIdentity \[WebSocket\] {disallowed}
-description: Creates new whisper identity in the client.
+title: matic:shh_newIdentity  {disallowed} - Polygon
+description: Example code for the matic:shh_newIdentity  {disallowed} ws method. Сomplete guide on how to use matic:shh_newIdentity  {disallowed} ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

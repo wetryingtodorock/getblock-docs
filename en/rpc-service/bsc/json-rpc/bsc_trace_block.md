@@ -1,6 +1,6 @@
 ---
-title: bsc:trace_block \[POST\]
-description: Provides transaction processing of type trace for the specified block.
+title: bsc:trace_block - Binance Smart Chain
+description: Example code for the bsc:trace_block json-rpc method. Сomplete guide on how to use bsc:trace_block json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

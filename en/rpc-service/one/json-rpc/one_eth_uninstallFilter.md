@@ -1,6 +1,6 @@
 ---
-title: one:eth_uninstallFilter \[POST\]
-description: Uninstalls a filter with the specified ID. When a filter is no longerrequired, call this method.Filters time out when not requested by eth_getFilterChanges oreth_getFilterLogs for 10 minutes.
+title: one:eth_uninstallFilter - Harmony
+description: Example code for the one:eth_uninstallFilter json-rpc method. Сomplete guide on how to use one:eth_uninstallFilter json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

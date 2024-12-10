@@ -1,6 +1,6 @@
 ---
-title: bsc:txpool_content \[POST\]
-description: Returns a list of pending and queued transactions.
+title: bsc:txpool_content - Binance Smart Chain
+description: Example code for the bsc:txpool_content json-rpc method. Сomplete guide on how to use bsc:txpool_content json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

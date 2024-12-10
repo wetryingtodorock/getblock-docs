@@ -1,6 +1,6 @@
 ---
-title: bsv:getblockstats \[POST\]
-description: Compute per block statistics for a given window. All amounts are insatoshis.It wont work for some heights with pruning.
+title: bsv:getblockstats - Bitcoin SV
+description: Example code for the bsv:getblockstats json-rpc method. Сomplete guide on how to use bsv:getblockstats json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

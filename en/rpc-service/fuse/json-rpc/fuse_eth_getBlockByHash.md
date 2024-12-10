@@ -1,6 +1,6 @@
 ---
-title: fuse:eth_getBlockByHash \[POST\]
-description: Returns information about a block by hash.
+title: fuse:eth_getBlockByHash - Fuse Network
+description: Example code for the fuse:eth_getBlockByHash json-rpc method. Сomplete guide on how to use fuse:eth_getBlockByHash json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

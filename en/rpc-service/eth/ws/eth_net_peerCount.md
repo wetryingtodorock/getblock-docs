@@ -1,6 +1,6 @@
 ---
-title: eth:net_peerCount \[WebSocket\]
-description: Returns the number of peers currently connected to the client.
+title: eth:net_peerCount - Ethereum
+description: Example code for the eth:net_peerCount ws method. Сomplete guide on how to use eth:net_peerCount ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: movr:state_getChildStorageSize \[POST\] {disallowed}
-description: Retrieves the child storage size.
+title: movr:state_getChildStorageSize  {disallowed} - Moonriver
+description: Example code for the movr:state_getChildStorageSize  {disallowed} json-rpc method. Сomplete guide on how to use movr:state_getChildStorageSize  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

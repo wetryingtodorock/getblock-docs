@@ -1,6 +1,6 @@
 ---
-title: optimism:eth_mining \[WebSocket\]
-description: Returns true if client is actively mining new blocks.
+title: optimism:eth_mining - Optimism
+description: Example code for the optimism:eth_mining ws method. Сomplete guide on how to use optimism:eth_mining ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

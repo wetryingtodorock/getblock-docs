@@ -1,6 +1,6 @@
 ---
-title: eth:admin_peers \[WebSocket\] {disallowed}
-description: Returns networking information about connected remote nodes.
+title: eth:admin_peers  {disallowed} - Ethereum
+description: Example code for the eth:admin_peers  {disallowed} ws method. Сomplete guide on how to use eth:admin_peers  {disallowed} ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

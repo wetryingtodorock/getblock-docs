@@ -1,6 +1,6 @@
 ---
-title: theta:thetacli.ListKeys \[POST\] {disallowed}
-description: This API lists the addresses of all the accounts on the local machine(i.e. under ~/.thetacli/keys/encrypted/)
+title: theta:thetacli.ListKeys  {disallowed} - Theta Network
+description: Example code for the theta:thetacli.ListKeys  {disallowed} json-rpc method. Сomplete guide on how to use theta:thetacli.ListKeys  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

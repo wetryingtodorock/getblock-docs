@@ -1,6 +1,6 @@
 ---
-title: doge:sendtoaddress \[POST\] {disallowed}
-description: Sends amount from the server’s available balance to dogecoinaddress.
+title: doge:sendtoaddress  {disallowed} - Dogecoin
+description: Example code for the doge:sendtoaddress  {disallowed} json-rpc method. Сomplete guide on how to use doge:sendtoaddress  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

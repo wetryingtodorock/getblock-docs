@@ -1,6 +1,6 @@
 ---
-title: arbitrum:eth_accounts \[POST\]
-description: Returns a list of addresses owned by client.
+title: arbitrum:eth_accounts - Arbitrum
+description: Example code for the arbitrum:eth_accounts json-rpc method. Сomplete guide on how to use arbitrum:eth_accounts json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

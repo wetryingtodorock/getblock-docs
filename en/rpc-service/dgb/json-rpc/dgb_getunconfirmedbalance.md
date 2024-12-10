@@ -1,6 +1,6 @@
 ---
-title: dgb:getunconfirmedbalance \[POST\] {disallowed}
-description: DEPRECATED Identical to getbalances().mine.untrusted_pending
+title: dgb:getunconfirmedbalance  {disallowed} - DigiByte
+description: Example code for the dgb:getunconfirmedbalance  {disallowed} json-rpc method. Сomplete guide on how to use dgb:getunconfirmedbalance  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

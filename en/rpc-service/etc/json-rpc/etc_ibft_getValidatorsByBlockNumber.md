@@ -1,6 +1,6 @@
 ---
-title: etc:ibft_getValidatorsByBlockNumber \[POST\] {disallowed}
-description: Lists the validators defined in the specified block.
+title: etc:ibft_getValidatorsByBlockNumber  {disallowed} - Ethereum Classic
+description: Example code for the etc:ibft_getValidatorsByBlockNumber  {disallowed} json-rpc method. Сomplete guide on how to use etc:ibft_getValidatorsByBlockNumber  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

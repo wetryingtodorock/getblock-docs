@@ -1,6 +1,6 @@
 ---
-title: bsc:eth_getBlockByNumber \[POST\]
-description: Returns information about a block by block number.
+title: bsc:eth_getBlockByNumber - Binance Smart Chain
+description: Example code for the bsc:eth_getBlockByNumber json-rpc method. Сomplete guide on how to use bsc:eth_getBlockByNumber json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

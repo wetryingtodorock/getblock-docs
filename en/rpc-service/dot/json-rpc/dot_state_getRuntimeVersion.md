@@ -1,6 +1,6 @@
 ---
-title: dot:state_getRuntimeVersion \[POST\]
-description: Get the runtime version.
+title: dot:state_getRuntimeVersion - Polkadot
+description: Example code for the dot:state_getRuntimeVersion json-rpc method. Сomplete guide on how to use dot:state_getRuntimeVersion json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: dash:gobject_list-prepared \[POST\] {disallowed}
-description: returns a list of governance objects prepared by this wallet withgobject prepare sorted by their creation time.
+title: dash:gobject_list-prepared  {disallowed} - Dash
+description: Example code for the dash:gobject_list-prepared  {disallowed} json-rpc method. Сomplete guide on how to use dash:gobject_list-prepared  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

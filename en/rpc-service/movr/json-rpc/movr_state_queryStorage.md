@@ -1,6 +1,6 @@
 ---
-title: movr:state_queryStorage \[POST\] {disallowed}
-description: Query historical storage entries (by key) starting from a start block.
+title: movr:state_queryStorage  {disallowed} - Moonriver
+description: Example code for the movr:state_queryStorage  {disallowed} json-rpc method. Сomplete guide on how to use movr:state_queryStorage  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

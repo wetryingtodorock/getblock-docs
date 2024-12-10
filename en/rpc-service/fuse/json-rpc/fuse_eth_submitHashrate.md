@@ -1,6 +1,6 @@
 ---
-title: fuse:eth_submitHashrate \[POST\] {disallowed}
-description: Submits the mining hashrate.
+title: fuse:eth_submitHashrate  {disallowed} - Fuse Network
+description: Example code for the fuse:eth_submitHashrate  {disallowed} json-rpc method. Сomplete guide on how to use fuse:eth_submitHashrate  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

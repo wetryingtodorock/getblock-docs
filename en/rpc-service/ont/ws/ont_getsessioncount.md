@@ -1,6 +1,6 @@
 ---
-title: ont:getsessioncount \[WebSocket\]
-description: Fetch session count.
+title: ont:getsessioncount - Ontology
+description: Example code for the ont:getsessioncount ws method. Сomplete guide on how to use ont:getsessioncount ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

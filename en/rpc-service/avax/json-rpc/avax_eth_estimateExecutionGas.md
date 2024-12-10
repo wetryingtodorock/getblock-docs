@@ -1,6 +1,6 @@
 ---
-title: avax:eth_estimateExecutionGas \[POST\]
-description: Behaves identically to eth_estimateGas on a standard L1 node. Returnsthe expected execution gas cost of a transaction and does not includeany information about the cost to publish the transaction data to Layer1.
+title: avax:eth_estimateExecutionGas - Avalanche
+description: Example code for the avax:eth_estimateExecutionGas json-rpc method. Сomplete guide on how to use avax:eth_estimateExecutionGas json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

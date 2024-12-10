@@ -1,6 +1,6 @@
 ---
-title: matic:eth_unsubscribe \[POST\]
-description: Cancels specified subscription. Returns true if canceled successfully orfalse otherwise.
+title: matic:eth_unsubscribe - Polygon
+description: Example code for the matic:eth_unsubscribe json-rpc method. Сomplete guide on how to use matic:eth_unsubscribe json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

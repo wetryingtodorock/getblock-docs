@@ -1,6 +1,6 @@
 ---
-title: fuse:eth_getUncleCountByBlockNumber \[POST\]
-description: Returns the number of uncles in a block from a block matching the givenblock number.
+title: fuse:eth_getUncleCountByBlockNumber - Fuse Network
+description: Example code for the fuse:eth_getUncleCountByBlockNumber json-rpc method. Сomplete guide on how to use fuse:eth_getUncleCountByBlockNumber json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

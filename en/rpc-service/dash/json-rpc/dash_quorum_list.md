@@ -1,6 +1,6 @@
 ---
-title: dash:quorum_list \[POST\] {disallowed}
-description: displays a list of on-chain quorums.
+title: dash:quorum_list  {disallowed} - Dash
+description: Example code for the dash:quorum_list  {disallowed} json-rpc method. Сomplete guide on how to use dash:quorum_list  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

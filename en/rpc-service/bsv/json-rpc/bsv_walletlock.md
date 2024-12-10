@@ -1,6 +1,6 @@
 ---
-title: bsv:walletlock \[POST\] {disallowed}
-description: Removes the wallet encryption key from memory, locking the wallet.After calling this method, you will need to call walletpassphrase againbefore being able to call any methods which require the wallet to beunlocked.
+title: bsv:walletlock  {disallowed} - Bitcoin SV
+description: Example code for the bsv:walletlock  {disallowed} json-rpc method. Сomplete guide on how to use bsv:walletlock  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

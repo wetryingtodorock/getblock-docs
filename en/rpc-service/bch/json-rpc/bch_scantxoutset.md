@@ -1,6 +1,6 @@
 ---
-title: bch:scantxoutset \[POST\] {disallowed}
-description: EXPERIMENTAL warning this call may be removed or changed in futurereleases.
+title: bch:scantxoutset  {disallowed} - Bitcoin Cash
+description: Example code for the bch:scantxoutset  {disallowed} json-rpc method. Сomplete guide on how to use bch:scantxoutset  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

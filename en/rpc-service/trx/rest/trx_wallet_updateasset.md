@@ -1,6 +1,6 @@
 ---
-title: trx:/wallet/updateasset \[POST\] {disallowed}
-description: Update basic TRC10 token information.
+title: trx:/wallet/updateasset  {disallowed} - TRON
+description: Example code for the trx:/wallet/updateasset  {disallowed} rest method. Сomplete guide on how to use trx:/wallet/updateasset  {disallowed} rest in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: avax:admin.memoryProfile \[WebSocket\] {disallowed}
-description: Runs and writes a memory profile.
+title: avax:admin.memoryProfile  {disallowed} - Avalanche
+description: Example code for the avax:admin.memoryProfile  {disallowed} ws method. Сomplete guide on how to use avax:admin.memoryProfile  {disallowed} ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

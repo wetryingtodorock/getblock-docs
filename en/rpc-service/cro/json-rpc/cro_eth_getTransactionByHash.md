@@ -1,6 +1,6 @@
 ---
-title: cro:eth_getTransactionByHash \[POST\]
-description: Returns transaction information for the specified transaction hash.
+title: cro:eth_getTransactionByHash - Cronos
+description: Example code for the cro:eth_getTransactionByHash json-rpc method. Сomplete guide on how to use cro:eth_getTransactionByHash json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

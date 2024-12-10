@@ -1,6 +1,6 @@
 ---
-title: bch:combinerawtransaction \[POST\]
-description: Combine multiple partially signed transactions into one transaction.The combined transaction may be another partially signed transaction ora fully signed transaction.
+title: bch:combinerawtransaction - Bitcoin Cash
+description: Example code for the bch:combinerawtransaction json-rpc method. Сomplete guide on how to use bch:combinerawtransaction json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

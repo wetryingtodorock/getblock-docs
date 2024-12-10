@@ -1,6 +1,6 @@
 ---
-title: ftm:net_listening \[POST\]
-description: Whether the client is actively listening for network connections.
+title: ftm:net_listening - Fantom
+description: Example code for the ftm:net_listening json-rpc method. Сomplete guide on how to use ftm:net_listening json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

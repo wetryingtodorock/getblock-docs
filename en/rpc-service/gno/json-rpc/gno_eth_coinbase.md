@@ -1,6 +1,6 @@
 ---
-title: gno:eth_coinbase \[POST\]
-description: Returns the client coinbase address. The coinbase address is the accountto pay mining rewards to.To set a coinbase address, start Besu with the --miner-coinbase optionset to a valid Ethereum account address. You can get the Ethereumaccount address from a client such as MetaMask or Etherscan.
+title: gno:eth_coinbase - Gnosis
+description: Example code for the gno:eth_coinbase json-rpc method. Сomplete guide on how to use gno:eth_coinbase json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

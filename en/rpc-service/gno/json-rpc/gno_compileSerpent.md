@@ -1,6 +1,6 @@
 ---
-title: gno:compileSerpent \[POST\] {disallowed}
-description: Returns compiled serpent code.
+title: gno:compileSerpent  {disallowed} - Gnosis
+description: Example code for the gno:compileSerpent  {disallowed} json-rpc method. Сomplete guide on how to use gno:compileSerpent  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

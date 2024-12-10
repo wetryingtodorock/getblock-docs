@@ -1,6 +1,6 @@
 ---
-title: heco:eth_compileSolidity \[WebSocket\] {disallowed}
-description: Returns compiled solidity code.
+title: heco:eth_compileSolidity  {disallowed} - Huobi ECO Chain
+description: Example code for the heco:eth_compileSolidity  {disallowed} ws method. Сomplete guide on how to use heco:eth_compileSolidity  {disallowed} ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

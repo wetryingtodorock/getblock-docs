@@ -1,6 +1,6 @@
 ---
-title: bch:getrawmempool \[POST\]
-description: Returns all transaction ids in memory pool as a json array of stringtransaction ids.Hint use getmempoolentry to fetch a specific transaction from themempool.
+title: bch:getrawmempool - Bitcoin Cash
+description: Example code for the bch:getrawmempool json-rpc method. Сomplete guide on how to use bch:getrawmempool json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

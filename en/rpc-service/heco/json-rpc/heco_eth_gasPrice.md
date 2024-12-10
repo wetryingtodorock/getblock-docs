@@ -1,6 +1,6 @@
 ---
-title: heco:eth_gasPrice \[POST\]
-description: Returns the current price per gas in wei.
+title: heco:eth_gasPrice - Huobi ECO Chain
+description: Example code for the heco:eth_gasPrice json-rpc method. Сomplete guide on how to use heco:eth_gasPrice json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

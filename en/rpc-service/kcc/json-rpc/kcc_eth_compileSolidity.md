@@ -1,6 +1,6 @@
 ---
-title: kcc:eth_compileSolidity \[POST\] {disallowed}
-description: Returns compiled solidity code.
+title: kcc:eth_compileSolidity  {disallowed} - KuCoin Community Chain
+description: Example code for the kcc:eth_compileSolidity  {disallowed} json-rpc method. Сomplete guide on how to use kcc:eth_compileSolidity  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: zec:getaddressdeltas \[POST\] {disallowed}
-description: Returns all changes for an address.Returns information about all changes to the given transparent addresseswithin the given (inclusive) block height range, default is the fullblockchain.WARNING getaddressdeltas is disabled.
+title: zec:getaddressdeltas  {disallowed} - Zcash
+description: Example code for the zec:getaddressdeltas  {disallowed} json-rpc method. Сomplete guide on how to use zec:getaddressdeltas  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

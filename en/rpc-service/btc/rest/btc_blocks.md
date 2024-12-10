@@ -1,6 +1,6 @@
 ---
-title: btc:blocks \[GET\]
-description: Given a block hash returns a block, in binary, hex-encoded binary or JSON formats. Responds with 404 if the block doesn't exist. The HTTP request and response are both handled entirely in-memory. With the /notxdetails/ option JSON response will only contain the transaction hash instead of the complete transaction details. The option only affects the JSON response.
+title: btc:blocks - Bitcoin
+description: Example code for the btc:blocks rest method. Сomplete guide on how to use btc:blocks rest in GetBlock.io Web3 documentation.
 ---
 
 ### Example

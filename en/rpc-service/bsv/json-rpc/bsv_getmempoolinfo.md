@@ -1,6 +1,6 @@
 ---
-title: bsv:getmempoolinfo \[POST\]
-description: Returns details on the active state of the TX memory pool.
+title: bsv:getmempoolinfo - Bitcoin SV
+description: Example code for the bsv:getmempoolinfo json-rpc method. Сomplete guide on how to use bsv:getmempoolinfo json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

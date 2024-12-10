@@ -1,6 +1,6 @@
 ---
-title: cro:eth_getBalance \[POST\]
-description: Returns the account balance of the specified address.
+title: cro:eth_getBalance - Cronos
+description: Example code for the cro:eth_getBalance json-rpc method. Сomplete guide on how to use cro:eth_getBalance json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

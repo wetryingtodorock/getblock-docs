@@ -1,6 +1,6 @@
 ---
-title: dot:author_insertKey \[POST\] {disallowed}
-description: Insert a key into the keystore.
+title: dot:author_insertKey  {disallowed} - Polkadot
+description: Example code for the dot:author_insertKey  {disallowed} json-rpc method. Сomplete guide on how to use dot:author_insertKey  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

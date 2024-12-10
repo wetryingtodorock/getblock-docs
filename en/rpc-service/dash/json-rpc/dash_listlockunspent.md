@@ -1,6 +1,6 @@
 ---
-title: dash:listlockunspent \[POST\] {disallowed}
-description: Returns a list of temporarily unspendable (locked) outputs.
+title: dash:listlockunspent  {disallowed} - Dash
+description: Example code for the dash:listlockunspent  {disallowed} json-rpc method. Сomplete guide on how to use dash:listlockunspent  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

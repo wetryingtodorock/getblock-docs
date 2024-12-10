@@ -1,6 +1,6 @@
 ---
-title: doge:gettransaction \[POST\]
-description: Get detailed information about transaction.
+title: doge:gettransaction - Dogecoin
+description: Example code for the doge:gettransaction json-rpc method. Сomplete guide on how to use doge:gettransaction json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

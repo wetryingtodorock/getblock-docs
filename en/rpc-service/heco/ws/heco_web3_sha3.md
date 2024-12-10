@@ -1,6 +1,6 @@
 ---
-title: heco:web3_sha3 \[WebSocket\]
-description: Returns Keccak-256 (not the standardized SHA3-256) of the given data.
+title: heco:web3_sha3 - Huobi ECO Chain
+description: Example code for the heco:web3_sha3 ws method. Сomplete guide on how to use heco:web3_sha3 ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

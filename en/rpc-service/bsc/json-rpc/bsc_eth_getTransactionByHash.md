@@ -1,6 +1,6 @@
 ---
-title: bsc:eth_getTransactionByHash \[POST\]
-description: Returns transaction information for the specified transaction hash.
+title: bsc:eth_getTransactionByHash - Binance Smart Chain
+description: Example code for the bsc:eth_getTransactionByHash json-rpc method. Сomplete guide on how to use bsc:eth_getTransactionByHash json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

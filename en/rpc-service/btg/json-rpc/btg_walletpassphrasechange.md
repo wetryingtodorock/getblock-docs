@@ -1,6 +1,6 @@
 ---
-title: btg:walletpassphrasechange \[POST\] {disallowed}
-description: Changes the wallet passphrase from ‘oldpassphrase’ to ‘newpassphrase’.
+title: btg:walletpassphrasechange  {disallowed} - Bitcoin Gold
+description: Example code for the btg:walletpassphrasechange  {disallowed} json-rpc method. Сomplete guide on how to use btg:walletpassphrasechange  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: avax:eth_gasPrice \[WebSocket\]
-description: Returns the current price per gas in wei.
+title: avax:eth_gasPrice - Avalanche
+description: Example code for the avax:eth_gasPrice ws method. Сomplete guide on how to use avax:eth_gasPrice ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

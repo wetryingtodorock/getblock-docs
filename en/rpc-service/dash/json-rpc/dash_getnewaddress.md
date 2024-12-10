@@ -1,6 +1,6 @@
 ---
-title: dash:getnewaddress \[POST\] {disallowed}
-description: Returns a new Dash address for receiving payments. If label isspecified, the address is added to the address book so payments receivedwith the address will be associated with label.
+title: dash:getnewaddress  {disallowed} - Dash
+description: Example code for the dash:getnewaddress  {disallowed} json-rpc method. Сomplete guide on how to use dash:getnewaddress  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

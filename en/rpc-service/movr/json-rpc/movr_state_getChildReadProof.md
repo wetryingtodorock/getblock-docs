@@ -1,6 +1,6 @@
 ---
-title: movr:state_getChildReadProof \[POST\] {disallowed}
-description: Returns proof of storage for child key entries at a specific blockstate.
+title: movr:state_getChildReadProof  {disallowed} - Moonriver
+description: Example code for the movr:state_getChildReadProof  {disallowed} json-rpc method. Сomplete guide on how to use movr:state_getChildReadProof  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

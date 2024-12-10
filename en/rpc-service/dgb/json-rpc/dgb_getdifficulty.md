@@ -1,6 +1,6 @@
 ---
-title: dgb:getdifficulty \[POST\]
-description: Returns the proof-of-work difficulty as a multiple of the minimumdifficulty.
+title: dgb:getdifficulty - DigiByte
+description: Example code for the dgb:getdifficulty json-rpc method. Сomplete guide on how to use dgb:getdifficulty json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

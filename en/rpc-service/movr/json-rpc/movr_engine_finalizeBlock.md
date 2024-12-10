@@ -1,6 +1,6 @@
 ---
-title: movr:engine_finalizeBlock \[POST\] {disallowed}
-description: Instructs the manual-seal authorship task to finalize a block.
+title: movr:engine_finalizeBlock  {disallowed} - Moonriver
+description: Example code for the movr:engine_finalizeBlock  {disallowed} json-rpc method. Сomplete guide on how to use movr:engine_finalizeBlock  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

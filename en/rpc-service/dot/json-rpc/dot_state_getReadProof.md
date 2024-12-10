@@ -1,6 +1,6 @@
 ---
-title: dot:state_getReadProof \[POST\] {disallowed}
-description: Returns proof of storage entries at a specific block state
+title: dot:state_getReadProof  {disallowed} - Polkadot
+description: Example code for the dot:state_getReadProof  {disallowed} json-rpc method. Сomplete guide on how to use dot:state_getReadProof  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

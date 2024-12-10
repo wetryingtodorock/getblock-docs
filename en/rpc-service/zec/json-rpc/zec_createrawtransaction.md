@@ -1,6 +1,6 @@
 ---
-title: zec:createrawtransaction \[POST\]
-description: Create a transaction spending the given inputs and sending to the givenaddresses.Returns hex-encoded raw transaction.Note that the transactions inputs are not signed, and it is not storedin the wallet or transmitted to the network.
+title: zec:createrawtransaction - Zcash
+description: Example code for the zec:createrawtransaction json-rpc method. Сomplete guide on how to use zec:createrawtransaction json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

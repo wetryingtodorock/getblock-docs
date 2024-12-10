@@ -1,6 +1,6 @@
 ---
-title: movr:state_subscribeStorage \[POST\] {disallowed}
-description: Subscribes to storage changes for the provided keys
+title: movr:state_subscribeStorage  {disallowed} - Moonriver
+description: Example code for the movr:state_subscribeStorage  {disallowed} json-rpc method. Сomplete guide on how to use movr:state_subscribeStorage  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

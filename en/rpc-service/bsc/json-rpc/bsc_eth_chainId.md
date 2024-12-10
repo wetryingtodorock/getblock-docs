@@ -1,6 +1,6 @@
 ---
-title: bsc:eth_chainId \[POST\]
-description: Returns the chain ID.
+title: bsc:eth_chainId - Binance Smart Chain
+description: Example code for the bsc:eth_chainId json-rpc method. Сomplete guide on how to use bsc:eth_chainId json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

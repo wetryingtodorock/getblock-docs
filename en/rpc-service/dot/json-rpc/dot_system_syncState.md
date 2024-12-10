@@ -1,6 +1,6 @@
 ---
-title: dot:system_syncState \[POST\]
-description: Returns the state of the syncing of the node.
+title: dot:system_syncState - Polkadot
+description: Example code for the dot:system_syncState json-rpc method. Сomplete guide on how to use dot:system_syncState json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: matic:db_putString \[POST\] {disallowed}
-description: Stores a string in the local database.Note this function is deprecated and will be removed in the future.
+title: matic:db_putString  {disallowed} - Polygon
+description: Example code for the matic:db_putString  {disallowed} json-rpc method. Сomplete guide on how to use matic:db_putString  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

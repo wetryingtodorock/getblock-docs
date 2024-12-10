@@ -1,6 +1,6 @@
 ---
-title: sol:getConfirmedBlocks \[POST\] {disallowed}
-description: DEPRECATED Please use getBlocks instead This method is expected to beremoved in solana-core v2.0Returns a list of confirmed blocks between two slots
+title: sol:getConfirmedBlocks  {disallowed} - Solana
+description: Example code for the sol:getConfirmedBlocks  {disallowed} json-rpc method. Сomplete guide on how to use sol:getConfirmedBlocks  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

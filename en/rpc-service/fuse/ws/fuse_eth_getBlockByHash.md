@@ -1,6 +1,6 @@
 ---
-title: fuse:eth_getBlockByHash \[WebSocket\]
-description: Returns information about a block by hash.
+title: fuse:eth_getBlockByHash - Fuse Network
+description: Example code for the fuse:eth_getBlockByHash ws method. Сomplete guide on how to use fuse:eth_getBlockByHash ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

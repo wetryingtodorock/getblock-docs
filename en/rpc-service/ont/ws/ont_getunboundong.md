@@ -1,6 +1,6 @@
 ---
-title: ont:getunboundong \[WebSocket\]
-description: Fetch amount of unbound ONG for an address.
+title: ont:getunboundong - Ontology
+description: Example code for the ont:getunboundong ws method. Сomplete guide on how to use ont:getunboundong ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

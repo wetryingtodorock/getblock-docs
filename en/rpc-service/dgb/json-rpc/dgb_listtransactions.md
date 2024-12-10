@@ -1,6 +1,6 @@
 ---
-title: dgb:listtransactions \[POST\] {disallowed}
-description: If a label name is provided, this will return only incoming transactionspaying to addresses with the specified label.Returns up to ‘count’ most recent transactions skipping the first ‘from’transactions.
+title: dgb:listtransactions  {disallowed} - DigiByte
+description: Example code for the dgb:listtransactions  {disallowed} json-rpc method. Сomplete guide on how to use dgb:listtransactions  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

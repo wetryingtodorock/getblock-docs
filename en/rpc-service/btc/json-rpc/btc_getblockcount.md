@@ -1,6 +1,6 @@
 ---
-title: btc:getblockcount \[POST\]
-description: Returns the height of the most-work fully-validated chain.The genesis block has height 0.
+title: btc:getblockcount - Bitcoin
+description: Example code for the btc:getblockcount json-rpc method. Сomplete guide on how to use btc:getblockcount json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

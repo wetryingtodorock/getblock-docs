@@ -1,6 +1,6 @@
 ---
-title: rsk:db_getHex \[Websocket\] {disallowed}
-description: Deprecated
+title: rsk:db_getHex  {disallowed} - Rootstock
+description: Example code for the rsk:db_getHex  {disallowed} ws method. Сomplete guide on how to use rsk:db_getHex  {disallowed} ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

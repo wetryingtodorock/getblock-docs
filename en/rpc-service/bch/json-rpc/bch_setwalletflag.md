@@ -1,6 +1,6 @@
 ---
-title: bch:setwalletflag \[POST\] {disallowed}
-description: Change the state of the given wallet flag for a wallet.
+title: bch:setwalletflag  {disallowed} - Bitcoin Cash
+description: Example code for the bch:setwalletflag  {disallowed} json-rpc method. Сomplete guide on how to use bch:setwalletflag  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

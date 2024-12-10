@@ -1,6 +1,6 @@
 ---
-title: movr:eth_estimateGas \[POST\] {disallowed}
-description: Estimate gas needed for execution of given contract.
+title: movr:eth_estimateGas  {disallowed} - Moonriver
+description: Example code for the movr:eth_estimateGas  {disallowed} json-rpc method. Сomplete guide on how to use movr:eth_estimateGas  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: dot:state_subscribeRuntimeVersion \[POST\] {disallowed}
-description: Retrieves the runtime version via subscription
+title: dot:state_subscribeRuntimeVersion  {disallowed} - Polkadot
+description: Example code for the dot:state_subscribeRuntimeVersion  {disallowed} json-rpc method. Сomplete guide on how to use dot:state_subscribeRuntimeVersion  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

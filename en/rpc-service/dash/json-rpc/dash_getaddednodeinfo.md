@@ -1,6 +1,6 @@
 ---
-title: dash:getaddednodeinfo \[POST\] {disallowed}
-description: Returns information about the given added node, or all added nodes(except onetry nodes). Only nodes which have been manually added usingthe addnode RPC will have their information displayed.
+title: dash:getaddednodeinfo  {disallowed} - Dash
+description: Example code for the dash:getaddednodeinfo  {disallowed} json-rpc method. Сomplete guide on how to use dash:getaddednodeinfo  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

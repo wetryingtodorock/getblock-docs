@@ -1,6 +1,6 @@
 ---
-title: bch:getaddressesbylabel \[POST\] {disallowed}
-description: Returns the list of addresses assigned the specified label.
+title: bch:getaddressesbylabel  {disallowed} - Bitcoin Cash
+description: Example code for the bch:getaddressesbylabel  {disallowed} json-rpc method. Сomplete guide on how to use bch:getaddressesbylabel  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

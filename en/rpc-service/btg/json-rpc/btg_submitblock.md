@@ -1,6 +1,6 @@
 ---
-title: btg:submitblock \[POST\] {disallowed}
-description: Attempts to submit new block to network.
+title: btg:submitblock  {disallowed} - Bitcoin Gold
+description: Example code for the btg:submitblock  {disallowed} json-rpc method. Сomplete guide on how to use btg:submitblock  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

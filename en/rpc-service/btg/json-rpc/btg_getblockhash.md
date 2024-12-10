@@ -1,6 +1,6 @@
 ---
-title: btg:getblockhash \[POST\]
-description: Returns hash of block in best-block-chain at height provided.
+title: btg:getblockhash - Bitcoin Gold
+description: Example code for the btg:getblockhash json-rpc method. Сomplete guide on how to use btg:getblockhash json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

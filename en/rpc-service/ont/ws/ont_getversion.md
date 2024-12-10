@@ -1,6 +1,6 @@
 ---
-title: ont:getversion \[WebSocket\]
-description: Fetch version details for a node.
+title: ont:getversion - Ontology
+description: Example code for the ont:getversion ws method. Сomplete guide on how to use ont:getversion ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

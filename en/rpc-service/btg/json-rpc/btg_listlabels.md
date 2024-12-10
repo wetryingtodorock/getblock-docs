@@ -1,6 +1,6 @@
 ---
-title: btg:listlabels \[POST\] {disallowed}
-description: Returns the list of all labels, or labels that are assigned to addresseswith a specific purpose.
+title: btg:listlabels  {disallowed} - Bitcoin Gold
+description: Example code for the btg:listlabels  {disallowed} json-rpc method. Сomplete guide on how to use btg:listlabels  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

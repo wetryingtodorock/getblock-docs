@@ -1,6 +1,6 @@
 ---
-title: optimism:trace_transaction \[POST\]
-description: Provides transaction processing of type trace for the specifiedtransaction.
+title: optimism:trace_transaction - Optimism
+description: Example code for the optimism:trace_transaction json-rpc method. Сomplete guide on how to use optimism:trace_transaction json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

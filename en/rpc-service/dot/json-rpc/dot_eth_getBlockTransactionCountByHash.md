@@ -1,6 +1,6 @@
 ---
-title: dot:eth_getBlockTransactionCountByHash \[POST\] {disallowed}
-description: Returns the number of transactions in a block with given hash.
+title: dot:eth_getBlockTransactionCountByHash  {disallowed} - Polkadot
+description: Example code for the dot:eth_getBlockTransactionCountByHash  {disallowed} json-rpc method. Сomplete guide on how to use dot:eth_getBlockTransactionCountByHash  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

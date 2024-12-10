@@ -1,6 +1,6 @@
 ---
-title: ftm:net_version \[POST\]
-description: Returns the network ID.
+title: ftm:net_version - Fantom
+description: Example code for the ftm:net_version json-rpc method. Сomplete guide on how to use ftm:net_version json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

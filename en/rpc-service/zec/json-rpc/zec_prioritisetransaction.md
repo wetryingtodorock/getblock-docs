@@ -1,6 +1,6 @@
 ---
-title: zec:prioritisetransaction \[POST\] {disallowed}
-description: Accepts the transaction into mined blocks at a higher (or lower)priority
+title: zec:prioritisetransaction  {disallowed} - Zcash
+description: Example code for the zec:prioritisetransaction  {disallowed} json-rpc method. Сomplete guide on how to use zec:prioritisetransaction  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

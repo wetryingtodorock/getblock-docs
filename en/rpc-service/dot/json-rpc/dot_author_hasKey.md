@@ -1,6 +1,6 @@
 ---
-title: dot:author_hasKey \[POST\] {disallowed}
-description: Returns true if the keystore has private keys for the given public keyand key type.
+title: dot:author_hasKey  {disallowed} - Polkadot
+description: Example code for the dot:author_hasKey  {disallowed} json-rpc method. Сomplete guide on how to use dot:author_hasKey  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

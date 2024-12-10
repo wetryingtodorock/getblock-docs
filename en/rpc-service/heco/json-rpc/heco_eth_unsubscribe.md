@@ -1,6 +1,6 @@
 ---
-title: heco:eth_unsubscribe \[POST\]
-description: Cancels specified subscription. Returns true if canceled successfully orfalse otherwise.
+title: heco:eth_unsubscribe - Huobi ECO Chain
+description: Example code for the heco:eth_unsubscribe json-rpc method. Сomplete guide on how to use heco:eth_unsubscribe json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

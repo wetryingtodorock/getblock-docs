@@ -1,6 +1,6 @@
 ---
-title: ksm:mmr_verifyProofStateless \[POST\] {disallowed}
-description: Verify an MMR proof statelessly given an mmr_root
+title: ksm:mmr_verifyProofStateless  {disallowed} - Kusama
+description: Example code for the ksm:mmr_verifyProofStateless  {disallowed} json-rpc method. Сomplete guide on how to use ksm:mmr_verifyProofStateless  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: btc:verifychain \[POST\] {disallowed}
-description: Verifies blockchain database.
+title: btc:verifychain  {disallowed} - Bitcoin
+description: Example code for the btc:verifychain  {disallowed} json-rpc method. Сomplete guide on how to use btc:verifychain  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

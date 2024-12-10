@@ -1,6 +1,6 @@
 ---
-title: avax:avax.importAVAX \[POST\] {disallowed}
-description: DEPRECATED — instead use avax.importFinalize a transfer of AVAX from the X-Chain to the C-Chain.Before this method is called, you must call the X-Chains avm.exportmethod with assetID AVAX to initiate the transfer.
+title: avax:avax.importAVAX  {disallowed} - Avalanche
+description: Example code for the avax:avax.importAVAX  {disallowed} json-rpc method. Сomplete guide on how to use avax:avax.importAVAX  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

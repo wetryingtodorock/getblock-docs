@@ -1,6 +1,6 @@
 ---
-title: bsc:eth_getTransactionByBlockNumberAndIndex \[POST\]
-description: Returns transaction information for the specified block number andtransaction index position.
+title: bsc:eth_getTransactionByBlockNumberAndIndex - Binance Smart Chain
+description: Example code for the bsc:eth_getTransactionByBlockNumberAndIndex json-rpc method. Сomplete guide on how to use bsc:eth_getTransactionByBlockNumberAndIndex json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

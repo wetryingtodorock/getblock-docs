@@ -1,6 +1,6 @@
 ---
-title: etc:debug_storageRangeAt \[POST\] {disallowed}
-description: Remix uses debug_storageRangeAt to implement debugging. Use the Debuggertab in Remix instead of calling debug_storageRangeAt directly.Returns the contract storage for the specified range.
+title: etc:debug_storageRangeAt  {disallowed} - Ethereum Classic
+description: Example code for the etc:debug_storageRangeAt  {disallowed} json-rpc method. Сomplete guide on how to use etc:debug_storageRangeAt  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

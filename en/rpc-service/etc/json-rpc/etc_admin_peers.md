@@ -1,6 +1,6 @@
 ---
-title: etc:admin_peers \[POST\] {disallowed}
-description: Returns networking information about connected remote nodes.
+title: etc:admin_peers  {disallowed} - Ethereum Classic
+description: Example code for the etc:admin_peers  {disallowed} json-rpc method. Сomplete guide on how to use etc:admin_peers  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

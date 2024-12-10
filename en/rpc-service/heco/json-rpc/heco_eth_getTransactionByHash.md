@@ -1,6 +1,6 @@
 ---
-title: heco:eth_getTransactionByHash \[POST\]
-description: Returns the information about a transaction requested by transactionhash.
+title: heco:eth_getTransactionByHash - Huobi ECO Chain
+description: Example code for the heco:eth_getTransactionByHash json-rpc method. Сomplete guide on how to use heco:eth_getTransactionByHash json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

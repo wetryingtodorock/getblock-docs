@@ -1,6 +1,6 @@
 ---
-title: btc:getconnectioncount \[POST\] {disallowed}
-description: Returns the number of connections to other nodes.
+title: btc:getconnectioncount  {disallowed} - Bitcoin
+description: Example code for the btc:getconnectioncount  {disallowed} json-rpc method. Сomplete guide on how to use btc:getconnectioncount  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

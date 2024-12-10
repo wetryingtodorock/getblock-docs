@@ -1,6 +1,6 @@
 ---
-title: optimism:eth_sendTransaction \[POST\] {disallowed}
-description: Not supported by Optimism.Creates new message call transaction or a contract creation, if the datafield contains code.
+title: optimism:eth_sendTransaction  {disallowed} - Optimism
+description: Example code for the optimism:eth_sendTransaction  {disallowed} json-rpc method. Сomplete guide on how to use optimism:eth_sendTransaction  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

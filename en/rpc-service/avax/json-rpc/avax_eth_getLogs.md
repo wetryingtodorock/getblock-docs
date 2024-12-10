@@ -1,6 +1,6 @@
 ---
-title: avax:eth_getLogs \[POST\]
-description: Returns an array of all logs matching a given filter object.
+title: avax:eth_getLogs - Avalanche
+description: Example code for the avax:eth_getLogs json-rpc method. Сomplete guide on how to use avax:eth_getLogs json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

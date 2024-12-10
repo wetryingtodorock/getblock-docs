@@ -1,6 +1,6 @@
 ---
-title: dot:eth_hashrate \[POST\] {disallowed}
-description: Returns the number of hashes per second that the node is mining with.
+title: dot:eth_hashrate  {disallowed} - Polkadot
+description: Example code for the dot:eth_hashrate  {disallowed} json-rpc method. Сomplete guide on how to use dot:eth_hashrate  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

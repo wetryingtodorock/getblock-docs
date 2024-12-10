@@ -1,6 +1,6 @@
 ---
-title: avax:eth_getBalance \[POST\]
-description: Returns the balance of the account of given address.
+title: avax:eth_getBalance - Avalanche
+description: Example code for the avax:eth_getBalance json-rpc method. Сomplete guide on how to use avax:eth_getBalance json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

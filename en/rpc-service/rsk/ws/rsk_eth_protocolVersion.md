@@ -1,6 +1,6 @@
 ---
-title: rsk:eth_protocolVersion \[WebSocket\]
-description: Returns the current ethereum protocol version.
+title: rsk:eth_protocolVersion - Rootstock
+description: Example code for the rsk:eth_protocolVersion ws method. Сomplete guide on how to use rsk:eth_protocolVersion ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: btg:sendtoaddress \[POST\] {disallowed}
-description: Send an amount to a given address.Requires wallet passphrase to be set with walletpassphrase call ifwallet is encrypted.
+title: btg:sendtoaddress  {disallowed} - Bitcoin Gold
+description: Example code for the btg:sendtoaddress  {disallowed} json-rpc method. Сomplete guide on how to use btg:sendtoaddress  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

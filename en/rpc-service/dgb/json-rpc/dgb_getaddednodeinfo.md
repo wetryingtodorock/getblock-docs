@@ -1,6 +1,6 @@
 ---
-title: dgb:getaddednodeinfo \[POST\] {disallowed}
-description: Returns information about the given added node, or all added nodes (notethat onetry addnodes are not listed here)
+title: dgb:getaddednodeinfo  {disallowed} - DigiByte
+description: Example code for the dgb:getaddednodeinfo  {disallowed} json-rpc method. Сomplete guide on how to use dgb:getaddednodeinfo  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

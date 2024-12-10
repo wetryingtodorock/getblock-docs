@@ -1,6 +1,6 @@
 ---
-title: zec:z_shieldcoinbase \[POST\] {disallowed}
-description: Shield transparent coinbase funds by sending to a shielded zaddr. Thisis an asynchronous operation and utxos selected for shielding will belocked. If there is an error, they are unlocked. The RPC call\`listlockunspent\` can be used to return a list of locked utxos. Thenumber of coinbase utxos selected for shielding can be limited by thecaller. Any limit is constrained by the consensus rule defining amaximum transaction size of 100000 bytes before Sapling, and 2000000bytes once Sapling activates.
+title: zec:z_shieldcoinbase  {disallowed} - Zcash
+description: Example code for the zec:z_shieldcoinbase  {disallowed} json-rpc method. Сomplete guide on how to use zec:z_shieldcoinbase  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

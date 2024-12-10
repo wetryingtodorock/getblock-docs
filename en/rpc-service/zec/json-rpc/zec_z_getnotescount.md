@@ -1,6 +1,6 @@
 ---
-title: zec:z_getnotescount \[POST\] {disallowed}
-description: Returns the number of sprout and sapling notes available in the wallet.
+title: zec:z_getnotescount  {disallowed} - Zcash
+description: Example code for the zec:z_getnotescount  {disallowed} json-rpc method. Сomplete guide on how to use zec:z_getnotescount  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

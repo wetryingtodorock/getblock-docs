@@ -1,6 +1,6 @@
 ---
-title: matic:eth_getCompilers \[WebSocket\] {disallowed}
-description: For security reasons, we’ve decided not to include compilers in node.
+title: matic:eth_getCompilers  {disallowed} - Polygon
+description: Example code for the matic:eth_getCompilers  {disallowed} ws method. Сomplete guide on how to use matic:eth_getCompilers  {disallowed} ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

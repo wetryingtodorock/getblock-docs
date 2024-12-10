@@ -1,6 +1,6 @@
 ---
-title: dot:chain_subscribeFinalizedHeads \[POST\] {disallowed}
-description: Retrieves the best finalized header via subscription.
+title: dot:chain_subscribeFinalizedHeads  {disallowed} - Polkadot
+description: Example code for the dot:chain_subscribeFinalizedHeads  {disallowed} json-rpc method. Сomplete guide on how to use dot:chain_subscribeFinalizedHeads  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

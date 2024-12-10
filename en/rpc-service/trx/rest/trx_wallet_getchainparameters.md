@@ -1,6 +1,6 @@
 ---
-title: trx:/wallet/getchainparameters \[GET\]
-description: All parameters that the blockchain committee can set
+title: trx:/wallet/getchainparameters - TRON
+description: Example code for the trx:/wallet/getchainparameters rest method. Сomplete guide on how to use trx:/wallet/getchainparameters rest in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

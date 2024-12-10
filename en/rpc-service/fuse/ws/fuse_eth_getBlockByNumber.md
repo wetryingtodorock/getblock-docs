@@ -1,6 +1,6 @@
 ---
-title: fuse:eth_getBlockByNumber \[WebSocket\]
-description: Returns information about a block by block number.
+title: fuse:eth_getBlockByNumber - Fuse Network
+description: Example code for the fuse:eth_getBlockByNumber ws method. Сomplete guide on how to use fuse:eth_getBlockByNumber ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

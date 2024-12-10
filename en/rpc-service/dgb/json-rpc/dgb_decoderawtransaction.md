@@ -1,6 +1,6 @@
 ---
-title: dgb:decoderawtransaction \[POST\]
-description: Return a JSON object representing the serialized, hex-encodedtransaction.
+title: dgb:decoderawtransaction - DigiByte
+description: Example code for the dgb:decoderawtransaction json-rpc method. Сomplete guide on how to use dgb:decoderawtransaction json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

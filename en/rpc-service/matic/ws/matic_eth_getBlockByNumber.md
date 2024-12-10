@@ -1,6 +1,6 @@
 ---
-title: matic:eth_getBlockByNumber \[WebSocket\]
-description: Returns information about a block by block number.
+title: matic:eth_getBlockByNumber - Polygon
+description: Example code for the matic:eth_getBlockByNumber ws method. Сomplete guide on how to use matic:eth_getBlockByNumber ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

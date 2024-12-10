@@ -1,6 +1,6 @@
 ---
-title: bsc:net_listening \[POST\]
-description: Whether the client is actively listening for network connections.
+title: bsc:net_listening - Binance Smart Chain
+description: Example code for the bsc:net_listening json-rpc method. Сomplete guide on how to use bsc:net_listening json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

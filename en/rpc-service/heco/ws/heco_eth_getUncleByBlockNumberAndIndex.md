@@ -1,6 +1,6 @@
 ---
-title: heco:eth_getUncleByBlockNumberAndIndex \[WebSocket\]
-description: Returns information about a uncle of a block by number and uncle indexposition.
+title: heco:eth_getUncleByBlockNumberAndIndex - Huobi ECO Chain
+description: Example code for the heco:eth_getUncleByBlockNumberAndIndex ws method. Сomplete guide on how to use heco:eth_getUncleByBlockNumberAndIndex ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

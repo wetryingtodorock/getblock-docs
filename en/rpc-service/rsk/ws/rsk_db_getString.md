@@ -1,6 +1,6 @@
 ---
-title: rsk:db_getString \[Websocket\] {disallowed}
-description: Deprecated
+title: rsk:db_getString  {disallowed} - Rootstock
+description: Example code for the rsk:db_getString  {disallowed} ws method. Сomplete guide on how to use rsk:db_getString  {disallowed} ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

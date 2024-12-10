@@ -1,6 +1,6 @@
 ---
-title: arbitrum:eth_hashrate \[POST\] {disallowed}
-description: Returns the number of hashes per second that the node is mining with.
+title: arbitrum:eth_hashrate  {disallowed} - Arbitrum
+description: Example code for the arbitrum:eth_hashrate  {disallowed} json-rpc method. Сomplete guide on how to use arbitrum:eth_hashrate  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

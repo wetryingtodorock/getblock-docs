@@ -1,6 +1,6 @@
 ---
-title: btg:prioritisetransaction \[POST\] {disallowed}
-description: Accepts the transaction into mined blocks at a higher (or lower)priority
+title: btg:prioritisetransaction  {disallowed} - Bitcoin Gold
+description: Example code for the btg:prioritisetransaction  {disallowed} json-rpc method. Сomplete guide on how to use btg:prioritisetransaction  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: dgb:gettxout \[POST\]
-description: Returns details about an unspent transaction output.
+title: dgb:gettxout - DigiByte
+description: Example code for the dgb:gettxout json-rpc method. Сomplete guide on how to use dgb:gettxout json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: xem:/node/active-peers/max-chain-height \[GET\]
-description: Requests the chain height from every node in the active node list andreturns the maximum height seen.
+title: xem:/node/active-peers/max-chain-height - NEM
+description: Example code for the xem:/node/active-peers/max-chain-height rest method. Сomplete guide on how to use xem:/node/active-peers/max-chain-height rest in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

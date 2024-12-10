@@ -1,6 +1,6 @@
 ---
-title: bsv:rescanblockchain \[POST\] {disallowed}
-description: Rescan the local blockchain for wallet related transactions.Note Use “getwalletinfo” to query the scanning progress.
+title: bsv:rescanblockchain  {disallowed} - Bitcoin SV
+description: Example code for the bsv:rescanblockchain  {disallowed} json-rpc method. Сomplete guide on how to use bsv:rescanblockchain  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: btg:getaddressinfo \[POST\] {disallowed}
-description: Return information about the given bitcoin address.Some of the information will only be present if the address is in theactive wallet.
+title: btg:getaddressinfo  {disallowed} - Bitcoin Gold
+description: Example code for the btg:getaddressinfo  {disallowed} json-rpc method. Сomplete guide on how to use btg:getaddressinfo  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

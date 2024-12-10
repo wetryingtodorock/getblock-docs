@@ -1,6 +1,6 @@
 ---
-title: ftm:eth_submitWork \[POST\] {disallowed}
-description: Submits a Proof of Work (Ethash) solution.Used by mining software such as Ethminer.
+title: ftm:eth_submitWork  {disallowed} - Fantom
+description: Example code for the ftm:eth_submitWork  {disallowed} json-rpc method. Сomplete guide on how to use ftm:eth_submitWork  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

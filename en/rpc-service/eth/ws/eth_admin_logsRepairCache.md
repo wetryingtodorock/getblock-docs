@@ -1,6 +1,6 @@
 ---
-title: eth:admin_logsRepairCache \[WebSocket\] {disallowed}
-description: Repairs cached logs by fixing all segments starting with the specifiedblock number.
+title: eth:admin_logsRepairCache  {disallowed} - Ethereum
+description: Example code for the eth:admin_logsRepairCache  {disallowed} ws method. Сomplete guide on how to use eth:admin_logsRepairCache  {disallowed} ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: optimism:eth_getTransactionReceipt \[POST\]
-description: Returns the receipt of a transaction by transaction hash.Note That the receipt is not available for pending transactions.
+title: optimism:eth_getTransactionReceipt - Optimism
+description: Example code for the optimism:eth_getTransactionReceipt json-rpc method. Сomplete guide on how to use optimism:eth_getTransactionReceipt json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: eth:eth_feeHistory \[POST\]
-description: Returns a list of historical gas information.
+title: eth:eth_feeHistory - Ethereum
+description: Example code for the eth:eth_feeHistory json-rpc method. Сomplete guide on how to use eth:eth_feeHistory json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

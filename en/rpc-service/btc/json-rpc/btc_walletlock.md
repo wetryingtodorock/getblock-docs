@@ -1,6 +1,6 @@
 ---
-title: btc:walletlock \[POST\] {disallowed}
-description: Removes the wallet encryption key from memory, locking the wallet.After calling this method, you will need to call walletpassphrase againbefore being able to call any methods which require the wallet to beunlocked.
+title: btc:walletlock  {disallowed} - Bitcoin
+description: Example code for the btc:walletlock  {disallowed} json-rpc method. Сomplete guide on how to use btc:walletlock  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

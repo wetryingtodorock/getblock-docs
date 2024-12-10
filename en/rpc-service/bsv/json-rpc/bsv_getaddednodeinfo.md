@@ -1,6 +1,6 @@
 ---
-title: bsv:getaddednodeinfo \[POST\] {disallowed}
-description: Returns information about the given added node, or all added nodes (notethat onetry addnodes are not listed here)
+title: bsv:getaddednodeinfo  {disallowed} - Bitcoin SV
+description: Example code for the bsv:getaddednodeinfo  {disallowed} json-rpc method. Сomplete guide on how to use bsv:getaddednodeinfo  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

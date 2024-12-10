@@ -1,6 +1,6 @@
 ---
-title: zec:listunspent \[POST\] {disallowed}
-description: Returns array of unspent transaction outputs with between minconf andmaxconf (inclusive) confirmations.Optionally filter to only include txouts paid to specified addresses.Results are an array of Objects, each of which has txid, vout,scriptPubKey, amount, confirmations
+title: zec:listunspent  {disallowed} - Zcash
+description: Example code for the zec:listunspent  {disallowed} json-rpc method. Сomplete guide on how to use zec:listunspent  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

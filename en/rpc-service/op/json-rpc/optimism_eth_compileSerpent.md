@@ -1,6 +1,6 @@
 ---
-title: optimism:eth_compileSerpent \[POST\] {disallowed}
-description: Returns compiled serpent code.
+title: optimism:eth_compileSerpent  {disallowed} - Optimism
+description: Example code for the optimism:eth_compileSerpent  {disallowed} json-rpc method. Сomplete guide on how to use optimism:eth_compileSerpent  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: rsk:eth_pendingTransactions \[WebSocket\]
-description: Returns the pending transactions list.
+title: rsk:eth_pendingTransactions - Rootstock
+description: Example code for the rsk:eth_pendingTransactions ws method. Сomplete guide on how to use rsk:eth_pendingTransactions ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

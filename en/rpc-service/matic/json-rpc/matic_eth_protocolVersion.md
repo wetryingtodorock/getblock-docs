@@ -1,6 +1,6 @@
 ---
-title: matic:eth_protocolVersion \[POST\]
-description: Returns the current ethereum protocol version.
+title: matic:eth_protocolVersion - Polygon
+description: Example code for the matic:eth_protocolVersion json-rpc method. Сomplete guide on how to use matic:eth_protocolVersion json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

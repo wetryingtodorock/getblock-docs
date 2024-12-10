@@ -1,6 +1,6 @@
 ---
-title: dot:state_subscribeStorage \[POST\] {disallowed}
-description: Subscribes to storage changes for the provided keys
+title: dot:state_subscribeStorage  {disallowed} - Polkadot
+description: Example code for the dot:state_subscribeStorage  {disallowed} json-rpc method. Сomplete guide on how to use dot:state_subscribeStorage  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

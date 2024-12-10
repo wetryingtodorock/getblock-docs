@@ -1,6 +1,6 @@
 ---
-title: etc:trace_block \[POST\]
-description: Provides transaction processing of type trace for the specified block.
+title: etc:trace_block - Ethereum Classic
+description: Example code for the etc:trace_block json-rpc method. Сomplete guide on how to use etc:trace_block json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

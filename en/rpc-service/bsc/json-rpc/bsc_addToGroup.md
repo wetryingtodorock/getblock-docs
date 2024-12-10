@@ -1,7 +1,6 @@
 ---
-title: bsc:addToGroup \[POST\] {disallowed}
-description: 
----
+title: bsc:addToGroup  {disallowed} - Binance Smart Chain
+description: Example code for the bsc:addToGroup  {disallowed} json-rpc method. Сomplete guide on how to use bsc:addToGroup  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 
 ### Parameters
 

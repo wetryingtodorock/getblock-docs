@@ -1,6 +1,6 @@
 ---
-title: avax:eth_accounts \[POST\]
-description: Returns a list of addresses owned by client.
+title: avax:eth_accounts - Avalanche
+description: Example code for the avax:eth_accounts json-rpc method. Сomplete guide on how to use avax:eth_accounts json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

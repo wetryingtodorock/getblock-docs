@@ -1,6 +1,6 @@
 ---
-title: bch:getblockcount \[POST\]
-description: Returns the height of the most-work fully-validated chain.The genesis block has height 0.
+title: bch:getblockcount - Bitcoin Cash
+description: Example code for the bch:getblockcount json-rpc method. Сomplete guide on how to use bch:getblockcount json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

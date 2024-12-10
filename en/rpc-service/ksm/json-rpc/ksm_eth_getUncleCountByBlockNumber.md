@@ -1,6 +1,6 @@
 ---
-title: ksm:eth_getUncleCountByBlockNumber \[POST\] {disallowed}
-description: Returns the number of uncles in a block with given block number.
+title: ksm:eth_getUncleCountByBlockNumber  {disallowed} - Kusama
+description: Example code for the ksm:eth_getUncleCountByBlockNumber  {disallowed} json-rpc method. Сomplete guide on how to use ksm:eth_getUncleCountByBlockNumber  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: trx:eth_getBalance \[POST\]
-description: Returns the balance of the account of the given address.
+title: trx:eth_getBalance - TRON
+description: Example code for the trx:eth_getBalance json-rpc method. Сomplete guide on how to use trx:eth_getBalance json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

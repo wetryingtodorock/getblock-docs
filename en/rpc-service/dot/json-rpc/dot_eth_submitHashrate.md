@@ -1,6 +1,6 @@
 ---
-title: dot:eth_submitHashrate \[POST\] {disallowed}
-description: Used for submitting mining hashrate.
+title: dot:eth_submitHashrate  {disallowed} - Polkadot
+description: Example code for the dot:eth_submitHashrate  {disallowed} json-rpc method. Сomplete guide on how to use dot:eth_submitHashrate  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

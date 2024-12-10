@@ -1,6 +1,6 @@
 ---
-title: arbitrum:shh_newGroup \[POST\] {disallowed}
-description: Creates new group
+title: arbitrum:shh_newGroup  {disallowed} - Arbitrum
+description: Example code for the arbitrum:shh_newGroup  {disallowed} json-rpc method. Сomplete guide on how to use arbitrum:shh_newGroup  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

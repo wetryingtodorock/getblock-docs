@@ -1,6 +1,6 @@
 ---
-title: eth:eth_getStorageAt \[WebSocket\]
-description: Returns the value of a storage position at a specified address.
+title: eth:eth_getStorageAt - Ethereum
+description: Example code for the eth:eth_getStorageAt ws method. Сomplete guide on how to use eth:eth_getStorageAt ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

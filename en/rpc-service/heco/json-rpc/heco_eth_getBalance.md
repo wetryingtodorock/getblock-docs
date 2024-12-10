@@ -1,6 +1,6 @@
 ---
-title: heco:eth_getBalance \[POST\]
-description: Returns the balance of the account of given address.
+title: heco:eth_getBalance - Huobi ECO Chain
+description: Example code for the heco:eth_getBalance json-rpc method. Сomplete guide on how to use heco:eth_getBalance json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

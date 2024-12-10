@@ -1,6 +1,6 @@
 ---
-title: arbitrum:eth_subscribe \[WebSocket\]
-description: Subscribes to a specified event type, optionally restricted to one ormany objects. This method is available via websocket only.
+title: arbitrum:eth_subscribe - Arbitrum
+description: Example code for the arbitrum:eth_subscribe ws method. Сomplete guide on how to use arbitrum:eth_subscribe ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

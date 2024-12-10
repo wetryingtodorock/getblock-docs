@@ -1,6 +1,6 @@
 ---
-title: ont:getblocktxsbyheight \[POST\]
-description: Fetches transaction hashes of all the transactions in the block at agiven height.
+title: ont:getblocktxsbyheight - Ontology
+description: Example code for the ont:getblocktxsbyheight json-rpc method. Сomplete guide on how to use ont:getblocktxsbyheight json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

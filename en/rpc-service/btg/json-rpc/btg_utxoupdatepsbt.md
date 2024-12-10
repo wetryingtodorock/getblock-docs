@@ -1,6 +1,6 @@
 ---
-title: btg:utxoupdatepsbt \[POST\]
-description: Updates all segwit inputs and outputs in a PSBT with data from outputdescriptors, the UTXO set or the mempool.
+title: btg:utxoupdatepsbt - Bitcoin Gold
+description: Example code for the btg:utxoupdatepsbt json-rpc method. Сomplete guide on how to use btg:utxoupdatepsbt json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

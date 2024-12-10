@@ -1,6 +1,6 @@
 ---
-title: matic:shh_uninstallFilter \[WebSocket\] {disallowed}
-description: Uninstalls a filter with given id. Should always be called when watch isno longer needed.Additonally Filters timeout when they aren’t requested withshh_getFilterChanges for a period of time.
+title: matic:shh_uninstallFilter  {disallowed} - Polygon
+description: Example code for the matic:shh_uninstallFilter  {disallowed} ws method. Сomplete guide on how to use matic:shh_uninstallFilter  {disallowed} ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

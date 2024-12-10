@@ -1,6 +1,6 @@
 ---
-title: fuse:eth_estimateGas \[WebSocket\]
-description: Generates and returns an estimate of how much gas is necessary to allowthe transaction to complete. The transaction will not be added to theblockchain. Note that the estimate may be significantly more than theamount of gas actually used by the transaction, for a variety of reasonsincluding EVM mechanics and node performance.
+title: fuse:eth_estimateGas - Fuse Network
+description: Example code for the fuse:eth_estimateGas ws method. Сomplete guide on how to use fuse:eth_estimateGas ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

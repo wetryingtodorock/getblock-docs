@@ -1,6 +1,6 @@
 ---
-title: dgb:gettxoutsetinfo \[POST\] {disallowed}
-description: Returns statistics about the unspent transaction output set.Note this call may take some time.
+title: dgb:gettxoutsetinfo  {disallowed} - DigiByte
+description: Example code for the dgb:gettxoutsetinfo  {disallowed} json-rpc method. Сomplete guide on how to use dgb:gettxoutsetinfo  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

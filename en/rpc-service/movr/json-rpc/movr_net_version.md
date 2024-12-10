@@ -1,6 +1,6 @@
 ---
-title: movr:net_version \[POST\] {disallowed}
-description: Returns protocol version.
+title: movr:net_version  {disallowed} - Moonriver
+description: Example code for the movr:net_version  {disallowed} json-rpc method. Сomplete guide on how to use movr:net_version  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

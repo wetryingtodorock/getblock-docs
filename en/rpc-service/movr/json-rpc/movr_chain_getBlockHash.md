@@ -1,6 +1,6 @@
 ---
-title: movr:chain_getBlockHash \[POST\]
-description: Get the block hash for a specific block.
+title: movr:chain_getBlockHash - Moonriver
+description: Example code for the movr:chain_getBlockHash json-rpc method. Сomplete guide on how to use movr:chain_getBlockHash json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

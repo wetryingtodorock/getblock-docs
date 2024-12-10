@@ -1,6 +1,6 @@
 ---
-title: ksm:eth_getBlockByNumber \[POST\] {disallowed}
-description: getblock by number
+title: ksm:eth_getBlockByNumber  {disallowed} - Kusama
+description: Example code for the ksm:eth_getBlockByNumber  {disallowed} json-rpc method. Сomplete guide on how to use ksm:eth_getBlockByNumber  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

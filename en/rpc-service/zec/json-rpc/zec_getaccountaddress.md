@@ -1,6 +1,6 @@
 ---
-title: zec:getaccountaddress \[POST\] {disallowed}
-description: DEPRECATED. Returns the current Zcash address for receiving payments tothis account.
+title: zec:getaccountaddress  {disallowed} - Zcash
+description: Example code for the zec:getaccountaddress  {disallowed} json-rpc method. Сomplete guide on how to use zec:getaccountaddress  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

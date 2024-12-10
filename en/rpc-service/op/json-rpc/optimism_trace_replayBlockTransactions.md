@@ -1,6 +1,6 @@
 ---
-title: optimism:trace_replayBlockTransactions \[POST\]
-description: Provides transaction processing tracing per block.
+title: optimism:trace_replayBlockTransactions - Optimism
+description: Example code for the optimism:trace_replayBlockTransactions json-rpc method. Сomplete guide on how to use optimism:trace_replayBlockTransactions json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: bsc:debug_batchSendRawTransaction \[WebSocket\] {disallowed}
-description: Sends a list of signed transactions. This is used to quickly load anetwork with a lot of transactions. This does the same thing as callingeth_sendRawTransaction multiple times.
+title: bsc:debug_batchSendRawTransaction  {disallowed} - Binance Smart Chain
+description: Example code for the bsc:debug_batchSendRawTransaction  {disallowed} ws method. Сomplete guide on how to use bsc:debug_batchSendRawTransaction  {disallowed} ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

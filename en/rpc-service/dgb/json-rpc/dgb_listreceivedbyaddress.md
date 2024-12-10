@@ -1,6 +1,6 @@
 ---
-title: dgb:listreceivedbyaddress \[POST\] {disallowed}
-description: List balances by receiving address.
+title: dgb:listreceivedbyaddress  {disallowed} - DigiByte
+description: Example code for the dgb:listreceivedbyaddress  {disallowed} json-rpc method. Сomplete guide on how to use dgb:listreceivedbyaddress  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

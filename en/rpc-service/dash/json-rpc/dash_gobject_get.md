@@ -1,6 +1,6 @@
 ---
-title: dash:gobject_get \[POST\]
-description: Returns a governance object by hash.
+title: dash:gobject_get - Dash
+description: Example code for the dash:gobject_get json-rpc method. Сomplete guide on how to use dash:gobject_get json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

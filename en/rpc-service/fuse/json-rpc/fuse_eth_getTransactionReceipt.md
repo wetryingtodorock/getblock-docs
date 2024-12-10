@@ -1,6 +1,6 @@
 ---
-title: fuse:eth_getTransactionReceipt \[POST\]
-description: Returns the receipt of a transaction by transaction hash.Note That the receipt is not available for pending transactions.
+title: fuse:eth_getTransactionReceipt - Fuse Network
+description: Example code for the fuse:eth_getTransactionReceipt json-rpc method. Сomplete guide on how to use fuse:eth_getTransactionReceipt json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: arbitrum:shh_newFilter \[POST\] {disallowed}
-description: Creates filter to notify, when client receives whisper message matchingthe filter options.
+title: arbitrum:shh_newFilter  {disallowed} - Arbitrum
+description: Example code for the arbitrum:shh_newFilter  {disallowed} json-rpc method. Сomplete guide on how to use arbitrum:shh_newFilter  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

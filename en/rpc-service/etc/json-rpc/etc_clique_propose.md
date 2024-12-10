@@ -1,6 +1,6 @@
 ---
-title: etc:clique_propose \[POST\] {disallowed}
-description: Propose to add or remove a signer with the specified address.
+title: etc:clique_propose  {disallowed} - Ethereum Classic
+description: Example code for the etc:clique_propose  {disallowed} json-rpc method. Сomplete guide on how to use etc:clique_propose  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

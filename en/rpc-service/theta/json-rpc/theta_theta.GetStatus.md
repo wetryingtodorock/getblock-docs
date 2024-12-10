@@ -1,6 +1,6 @@
 ---
-title: theta:theta.GetStatus \[POST\]
-description: This API returns the current status of the blockchain.
+title: theta:theta.GetStatus - Theta Network
+description: Example code for the theta:theta.GetStatus json-rpc method. Сomplete guide on how to use theta:theta.GetStatus json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

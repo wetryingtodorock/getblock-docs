@@ -1,6 +1,6 @@
 ---
-title: one:eth_getBlockTransactionCountByHash \[POST\]
-description: Returns the number of transactions in the block matching the given blockhash.
+title: one:eth_getBlockTransactionCountByHash - Harmony
+description: Example code for the one:eth_getBlockTransactionCountByHash json-rpc method. Сomplete guide on how to use one:eth_getBlockTransactionCountByHash json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: zec:getmininginfo \[POST\]
-description: Returns a json object containing mining-related information.
+title: zec:getmininginfo - Zcash
+description: Example code for the zec:getmininginfo json-rpc method. Сomplete guide on how to use zec:getmininginfo json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: btg:decoderawtransaction \[POST\]
-description: Return a JSON object representing the serialized, hex-encodedtransaction.
+title: btg:decoderawtransaction - Bitcoin Gold
+description: Example code for the btg:decoderawtransaction json-rpc method. Сomplete guide on how to use btg:decoderawtransaction json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

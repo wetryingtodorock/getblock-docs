@@ -1,6 +1,6 @@
 ---
-title: doge:getbalance \[POST\] {disallowed}
-description: Get the current balance, either for an account or the total serverbalance.
+title: doge:getbalance  {disallowed} - Dogecoin
+description: Example code for the doge:getbalance  {disallowed} json-rpc method. Сomplete guide on how to use doge:getbalance  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

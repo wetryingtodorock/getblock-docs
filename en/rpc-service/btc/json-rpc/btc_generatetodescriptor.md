@@ -1,6 +1,6 @@
 ---
-title: btc:generatetodescriptor \[POST\] {disallowed}
-description: Mine blocks immediately to a specified descriptor (before the RPC callreturns)
+title: btc:generatetodescriptor  {disallowed} - Bitcoin
+description: Example code for the btc:generatetodescriptor  {disallowed} json-rpc method. Сomplete guide on how to use btc:generatetodescriptor  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

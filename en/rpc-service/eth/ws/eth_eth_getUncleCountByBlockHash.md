@@ -1,6 +1,6 @@
 ---
-title: eth:eth_getUncleCountByBlockHash \[WebSocket\]
-description: Returns the number of uncles in a block from a block matching the givenblock hash.
+title: eth:eth_getUncleCountByBlockHash - Ethereum
+description: Example code for the eth:eth_getUncleCountByBlockHash ws method. Сomplete guide on how to use eth:eth_getUncleCountByBlockHash ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

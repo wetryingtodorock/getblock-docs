@@ -1,6 +1,6 @@
 ---
-title: heco:eth_getTransactionCount \[POST\]
-description: Returns the number of transactions sent from an address.
+title: heco:eth_getTransactionCount - Huobi ECO Chain
+description: Example code for the heco:eth_getTransactionCount json-rpc method. Сomplete guide on how to use heco:eth_getTransactionCount json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

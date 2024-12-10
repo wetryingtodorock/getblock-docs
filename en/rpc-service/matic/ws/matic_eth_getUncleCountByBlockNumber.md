@@ -1,6 +1,6 @@
 ---
-title: matic:eth_getUncleCountByBlockNumber \[WebSocket\]
-description: Returns the number of uncles in a block from a block matching the givenblock number.
+title: matic:eth_getUncleCountByBlockNumber - Polygon
+description: Example code for the matic:eth_getUncleCountByBlockNumber ws method. Сomplete guide on how to use matic:eth_getUncleCountByBlockNumber ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

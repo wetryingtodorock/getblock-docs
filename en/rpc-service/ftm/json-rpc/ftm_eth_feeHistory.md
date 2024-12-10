@@ -1,6 +1,6 @@
 ---
-title: ftm:eth_feeHistory \[POST\]
-description: Returns a list of historical gas information.
+title: ftm:eth_feeHistory - Fantom
+description: Example code for the ftm:eth_feeHistory json-rpc method. Сomplete guide on how to use ftm:eth_feeHistory json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

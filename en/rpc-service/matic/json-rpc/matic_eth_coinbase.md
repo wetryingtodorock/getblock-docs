@@ -1,6 +1,6 @@
 ---
-title: matic:eth_coinbase \[POST\]
-description: Returns the client coinbase address.
+title: matic:eth_coinbase - Polygon
+description: Example code for the matic:eth_coinbase json-rpc method. Сomplete guide on how to use matic:eth_coinbase json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

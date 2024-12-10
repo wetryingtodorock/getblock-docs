@@ -1,6 +1,6 @@
 ---
-title: dash:/block/notxdetails/{hash}{format} \[GET\]
-description: The block/notxdetails operation gets a block with a particular headerhash from the local block database either as a JSON object or as aserialized block. The JSON object includes TXIDs for transactions withinthe block rather than the complete transactions GET block returns.
+title: dash:/block/notxdetails/{hash}{format} - Dash
+description: Example code for the dash:/block/notxdetails/{hash}{format} rest method. Сomplete guide on how to use dash:/block/notxdetails/{hash}{format} rest in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

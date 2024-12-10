@@ -1,6 +1,6 @@
 ---
-title: btg:getrawchangeaddress \[POST\] {disallowed}
-description: Returns a new Bitcoin address, for receiving change.This is for use with raw transactions, NOT normal use.
+title: btg:getrawchangeaddress  {disallowed} - Bitcoin Gold
+description: Example code for the btg:getrawchangeaddress  {disallowed} json-rpc method. Сomplete guide on how to use btg:getrawchangeaddress  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

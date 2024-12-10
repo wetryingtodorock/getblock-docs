@@ -1,6 +1,6 @@
 ---
-title: one:hmy_newPendingTransactionFilter \[POST\]
-description: Creates a filter in the node, to notify when new pending transactionsarrive. To check if the state has changed, call hmy_getFilterChanges.
+title: one:hmy_newPendingTransactionFilter - Harmony
+description: Example code for the one:hmy_newPendingTransactionFilter json-rpc method. Сomplete guide on how to use one:hmy_newPendingTransactionFilter json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

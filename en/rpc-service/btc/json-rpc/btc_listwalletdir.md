@@ -1,6 +1,6 @@
 ---
-title: btc:listwalletdir \[POST\] {disallowed}
-description: Returns a list of wallets in the wallet directory.
+title: btc:listwalletdir  {disallowed} - Bitcoin
+description: Example code for the btc:listwalletdir  {disallowed} json-rpc method. Сomplete guide on how to use btc:listwalletdir  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

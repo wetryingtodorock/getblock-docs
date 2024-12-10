@@ -1,6 +1,6 @@
 ---
-title: movr:state_getKeysPaged \[POST\] {disallowed}
-description: Returns the keys with prefix with pagination support.
+title: movr:state_getKeysPaged  {disallowed} - Moonriver
+description: Example code for the movr:state_getKeysPaged  {disallowed} json-rpc method. Сomplete guide on how to use movr:state_getKeysPaged  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: dgb:scantxoutset \[POST\] {disallowed}
-description: EXPERIMENTAL warning this call may be removed or changed in futurereleases.
+title: dgb:scantxoutset  {disallowed} - DigiByte
+description: Example code for the dgb:scantxoutset  {disallowed} json-rpc method. Сomplete guide on how to use dgb:scantxoutset  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

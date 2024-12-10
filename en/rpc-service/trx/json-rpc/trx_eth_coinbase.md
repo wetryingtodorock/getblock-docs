@@ -1,6 +1,6 @@
 ---
-title: trx:eth_coinbase \[POST\] {disallowed}
-description: Returns the witness address of the current node.
+title: trx:eth_coinbase  {disallowed} - TRON
+description: Example code for the trx:eth_coinbase  {disallowed} json-rpc method. Сomplete guide on how to use trx:eth_coinbase  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: eth:clique_propose \[WebSocket\] {disallowed}
-description: Propose to add or remove a signer with the specified address.
+title: eth:clique_propose  {disallowed} - Ethereum
+description: Example code for the eth:clique_propose  {disallowed} ws method. Сomplete guide on how to use eth:clique_propose  {disallowed} ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

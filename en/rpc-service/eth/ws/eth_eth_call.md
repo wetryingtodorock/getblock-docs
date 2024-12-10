@@ -1,6 +1,6 @@
 ---
-title: eth:eth_call \[WebSocket\]
-description: Invokes a contract function locally and does not change the state of theblockchain.You can interact with contracts using eth_sendRawTransaction oreth_call.If revert reason is enabled with --revert-reason-enabled, the eth_callerror response will include the revert reason.
+title: eth:eth_call - Ethereum
+description: Example code for the eth:eth_call ws method. Сomplete guide on how to use eth:eth_call ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

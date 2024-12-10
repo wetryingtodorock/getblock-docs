@@ -1,6 +1,6 @@
 ---
-title: bsv:getnetworkinfo \[POST\] {disallowed}
-description: Returns an object containing various state info regarding P2Pnetworking.
+title: bsv:getnetworkinfo  {disallowed} - Bitcoin SV
+description: Example code for the bsv:getnetworkinfo  {disallowed} json-rpc method. Сomplete guide on how to use bsv:getnetworkinfo  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

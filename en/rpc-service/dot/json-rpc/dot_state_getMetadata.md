@@ -1,6 +1,6 @@
 ---
-title: dot:state_getMetadata \[POST\]
-description: Returns the runtime metadata.
+title: dot:state_getMetadata - Polkadot
+description: Example code for the dot:state_getMetadata json-rpc method. Сomplete guide on how to use dot:state_getMetadata json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

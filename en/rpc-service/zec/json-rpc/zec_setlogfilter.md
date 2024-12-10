@@ -1,6 +1,6 @@
 ---
-title: zec:setlogfilter \[POST\] {disallowed}
-description: Sets the filter to be used for selecting events to log.A filter is a comma-separated list of directives.The syntax for each directive is target\[spanfield=value\]=levelThe default filter, derived from the -debug=target flags, iserror,main=infoPassing a valid filter here will replace the existing filter.Passing an empty string will reset the filter to the default.
+title: zec:setlogfilter  {disallowed} - Zcash
+description: Example code for the zec:setlogfilter  {disallowed} json-rpc method. Сomplete guide on how to use zec:setlogfilter  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

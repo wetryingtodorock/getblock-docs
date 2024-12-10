@@ -1,6 +1,6 @@
 ---
-title: zec:signmessage \[POST\] {disallowed}
-description: Sign a message with the private key of a t-addr.
+title: zec:signmessage  {disallowed} - Zcash
+description: Example code for the zec:signmessage  {disallowed} json-rpc method. Сomplete guide on how to use zec:signmessage  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

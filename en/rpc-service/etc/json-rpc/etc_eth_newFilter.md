@@ -1,6 +1,6 @@
 ---
-title: etc:eth_newFilter \[POST\]
-description: Creates a log filter. To poll for logs associated with the createdfilter, use eth_getFilterChanges. To get all logs associated with thefilter, use eth_getFilterLogs.
+title: etc:eth_newFilter - Ethereum Classic
+description: Example code for the etc:eth_newFilter json-rpc method. Сomplete guide on how to use etc:eth_newFilter json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

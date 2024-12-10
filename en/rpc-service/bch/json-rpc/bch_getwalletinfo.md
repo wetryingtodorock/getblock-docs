@@ -1,6 +1,6 @@
 ---
-title: bch:getwalletinfo \[POST\] {disallowed}
-description: Returns an object containing various wallet state info.
+title: bch:getwalletinfo  {disallowed} - Bitcoin Cash
+description: Example code for the bch:getwalletinfo  {disallowed} json-rpc method. Сomplete guide on how to use bch:getwalletinfo  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

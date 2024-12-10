@@ -1,6 +1,6 @@
 ---
-title: kcc:eth_coinbase \[WebSocket\]
-description: Returns the client coinbase address.
+title: kcc:eth_coinbase - KuCoin Community Chain
+description: Example code for the kcc:eth_coinbase ws method. Сomplete guide on how to use kcc:eth_coinbase ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

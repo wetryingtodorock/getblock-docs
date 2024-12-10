@@ -1,6 +1,6 @@
 ---
-title: bch:walletprocesspsbt \[POST\] {disallowed}
-description: Update a PSBT with input information from our wallet and then signinputs that we can sign for.Requires wallet passphrase to be set with walletpassphrase call ifwallet is encrypted.
+title: bch:walletprocesspsbt  {disallowed} - Bitcoin Cash
+description: Example code for the bch:walletprocesspsbt  {disallowed} json-rpc method. Сomplete guide on how to use bch:walletprocesspsbt  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: arbitrum:net_version \[POST\]
-description: Returns the current network id.
+title: arbitrum:net_version - Arbitrum
+description: Example code for the arbitrum:net_version json-rpc method. Сomplete guide on how to use arbitrum:net_version json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

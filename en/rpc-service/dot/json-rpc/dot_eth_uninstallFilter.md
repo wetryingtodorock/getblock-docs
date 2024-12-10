@@ -1,6 +1,6 @@
 ---
-title: dot:eth_uninstallFilter \[POST\] {disallowed}
-description: Uninstalls filter.
+title: dot:eth_uninstallFilter  {disallowed} - Polkadot
+description: Example code for the dot:eth_uninstallFilter  {disallowed} json-rpc method. Сomplete guide on how to use dot:eth_uninstallFilter  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

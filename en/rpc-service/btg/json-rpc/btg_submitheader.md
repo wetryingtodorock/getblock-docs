@@ -1,6 +1,6 @@
 ---
-title: btg:submitheader \[POST\] {disallowed}
-description: Decode the given hexdata as a header and submit it as a candidate chaintip if valid.Throws when the header is invalid.
+title: btg:submitheader  {disallowed} - Bitcoin Gold
+description: Example code for the btg:submitheader  {disallowed} json-rpc method. Сomplete guide on how to use btg:submitheader  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

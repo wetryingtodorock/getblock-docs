@@ -1,6 +1,6 @@
 ---
-title: btc:setexcessiveblock \[POST\] {disallowed}
-description: Set the excessive block size. Excessive blocks will not be used in theactive chain or relayed.This discourages the propagation of blocks that you consider excessivelylarge.
+title: btc:setexcessiveblock  {disallowed} - Bitcoin
+description: Example code for the btc:setexcessiveblock  {disallowed} json-rpc method. Сomplete guide on how to use btc:setexcessiveblock  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

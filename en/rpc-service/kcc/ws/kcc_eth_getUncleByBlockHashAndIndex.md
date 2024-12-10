@@ -1,6 +1,6 @@
 ---
-title: kcc:eth_getUncleByBlockHashAndIndex \[WebSocket\]
-description: Returns information about a uncle of a block by hash and uncle indexposition.
+title: kcc:eth_getUncleByBlockHashAndIndex - KuCoin Community Chain
+description: Example code for the kcc:eth_getUncleByBlockHashAndIndex ws method. Сomplete guide on how to use kcc:eth_getUncleByBlockHashAndIndex ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

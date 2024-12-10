@@ -1,6 +1,6 @@
 ---
-title: bsc:eth_feeHistory \[POST\]
-description: Returns a list of historical gas information.
+title: bsc:eth_feeHistory - Binance Smart Chain
+description: Example code for the bsc:eth_feeHistory json-rpc method. Сomplete guide on how to use bsc:eth_feeHistory json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

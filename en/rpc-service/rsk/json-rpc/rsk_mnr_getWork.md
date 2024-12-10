@@ -1,6 +1,6 @@
 ---
-title: rsk:mnr_getWork \[POST\]
-description: Returns the hash of the current block, the seedHash, and the boundarycondition to be met (“target”).
+title: rsk:mnr_getWork - Rootstock
+description: Example code for the rsk:mnr_getWork json-rpc method. Сomplete guide on how to use rsk:mnr_getWork json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

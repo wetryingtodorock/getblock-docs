@@ -1,6 +1,6 @@
 ---
-title: etc:eth_chainId \[POST\]
-description: Returns the chain ID.
+title: etc:eth_chainId - Ethereum Classic
+description: Example code for the etc:eth_chainId json-rpc method. Сomplete guide on how to use etc:eth_chainId json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

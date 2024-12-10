@@ -1,6 +1,6 @@
 ---
-title: dash:getnettotals \[POST\] {disallowed}
-description: Returns information about network traffic, including bytes in, bytesout, and the current time.
+title: dash:getnettotals  {disallowed} - Dash
+description: Example code for the dash:getnettotals  {disallowed} json-rpc method. Сomplete guide on how to use dash:getnettotals  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

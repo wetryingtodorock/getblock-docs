@@ -1,6 +1,6 @@
 ---
-title: ftm:eth_getFilterLogs \[POST\]
-description: Returns an array of logs for the specified filter.Leave the --auto-log-bloom-caching-enabled command line option at thedefault value of true to improve log retrieval performance.
+title: ftm:eth_getFilterLogs - Fantom
+description: Example code for the ftm:eth_getFilterLogs json-rpc method. Сomplete guide on how to use ftm:eth_getFilterLogs json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

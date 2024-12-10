@@ -1,6 +1,6 @@
 ---
-title: ksm:state_subscribeRuntimeVersion \[POST\] {disallowed}
-description: Retrieves the runtime version via subscription
+title: ksm:state_subscribeRuntimeVersion  {disallowed} - Kusama
+description: Example code for the ksm:state_subscribeRuntimeVersion  {disallowed} json-rpc method. Сomplete guide on how to use ksm:state_subscribeRuntimeVersion  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

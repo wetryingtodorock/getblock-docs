@@ -1,6 +1,6 @@
 ---
-title: dgb:getrawmempool \[POST\]
-description: Returns all transaction ids in memory pool as a json array of stringtransaction ids.Hint use getmempoolentry to fetch a specific transaction from themempool.
+title: dgb:getrawmempool - DigiByte
+description: Example code for the dgb:getrawmempool json-rpc method. Сomplete guide on how to use dgb:getrawmempool json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

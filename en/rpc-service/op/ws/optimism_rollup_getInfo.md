@@ -1,6 +1,6 @@
 ---
-title: optimism:rollup_getInfo \[WebSocket\]
-description: Returns useful L2-specific information about the current node.
+title: optimism:rollup_getInfo - Optimism
+description: Example code for the optimism:rollup_getInfo ws method. Сomplete guide on how to use optimism:rollup_getInfo ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

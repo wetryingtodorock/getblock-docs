@@ -1,6 +1,6 @@
 ---
-title: bch:dumpprivkey \[POST\] {disallowed}
-description: Reveals the private key corresponding to ‘address’.Then the importprivkey can be used with this output
+title: bch:dumpprivkey  {disallowed} - Bitcoin Cash
+description: Example code for the bch:dumpprivkey  {disallowed} json-rpc method. Сomplete guide on how to use bch:dumpprivkey  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

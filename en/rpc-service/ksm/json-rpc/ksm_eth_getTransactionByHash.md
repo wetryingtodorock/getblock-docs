@@ -1,6 +1,6 @@
 ---
-title: ksm:eth_getTransactionByHash \[POST\] {disallowed}
-description: Get transaction by its hash.
+title: ksm:eth_getTransactionByHash  {disallowed} - Kusama
+description: Example code for the ksm:eth_getTransactionByHash  {disallowed} json-rpc method. Сomplete guide on how to use ksm:eth_getTransactionByHash  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: movr:beefy_getFinalizedHead \[POST\] {disallowed}
-description: Returns hash of the latest BEEFY finalized block as seen by this client.
+title: movr:beefy_getFinalizedHead  {disallowed} - Moonriver
+description: Example code for the movr:beefy_getFinalizedHead  {disallowed} json-rpc method. Сomplete guide on how to use movr:beefy_getFinalizedHead  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: ksm:system_version \[POST\]
-description: Retrieves the version of the node.
+title: ksm:system_version - Kusama
+description: Example code for the ksm:system_version json-rpc method. Сomplete guide on how to use ksm:system_version json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: avax:eth_getTransactionCount \[POST\]
-description: Returns the number of transactions sent from an address.
+title: avax:eth_getTransactionCount - Avalanche
+description: Example code for the avax:eth_getTransactionCount json-rpc method. Сomplete guide on how to use avax:eth_getTransactionCount json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

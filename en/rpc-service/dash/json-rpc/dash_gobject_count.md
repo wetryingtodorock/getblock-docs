@@ -1,6 +1,6 @@
 ---
-title: dash:gobject_count \[POST\]
-description: returns the count of governance objects and votes.
+title: dash:gobject_count - Dash
+description: Example code for the dash:gobject_count json-rpc method. Сomplete guide on how to use dash:gobject_count json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

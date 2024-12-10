@@ -1,6 +1,6 @@
 ---
-title: fuse:eth_compileLLL \[POST\] {disallowed}
-description: Returns compiled LLL code.
+title: fuse:eth_compileLLL  {disallowed} - Fuse Network
+description: Example code for the fuse:eth_compileLLL  {disallowed} json-rpc method. Сomplete guide on how to use fuse:eth_compileLLL  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

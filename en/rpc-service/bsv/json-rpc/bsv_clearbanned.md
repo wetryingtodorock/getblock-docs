@@ -1,6 +1,6 @@
 ---
-title: bsv:clearbanned \[POST\] {disallowed}
-description: Clear all banned IPs.
+title: bsv:clearbanned  {disallowed} - Bitcoin SV
+description: Example code for the bsv:clearbanned  {disallowed} json-rpc method. Сomplete guide on how to use bsv:clearbanned  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

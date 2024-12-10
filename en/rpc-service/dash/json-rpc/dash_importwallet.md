@@ -1,6 +1,6 @@
 ---
-title: dash:importwallet \[POST\] {disallowed}
-description: Imports private keys from a file in wallet dump file format (see thedumpwallet RPC). These keys will be added to the keys currently in thewallet. This call may need to rescan all or parts of the block chain fortransactions affecting the newly-added keys, which may take severalminutes.
+title: dash:importwallet  {disallowed} - Dash
+description: Example code for the dash:importwallet  {disallowed} json-rpc method. Сomplete guide on how to use dash:importwallet  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

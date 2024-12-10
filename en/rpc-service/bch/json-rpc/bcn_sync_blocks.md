@@ -1,6 +1,6 @@
 ---
-title: bcn:sync_blocks \[POST\]
-description: Fetches blocks from local blockchain. In order to perform a request asparse chain (a specific sequence of local blocks) has to be assembledand sent. Returns missing blocks, start_height and regular get_statusresponse.
+title: bcn:sync_blocks - Bitcoin Cash
+description: Example code for the bcn:sync_blocks json-rpc method. Сomplete guide on how to use bcn:sync_blocks json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: gno:eth_estimateGas \[POST\]
-description: Returns an estimate of the gas required for a transaction to complete.The estimation process does not use gas and the transaction is not addedto the blockchain. The resulting estimate can be greater than the amountof gas the transaction ends up using, for reasons including EVMmechanics and node performance.The eth_estimateGas call does not send a transaction. You must calleth_sendRawTransaction to execute the transaction.If revert reason is enabled with --revert-reason-enabled, theeth_estimateGas error response will include the revert reason.
+title: gno:eth_estimateGas - Gnosis
+description: Example code for the gno:eth_estimateGas json-rpc method. Сomplete guide on how to use gno:eth_estimateGas json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

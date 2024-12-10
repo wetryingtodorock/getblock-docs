@@ -1,6 +1,6 @@
 ---
-title: arbitrum:shh_getFilterChanges \[POST\] {disallowed}
-description: Polling method for whisper filters. Returns new messages since the lastcall of this method.Note calling the shh_getMessages method, will reset the buffer for thismethod, so that you won’t receive duplicate messages.
+title: arbitrum:shh_getFilterChanges  {disallowed} - Arbitrum
+description: Example code for the arbitrum:shh_getFilterChanges  {disallowed} json-rpc method. Сomplete guide on how to use arbitrum:shh_getFilterChanges  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

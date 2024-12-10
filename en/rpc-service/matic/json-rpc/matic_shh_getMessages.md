@@ -1,6 +1,6 @@
 ---
-title: matic:shh_getMessages \[POST\] {disallowed}
-description: Get all messages matching a filter. Unlike shh_getFilterChanges thisreturns all messages.
+title: matic:shh_getMessages  {disallowed} - Polygon
+description: Example code for the matic:shh_getMessages  {disallowed} json-rpc method. Сomplete guide on how to use matic:shh_getMessages  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

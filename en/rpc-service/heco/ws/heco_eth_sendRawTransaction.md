@@ -1,6 +1,6 @@
 ---
-title: heco:eth_sendRawTransaction \[WebSocket\]
-description: Creates new message call transaction or a contract creation for signedtransactions.
+title: heco:eth_sendRawTransaction - Huobi ECO Chain
+description: Example code for the heco:eth_sendRawTransaction ws method. Сomplete guide on how to use heco:eth_sendRawTransaction ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

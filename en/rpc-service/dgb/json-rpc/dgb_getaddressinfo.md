@@ -1,6 +1,6 @@
 ---
-title: dgb:getaddressinfo \[POST\] {disallowed}
-description: Return information about the given bitcoin address.Some of the information will only be present if the address is in theactive wallet.
+title: dgb:getaddressinfo  {disallowed} - DigiByte
+description: Example code for the dgb:getaddressinfo  {disallowed} json-rpc method. Сomplete guide on how to use dgb:getaddressinfo  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

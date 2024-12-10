@@ -1,6 +1,6 @@
 ---
-title: movr:chain_subscribeNewHeads \[POST\] {disallowed}
-description: Retrieves the best header via subscription.
+title: movr:chain_subscribeNewHeads  {disallowed} - Moonriver
+description: Example code for the movr:chain_subscribeNewHeads  {disallowed} json-rpc method. Сomplete guide on how to use movr:chain_subscribeNewHeads  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

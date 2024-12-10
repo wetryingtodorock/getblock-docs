@@ -1,6 +1,6 @@
 ---
-title: btc:getdsproof \[POST\] {disallowed}
-description: Get information for a double-spend proof.
+title: btc:getdsproof  {disallowed} - Bitcoin
+description: Example code for the btc:getdsproof  {disallowed} json-rpc method. Сomplete guide on how to use btc:getdsproof  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

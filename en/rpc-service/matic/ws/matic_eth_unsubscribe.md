@@ -1,6 +1,6 @@
 ---
-title: matic:eth_unsubscribe \[WebSocket\]
-description: Cancels specified subscription. Returns true if canceled successfully orfalse otherwise.
+title: matic:eth_unsubscribe - Polygon
+description: Example code for the matic:eth_unsubscribe ws method. Сomplete guide on how to use matic:eth_unsubscribe ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: optimism:db_getHex \[POST\] {disallowed}
-description: Returns binary data from the local database.Note this function is deprecated and will be removed in the future.
+title: optimism:db_getHex  {disallowed} - Optimism
+description: Example code for the optimism:db_getHex  {disallowed} json-rpc method. Сomplete guide on how to use optimism:db_getHex  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

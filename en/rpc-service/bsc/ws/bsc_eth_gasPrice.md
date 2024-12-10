@@ -1,6 +1,6 @@
 ---
-title: bsc:eth_gasPrice \[WebSocket\]
-description: Returns a percentile gas unit price for the most recent blocks, in Wei.By default, the last 100 blocks are examined and the 50th percentile gasunit price (that is, the median value) is returned.If there are no blocks, the value for --min-gas-price is returned. Thevalue returned is restricted to values between --min-gas-price and--api-gas-price-max. By default, 1000 Wei and 500GWei.Use the --api-gas-price-blocks, --api-gas-price-percentile , and--api-gas-price-max command line options to configure the eth_gasPricedefault values.
+title: bsc:eth_gasPrice - Binance Smart Chain
+description: Example code for the bsc:eth_gasPrice ws method. Сomplete guide on how to use bsc:eth_gasPrice ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

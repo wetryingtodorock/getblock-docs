@@ -1,6 +1,6 @@
 ---
-title: etc:eth_sendRawTransaction \[POST\]
-description: Sends a signed transaction. A transaction can send ether, deploy acontract, or interact with a contract. Set the maximum transaction feefor transactions using the --rpc-tx-feecap CLI option.You can interact with contracts using eth_sendRawTransaction oreth_call.To avoid exposing your private key, create signed transactions offlineand send the signed transaction data using eth_sendRawTransaction.
+title: etc:eth_sendRawTransaction - Ethereum Classic
+description: Example code for the etc:eth_sendRawTransaction json-rpc method. Сomplete guide on how to use etc:eth_sendRawTransaction json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

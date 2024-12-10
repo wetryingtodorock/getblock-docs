@@ -1,6 +1,6 @@
 ---
-title: heco:eth_accounts \[WebSocket\]
-description: Returns a list of addresses owned by client.
+title: heco:eth_accounts - Huobi ECO Chain
+description: Example code for the heco:eth_accounts ws method. Сomplete guide on how to use heco:eth_accounts ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

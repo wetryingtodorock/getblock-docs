@@ -1,6 +1,6 @@
 ---
-title: optimism:eth_submitWork \[POST\] {disallowed}
-description: Used for submitting a proof-of-work solution.
+title: optimism:eth_submitWork  {disallowed} - Optimism
+description: Example code for the optimism:eth_submitWork  {disallowed} json-rpc method. Сomplete guide on how to use optimism:eth_submitWork  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

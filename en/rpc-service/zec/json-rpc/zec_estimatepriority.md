@@ -1,6 +1,6 @@
 ---
-title: zec:estimatepriority \[POST\]
-description: Estimates the approximate priority a zero-fee transaction needs to beginconfirmation within nblocks blocks.
+title: zec:estimatepriority - Zcash
+description: Example code for the zec:estimatepriority json-rpc method. Сomplete guide on how to use zec:estimatepriority json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

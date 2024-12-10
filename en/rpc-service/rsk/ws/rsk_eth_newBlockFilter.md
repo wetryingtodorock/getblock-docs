@@ -1,6 +1,6 @@
 ---
-title: rsk:eth_newBlockFilter \[WebSocket\]
-description: Creates a filter in the node, to notify when a new block arrives. Tocheck if the state has changed, call eth_getFilterChanges.
+title: rsk:eth_newBlockFilter - Rootstock
+description: Example code for the rsk:eth_newBlockFilter ws method. Сomplete guide on how to use rsk:eth_newBlockFilter ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: btc:converttopsbt \[POST\]
-description: Converts a network serialized transaction to a PSBT. This should be usedonly with createrawtransaction and fundrawtransaction createpsbt andwalletcreatefundedpsbt should be used for new applications.
+title: btc:converttopsbt - Bitcoin
+description: Example code for the btc:converttopsbt json-rpc method. Сomplete guide on how to use btc:converttopsbt json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

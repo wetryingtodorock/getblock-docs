@@ -1,6 +1,6 @@
 ---
-title: trx:eth_gasPrice \[POST\]
-description: Returns the current energy price in sun.
+title: trx:eth_gasPrice - TRON
+description: Example code for the trx:eth_gasPrice json-rpc method. Сomplete guide on how to use trx:eth_gasPrice json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

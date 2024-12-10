@@ -1,6 +1,6 @@
 ---
-title: glmr:web3_sha3 \[POST\]
-description: Returns Keccak-256 (not the standardized SHA3-256) of the given data.
+title: glmr:web3_sha3 - Moonbeam
+description: Example code for the glmr:web3_sha3 json-rpc method. Сomplete guide on how to use glmr:web3_sha3 json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

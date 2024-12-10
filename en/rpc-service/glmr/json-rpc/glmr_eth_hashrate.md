@@ -1,6 +1,6 @@
 ---
-title: glmr:eth_hashrate \[POST\]
-description: Returns the number of hashes per second that the node is mining with.
+title: glmr:eth_hashrate - Moonbeam
+description: Example code for the glmr:eth_hashrate json-rpc method. Сomplete guide on how to use glmr:eth_hashrate json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: fuse:eth_getStorageAt \[WebSocket\]
-description: Returns the value from a storage position at a given address.
+title: fuse:eth_getStorageAt - Fuse Network
+description: Example code for the fuse:eth_getStorageAt ws method. Сomplete guide on how to use fuse:eth_getStorageAt ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: xem:/account/get/forwarded/from-public-key \[GET\]
-description: Alternatively you can retrieve the original account data by providingthe public key of the delegate account
+title: xem:/account/get/forwarded/from-public-key - NEM
+description: Example code for the xem:/account/get/forwarded/from-public-key rest method. Сomplete guide on how to use xem:/account/get/forwarded/from-public-key rest in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

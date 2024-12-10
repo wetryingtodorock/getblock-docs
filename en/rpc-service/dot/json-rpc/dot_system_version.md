@@ -1,6 +1,6 @@
 ---
-title: dot:system_version \[POST\]
-description: Retrieves the version of the node.
+title: dot:system_version - Polkadot
+description: Example code for the dot:system_version json-rpc method. Сomplete guide on how to use dot:system_version json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

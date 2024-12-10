@@ -1,6 +1,6 @@
 ---
-title: avax:eth_submitWork \[POST\] {disallowed}
-description: Used for submitting a proof-of-work solution.
+title: avax:eth_submitWork  {disallowed} - Avalanche
+description: Example code for the avax:eth_submitWork  {disallowed} json-rpc method. Сomplete guide on how to use avax:eth_submitWork  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

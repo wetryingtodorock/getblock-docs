@@ -1,6 +1,6 @@
 ---
-title: ont:/api/v1/block/height/txhash/{hash} \[GET\]
-description: Fetch block height using transaction hash
+title: ont:/api/v1/block/height/txhash/{hash} - Ontology
+description: Example code for the ont:/api/v1/block/height/txhash/{hash} rest method. Сomplete guide on how to use ont:/api/v1/block/height/txhash/{hash} rest in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

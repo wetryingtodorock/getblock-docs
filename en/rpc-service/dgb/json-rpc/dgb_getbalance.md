@@ -1,6 +1,6 @@
 ---
-title: dgb:getbalance \[POST\] {disallowed}
-description: Returns the total available balance.The available balance is what the wallet considers currently spendable,and is thus affected by options which limit spendability such as-spendzeroconfchange.
+title: dgb:getbalance  {disallowed} - DigiByte
+description: Example code for the dgb:getbalance  {disallowed} json-rpc method. Сomplete guide on how to use dgb:getbalance  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

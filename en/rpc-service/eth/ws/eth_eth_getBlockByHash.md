@@ -1,6 +1,6 @@
 ---
-title: eth:eth_getBlockByHash \[WebSocket\]
-description: Returns information about the block by hash.
+title: eth:eth_getBlockByHash - Ethereum
+description: Example code for the eth:eth_getBlockByHash ws method. Сomplete guide on how to use eth:eth_getBlockByHash ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

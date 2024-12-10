@@ -1,6 +1,6 @@
 ---
-title: btc:setwalletflag \[POST\] {disallowed}
-description: Change the state of the given wallet flag for a wallet.
+title: btc:setwalletflag  {disallowed} - Bitcoin
+description: Example code for the btc:setwalletflag  {disallowed} json-rpc method. Сomplete guide on how to use btc:setwalletflag  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

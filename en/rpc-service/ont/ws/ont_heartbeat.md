@@ -1,6 +1,6 @@
 ---
-title: ont:heartbeat \[WebSocket\]
-description: Sends heartbeat information. If heartbeat information is not received bythe client the sessin expires in 5 minutes.
+title: ont:heartbeat - Ontology
+description: Example code for the ont:heartbeat ws method. Сomplete guide on how to use ont:heartbeat ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

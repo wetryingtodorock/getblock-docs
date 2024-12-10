@@ -1,6 +1,6 @@
 ---
-title: ksm:web3_clientVersion \[POST\] {disallowed}
-description: Returns current client version.
+title: ksm:web3_clientVersion  {disallowed} - Kusama
+description: Example code for the ksm:web3_clientVersion  {disallowed} json-rpc method. Сomplete guide on how to use ksm:web3_clientVersion  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

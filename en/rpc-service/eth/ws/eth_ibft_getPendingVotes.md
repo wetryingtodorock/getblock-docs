@@ -1,6 +1,6 @@
 ---
-title: eth:ibft_getPendingVotes \[WebSocket\] {disallowed}
-description: Returns votes cast in the current epoch.
+title: eth:ibft_getPendingVotes  {disallowed} - Ethereum
+description: Example code for the eth:ibft_getPendingVotes  {disallowed} ws method. Сomplete guide on how to use eth:ibft_getPendingVotes  {disallowed} ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

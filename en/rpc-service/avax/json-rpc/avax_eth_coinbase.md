@@ -1,6 +1,6 @@
 ---
-title: avax:eth_coinbase \[POST\]
-description: Returns the client coinbase address.
+title: avax:eth_coinbase - Avalanche
+description: Example code for the avax:eth_coinbase json-rpc method. Сomplete guide on how to use avax:eth_coinbase json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

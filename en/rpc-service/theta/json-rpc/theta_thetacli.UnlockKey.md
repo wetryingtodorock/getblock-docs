@@ -1,6 +1,6 @@
 ---
-title: theta:thetacli.UnlockKey \[POST\] {disallowed}
-description: This API unlocks an account. Only unlocked accounts are allowed to sendout Theta/TFuel tokens.
+title: theta:thetacli.UnlockKey  {disallowed} - Theta Network
+description: Example code for the theta:thetacli.UnlockKey  {disallowed} json-rpc method. Сomplete guide on how to use theta:thetacli.UnlockKey  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

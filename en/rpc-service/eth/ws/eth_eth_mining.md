@@ -1,6 +1,6 @@
 ---
-title: eth:eth_mining \[WebSocket\]
-description: Whether the client is actively mining new blocks. Besu pauses miningwhile the client synchronizes with the network regardless of commandsettings or methods called.
+title: eth:eth_mining - Ethereum
+description: Example code for the eth:eth_mining ws method. Сomplete guide on how to use eth:eth_mining ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: etc:clique_discard \[POST\] {disallowed}
-description: Discards a proposal to add or remove a signer with the specifiedaddress.
+title: etc:clique_discard  {disallowed} - Ethereum Classic
+description: Example code for the etc:clique_discard  {disallowed} json-rpc method. Сomplete guide on how to use etc:clique_discard  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

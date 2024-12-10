@@ -1,6 +1,6 @@
 ---
-title: eth:eth_hashrate \[WebSocket\]
-description: Returns the number of hashes per second with which the node is mining.When the stratum server is enabled, this method returns the cumulativehashrate of all sealers reporting their hashrate.
+title: eth:eth_hashrate - Ethereum
+description: Example code for the eth:eth_hashrate ws method. Сomplete guide on how to use eth:eth_hashrate ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: avax:eth_compileSolidity \[POST\] {disallowed}
-description: Returns compiled solidity code.
+title: avax:eth_compileSolidity  {disallowed} - Avalanche
+description: Example code for the avax:eth_compileSolidity  {disallowed} json-rpc method. Сomplete guide on how to use avax:eth_compileSolidity  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

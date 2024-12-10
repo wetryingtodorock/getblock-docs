@@ -1,6 +1,6 @@
 ---
-title: dot:eth_newFilter \[POST\] {disallowed}
-description: Returns id of new filter.
+title: dot:eth_newFilter  {disallowed} - Polkadot
+description: Example code for the dot:eth_newFilter  {disallowed} json-rpc method. Сomplete guide on how to use dot:eth_newFilter  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

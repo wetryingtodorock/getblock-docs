@@ -1,6 +1,6 @@
 ---
-title: trx:/wallet/getnowblock \[POST\]
-description: Query the latest block information
+title: trx:/wallet/getnowblock - TRON
+description: Example code for the trx:/wallet/getnowblock rest method. Сomplete guide on how to use trx:/wallet/getnowblock rest in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: trx:/wallet/exchangetransaction \[POST\] {disallowed}
-description: Participate the transaction of exchange pair
+title: trx:/wallet/exchangetransaction  {disallowed} - TRON
+description: Example code for the trx:/wallet/exchangetransaction  {disallowed} rest method. Сomplete guide on how to use trx:/wallet/exchangetransaction  {disallowed} rest in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

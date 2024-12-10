@@ -1,6 +1,6 @@
 ---
-title: bsv:submitblock \[POST\] {disallowed}
-description: Attempts to submit new block to network.
+title: bsv:submitblock  {disallowed} - Bitcoin SV
+description: Example code for the bsv:submitblock  {disallowed} json-rpc method. Сomplete guide on how to use bsv:submitblock  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

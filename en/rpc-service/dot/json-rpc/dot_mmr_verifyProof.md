@@ -1,6 +1,6 @@
 ---
-title: dot:mmr_verifyProof \[POST\] {disallowed}
-description: Verify an MMR proof
+title: dot:mmr_verifyProof  {disallowed} - Polkadot
+description: Example code for the dot:mmr_verifyProof  {disallowed} json-rpc method. Сomplete guide on how to use dot:mmr_verifyProof  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

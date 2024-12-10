@@ -1,6 +1,6 @@
 ---
-title: dgb:listunspent \[POST\] {disallowed}
-description: Returns array of unspent transaction outputs with between minconf andmaxconf (inclusive) confirmations.Optionally filter to only include txouts paid to specified addresses.
+title: dgb:listunspent  {disallowed} - DigiByte
+description: Example code for the dgb:listunspent  {disallowed} json-rpc method. Сomplete guide on how to use dgb:listunspent  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: eth:admin_removePeer \[POST\] {disallowed}
-description: Removes a static node.
+title: eth:admin_removePeer  {disallowed} - Ethereum
+description: Example code for the eth:admin_removePeer  {disallowed} json-rpc method. Сomplete guide on how to use eth:admin_removePeer  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

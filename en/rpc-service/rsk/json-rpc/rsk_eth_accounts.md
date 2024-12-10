@@ -1,6 +1,6 @@
 ---
-title: rsk:eth_accounts \[POST\]
-description: Returns a list of addresses owned by client.
+title: rsk:eth_accounts - Rootstock
+description: Example code for the rsk:eth_accounts json-rpc method. Сomplete guide on how to use rsk:eth_accounts json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

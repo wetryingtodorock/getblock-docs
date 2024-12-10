@@ -1,6 +1,6 @@
 ---
-title: ftm:eth_getBlockByHash \[POST\]
-description: Returns information about the block by hash.
+title: ftm:eth_getBlockByHash - Fantom
+description: Example code for the ftm:eth_getBlockByHash json-rpc method. Сomplete guide on how to use ftm:eth_getBlockByHash json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

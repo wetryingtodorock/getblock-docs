@@ -1,6 +1,6 @@
 ---
-title: movr:system_peers \[POST\] {disallowed}
-description: Returns the currently connected peers.
+title: movr:system_peers  {disallowed} - Moonriver
+description: Example code for the movr:system_peers  {disallowed} json-rpc method. Сomplete guide on how to use movr:system_peers  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

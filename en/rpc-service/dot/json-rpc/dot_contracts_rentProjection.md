@@ -1,6 +1,6 @@
 ---
-title: dot:contracts_rentProjection \[POST\] {disallowed}
-description: Returns the projected time a given contract will be able to sustainpaying its rent.
+title: dot:contracts_rentProjection  {disallowed} - Polkadot
+description: Example code for the dot:contracts_rentProjection  {disallowed} json-rpc method. Сomplete guide on how to use dot:contracts_rentProjection  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

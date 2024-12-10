@@ -1,6 +1,6 @@
 ---
-title: ont:gettransaction \[WebSocket\]
-description: Fetch transaction details for a transaction using given hash.
+title: ont:gettransaction - Ontology
+description: Example code for the ont:gettransaction ws method. Сomplete guide on how to use ont:gettransaction ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

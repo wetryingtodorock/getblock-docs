@@ -1,6 +1,6 @@
 ---
-title: doge:walletlock \[POST\] {disallowed}
-description: Removes the wallet encryption key from memory, locking the wallet. Aftercalling this method, you will need to call walletpassphrase again beforebeing able to call any methods which require the wallet to be unlocked.
+title: doge:walletlock  {disallowed} - Dogecoin
+description: Example code for the doge:walletlock  {disallowed} json-rpc method. Сomplete guide on how to use doge:walletlock  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

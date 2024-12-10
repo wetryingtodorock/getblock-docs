@@ -1,6 +1,6 @@
 ---
-title: arbitrum:shh_post \[WebSocket\] {disallowed}
-description: Sends a whisper message.Note this method is deprecated.
+title: arbitrum:shh_post  {disallowed} - Arbitrum
+description: Example code for the arbitrum:shh_post  {disallowed} ws method. Сomplete guide on how to use arbitrum:shh_post  {disallowed} ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

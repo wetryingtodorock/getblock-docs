@@ -1,6 +1,6 @@
 ---
-title: ont:getnetworkid \[POST\]
-description: Fetch the network ID of the current network.
+title: ont:getnetworkid - Ontology
+description: Example code for the ont:getnetworkid json-rpc method. Сomplete guide on how to use ont:getnetworkid json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

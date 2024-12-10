@@ -1,6 +1,6 @@
 ---
-title: bsv:verifymessage \[POST\]
-description: Verify a signed message
+title: bsv:verifymessage - Bitcoin SV
+description: Example code for the bsv:verifymessage json-rpc method. Сomplete guide on how to use bsv:verifymessage json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

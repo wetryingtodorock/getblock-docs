@@ -1,6 +1,6 @@
 ---
-title: gno:web3_clientVersion \[POST\]
-description: Returns the current client version.
+title: gno:web3_clientVersion - Gnosis
+description: Example code for the gno:web3_clientVersion json-rpc method. Сomplete guide on how to use gno:web3_clientVersion json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

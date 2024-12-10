@@ -1,6 +1,6 @@
 ---
-title: trx:/wallet/createaccount \[POST\] {disallowed}
-description: Create an account. Uses an already activated account to create a newaccount
+title: trx:/wallet/createaccount  {disallowed} - TRON
+description: Example code for the trx:/wallet/createaccount  {disallowed} rest method. Сomplete guide on how to use trx:/wallet/createaccount  {disallowed} rest in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

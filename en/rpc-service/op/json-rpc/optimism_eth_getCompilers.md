@@ -1,6 +1,6 @@
 ---
-title: optimism:eth_getCompilers \[POST\] {disallowed}
-description: Returns a list of available compilers in the client.
+title: optimism:eth_getCompilers  {disallowed} - Optimism
+description: Example code for the optimism:eth_getCompilers  {disallowed} json-rpc method. Сomplete guide on how to use optimism:eth_getCompilers  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

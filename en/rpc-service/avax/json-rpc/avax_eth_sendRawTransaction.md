@@ -1,6 +1,6 @@
 ---
-title: avax:eth_sendRawTransaction \[POST\]
-description: Creates new message call transaction or a contract creation for signedtransactions.
+title: avax:eth_sendRawTransaction - Avalanche
+description: Example code for the avax:eth_sendRawTransaction json-rpc method. Сomplete guide on how to use avax:eth_sendRawTransaction json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

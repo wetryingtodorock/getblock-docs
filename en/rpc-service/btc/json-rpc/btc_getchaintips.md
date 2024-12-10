@@ -1,6 +1,6 @@
 ---
-title: btc:getchaintips \[POST\]
-description: Return information about all known tips in the block tree, including themain chain as well as orphaned branches.
+title: btc:getchaintips - Bitcoin
+description: Example code for the btc:getchaintips json-rpc method. Сomplete guide on how to use btc:getchaintips json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

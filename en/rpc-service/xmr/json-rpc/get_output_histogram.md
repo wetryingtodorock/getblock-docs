@@ -1,6 +1,6 @@
 ---
-title: xmr:get_output_histogram \[POST\] {disallowed}
-description: Get a histogram of output amounts. For all amounts (possibly filtered by parameters), gives the number of outputs on the chain for that amount. RingCT outputs counts as 0 amount.
+title: xmr:get_output_histogram  {disallowed} - Monero
+description: Example code for the xmr:get_output_histogram  {disallowed} json-rpc method. Сomplete guide on how to use xmr:get_output_histogram  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

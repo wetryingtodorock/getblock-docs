@@ -1,6 +1,6 @@
 ---
-title: etc:admin_changeLogLevel \[POST\] {disallowed}
-description: Changes the log level without restarting Besu. You can change the loglevel for all logs, or you can change the log level for specificpackages or classes.You can specify only one log level per RPC call.
+title: etc:admin_changeLogLevel  {disallowed} - Ethereum Classic
+description: Example code for the etc:admin_changeLogLevel  {disallowed} json-rpc method. Сomplete guide on how to use etc:admin_changeLogLevel  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

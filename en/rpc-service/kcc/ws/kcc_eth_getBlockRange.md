@@ -1,6 +1,6 @@
 ---
-title: kcc:eth_getBlockRange \[WebSocket\] {disallowed}
-description: Deprecated.Returns information about array of blocks by block numbers.
+title: kcc:eth_getBlockRange  {disallowed} - KuCoin Community Chain
+description: Example code for the kcc:eth_getBlockRange  {disallowed} ws method. Сomplete guide on how to use kcc:eth_getBlockRange  {disallowed} ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

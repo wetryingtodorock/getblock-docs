@@ -1,6 +1,6 @@
 ---
-title: ftm:eth_getUncleByBlockHashAndIndex \[POST\]
-description: Returns uncle specified by block hash and index.
+title: ftm:eth_getUncleByBlockHashAndIndex - Fantom
+description: Example code for the ftm:eth_getUncleByBlockHashAndIndex json-rpc method. Сomplete guide on how to use ftm:eth_getUncleByBlockHashAndIndex json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

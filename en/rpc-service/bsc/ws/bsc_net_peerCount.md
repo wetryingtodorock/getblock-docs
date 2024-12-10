@@ -1,6 +1,6 @@
 ---
-title: bsc:net_peerCount \[WebSocket\]
-description: Returns the number of peers currently connected to the client.
+title: bsc:net_peerCount - Binance Smart Chain
+description: Example code for the bsc:net_peerCount ws method. Сomplete guide on how to use bsc:net_peerCount ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

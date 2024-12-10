@@ -1,6 +1,6 @@
 ---
-title: bch:walletcreatefundedpsbt \[POST\] {disallowed}
-description: Creates and funds a transaction in the Partially Signed Transactionformat.Implements the Creator and Updater roles.
+title: bch:walletcreatefundedpsbt  {disallowed} - Bitcoin Cash
+description: Example code for the bch:walletcreatefundedpsbt  {disallowed} json-rpc method. Сomplete guide on how to use bch:walletcreatefundedpsbt  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

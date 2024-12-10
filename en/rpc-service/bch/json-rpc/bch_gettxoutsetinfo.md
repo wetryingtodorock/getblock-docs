@@ -1,6 +1,6 @@
 ---
-title: bch:gettxoutsetinfo \[POST\] {disallowed}
-description: Returns statistics about the unspent transaction output set.Note this call may take some time.
+title: bch:gettxoutsetinfo  {disallowed} - Bitcoin Cash
+description: Example code for the bch:gettxoutsetinfo  {disallowed} json-rpc method. Сomplete guide on how to use bch:gettxoutsetinfo  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

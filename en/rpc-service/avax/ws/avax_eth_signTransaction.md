@@ -1,6 +1,6 @@
 ---
-title: avax:eth_signTransaction \[WebSocket\] {disallowed}
-description: Creates new message call transaction or a contract creation, if the datafield contains code.
+title: avax:eth_signTransaction  {disallowed} - Avalanche
+description: Example code for the avax:eth_signTransaction  {disallowed} ws method. Сomplete guide on how to use avax:eth_signTransaction  {disallowed} ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

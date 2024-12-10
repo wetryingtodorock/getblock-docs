@@ -1,6 +1,6 @@
 ---
-title: rsk:eth_getUncleByBlockNumberAndIndex \[POST\]
-description: Returns information about a uncle of a block by number and uncle indexposition.
+title: rsk:eth_getUncleByBlockNumberAndIndex - Rootstock
+description: Example code for the rsk:eth_getUncleByBlockNumberAndIndex json-rpc method. Сomplete guide on how to use rsk:eth_getUncleByBlockNumberAndIndex json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

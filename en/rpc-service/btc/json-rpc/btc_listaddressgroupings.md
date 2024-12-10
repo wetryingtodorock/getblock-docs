@@ -1,6 +1,6 @@
 ---
-title: btc:listaddressgroupings \[POST\] {disallowed}
-description: Lists groups of addresses which have had their common ownership madepublic by common use as inputs or as the resulting change in pasttransactions
+title: btc:listaddressgroupings  {disallowed} - Bitcoin
+description: Example code for the btc:listaddressgroupings  {disallowed} json-rpc method. Сomplete guide on how to use btc:listaddressgroupings  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

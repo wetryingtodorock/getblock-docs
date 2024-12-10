@@ -1,6 +1,6 @@
 ---
-title: fuse:web3_sha3 \[WebSocket\]
-description: Returns Keccak-256 (not the standardized SHA3-256) of the given data.
+title: fuse:web3_sha3 - Fuse Network
+description: Example code for the fuse:web3_sha3 ws method. Сomplete guide on how to use fuse:web3_sha3 ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

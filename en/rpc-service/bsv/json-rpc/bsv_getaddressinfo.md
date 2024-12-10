@@ -1,6 +1,6 @@
 ---
-title: bsv:getaddressinfo \[POST\] {disallowed}
-description: Return information about the given bitcoin address.Some of the information will only be present if the address is in theactive wallet.
+title: bsv:getaddressinfo  {disallowed} - Bitcoin SV
+description: Example code for the bsv:getaddressinfo  {disallowed} json-rpc method. Сomplete guide on how to use bsv:getaddressinfo  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

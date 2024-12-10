@@ -1,6 +1,6 @@
 ---
-title: dash:clearbanned \[POST\] {disallowed}
-description: Clears list of banned nodes.
+title: dash:clearbanned  {disallowed} - Dash
+description: Example code for the dash:clearbanned  {disallowed} json-rpc method. Сomplete guide on how to use dash:clearbanned  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

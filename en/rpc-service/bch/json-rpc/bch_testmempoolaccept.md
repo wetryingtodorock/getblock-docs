@@ -1,6 +1,6 @@
 ---
-title: bch:testmempoolaccept \[POST\]
-description: Returns result of mempool acceptance tests indicating if raw transaction(serialized, hex-encoded) would be accepted by mempool.This checks if the transaction violates the consensus or policy rules.See sendrawtransaction call.
+title: bch:testmempoolaccept - Bitcoin Cash
+description: Example code for the bch:testmempoolaccept json-rpc method. Сomplete guide on how to use bch:testmempoolaccept json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: ksm:author_insertKey \[POST\] {disallowed}
-description: Insert a key into the keystore.
+title: ksm:author_insertKey  {disallowed} - Kusama
+description: Example code for the ksm:author_insertKey  {disallowed} json-rpc method. Сomplete guide on how to use ksm:author_insertKey  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

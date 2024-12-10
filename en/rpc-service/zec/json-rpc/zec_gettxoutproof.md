@@ -1,6 +1,6 @@
 ---
-title: zec:gettxoutproof \[POST\]
-description: Returns a hex-encoded proof that txid was included in a block.NOTE By default this function only works sometimes. This is when thereis an unspent output in the utxo for this transaction.To make it always work, you need to maintain a transaction index, usingthe -txindex command line option or specify the block in which thetransaction is included in manually (by blockhash).
+title: zec:gettxoutproof - Zcash
+description: Example code for the zec:gettxoutproof json-rpc method. Сomplete guide on how to use zec:gettxoutproof json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

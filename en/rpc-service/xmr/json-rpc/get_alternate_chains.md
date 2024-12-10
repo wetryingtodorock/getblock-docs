@@ -1,6 +1,6 @@
 ---
-title: xmr:get_alternate_chains \[POST\]
-description: Display alternative chains seen by the node.
+title: xmr:get_alternate_chains - Monero
+description: Example code for the xmr:get_alternate_chains json-rpc method. Сomplete guide on how to use xmr:get_alternate_chains json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

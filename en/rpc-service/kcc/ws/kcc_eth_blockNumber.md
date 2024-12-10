@@ -1,6 +1,6 @@
 ---
-title: kcc:eth_blockNumber \[WebSocket\]
-description: Returns the number of most recent block.
+title: kcc:eth_blockNumber - KuCoin Community Chain
+description: Example code for the kcc:eth_blockNumber ws method. Сomplete guide on how to use kcc:eth_blockNumber ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

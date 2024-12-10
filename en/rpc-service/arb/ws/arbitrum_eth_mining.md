@@ -1,6 +1,6 @@
 ---
-title: arbitrum:eth_mining \[WebSocket\] {disallowed}
-description: Returns true if client is actively mining new blocks.
+title: arbitrum:eth_mining  {disallowed} - Arbitrum
+description: Example code for the arbitrum:eth_mining  {disallowed} ws method. Сomplete guide on how to use arbitrum:eth_mining  {disallowed} ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

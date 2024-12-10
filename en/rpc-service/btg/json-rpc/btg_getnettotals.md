@@ -1,6 +1,6 @@
 ---
-title: btg:getnettotals \[POST\] {disallowed}
-description: Returns information about network traffic, including bytes in, bytesout, and current time.
+title: btg:getnettotals  {disallowed} - Bitcoin Gold
+description: Example code for the btg:getnettotals  {disallowed} json-rpc method. Сomplete guide on how to use btg:getnettotals  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

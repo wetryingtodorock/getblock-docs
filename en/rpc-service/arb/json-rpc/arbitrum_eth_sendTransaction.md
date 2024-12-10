@@ -1,6 +1,6 @@
 ---
-title: arbitrum:eth_sendTransaction \[POST\]
-description: Creates new message call transaction or a contract creation, if the datafield contains code.
+title: arbitrum:eth_sendTransaction - Arbitrum
+description: Example code for the arbitrum:eth_sendTransaction json-rpc method. Сomplete guide on how to use arbitrum:eth_sendTransaction json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

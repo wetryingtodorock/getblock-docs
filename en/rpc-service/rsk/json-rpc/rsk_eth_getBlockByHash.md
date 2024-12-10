@@ -1,6 +1,6 @@
 ---
-title: rsk:eth_getBlockByHash \[POST\]
-description: Returns information about a block by hash.
+title: rsk:eth_getBlockByHash - Rootstock
+description: Example code for the rsk:eth_getBlockByHash json-rpc method. Сomplete guide on how to use rsk:eth_getBlockByHash json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

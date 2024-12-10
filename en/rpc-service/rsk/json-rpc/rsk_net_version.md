@@ -1,6 +1,6 @@
 ---
-title: rsk:net_version \[POST\]
-description: Returns the current network id.
+title: rsk:net_version - Rootstock
+description: Example code for the rsk:net_version json-rpc method. Сomplete guide on how to use rsk:net_version json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

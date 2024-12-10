@@ -1,6 +1,6 @@
 ---
-title: optimism:eth_protocolVersion \[POST\]
-description: Returns the current ethereum protocol version.
+title: optimism:eth_protocolVersion - Optimism
+description: Example code for the optimism:eth_protocolVersion json-rpc method. Сomplete guide on how to use optimism:eth_protocolVersion json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

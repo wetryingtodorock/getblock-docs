@@ -1,6 +1,6 @@
 ---
-title: eth:eth_getBalance \[WebSocket\]
-description: Returns the account balance of the specified address.
+title: eth:eth_getBalance - Ethereum
+description: Example code for the eth:eth_getBalance ws method. Сomplete guide on how to use eth:eth_getBalance ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

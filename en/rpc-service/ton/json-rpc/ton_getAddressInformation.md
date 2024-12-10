@@ -1,6 +1,6 @@
 ---
-title: ton:/getAddressInformation \[GET\]
-description: Get basic information about the address balance, code, data,last_transaction_id.
+title: ton:/getAddressInformation - The Open Network (TON)
+description: Example code for the ton:/getAddressInformation json-rpc method. Сomplete guide on how to use ton:/getAddressInformation json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

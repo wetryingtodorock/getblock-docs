@@ -1,6 +1,6 @@
 ---
-title: avax:eth_sendTransaction \[WebSocket\] {disallowed}
-description: Not supported by Optimism.Creates new message call transaction or a contract creation, if the datafield contains code.
+title: avax:eth_sendTransaction  {disallowed} - Avalanche
+description: Example code for the avax:eth_sendTransaction  {disallowed} ws method. Сomplete guide on how to use avax:eth_sendTransaction  {disallowed} ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

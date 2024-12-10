@@ -1,6 +1,6 @@
 ---
-title: ont:/api/v1/block/details/hash/{hash} \[GET\]
-description: Fetch block details by block hash
+title: ont:/api/v1/block/details/hash/{hash} - Ontology
+description: Example code for the ont:/api/v1/block/details/hash/{hash} rest method. Сomplete guide on how to use ont:/api/v1/block/details/hash/{hash} rest in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

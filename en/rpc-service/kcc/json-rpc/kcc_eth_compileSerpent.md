@@ -1,6 +1,6 @@
 ---
-title: kcc:eth_compileSerpent \[POST\] {disallowed}
-description: Returns compiled serpent code.
+title: kcc:eth_compileSerpent  {disallowed} - KuCoin Community Chain
+description: Example code for the kcc:eth_compileSerpent  {disallowed} json-rpc method. Сomplete guide on how to use kcc:eth_compileSerpent  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: eth:debug_metrics \[POST\] {disallowed}
-description: Returns metrics providing information on the internal operation of Besu.The available metrics might change over time. The JVM metrics might varybased on the JVM implementation used.
+title: eth:debug_metrics  {disallowed} - Ethereum
+description: Example code for the eth:debug_metrics  {disallowed} json-rpc method. Сomplete guide on how to use eth:debug_metrics  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

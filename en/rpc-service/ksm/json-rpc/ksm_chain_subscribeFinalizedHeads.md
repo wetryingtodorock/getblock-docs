@@ -1,6 +1,6 @@
 ---
-title: ksm:chain_subscribeFinalizedHeads \[POST\] {disallowed}
-description: Retrieves the best finalized header via subscription.
+title: ksm:chain_subscribeFinalizedHeads  {disallowed} - Kusama
+description: Example code for the ksm:chain_subscribeFinalizedHeads  {disallowed} json-rpc method. Сomplete guide on how to use ksm:chain_subscribeFinalizedHeads  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

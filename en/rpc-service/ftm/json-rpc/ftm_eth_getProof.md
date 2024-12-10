@@ -1,6 +1,6 @@
 ---
-title: ftm:eth_getProof \[POST\]
-description: Returns the account and storage values of the specified account,including the Merkle proof.The API allows IoT devices or mobile apps which are unable to run lightclients to verify responses from untrusted sources, by using a trustedblock hash.
+title: ftm:eth_getProof - Fantom
+description: Example code for the ftm:eth_getProof json-rpc method. Сomplete guide on how to use ftm:eth_getProof json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

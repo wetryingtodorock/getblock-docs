@@ -1,6 +1,6 @@
 ---
-title: dot:state_queryStorageAt \[POST\] {disallowed}
-description: Query storage entries (by key) starting at block hash given as thesecond parameter.
+title: dot:state_queryStorageAt  {disallowed} - Polkadot
+description: Example code for the dot:state_queryStorageAt  {disallowed} json-rpc method. Сomplete guide on how to use dot:state_queryStorageAt  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

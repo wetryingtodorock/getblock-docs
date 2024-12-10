@@ -1,6 +1,6 @@
 ---
-title: rsk:eth_getTransactionCount \[POST\]
-description: Returns the number of transactions sent from an address.
+title: rsk:eth_getTransactionCount - Rootstock
+description: Example code for the rsk:eth_getTransactionCount json-rpc method. Сomplete guide on how to use rsk:eth_getTransactionCount json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

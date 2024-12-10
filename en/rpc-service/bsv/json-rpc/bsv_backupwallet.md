@@ -1,6 +1,6 @@
 ---
-title: bsv:backupwallet \[POST\] {disallowed}
-description: Safely copies current wallet file to destination, which can be adirectory or a path with filename.
+title: bsv:backupwallet  {disallowed} - Bitcoin SV
+description: Example code for the bsv:backupwallet  {disallowed} json-rpc method. Сomplete guide on how to use bsv:backupwallet  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

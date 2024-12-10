@@ -1,6 +1,6 @@
 ---
-title: dash:prioritisetransaction \[POST\] {disallowed}
-description: adds virtual priority or fee to a transaction, allowing it to beaccepted into blocks mined by this node (or miners which use this node)with a lower priority or fee.(It can also remove virtual priority or fee, requiring the transactionhave a higher priority or fee to be accepted into a locally-minedblock.)
+title: dash:prioritisetransaction  {disallowed} - Dash
+description: Example code for the dash:prioritisetransaction  {disallowed} json-rpc method. Сomplete guide on how to use dash:prioritisetransaction  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

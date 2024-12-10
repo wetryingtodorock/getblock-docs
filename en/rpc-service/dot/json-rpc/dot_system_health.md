@@ -1,6 +1,6 @@
 ---
-title: dot:system_health \[POST\]
-description: Return health status of the node
+title: dot:system_health - Polkadot
+description: Example code for the dot:system_health json-rpc method. Сomplete guide on how to use dot:system_health json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

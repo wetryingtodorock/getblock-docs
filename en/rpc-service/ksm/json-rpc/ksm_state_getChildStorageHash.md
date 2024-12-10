@@ -1,6 +1,6 @@
 ---
-title: ksm:state_getChildStorageHash \[POST\] {disallowed}
-description: Retrieves the child storage hash.
+title: ksm:state_getChildStorageHash  {disallowed} - Kusama
+description: Example code for the ksm:state_getChildStorageHash  {disallowed} json-rpc method. Сomplete guide on how to use ksm:state_getChildStorageHash  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

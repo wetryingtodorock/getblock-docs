@@ -1,6 +1,6 @@
 ---
-title: ksm:babe_epochAuthorship \[POST\] {disallowed}
-description: Returns data about which slots (primary or secondary) can be claimed inthe current epoch with the keys in the keystore.
+title: ksm:babe_epochAuthorship  {disallowed} - Kusama
+description: Example code for the ksm:babe_epochAuthorship  {disallowed} json-rpc method. Сomplete guide on how to use ksm:babe_epochAuthorship  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

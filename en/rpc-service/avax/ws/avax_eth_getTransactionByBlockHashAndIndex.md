@@ -1,6 +1,6 @@
 ---
-title: avax:eth_getTransactionByBlockHashAndIndex \[WebSocket\]
-description: Returns information about a transaction by block hash and transactionindex position.
+title: avax:eth_getTransactionByBlockHashAndIndex - Avalanche
+description: Example code for the avax:eth_getTransactionByBlockHashAndIndex ws method. Сomplete guide on how to use avax:eth_getTransactionByBlockHashAndIndex ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

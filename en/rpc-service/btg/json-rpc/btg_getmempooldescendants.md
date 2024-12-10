@@ -1,6 +1,6 @@
 ---
-title: btg:getmempooldescendants \[POST\]
-description: If txid is in the mempool, returns all in-mempool descendants.
+title: btg:getmempooldescendants - Bitcoin Gold
+description: Example code for the btg:getmempooldescendants json-rpc method. Сomplete guide on how to use btg:getmempooldescendants json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

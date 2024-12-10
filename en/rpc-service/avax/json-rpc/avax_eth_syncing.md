@@ -1,6 +1,6 @@
 ---
-title: avax:eth_syncing \[POST\]
-description: Returns an object with data about the sync status or false.
+title: avax:eth_syncing - Avalanche
+description: Example code for the avax:eth_syncing json-rpc method. Сomplete guide on how to use avax:eth_syncing json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: optimism:eth_getCompilers \[WebSocket\] {disallowed}
-description: Returns a list of available compilers in the client.
+title: optimism:eth_getCompilers  {disallowed} - Optimism
+description: Example code for the optimism:eth_getCompilers  {disallowed} ws method. Сomplete guide on how to use optimism:eth_getCompilers  {disallowed} ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

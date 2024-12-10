@@ -1,6 +1,6 @@
 ---
-title: bsc:eth_getBalance \[POST\]
-description: Returns the account balance of the specified address.
+title: bsc:eth_getBalance - Binance Smart Chain
+description: Example code for the bsc:eth_getBalance json-rpc method. Сomplete guide on how to use bsc:eth_getBalance json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

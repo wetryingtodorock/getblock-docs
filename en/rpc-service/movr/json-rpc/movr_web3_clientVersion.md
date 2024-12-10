@@ -1,6 +1,6 @@
 ---
-title: movr:web3_clientVersion \[POST\] {disallowed}
-description: Returns current client version.
+title: movr:web3_clientVersion  {disallowed} - Moonriver
+description: Example code for the movr:web3_clientVersion  {disallowed} json-rpc method. Сomplete guide on how to use movr:web3_clientVersion  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

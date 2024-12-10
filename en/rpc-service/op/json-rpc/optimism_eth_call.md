@@ -1,6 +1,6 @@
 ---
-title: optimism:eth_call \[POST\]
-description: Executes a new message call immediately without creating a transactionon the block chain.
+title: optimism:eth_call - Optimism
+description: Example code for the optimism:eth_call json-rpc method. Сomplete guide on how to use optimism:eth_call json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

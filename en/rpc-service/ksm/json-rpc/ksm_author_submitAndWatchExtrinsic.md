@@ -1,6 +1,6 @@
 ---
-title: ksm:author_submitAndWatchExtrinsic \[POST\] {disallowed}
-description: Submit and subscribe to watch an extrinsic until unsubscribed
+title: ksm:author_submitAndWatchExtrinsic  {disallowed} - Kusama
+description: Example code for the ksm:author_submitAndWatchExtrinsic  {disallowed} json-rpc method. Сomplete guide on how to use ksm:author_submitAndWatchExtrinsic  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

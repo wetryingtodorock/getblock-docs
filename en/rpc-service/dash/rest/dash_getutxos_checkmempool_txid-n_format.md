@@ -1,6 +1,6 @@
 ---
-title: dash:/getutxos/{checkmempool}/{txid-n}{format} \[GET\]
-description: The GET getutxos operation returns an UTXO set given a set of outpoints.
+title: dash:/getutxos/{checkmempool}/{txid-n}{format} - Dash
+description: Example code for the dash:/getutxos/{checkmempool}/{txid-n}{format} rest method. Сomplete guide on how to use dash:/getutxos/{checkmempool}/{txid-n}{format} rest in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

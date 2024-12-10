@@ -1,6 +1,6 @@
 ---
-title: dot:eth_submitWork \[POST\] {disallowed}
-description: Used for submitting a proof-of-work solution.
+title: dot:eth_submitWork  {disallowed} - Polkadot
+description: Example code for the dot:eth_submitWork  {disallowed} json-rpc method. Сomplete guide on how to use dot:eth_submitWork  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

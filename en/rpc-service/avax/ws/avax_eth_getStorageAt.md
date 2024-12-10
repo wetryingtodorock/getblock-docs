@@ -1,6 +1,6 @@
 ---
-title: avax:eth_getStorageAt \[WebSocket\]
-description: Returns the value from a storage position at a given address.
+title: avax:eth_getStorageAt - Avalanche
+description: Example code for the avax:eth_getStorageAt ws method. Сomplete guide on how to use avax:eth_getStorageAt ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

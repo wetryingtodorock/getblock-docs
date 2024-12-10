@@ -1,6 +1,6 @@
 ---
-title: apt:/v1/estimate_gas_price \[GET\]
-description: Returns the median of the last 100,000 transactions. Transactions with more gas are prioritized.
+title: apt:/v1/estimate_gas_price - Aptos
+description: Example code for the apt:/v1/estimate_gas_price json-rpc method. Сomplete guide on how to use apt:/v1/estimate_gas_price json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

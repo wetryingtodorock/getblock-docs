@@ -1,6 +1,6 @@
 ---
-title: heco:eth_getUncleByBlockHashAndIndex \[POST\]
-description: Returns information about a uncle of a block by hash and uncle indexposition.
+title: heco:eth_getUncleByBlockHashAndIndex - Huobi ECO Chain
+description: Example code for the heco:eth_getUncleByBlockHashAndIndex json-rpc method. Сomplete guide on how to use heco:eth_getUncleByBlockHashAndIndex json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

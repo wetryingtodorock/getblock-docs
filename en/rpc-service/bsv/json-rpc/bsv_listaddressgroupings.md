@@ -1,6 +1,6 @@
 ---
-title: bsv:listaddressgroupings \[POST\] {disallowed}
-description: Lists groups of addresses which have had their common ownership madepublic by common use as inputs or as the resulting change in pasttransactions
+title: bsv:listaddressgroupings  {disallowed} - Bitcoin SV
+description: Example code for the bsv:listaddressgroupings  {disallowed} json-rpc method. Сomplete guide on how to use bsv:listaddressgroupings  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

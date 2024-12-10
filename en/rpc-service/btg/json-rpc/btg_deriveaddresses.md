@@ -1,6 +1,6 @@
 ---
-title: btg:deriveaddresses \[POST\]
-description: Derives one or more addresses corresponding to an output descriptor.In the above, pubkey either refers to a fixed public key in hexadecimalnotation, or to an xpub/xprv optionally followed by one or more pathelements separated by /, where h represents a hardened child key.For more information on output descriptors, see the documentation in thedoc/descriptors.md file.
+title: btg:deriveaddresses - Bitcoin Gold
+description: Example code for the btg:deriveaddresses json-rpc method. Сomplete guide on how to use btg:deriveaddresses json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

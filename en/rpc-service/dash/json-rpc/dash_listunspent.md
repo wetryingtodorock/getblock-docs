@@ -1,6 +1,6 @@
 ---
-title: dash:listunspent \[POST\] {disallowed}
-description: Returns an array of unspent transaction outputs belonging to thiswallet.Note as of Bitcoin Core 0.10.0, outputs affecting watch-only addresseswill be returned see the spendable field in the results describedbelow.
+title: dash:listunspent  {disallowed} - Dash
+description: Example code for the dash:listunspent  {disallowed} json-rpc method. Сomplete guide on how to use dash:listunspent  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: rsk:db_getString \[POST\] {disallowed}
-description: Deprecated
+title: rsk:db_getString  {disallowed} - Rootstock
+description: Example code for the rsk:db_getString  {disallowed} json-rpc method. Сomplete guide on how to use rsk:db_getString  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

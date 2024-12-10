@@ -1,6 +1,6 @@
 ---
-title: btg:listlockunspent \[POST\] {disallowed}
-description: Returns list of temporarily unspendable outputs.See the lockunspent call to lock and unlock transactions for spending.
+title: btg:listlockunspent  {disallowed} - Bitcoin Gold
+description: Example code for the btg:listlockunspent  {disallowed} json-rpc method. Сomplete guide on how to use btg:listlockunspent  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

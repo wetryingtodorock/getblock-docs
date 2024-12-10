@@ -1,6 +1,6 @@
 ---
-title: fuse:eth_protocolVersion \[WebSocket\]
-description: Returns the current ethereum protocol version.
+title: fuse:eth_protocolVersion - Fuse Network
+description: Example code for the fuse:eth_protocolVersion ws method. Сomplete guide on how to use fuse:eth_protocolVersion ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

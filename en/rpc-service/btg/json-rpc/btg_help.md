@@ -1,6 +1,6 @@
 ---
-title: btg:help \[POST\]
-description: List all commands, or get help for a specified command.
+title: btg:help - Bitcoin Gold
+description: Example code for the btg:help json-rpc method. Сomplete guide on how to use btg:help json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

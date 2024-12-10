@@ -1,6 +1,6 @@
 ---
-title: gno:eth_mining \[POST\]
-description: Whether the client is actively mining new blocks. Besu pauses miningwhile the client synchronizes with the network regardless of commandsettings or methods called.
+title: gno:eth_mining - Gnosis
+description: Example code for the gno:eth_mining json-rpc method. Сomplete guide on how to use gno:eth_mining json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

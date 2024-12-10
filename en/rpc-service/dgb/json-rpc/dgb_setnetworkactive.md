@@ -1,6 +1,6 @@
 ---
-title: dgb:setnetworkactive \[POST\] {disallowed}
-description: Disable/enable all p2p network activity.
+title: dgb:setnetworkactive  {disallowed} - DigiByte
+description: Example code for the dgb:setnetworkactive  {disallowed} json-rpc method. Сomplete guide on how to use dgb:setnetworkactive  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

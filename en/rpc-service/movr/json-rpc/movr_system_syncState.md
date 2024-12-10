@@ -1,6 +1,6 @@
 ---
-title: movr:system_syncState \[POST\]
-description: Returns the state of the syncing of the node.
+title: movr:system_syncState - Moonriver
+description: Example code for the movr:system_syncState json-rpc method. Сomplete guide on how to use movr:system_syncState json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

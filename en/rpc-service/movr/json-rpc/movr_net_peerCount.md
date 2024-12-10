@@ -1,6 +1,6 @@
 ---
-title: movr:net_peerCount \[POST\] {disallowed}
-description: Returns number of peers connected to node.
+title: movr:net_peerCount  {disallowed} - Moonriver
+description: Example code for the movr:net_peerCount  {disallowed} json-rpc method. Сomplete guide on how to use movr:net_peerCount  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

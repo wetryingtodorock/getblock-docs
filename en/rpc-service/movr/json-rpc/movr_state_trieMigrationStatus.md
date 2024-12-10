@@ -1,6 +1,6 @@
 ---
-title: movr:state_trieMigrationStatus \[POST\] {disallowed}
-description: Check current migration stateThis method is only active with appropriate flags
+title: movr:state_trieMigrationStatus  {disallowed} - Moonriver
+description: Example code for the movr:state_trieMigrationStatus  {disallowed} json-rpc method. Сomplete guide on how to use movr:state_trieMigrationStatus  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

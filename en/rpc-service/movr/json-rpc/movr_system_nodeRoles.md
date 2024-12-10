@@ -1,6 +1,6 @@
 ---
-title: movr:system_nodeRoles \[POST\] {disallowed}
-description: Returns the roles the node is running as.
+title: movr:system_nodeRoles  {disallowed} - Moonriver
+description: Example code for the movr:system_nodeRoles  {disallowed} json-rpc method. Сomplete guide on how to use movr:system_nodeRoles  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

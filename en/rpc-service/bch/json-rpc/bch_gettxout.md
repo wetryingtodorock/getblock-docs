@@ -1,6 +1,6 @@
 ---
-title: bch:gettxout \[POST\]
-description: Returns details about an unspent transaction output.
+title: bch:gettxout - Bitcoin Cash
+description: Example code for the bch:gettxout json-rpc method. Сomplete guide on how to use bch:gettxout json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

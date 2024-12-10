@@ -1,6 +1,6 @@
 ---
-title: trx:/wallet/getblockbylimitnext \[POST\]
-description: Returns the list of Block Objects included in the Block Height rangespecified.
+title: trx:/wallet/getblockbylimitnext - TRON
+description: Example code for the trx:/wallet/getblockbylimitnext rest method. Сomplete guide on how to use trx:/wallet/getblockbylimitnext rest in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

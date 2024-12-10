@@ -1,6 +1,6 @@
 ---
-title: matic:eth_getBlockTransactionCountByHash \[WebSocket\]
-description: Returns the number of transactions in a block from a block matching thegiven block hash.
+title: matic:eth_getBlockTransactionCountByHash - Polygon
+description: Example code for the matic:eth_getBlockTransactionCountByHash ws method. Сomplete guide on how to use matic:eth_getBlockTransactionCountByHash ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

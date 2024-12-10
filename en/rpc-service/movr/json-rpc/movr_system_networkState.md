@@ -1,6 +1,6 @@
 ---
-title: movr:system_networkState \[POST\] {disallowed}
-description: Returns current state of the network.
+title: movr:system_networkState  {disallowed} - Moonriver
+description: Example code for the movr:system_networkState  {disallowed} json-rpc method. Сomplete guide on how to use movr:system_networkState  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

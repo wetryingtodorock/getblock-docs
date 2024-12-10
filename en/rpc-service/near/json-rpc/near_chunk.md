@@ -1,6 +1,6 @@
 ---
-title: near:chunk \[POST\]
-description: Returns details of a specific chunk. You can run a block details queryto get a valid chunk hash.
+title: near:chunk - NEAR Protocol
+description: Example code for the near:chunk json-rpc method. Сomplete guide on how to use near:chunk json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: zec:z_listreceivedbyaddress \[POST\] {disallowed}
-description: Return a list of amounts received by a zaddr belonging to the nodeswallet.
+title: zec:z_listreceivedbyaddress  {disallowed} - Zcash
+description: Example code for the zec:z_listreceivedbyaddress  {disallowed} json-rpc method. Сomplete guide on how to use zec:z_listreceivedbyaddress  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

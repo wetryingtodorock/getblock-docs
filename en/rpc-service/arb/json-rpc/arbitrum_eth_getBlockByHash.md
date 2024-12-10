@@ -1,6 +1,6 @@
 ---
-title: arbitrum:eth_getBlockByHash \[POST\]
-description: Returns information about a block by hash.
+title: arbitrum:eth_getBlockByHash - Arbitrum
+description: Example code for the arbitrum:eth_getBlockByHash json-rpc method. Сomplete guide on how to use arbitrum:eth_getBlockByHash json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

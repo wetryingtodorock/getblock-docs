@@ -1,6 +1,6 @@
 ---
-title: btg:removeprunedfunds \[POST\] {disallowed}
-description: Deletes the specified transaction from the wallet. Meant for use withpruned wallets and as a companion to importprunedfunds. This will affectwallet balances.
+title: btg:removeprunedfunds  {disallowed} - Bitcoin Gold
+description: Example code for the btg:removeprunedfunds  {disallowed} json-rpc method. Сomplete guide on how to use btg:removeprunedfunds  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

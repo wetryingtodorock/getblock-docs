@@ -1,6 +1,6 @@
 ---
-title: matic:eth_getBalance \[WebSocket\]
-description: Returns the balance of the account of given address.
+title: matic:eth_getBalance - Polygon
+description: Example code for the matic:eth_getBalance ws method. Сomplete guide on how to use matic:eth_getBalance ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: etc:eth_getTransactionByBlockNumberAndIndex \[POST\]
-description: Returns transaction information for the specified block number andtransaction index position.
+title: etc:eth_getTransactionByBlockNumberAndIndex - Ethereum Classic
+description: Example code for the etc:eth_getTransactionByBlockNumberAndIndex json-rpc method. Сomplete guide on how to use etc:eth_getTransactionByBlockNumberAndIndex json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

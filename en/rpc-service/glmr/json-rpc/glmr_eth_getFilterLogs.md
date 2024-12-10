@@ -1,6 +1,6 @@
 ---
-title: glmr:eth_getFilterLogs \[POST\]
-description: Returns an array of all logs matching filter with given id.
+title: glmr:eth_getFilterLogs - Moonbeam
+description: Example code for the glmr:eth_getFilterLogs json-rpc method. Сomplete guide on how to use glmr:eth_getFilterLogs json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

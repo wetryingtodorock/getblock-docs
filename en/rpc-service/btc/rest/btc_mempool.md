@@ -1,6 +1,6 @@
 ---
-title: btc:mempool \[GET\]
-description: Returns various information about the TX mempool. Only supports JSON as output format. Refer to the getmempoolinfo RPC for documentation of the fields.
+title: btc:mempool - Bitcoin
+description: Example code for the btc:mempool rest method. Сomplete guide on how to use btc:mempool rest in GetBlock.io Web3 documentation.
 ---
 
 ### Example

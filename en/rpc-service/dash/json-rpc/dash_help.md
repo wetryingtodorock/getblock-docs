@@ -1,6 +1,6 @@
 ---
-title: dash:help \[POST\]
-description: lists all available public RPC commands, or gets help for the specifiedRPC.Commands which are unavailable will not be listed, such as wallet RPCsif wallet support is disabled.
+title: dash:help - Dash
+description: Example code for the dash:help json-rpc method. Сomplete guide on how to use dash:help json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

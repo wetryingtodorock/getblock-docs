@@ -1,6 +1,6 @@
 ---
-title: bsv:listtransactions \[POST\] {disallowed}
-description: If a label name is provided, this will return only incoming transactionspaying to addresses with the specified label.Returns up to ‘count’ most recent transactions skipping the first ‘from’transactions.
+title: bsv:listtransactions  {disallowed} - Bitcoin SV
+description: Example code for the bsv:listtransactions  {disallowed} json-rpc method. Сomplete guide on how to use bsv:listtransactions  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

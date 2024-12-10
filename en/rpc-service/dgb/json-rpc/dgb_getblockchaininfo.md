@@ -1,6 +1,6 @@
 ---
-title: dgb:getblockchaininfo \[POST\]
-description: Returns an object containing various state info regarding blockchainprocessing.
+title: dgb:getblockchaininfo - DigiByte
+description: Example code for the dgb:getblockchaininfo json-rpc method. Сomplete guide on how to use dgb:getblockchaininfo json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

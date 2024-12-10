@@ -1,6 +1,6 @@
 ---
-title: optimism:eth_getTransactionByHash \[POST\]
-description: Returns the information about a transaction requested by transactionhash.
+title: optimism:eth_getTransactionByHash - Optimism
+description: Example code for the optimism:eth_getTransactionByHash json-rpc method. Сomplete guide on how to use optimism:eth_getTransactionByHash json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

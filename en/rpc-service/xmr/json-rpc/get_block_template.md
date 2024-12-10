@@ -1,6 +1,6 @@
 ---
-title: xmr:get_block_template \[POST\]
-description: Get a block template on which mining a new block.
+title: xmr:get_block_template - Monero
+description: Example code for the xmr:get_block_template json-rpc method. Сomplete guide on how to use xmr:get_block_template json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

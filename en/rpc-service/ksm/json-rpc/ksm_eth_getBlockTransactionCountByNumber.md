@@ -1,6 +1,6 @@
 ---
-title: ksm:eth_getBlockTransactionCountByNumber \[POST\] {disallowed}
-description: Returns the number of transactions in a block with given block number.
+title: ksm:eth_getBlockTransactionCountByNumber  {disallowed} - Kusama
+description: Example code for the ksm:eth_getBlockTransactionCountByNumber  {disallowed} json-rpc method. Сomplete guide on how to use ksm:eth_getBlockTransactionCountByNumber  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

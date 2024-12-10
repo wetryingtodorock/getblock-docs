@@ -1,6 +1,6 @@
 ---
-title: one:eth_getBlockReceipts \[POST\]
-description: Returns all transaction receipts for a given block.
+title: one:eth_getBlockReceipts - Harmony
+description: Example code for the one:eth_getBlockReceipts json-rpc method. Сomplete guide on how to use one:eth_getBlockReceipts json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

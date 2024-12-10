@@ -1,6 +1,6 @@
 ---
-title: eth:priv_uninstallFilter \[POST\] {disallowed}
-description: Uninstalls a filter for a private contract with the specified ID. When afilter is no longer required, call this method.Filters time out when not requested by priv_getFilterChanges orpriv_getFilterLogs for 10 minutes.For private contracts, priv_uninstallFilter is the same aseth_uninstallFilter for public contracts.
+title: eth:priv_uninstallFilter  {disallowed} - Ethereum
+description: Example code for the eth:priv_uninstallFilter  {disallowed} json-rpc method. Сomplete guide on how to use eth:priv_uninstallFilter  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

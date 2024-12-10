@@ -1,6 +1,6 @@
 ---
-title: bsc:version \[WebSocket\] {disallowed}
-description: Returns the current whisper protocol version.
+title: bsc:version  {disallowed} - Binance Smart Chain
+description: Example code for the bsc:version  {disallowed} ws method. Сomplete guide on how to use bsc:version  {disallowed} ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

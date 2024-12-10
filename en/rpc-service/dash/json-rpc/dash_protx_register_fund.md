@@ -1,6 +1,6 @@
 ---
-title: dash:protx_register_fund \[POST\] {disallowed}
-description: RPC creates and funds a ProRegTx with the 1,000 DASH necessary for amasternode and then sends it to the network.
+title: dash:protx_register_fund  {disallowed} - Dash
+description: Example code for the dash:protx_register_fund  {disallowed} json-rpc method. Сomplete guide on how to use dash:protx_register_fund  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

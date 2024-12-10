@@ -1,6 +1,6 @@
 ---
-title: movr:sync_state_genSyncSpec \[POST\] {disallowed}
-description: Returns the json-serialized chainspec running the node, with a syncstate.
+title: movr:sync_state_genSyncSpec  {disallowed} - Moonriver
+description: Example code for the movr:sync_state_genSyncSpec  {disallowed} json-rpc method. Сomplete guide on how to use movr:sync_state_genSyncSpec  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

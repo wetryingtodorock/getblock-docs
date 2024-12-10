@@ -1,6 +1,6 @@
 ---
-title: bsv:getblockhash \[POST\]
-description: Returns hash of block in best-block-chain at height provided.
+title: bsv:getblockhash - Bitcoin SV
+description: Example code for the bsv:getblockhash json-rpc method. Сomplete guide on how to use bsv:getblockhash json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

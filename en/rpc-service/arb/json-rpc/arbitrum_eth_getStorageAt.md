@@ -1,6 +1,6 @@
 ---
-title: arbitrum:eth_getStorageAt \[POST\]
-description: Returns the value from a storage position at a given address.
+title: arbitrum:eth_getStorageAt - Arbitrum
+description: Example code for the arbitrum:eth_getStorageAt json-rpc method. Сomplete guide on how to use arbitrum:eth_getStorageAt json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

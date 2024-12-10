@@ -1,6 +1,6 @@
 ---
-title: fuse:rpc_modules \[POST\]
-description: Lists enabled APIs and the version of each.
+title: fuse:rpc_modules - Fuse Network
+description: Example code for the fuse:rpc_modules json-rpc method. Сomplete guide on how to use fuse:rpc_modules json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

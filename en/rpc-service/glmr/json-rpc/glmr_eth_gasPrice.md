@@ -1,6 +1,6 @@
 ---
-title: glmr:eth_gasPrice \[POST\]
-description: Returns the current price per gas in wei.
+title: glmr:eth_gasPrice - Moonbeam
+description: Example code for the glmr:eth_gasPrice json-rpc method. Сomplete guide on how to use glmr:eth_gasPrice json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: arbitrum:eth_getTransactionByBlockHashAndIndex \[WebSocket\]
-description: Returns information about a transaction by block hash and transactionindex position.
+title: arbitrum:eth_getTransactionByBlockHashAndIndex - Arbitrum
+description: Example code for the arbitrum:eth_getTransactionByBlockHashAndIndex ws method. Сomplete guide on how to use arbitrum:eth_getTransactionByBlockHashAndIndex ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

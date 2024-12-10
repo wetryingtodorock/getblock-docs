@@ -1,6 +1,6 @@
 ---
-title: ftm:eth_chainId \[POST\]
-description: Returns the chain ID.
+title: ftm:eth_chainId - Fantom
+description: Example code for the ftm:eth_chainId json-rpc method. Сomplete guide on how to use ftm:eth_chainId json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

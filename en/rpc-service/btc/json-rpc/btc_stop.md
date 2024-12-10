@@ -1,6 +1,6 @@
 ---
-title: btc:stop \[POST\] {disallowed}
-description: Stop Bitcoin server.
+title: btc:stop  {disallowed} - Bitcoin
+description: Example code for the btc:stop  {disallowed} json-rpc method. Сomplete guide on how to use btc:stop  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

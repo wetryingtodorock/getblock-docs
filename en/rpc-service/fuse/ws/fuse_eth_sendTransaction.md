@@ -1,6 +1,6 @@
 ---
-title: fuse:eth_sendTransaction \[WebSocket\]
-description: Creates new message call transaction or a contract creation, if the datafield contains code.
+title: fuse:eth_sendTransaction - Fuse Network
+description: Example code for the fuse:eth_sendTransaction ws method. Сomplete guide on how to use fuse:eth_sendTransaction ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

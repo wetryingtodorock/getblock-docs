@@ -1,6 +1,6 @@
 ---
-title: dot:author_hasSessionKeys \[POST\] {disallowed}
-description: Returns true if the keystore has private keys for the given sessionpublic keys.
+title: dot:author_hasSessionKeys  {disallowed} - Polkadot
+description: Example code for the dot:author_hasSessionKeys  {disallowed} json-rpc method. Сomplete guide on how to use dot:author_hasSessionKeys  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

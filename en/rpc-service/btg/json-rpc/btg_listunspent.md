@@ -1,6 +1,6 @@
 ---
-title: btg:listunspent \[POST\] {disallowed}
-description: Returns array of unspent transaction outputs with between minconf andmaxconf (inclusive) confirmations.Optionally filter to only include txouts paid to specified addresses.
+title: btg:listunspent  {disallowed} - Bitcoin Gold
+description: Example code for the btg:listunspent  {disallowed} json-rpc method. Сomplete guide on how to use btg:listunspent  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

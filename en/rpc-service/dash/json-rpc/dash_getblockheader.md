@@ -1,6 +1,6 @@
 ---
-title: dash:getblockheader \[POST\]
-description: Gets a block header with a particular header hash from the local blockdatabase either as a JSON object or as a serialized block header.
+title: dash:getblockheader - Dash
+description: Example code for the dash:getblockheader json-rpc method. Сomplete guide on how to use dash:getblockheader json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

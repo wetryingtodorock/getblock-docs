@@ -1,6 +1,6 @@
 ---
-title: zec:getaddressbalance \[POST\] {disallowed}
-description: Returns the balance for addresses.WARNING getaddressbalance is disabled.
+title: zec:getaddressbalance  {disallowed} - Zcash
+description: Example code for the zec:getaddressbalance  {disallowed} json-rpc method. Сomplete guide on how to use zec:getaddressbalance  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

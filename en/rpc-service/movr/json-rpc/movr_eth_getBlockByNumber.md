@@ -1,6 +1,6 @@
 ---
-title: movr:eth_getBlockByNumber \[POST\] {disallowed}
-description: get block by number
+title: movr:eth_getBlockByNumber  {disallowed} - Moonriver
+description: Example code for the movr:eth_getBlockByNumber  {disallowed} json-rpc method. Сomplete guide on how to use movr:eth_getBlockByNumber  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

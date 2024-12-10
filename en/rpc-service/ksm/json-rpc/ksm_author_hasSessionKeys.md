@@ -1,6 +1,6 @@
 ---
-title: ksm:author_hasSessionKeys \[POST\] {disallowed}
-description: Returns true if the keystore has private keys for the given sessionpublic keys.
+title: ksm:author_hasSessionKeys  {disallowed} - Kusama
+description: Example code for the ksm:author_hasSessionKeys  {disallowed} json-rpc method. Сomplete guide on how to use ksm:author_hasSessionKeys  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: eth:miner_stop \[POST\] {disallowed}
-description: Stops the mining process on the client.
+title: eth:miner_stop  {disallowed} - Ethereum
+description: Example code for the eth:miner_stop  {disallowed} json-rpc method. Сomplete guide on how to use eth:miner_stop  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

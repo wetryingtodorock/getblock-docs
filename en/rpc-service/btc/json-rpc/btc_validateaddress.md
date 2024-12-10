@@ -1,6 +1,6 @@
 ---
-title: btc:validateaddress \[POST\]
-description: Return information about the given btc address.
+title: btc:validateaddress - Bitcoin
+description: Example code for the btc:validateaddress json-rpc method. Сomplete guide on how to use btc:validateaddress json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

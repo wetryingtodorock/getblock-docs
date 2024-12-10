@@ -1,6 +1,6 @@
 ---
-title: arbitrum:eth_getTransactionByHash \[WebSocket\]
-description: Returns the information about a transaction requested by transactionhash.
+title: arbitrum:eth_getTransactionByHash - Arbitrum
+description: Example code for the arbitrum:eth_getTransactionByHash ws method. Сomplete guide on how to use arbitrum:eth_getTransactionByHash ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

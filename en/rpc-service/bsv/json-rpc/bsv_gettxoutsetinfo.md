@@ -1,6 +1,6 @@
 ---
-title: bsv:gettxoutsetinfo \[POST\] {disallowed}
-description: Returns statistics about the unspent transaction output set.Note this call may take some time.
+title: bsv:gettxoutsetinfo  {disallowed} - Bitcoin SV
+description: Example code for the bsv:gettxoutsetinfo  {disallowed} json-rpc method. Сomplete guide on how to use bsv:gettxoutsetinfo  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: movr:chain_getFinalizedHead \[POST\]
-description: Get hash of the last finalized block in the canon chain.
+title: movr:chain_getFinalizedHead - Moonriver
+description: Example code for the movr:chain_getFinalizedHead json-rpc method. Сomplete guide on how to use movr:chain_getFinalizedHead json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

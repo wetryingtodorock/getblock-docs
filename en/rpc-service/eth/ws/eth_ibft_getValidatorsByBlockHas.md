@@ -1,6 +1,6 @@
 ---
-title: eth:ibft_getValidatorsByBlockHas \[WebSocket\] {disallowed}
-description: Lists the validators defined in the specified block.
+title: eth:ibft_getValidatorsByBlockHas  {disallowed} - Ethereum
+description: Example code for the eth:ibft_getValidatorsByBlockHas  {disallowed} ws method. Сomplete guide on how to use eth:ibft_getValidatorsByBlockHas  {disallowed} ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: bsc:uninstallFilter \[POST\] {disallowed}
-description: Uninstalls a filter with given id. Should always be called when watch isno longer needed. Additonally Filters timeout when they arent requestedwith shh_getFilterChanges for a period of time.
+title: bsc:uninstallFilter  {disallowed} - Binance Smart Chain
+description: Example code for the bsc:uninstallFilter  {disallowed} json-rpc method. Сomplete guide on how to use bsc:uninstallFilter  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

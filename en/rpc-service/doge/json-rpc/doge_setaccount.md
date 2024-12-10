@@ -1,6 +1,6 @@
 ---
-title: doge:setaccount \[POST\] {disallowed}
-description: Sets the account associated with the given address.
+title: doge:setaccount  {disallowed} - Dogecoin
+description: Example code for the doge:setaccount  {disallowed} json-rpc method. Сomplete guide on how to use doge:setaccount  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

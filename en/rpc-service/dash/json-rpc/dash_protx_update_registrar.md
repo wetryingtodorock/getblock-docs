@@ -1,6 +1,6 @@
 ---
-title: dash:protx_update_registrar \[POST\] {disallowed}
-description: Creates and sends a ProUpRegTx to the network.
+title: dash:protx_update_registrar  {disallowed} - Dash
+description: Example code for the dash:protx_update_registrar  {disallowed} json-rpc method. Сomplete guide on how to use dash:protx_update_registrar  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

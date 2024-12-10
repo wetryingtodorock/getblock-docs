@@ -1,6 +1,6 @@
 ---
-title: fuse:eth_getUncleByBlockNumberAndIndex \[POST\]
-description: Returns information about a uncle of a block by number and uncle indexposition.
+title: fuse:eth_getUncleByBlockNumberAndIndex - Fuse Network
+description: Example code for the fuse:eth_getUncleByBlockNumberAndIndex json-rpc method. Сomplete guide on how to use fuse:eth_getUncleByBlockNumberAndIndex json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

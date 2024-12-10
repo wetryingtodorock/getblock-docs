@@ -1,6 +1,6 @@
 ---
-title: optimism:shh_post \[POST\] {disallowed}
-description: Sends a whisper message.
+title: optimism:shh_post  {disallowed} - Optimism
+description: Example code for the optimism:shh_post  {disallowed} json-rpc method. Сomplete guide on how to use optimism:shh_post  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

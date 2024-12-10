@@ -1,6 +1,6 @@
 ---
-title: fuse:web3_clientVersion \[WebSocket\]
-description: Returns the current client version.
+title: fuse:web3_clientVersion - Fuse Network
+description: Example code for the fuse:web3_clientVersion ws method. Сomplete guide on how to use fuse:web3_clientVersion ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

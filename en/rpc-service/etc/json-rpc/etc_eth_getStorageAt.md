@@ -1,6 +1,6 @@
 ---
-title: etc:eth_getStorageAt \[POST\]
-description: Returns the value of a storage position at a specified address.
+title: etc:eth_getStorageAt - Ethereum Classic
+description: Example code for the etc:eth_getStorageAt json-rpc method. Сomplete guide on how to use etc:eth_getStorageAt json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: bsv:analyzepsbt \[POST\]
-description: Analyzes and provides information about the current status of a PSBT andits inputs
+title: bsv:analyzepsbt - Bitcoin SV
+description: Example code for the bsv:analyzepsbt json-rpc method. Сomplete guide on how to use bsv:analyzepsbt json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: dash:walletpassphrase \[POST\] {disallowed}
-description: Stores the wallet decryption key in memory for the indicated number ofseconds. Issuing the walletpassphrase command while the wallet isalready unlocked will set a new unlock time that overrides the old one.If using this RPC on the command line, remember that your shell probablysaves your command lines (including the value of the passphraseparameter).
+title: dash:walletpassphrase  {disallowed} - Dash
+description: Example code for the dash:walletpassphrase  {disallowed} json-rpc method. Сomplete guide on how to use dash:walletpassphrase  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

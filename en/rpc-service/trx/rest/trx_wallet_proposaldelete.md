@@ -1,6 +1,6 @@
 ---
-title: trx:/wallet/proposaldelete \[POST\] {disallowed}
-description: Deletes Proposal Transaction.
+title: trx:/wallet/proposaldelete  {disallowed} - TRON
+description: Example code for the trx:/wallet/proposaldelete  {disallowed} rest method. Сomplete guide on how to use trx:/wallet/proposaldelete  {disallowed} rest in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

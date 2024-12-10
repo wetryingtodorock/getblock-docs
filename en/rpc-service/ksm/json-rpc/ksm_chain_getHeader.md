@@ -1,6 +1,6 @@
 ---
-title: ksm:chain_getHeader \[POST\]
-description: Retrieves the header for a specific block.
+title: ksm:chain_getHeader - Kusama
+description: Example code for the ksm:chain_getHeader json-rpc method. Сomplete guide on how to use ksm:chain_getHeader json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

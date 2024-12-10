@@ -1,6 +1,6 @@
 ---
-title: dash:listaddressgroupings \[POST\] {disallowed}
-description: Lists groups of addresses that may have had their common ownership madepublic by common use as inputs in the same transaction or from beingused as change from a previous transaction.
+title: dash:listaddressgroupings  {disallowed} - Dash
+description: Example code for the dash:listaddressgroupings  {disallowed} json-rpc method. Сomplete guide on how to use dash:listaddressgroupings  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

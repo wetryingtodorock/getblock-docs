@@ -1,6 +1,6 @@
 ---
-title: dgb:importwallet \[POST\] {disallowed}
-description: Imports keys from a wallet dump file (see dumpwallet). Requires a newwallet backup to include imported keys.Note Use “getwalletinfo” to query the scanning progress.
+title: dgb:importwallet  {disallowed} - DigiByte
+description: Example code for the dgb:importwallet  {disallowed} json-rpc method. Сomplete guide on how to use dgb:importwallet  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters
