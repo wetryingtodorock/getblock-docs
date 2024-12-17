@@ -1,6 +1,6 @@
 ---
-title: near:query(view_state) - NEAR Protocol
-description: Example code for the near:query(view_state) json-rpc method. Сomplete guide on how to use near:query(view_state) json-rpc in GetBlock.io Web3 documentation.
+title: near:query(view_state) \[POST\]
+description: Returns the state (key value pairs) of a contract based on the keyprefix (base64 encoded). Pass an empty string for prefix_base64 if youwould like to return the entire state. Please note that the returnedstate will be base64 encoded as well.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: theta:theta.BroadcastRawTransactionAsync - Theta Network
-description: Example code for the theta:theta.BroadcastRawTransactionAsync json-rpc method. Сomplete guide on how to use theta:theta.BroadcastRawTransactionAsync json-rpc in GetBlock.io Web3 documentation.
+title: theta:theta.BroadcastRawTransactionAsync \[POST\]
+description: This API submits the given raw transaction to the blockchain, andreturns immediately (i.e. asynchronous call).
 ---
 
 ### Parameters

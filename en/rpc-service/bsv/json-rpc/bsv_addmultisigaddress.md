@@ -1,6 +1,6 @@
 ---
-title: bsv:addmultisigaddress  {disallowed} - Bitcoin SV
-description: Example code for the bsv:addmultisigaddress  {disallowed} json-rpc method. Сomplete guide on how to use bsv:addmultisigaddress  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: bsv:addmultisigaddress \[POST\] {disallowed}
+description: Add an nrequired-to-sign multisignature address to the wallet. Requiresa new wallet backup.Each key is a Bitcoin address or hex-encoded public key.This functionality is only intended for use with non-watchonly addressesSee \`importaddress\` for watchonly p2sh address support.If label is specified, assign address to that label.
 ---
 
 ### Parameters

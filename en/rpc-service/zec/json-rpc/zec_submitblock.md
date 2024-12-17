@@ -1,6 +1,6 @@
 ---
-title: zec:submitblock  {disallowed} - Zcash
-description: Example code for the zec:submitblock  {disallowed} json-rpc method. Сomplete guide on how to use zec:submitblock  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: zec:submitblock \[POST\] {disallowed}
+description: Attempts to submit new block to network.The jsonparametersobject parameter is currently ignored.
 ---
 
 ### Parameters

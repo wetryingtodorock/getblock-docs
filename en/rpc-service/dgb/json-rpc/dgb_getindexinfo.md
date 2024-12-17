@@ -1,6 +1,6 @@
 ---
-title: dgb:getindexinfo - DigiByte
-description: Example code for the dgb:getindexinfo json-rpc method. Сomplete guide on how to use dgb:getindexinfo json-rpc in GetBlock.io Web3 documentation.
+title: dgb:getindexinfo \[POST\]
+description: Returns the status of one or all available indices currently running inthe node.
 ---
 
 ### Parameters

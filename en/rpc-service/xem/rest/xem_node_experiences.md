@@ -1,6 +1,6 @@
 ---
-title: xem:/node/experiences - NEM
-description: Example code for the xem:/node/experiences rest method. Сomplete guide on how to use xem:/node/experiences rest in GetBlock.io Web3 documentation.
+title: xem:/node/experiences \[GET\]
+description: Gets an array of node experiences from another node. Each node saves itsexperiences with other nodes in an internal map. Sharing experienceshelps nodes to select honest nodes for communication.
 ---
 
 ### Parameters

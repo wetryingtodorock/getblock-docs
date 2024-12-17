@@ -1,6 +1,6 @@
 ---
-title: fuse:eth_signTransaction - Fuse Network
-description: Example code for the fuse:eth_signTransaction ws method. Сomplete guide on how to use fuse:eth_signTransaction ws in GetBlock.io Web3 documentation.
+title: fuse:eth_signTransaction \[WebSocket\]
+description: Creates new message call transaction or a contract creation, if the datafield contains code.
 ---
 
 ### Parameters

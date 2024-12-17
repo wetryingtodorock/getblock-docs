@@ -1,6 +1,6 @@
 ---
-title: etc:priv_getCode  {disallowed} - Ethereum Classic
-description: Example code for the etc:priv_getCode  {disallowed} json-rpc method. Сomplete guide on how to use etc:priv_getCode  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: etc:priv_getCode \[POST\] {disallowed}
+description: Returns the code of the private smart contract at the specified address.Compiled smart contract code is stored as a hexadecimal value.
 ---
 
 ### Parameters

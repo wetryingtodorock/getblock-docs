@@ -1,6 +1,6 @@
 ---
-title: bsv:getunconfirmedbalance  {disallowed} - Bitcoin SV
-description: Example code for the bsv:getunconfirmedbalance  {disallowed} json-rpc method. Сomplete guide on how to use bsv:getunconfirmedbalance  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: bsv:getunconfirmedbalance \[POST\] {disallowed}
+description: DEPRECATED Identical to getbalances().mine.untrusted_pending
 ---
 
 ### Parameters

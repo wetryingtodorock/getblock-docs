@@ -1,6 +1,6 @@
 ---
-title: matic:eth_blockNumber - Polygon
-description: Example code for the matic:eth_blockNumber ws method. Сomplete guide on how to use matic:eth_blockNumber ws in GetBlock.io Web3 documentation.
+title: matic:eth_blockNumber \[WebSocket\]
+description: Returns the number of most recent block.
 ---
 
 ### Parameters

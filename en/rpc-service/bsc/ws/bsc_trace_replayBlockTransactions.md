@@ -1,6 +1,6 @@
 ---
-title: bsc:trace_replayBlockTransactions - Binance Smart Chain
-description: Example code for the bsc:trace_replayBlockTransactions ws method. Сomplete guide on how to use bsc:trace_replayBlockTransactions ws in GetBlock.io Web3 documentation.
+title: bsc:trace_replayBlockTransactions \[WebSocket\]
+description: Provides transaction processing tracing per block.
 ---
 
 ### Parameters

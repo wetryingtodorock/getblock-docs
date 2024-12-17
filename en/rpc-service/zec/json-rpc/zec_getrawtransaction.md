@@ -1,6 +1,6 @@
 ---
-title: zec:getrawtransaction - Zcash
-description: Example code for the zec:getrawtransaction json-rpc method. Сomplete guide on how to use zec:getrawtransaction json-rpc in GetBlock.io Web3 documentation.
+title: zec:getrawtransaction \[POST\]
+description: Return the raw transaction data.NOTE If blockhash is not provided and the -txindex option is notenabled, then this call only works for mempool transactions. If eitherblockhash is provided or the -txindex option is enabled, it also worksfor blockchain transactions. If the block which contains the transactionis known, its hash can be provided even for nodes without -txindex.Note that if a blockhash is provided, only that block will be searchedand if the transaction is in the mempool or other blocks, or if thisnode does not have the given block available, the transaction will notbe found.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: zec:z_getoperationstatus  {disallowed} - Zcash
-description: Example code for the zec:z_getoperationstatus  {disallowed} json-rpc method. Сomplete guide on how to use zec:z_getoperationstatus  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: zec:z_getoperationstatus \[POST\] {disallowed}
+description: Get operation status and any associated result or error data. Theoperation will remain in memory.
 ---
 
 ### Parameters

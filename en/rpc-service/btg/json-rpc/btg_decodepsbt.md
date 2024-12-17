@@ -1,6 +1,6 @@
 ---
-title: btg:decodepsbt - Bitcoin Gold
-description: Example code for the btg:decodepsbt json-rpc method. Сomplete guide on how to use btg:decodepsbt json-rpc in GetBlock.io Web3 documentation.
+title: btg:decodepsbt \[POST\]
+description: Return a JSON object representing the serialized, base64-encodedpartially signed Bitcoin transaction.
 ---
 
 ### Parameters

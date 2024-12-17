@@ -1,6 +1,6 @@
 ---
-title: avax:admin.stopCPUProfiler  {disallowed} - Avalanche
-description: Example code for the avax:admin.stopCPUProfiler  {disallowed} json-rpc method. Сomplete guide on how to use avax:admin.stopCPUProfiler  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: avax:admin.stopCPUProfiler \[POST\] {disallowed}
+description: Stops and writes a CPU profile.
 ---
 
 ### Parameters

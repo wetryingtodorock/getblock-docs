@@ -1,6 +1,6 @@
 ---
-title: btc:createwallet  {disallowed} - Bitcoin
-description: Example code for the btc:createwallet  {disallowed} json-rpc method. Сomplete guide on how to use btc:createwallet  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: btc:createwallet \[POST\] {disallowed}
+description: Creates and loads a new wallet.
 ---
 
 ### Parameters

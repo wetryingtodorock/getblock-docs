@@ -1,6 +1,6 @@
 ---
-title: xmr:get_block_headers_range - Monero
-description: Example code for the xmr:get_block_headers_range json-rpc method. Сomplete guide on how to use xmr:get_block_headers_range json-rpc in GetBlock.io Web3 documentation.
+title: xmr:get_block_headers_range \[POST\]
+description: Similar to get_block_header_by_height above, but for a range of blocks. This method includes a starting block height and an ending block height as parameters to retrieve basic information about the range of blocks.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: dash:getmemoryinfo  {disallowed} - Dash
-description: Example code for the dash:getmemoryinfo  {disallowed} json-rpc method. Сomplete guide on how to use dash:getmemoryinfo  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: dash:getmemoryinfo \[POST\] {disallowed}
+description: Returns information about memory usage.
 ---
 
 ### Parameters

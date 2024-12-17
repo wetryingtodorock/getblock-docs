@@ -1,6 +1,6 @@
 ---
-title: dash:setnetworkactive  {disallowed} - Dash
-description: Example code for the dash:setnetworkactive  {disallowed} json-rpc method. Сomplete guide on how to use dash:setnetworkactive  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: dash:setnetworkactive \[POST\] {disallowed}
+description: Disables/enables all P2P network activity.
 ---
 
 ### Parameters

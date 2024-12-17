@@ -1,6 +1,6 @@
 ---
-title: etc:eth_getBlockByNumber - Ethereum Classic
-description: Example code for the etc:eth_getBlockByNumber json-rpc method. Сomplete guide on how to use etc:eth_getBlockByNumber json-rpc in GetBlock.io Web3 documentation.
+title: etc:eth_getBlockByNumber \[POST\]
+description: Returns information about a block by block number.
 ---
 
 ### Parameters

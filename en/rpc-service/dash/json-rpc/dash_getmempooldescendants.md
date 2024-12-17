@@ -1,6 +1,6 @@
 ---
-title: dash:getmempooldescendants - Dash
-description: Example code for the dash:getmempooldescendants json-rpc method. Сomplete guide on how to use dash:getmempooldescendants json-rpc in GetBlock.io Web3 documentation.
+title: dash:getmempooldescendants \[POST\]
+description: Returns all in-mempool descendants for a transaction in the mempool.
 ---
 
 ### Parameters

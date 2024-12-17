@@ -1,6 +1,6 @@
 ---
-title: matic:eth_getTransactionReceipt - Polygon
-description: Example code for the matic:eth_getTransactionReceipt ws method. Сomplete guide on how to use matic:eth_getTransactionReceipt ws in GetBlock.io Web3 documentation.
+title: matic:eth_getTransactionReceipt \[WebSocket\]
+description: Returns the receipt of a transaction by transaction hash.Note That the receipt is not available for pending transactions.
 ---
 
 ### Parameters

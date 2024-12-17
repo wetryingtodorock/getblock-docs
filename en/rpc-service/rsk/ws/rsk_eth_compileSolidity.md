@@ -1,6 +1,6 @@
 ---
-title: rsk:eth_compileSolidity  {disallowed} - Rootstock
-description: Example code for the rsk:eth_compileSolidity  {disallowed} ws method. Сomplete guide on how to use rsk:eth_compileSolidity  {disallowed} ws in GetBlock.io Web3 documentation.
+title: rsk:eth_compileSolidity \[Websocket\] {disallowed}
+description: For security reasons, we’ve decided not to include compilers in node.
 ---
 
 ### Parameters

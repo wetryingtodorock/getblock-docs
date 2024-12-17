@@ -1,6 +1,6 @@
 ---
-title: bch:submitblocklight  {disallowed} - Bitcoin Cash
-description: Example code for the bch:submitblocklight  {disallowed} json-rpc method. Сomplete guide on how to use bch:submitblocklight  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: bch:submitblocklight \[POST\] {disallowed}
+description: Attempts to submit a new block to network, based on a previous call togetblocktemplatelight.See the getblocktemplatelight spec in the doc folder for fullspecification.
 ---
 
 ### Parameters

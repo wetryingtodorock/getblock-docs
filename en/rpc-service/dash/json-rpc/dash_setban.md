@@ -1,6 +1,6 @@
 ---
-title: dash:setban  {disallowed} - Dash
-description: Example code for the dash:setban  {disallowed} json-rpc method. Сomplete guide on how to use dash:setban  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: dash:setban \[POST\] {disallowed}
+description: Attempts to add or remove a IP/Subnet from the banned list.
 ---
 
 ### Parameters

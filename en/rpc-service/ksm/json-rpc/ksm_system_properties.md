@@ -1,6 +1,6 @@
 ---
-title: ksm:system_properties - Kusama
-description: Example code for the ksm:system_properties json-rpc method. Сomplete guide on how to use ksm:system_properties json-rpc in GetBlock.io Web3 documentation.
+title: ksm:system_properties \[POST\]
+description: Get a custom set of properties as a JSON object, defined in the chainspec.
 ---
 
 ### Parameters

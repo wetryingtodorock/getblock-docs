@@ -1,6 +1,6 @@
 ---
-title: dot:author_removeExtrinsic  {disallowed} - Polkadot
-description: Example code for the dot:author_removeExtrinsic  {disallowed} json-rpc method. Сomplete guide on how to use dot:author_removeExtrinsic  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: dot:author_removeExtrinsic \[POST\] {disallowed}
+description: Remove given extrinsic from the pool and temporarily ban it to preventreimporting
 ---
 
 ### Parameters

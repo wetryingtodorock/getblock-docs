@@ -1,6 +1,6 @@
 ---
-title: matic:web3_clientVersion - Polygon
-description: Example code for the matic:web3_clientVersion ws method. Сomplete guide on how to use matic:web3_clientVersion ws in GetBlock.io Web3 documentation.
+title: matic:web3_clientVersion \[WebSocket\]
+description: Returns the current client version.
 ---
 
 ### Parameters

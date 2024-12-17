@@ -1,6 +1,6 @@
 ---
-title: kcc:net_version - KuCoin Community Chain
-description: Example code for the kcc:net_version ws method. Сomplete guide on how to use kcc:net_version ws in GetBlock.io Web3 documentation.
+title: kcc:net_version \[WebSocket\]
+description: Returns the current network id.
 ---
 
 ### Parameters

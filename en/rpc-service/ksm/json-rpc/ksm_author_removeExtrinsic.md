@@ -1,6 +1,6 @@
 ---
-title: ksm:author_removeExtrinsic  {disallowed} - Kusama
-description: Example code for the ksm:author_removeExtrinsic  {disallowed} json-rpc method. Сomplete guide on how to use ksm:author_removeExtrinsic  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: ksm:author_removeExtrinsic \[POST\] {disallowed}
+description: Remove given extrinsic from the pool and temporarily ban it to preventreimporting
 ---
 
 ### Parameters

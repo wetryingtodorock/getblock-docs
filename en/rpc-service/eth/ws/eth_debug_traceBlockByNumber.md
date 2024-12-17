@@ -1,6 +1,6 @@
 ---
-title: eth:debug_traceBlockByNumber  {disallowed} - Ethereum
-description: Example code for the eth:debug_traceBlockByNumber  {disallowed} ws method. Сomplete guide on how to use eth:debug_traceBlockByNumber  {disallowed} ws in GetBlock.io Web3 documentation.
+title: eth:debug_traceBlockByNumber \[WebSocket\] {disallowed}
+description: Returns full trace of all invoked opcodes of all transactions includedin the block.
 ---
 
 ### Parameters

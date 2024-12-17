@@ -1,6 +1,6 @@
 ---
-title: zec:z_setmigration  {disallowed} - Zcash
-description: Example code for the zec:z_setmigration  {disallowed} json-rpc method. Сomplete guide on how to use zec:z_setmigration  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: zec:z_setmigration \[POST\] {disallowed}
+description: When enabled the Sprout to Sapling migration will attempt to migrate allfunds from this wallet’s Sprout addresses to either the address forSapling account 0 or the address specified by the parameter-migrationdestaddress.This migration is designed to minimize information leakage. As a resultfor wallets with a significant Sprout balance, this process may takeseveral weeks. The migration works by sending, up to 5, as manytransactions as possible whenever the blockchain reaches a height equalto 499 modulo 500. The transaction amounts are picked according to therandom distribution specified in ZIP 308. The migration will end oncethe wallet’s Sprout balance is below 0.01 ZEC.
 ---
 
 ### Parameters

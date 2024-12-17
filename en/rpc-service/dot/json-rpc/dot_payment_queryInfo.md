@@ -1,6 +1,6 @@
 ---
-title: dot:payment_queryInfo  {disallowed} - Polkadot
-description: Example code for the dot:payment_queryInfo  {disallowed} json-rpc method. Сomplete guide on how to use dot:payment_queryInfo  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: dot:payment_queryInfo \[POST\] {disallowed}
+description: Retrieves the fee information for an encoded extrinsic.
 ---
 
 ### Parameters

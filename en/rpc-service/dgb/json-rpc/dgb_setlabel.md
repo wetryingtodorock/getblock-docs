@@ -1,6 +1,6 @@
 ---
-title: dgb:setlabel  {disallowed} - DigiByte
-description: Example code for the dgb:setlabel  {disallowed} json-rpc method. Сomplete guide on how to use dgb:setlabel  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: dgb:setlabel \[POST\] {disallowed}
+description: Sets the label associated with the given address.
 ---
 
 ### Parameters

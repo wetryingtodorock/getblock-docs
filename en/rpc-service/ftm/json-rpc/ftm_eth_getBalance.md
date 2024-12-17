@@ -1,6 +1,6 @@
 ---
-title: ftm:eth_getBalance - Fantom
-description: Example code for the ftm:eth_getBalance json-rpc method. Сomplete guide on how to use ftm:eth_getBalance json-rpc in GetBlock.io Web3 documentation.
+title: ftm:eth_getBalance \[POST\]
+description: Returns the account balance of the specified address.
 ---
 
 ### Parameters

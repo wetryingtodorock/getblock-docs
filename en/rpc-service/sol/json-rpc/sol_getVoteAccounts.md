@@ -1,6 +1,6 @@
 ---
-title: sol:getVoteAccounts - Solana
-description: Example code for the sol:getVoteAccounts json-rpc method. Сomplete guide on how to use sol:getVoteAccounts json-rpc in GetBlock.io Web3 documentation.
+title: sol:getVoteAccounts \[POST\]
+description: Returns the account info and associated stake for all the votingaccounts in the current bank.
 ---
 
 ### Parameters

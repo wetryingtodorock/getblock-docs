@@ -1,6 +1,6 @@
 ---
-title: dash:signrawtransactionwithwallet  {disallowed} - Dash
-description: Example code for the dash:signrawtransactionwithwallet  {disallowed} json-rpc method. Сomplete guide on how to use dash:signrawtransactionwithwallet  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: dash:signrawtransactionwithwallet \[POST\] {disallowed}
+description: Signs a transaction in the serialized transaction format using privatekeys stored in the wallet.
 ---
 
 ### Parameters

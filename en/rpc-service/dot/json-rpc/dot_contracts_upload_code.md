@@ -1,6 +1,6 @@
 ---
-title: dot:contracts_upload_code  {disallowed} - Polkadot
-description: Example code for the dot:contracts_upload_code  {disallowed} json-rpc method. Сomplete guide on how to use dot:contracts_upload_code  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: dot:contracts_upload_code \[POST\] {disallowed}
+description: Upload new code without instantiating a contract from itNot available in newer versions of the contracts interfaces
 ---
 
 ### Parameters

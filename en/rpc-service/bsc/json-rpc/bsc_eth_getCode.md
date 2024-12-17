@@ -1,6 +1,6 @@
 ---
-title: bsc:eth_getCode - Binance Smart Chain
-description: Example code for the bsc:eth_getCode json-rpc method. Сomplete guide on how to use bsc:eth_getCode json-rpc in GetBlock.io Web3 documentation.
+title: bsc:eth_getCode \[POST\]
+description: Returns the code of the smart contract at the specified address. Besustores compiled smart contract code as a hexadecimal value.
 ---
 
 ### Parameters

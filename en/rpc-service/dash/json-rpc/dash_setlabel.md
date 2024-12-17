@@ -1,6 +1,6 @@
 ---
-title: dash:setlabel  {disallowed} - Dash
-description: Example code for the dash:setlabel  {disallowed} json-rpc method. Сomplete guide on how to use dash:setlabel  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: dash:setlabel \[POST\] {disallowed}
+description: Sets the label associated with the given address.
 ---
 
 ### Parameters

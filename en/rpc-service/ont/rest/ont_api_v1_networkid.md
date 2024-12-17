@@ -1,6 +1,6 @@
 ---
-title: ont:/api/v1/networkid - Ontology
-description: Example code for the ont:/api/v1/networkid rest method. Сomplete guide on how to use ont:/api/v1/networkid rest in GetBlock.io Web3 documentation.
+title: ont:/api/v1/networkid \[GET\]
+description: Fetches network ID
 ---
 
 ### Parameters

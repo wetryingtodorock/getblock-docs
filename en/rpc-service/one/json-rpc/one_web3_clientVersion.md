@@ -1,6 +1,6 @@
 ---
-title: one:web3_clientVersion - Harmony
-description: Example code for the one:web3_clientVersion json-rpc method. Сomplete guide on how to use one:web3_clientVersion json-rpc in GetBlock.io Web3 documentation.
+title: one:web3_clientVersion \[POST\]
+description: Returns the current client version.
 ---
 
 ### Parameters

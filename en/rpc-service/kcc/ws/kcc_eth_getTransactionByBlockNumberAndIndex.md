@@ -1,6 +1,6 @@
 ---
-title: kcc:eth_getTransactionByBlockNumberAndIndex - KuCoin Community Chain
-description: Example code for the kcc:eth_getTransactionByBlockNumberAndIndex ws method. Сomplete guide on how to use kcc:eth_getTransactionByBlockNumberAndIndex ws in GetBlock.io Web3 documentation.
+title: kcc:eth_getTransactionByBlockNumberAndIndex \[WebSocket\]
+description: Returns information about a transaction by block number and transactionindex position.
 ---
 
 ### Parameters

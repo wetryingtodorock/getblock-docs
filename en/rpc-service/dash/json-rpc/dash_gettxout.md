@@ -1,6 +1,6 @@
 ---
-title: dash:gettxout - Dash
-description: Example code for the dash:gettxout json-rpc method. Сomplete guide on how to use dash:gettxout json-rpc in GetBlock.io Web3 documentation.
+title: dash:gettxout \[POST\]
+description: Returns details about an unspent transaction output (UTXO).
 ---
 
 ### Parameters

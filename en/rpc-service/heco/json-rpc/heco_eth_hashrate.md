@@ -1,6 +1,6 @@
 ---
-title: heco:eth_hashrate - Huobi ECO Chain
-description: Example code for the heco:eth_hashrate json-rpc method. Сomplete guide on how to use heco:eth_hashrate json-rpc in GetBlock.io Web3 documentation.
+title: heco:eth_hashrate \[POST\]
+description: Returns the number of hashes per second that the node is mining with.
 ---
 
 ### Parameters

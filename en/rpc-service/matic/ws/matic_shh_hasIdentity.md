@@ -1,6 +1,6 @@
 ---
-title: matic:shh_hasIdentity  {disallowed} - Polygon
-description: Example code for the matic:shh_hasIdentity  {disallowed} ws method. Сomplete guide on how to use matic:shh_hasIdentity  {disallowed} ws in GetBlock.io Web3 documentation.
+title: matic:shh_hasIdentity \[WebSocket\] {disallowed}
+description: Checks if the client hold the private keys for a given identity.
 ---
 
 ### Parameters

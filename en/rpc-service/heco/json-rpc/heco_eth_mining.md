@@ -1,6 +1,6 @@
 ---
-title: heco:eth_mining - Huobi ECO Chain
-description: Example code for the heco:eth_mining json-rpc method. Сomplete guide on how to use heco:eth_mining json-rpc in GetBlock.io Web3 documentation.
+title: heco:eth_mining \[POST\]
+description: Returns true if client is actively mining new blocks.
 ---
 
 ### Parameters

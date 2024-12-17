@@ -1,6 +1,6 @@
 ---
-title: matic:eth_subscribe - Polygon
-description: Example code for the matic:eth_subscribe json-rpc method. Сomplete guide on how to use matic:eth_subscribe json-rpc in GetBlock.io Web3 documentation.
+title: matic:eth_subscribe \[POST\]
+description: Subscribes to a specified event type, optionally restricted to one ormany objects. This method is available via websocket only.
 ---
 
 ### Parameters

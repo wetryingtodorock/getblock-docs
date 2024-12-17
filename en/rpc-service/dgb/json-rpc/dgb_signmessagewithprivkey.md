@@ -1,6 +1,6 @@
 ---
-title: dgb:signmessagewithprivkey  {disallowed} - DigiByte
-description: Example code for the dgb:signmessagewithprivkey  {disallowed} json-rpc method. Сomplete guide on how to use dgb:signmessagewithprivkey  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: dgb:signmessagewithprivkey \[POST\] {disallowed}
+description: Sign a message with the private key of an address
 ---
 
 ### Parameters

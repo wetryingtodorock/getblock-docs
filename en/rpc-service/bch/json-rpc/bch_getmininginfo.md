@@ -1,6 +1,6 @@
 ---
-title: bch:getmininginfo - Bitcoin Cash
-description: Example code for the bch:getmininginfo json-rpc method. Сomplete guide on how to use bch:getmininginfo json-rpc in GetBlock.io Web3 documentation.
+title: bch:getmininginfo \[POST\]
+description: Returns a json object containing mining-related information.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: dash:getrawmempool - Dash
-description: Example code for the dash:getrawmempool json-rpc method. Сomplete guide on how to use dash:getrawmempool json-rpc in GetBlock.io Web3 documentation.
+title: dash:getrawmempool \[POST\]
+description: Returns all transaction identifiers (TXIDs) in the memory pool as a JSONarray, or detailed information about each transaction in the memory poolas a JSON object.
 ---
 
 ### Parameters

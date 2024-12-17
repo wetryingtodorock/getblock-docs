@@ -1,6 +1,6 @@
 ---
-title: trx:eth_blockNumber - TRON
-description: Example code for the trx:eth_blockNumber json-rpc method. Сomplete guide on how to use trx:eth_blockNumber json-rpc in GetBlock.io Web3 documentation.
+title: trx:eth_blockNumber \[POST\]
+description: Returns the number of the most recent block.
 ---
 
 ### Parameters

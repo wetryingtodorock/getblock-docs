@@ -1,6 +1,6 @@
 ---
-title: dash:verifytxoutproof - Dash
-description: Example code for the dash:verifytxoutproof json-rpc method. Сomplete guide on how to use dash:verifytxoutproof json-rpc in GetBlock.io Web3 documentation.
+title: dash:verifytxoutproof \[POST\]
+description: Verifies that a proof points to one or more transactions in a block,returning the transactions the proof commits to and throwing an RPCerror if the block is not in our best block chain.
 ---
 
 ### Parameters

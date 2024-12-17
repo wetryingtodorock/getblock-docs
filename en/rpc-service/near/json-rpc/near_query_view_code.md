@@ -1,6 +1,6 @@
 ---
-title: near:query(view_code) - NEAR Protocol
-description: Example code for the near:query(view_code) json-rpc method. Сomplete guide on how to use near:query(view_code) json-rpc in GetBlock.io Web3 documentation.
+title: near:query(view_code) \[POST\]
+description: Returns the contract code (Wasm binary) deployed to the account. Pleasenote that the returned code will be encoded in base64.
 ---
 
 ### Parameters

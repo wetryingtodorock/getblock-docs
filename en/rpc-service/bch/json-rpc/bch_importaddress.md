@@ -1,6 +1,6 @@
 ---
-title: bch:importaddress  {disallowed} - Bitcoin Cash
-description: Example code for the bch:importaddress  {disallowed} json-rpc method. Сomplete guide on how to use bch:importaddress  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: bch:importaddress \[POST\] {disallowed}
+description: Adds an address or script (in hex) that can be watched as if it were inyour wallet but cannot be used to spend. Requires a new wallet backup.Note This call can take over an hour to complete if rescan is true,during that time, other rpc calls may report that the imported addressexists but related transactions are still missing, leading totemporarily incorrect/bogus balances and unspent outputs until rescancompletes.If you have the full public key, you should call importpubkey instead ofthis.Hint use importmulti to import more than one address.Note If you import a non-standard raw script in hex form, outputssending to it will be treated as change, and not show up in many RPCs.Note Use “getwalletinfo” to query the scanning progress.
 ---
 
 ### Parameters

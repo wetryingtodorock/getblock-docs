@@ -1,6 +1,6 @@
 ---
-title: ont:/api/v1/grantong/{addr} - Ontology
-description: Example code for the ont:/api/v1/grantong/{addr} rest method. Сomplete guide on how to use ont:/api/v1/grantong/{addr} rest in GetBlock.io Web3 documentation.
+title: ont:/api/v1/grantong/{addr} \[GET\]
+description: Fetch amount of ONG granted to an account
 ---
 
 ### Parameters

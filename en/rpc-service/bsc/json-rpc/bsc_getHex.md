@@ -1,6 +1,6 @@
 ---
-title: bsc:getHex  {disallowed} - Binance Smart Chain
-description: Example code for the bsc:getHex  {disallowed} json-rpc method. Сomplete guide on how to use bsc:getHex  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: bsc:getHex \[POST\] {disallowed}
+description: Returns binary data from the local database.Note this function is deprecated and will be removed in the future.
 ---
 
 ### Parameters

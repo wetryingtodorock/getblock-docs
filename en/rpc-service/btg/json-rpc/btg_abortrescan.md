@@ -1,6 +1,6 @@
 ---
-title: btg:abortrescan  {disallowed} - Bitcoin Gold
-description: Example code for the btg:abortrescan  {disallowed} json-rpc method. Сomplete guide on how to use btg:abortrescan  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: btg:abortrescan \[POST\] {disallowed}
+description: Stops current wallet rescan triggered by an RPC call, e.g. by animportprivkey call. Note Use getwalletinfo to query the scanningprogress.
 ---
 
 ### Parameters

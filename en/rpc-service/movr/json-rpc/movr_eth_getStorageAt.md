@@ -1,6 +1,6 @@
 ---
-title: movr:eth_getStorageAt  {disallowed} - Moonriver
-description: Example code for the movr:eth_getStorageAt  {disallowed} json-rpc method. Сomplete guide on how to use movr:eth_getStorageAt  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: movr:eth_getStorageAt \[POST\] {disallowed}
+description: Returns content of the storage at given address.
 ---
 
 ### Parameters

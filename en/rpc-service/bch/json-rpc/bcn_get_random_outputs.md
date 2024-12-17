@@ -1,6 +1,6 @@
 ---
-title: bcn:get_random_outputs - Bitcoin Cash
-description: Example code for the bcn:get_random_outputs json-rpc method. Сomplete guide on how to use bcn:get_random_outputs json-rpc in GetBlock.io Web3 documentation.
+title: bcn:get_random_outputs \[POST\]
+description: Fetches necessary quantity (output_count) of random outputs for desiredamounts with respect to specified confirmed_height_or_depth.Response may have less outputs than asked for some amounts, ifblockchain lacks enough.
 ---
 
 ### Parameters

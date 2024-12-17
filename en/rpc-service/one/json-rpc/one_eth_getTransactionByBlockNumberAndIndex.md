@@ -1,6 +1,6 @@
 ---
-title: one:eth_getTransactionByBlockNumberAndIndex - Harmony
-description: Example code for the one:eth_getTransactionByBlockNumberAndIndex json-rpc method. Сomplete guide on how to use one:eth_getTransactionByBlockNumberAndIndex json-rpc in GetBlock.io Web3 documentation.
+title: one:eth_getTransactionByBlockNumberAndIndex \[POST\]
+description: Returns transaction information for the specified block number andtransaction index position.
 ---
 
 ### Parameters

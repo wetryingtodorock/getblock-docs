@@ -1,6 +1,6 @@
 ---
-title: matic:eth_getBlockByNumber - Polygon
-description: Example code for the matic:eth_getBlockByNumber json-rpc method. Сomplete guide on how to use matic:eth_getBlockByNumber json-rpc in GetBlock.io Web3 documentation.
+title: matic:eth_getBlockByNumber \[POST\]
+description: Returns information about a block by block number.
 ---
 
 ### Parameters

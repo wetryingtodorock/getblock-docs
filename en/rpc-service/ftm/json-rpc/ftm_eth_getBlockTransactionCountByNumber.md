@@ -1,6 +1,6 @@
 ---
-title: ftm:eth_getBlockTransactionCountByNumber - Fantom
-description: Example code for the ftm:eth_getBlockTransactionCountByNumber json-rpc method. Сomplete guide on how to use ftm:eth_getBlockTransactionCountByNumber json-rpc in GetBlock.io Web3 documentation.
+title: ftm:eth_getBlockTransactionCountByNumber \[POST\]
+description: Returns the number of transactions in a block matching the specifiedblock number.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: ksm:payment_queryFeeDetails  {disallowed} - Kusama
-description: Example code for the ksm:payment_queryFeeDetails  {disallowed} json-rpc method. Сomplete guide on how to use ksm:payment_queryFeeDetails  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: ksm:payment_queryFeeDetails \[POST\] {disallowed}
+description: Query the detailed fee of a given encoded extrinsic.
 ---
 
 ### Parameters

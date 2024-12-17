@@ -1,6 +1,6 @@
 ---
-title: fuse:eth_coinbase - Fuse Network
-description: Example code for the fuse:eth_coinbase ws method. Сomplete guide on how to use fuse:eth_coinbase ws in GetBlock.io Web3 documentation.
+title: fuse:eth_coinbase \[WebSocket\]
+description: Returns the client coinbase address.
 ---
 
 ### Parameters

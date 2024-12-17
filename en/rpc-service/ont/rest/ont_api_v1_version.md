@@ -1,6 +1,6 @@
 ---
-title: ont:/api/v1/version - Ontology
-description: Example code for the ont:/api/v1/version rest method. Сomplete guide on how to use ont:/api/v1/version rest in GetBlock.io Web3 documentation.
+title: ont:/api/v1/version \[GET\]
+description: Fetch node version information
 ---
 
 ### Parameters

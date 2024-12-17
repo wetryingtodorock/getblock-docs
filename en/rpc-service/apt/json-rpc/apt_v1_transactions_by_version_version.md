@@ -1,6 +1,6 @@
 ---
-title: apt:/v1/transactions/by_version/{version} - Aptos
-description: Example code for the apt:/v1/transactions/by_version/{version} json-rpc method. Сomplete guide on how to use apt:/v1/transactions/by_version/{version} json-rpc in GetBlock.io Web3 documentation.
+title: apt:/v1/transactions/by_version/{version} \[GET\]
+description: Gets a transaction by a specified version.
 ---
 
 ### Parameters

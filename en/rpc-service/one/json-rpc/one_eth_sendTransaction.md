@@ -1,6 +1,6 @@
 ---
-title: one:eth_sendTransaction  {disallowed} - Harmony
-description: Example code for the one:eth_sendTransaction  {disallowed} json-rpc method. Сomplete guide on how to use one:eth_sendTransaction  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: one:eth_sendTransaction \[POST\] {disallowed}
+description: Creates new message call transaction or a contract creation, if the datafield contains code.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: dash:getmempoolentry - Dash
-description: Example code for the dash:getmempoolentry json-rpc method. Сomplete guide on how to use dash:getmempoolentry json-rpc in GetBlock.io Web3 documentation.
+title: dash:getmempoolentry \[POST\]
+description: Returns mempool data for given transaction (must be in mempool).
 ---
 
 ### Parameters

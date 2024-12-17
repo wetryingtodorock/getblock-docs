@@ -1,6 +1,6 @@
 ---
-title: eth:net_version - Ethereum
-description: Example code for the eth:net_version ws method. Сomplete guide on how to use eth:net_version ws in GetBlock.io Web3 documentation.
+title: eth:net_version \[WebSocket\]
+description: Returns the network ID.
 ---
 
 ### Parameters

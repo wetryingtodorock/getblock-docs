@@ -1,6 +1,6 @@
 ---
-title: dash:getchaintxstats - Dash
-description: Example code for the dash:getchaintxstats json-rpc method. Сomplete guide on how to use dash:getchaintxstats json-rpc in GetBlock.io Web3 documentation.
+title: dash:getchaintxstats \[POST\]
+description: Compute statistics about the total number and rate of transactions inthe chain.
 ---
 
 ### Parameters

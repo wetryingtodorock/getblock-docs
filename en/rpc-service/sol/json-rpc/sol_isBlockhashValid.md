@@ -1,6 +1,6 @@
 ---
-title: sol:isBlockhashValid  {disallowed} - Solana
-description: Example code for the sol:isBlockhashValid  {disallowed} json-rpc method. Сomplete guide on how to use sol:isBlockhashValid  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: sol:isBlockhashValid \[POST\] {disallowed}
+description: NEW This method is only available in solana-core v1.9 or newer. Pleaseuse getFeeCalculatorForBlockhash for solana-core v1.8Returns whether a blockhash is still valid or not
 ---
 
 ### Parameters

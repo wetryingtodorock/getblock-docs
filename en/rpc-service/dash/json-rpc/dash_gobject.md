@@ -1,6 +1,6 @@
 ---
-title: dash:gobject  {disallowed} - Dash
-description: Example code for the dash:gobject  {disallowed} json-rpc method. Сomplete guide on how to use dash:gobject  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: dash:gobject \[POST\] {disallowed}
+description: votes on a governance object by all masternodes (using masternode.confsetup).
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: optimism:eth_unsubscribe - Optimism
-description: Example code for the optimism:eth_unsubscribe json-rpc method. Сomplete guide on how to use optimism:eth_unsubscribe json-rpc in GetBlock.io Web3 documentation.
+title: optimism:eth_unsubscribe \[POST\]
+description: Cancels specified subscription. Returns true if canceled successfully orfalse otherwise.
 ---
 
 ### Parameters

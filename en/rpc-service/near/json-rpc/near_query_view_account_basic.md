@@ -1,6 +1,6 @@
 ---
-title: near:query(view_account_basic) - NEAR Protocol
-description: Example code for the near:query(view_account_basic) json-rpc method. Сomplete guide on how to use near:query(view_account_basic) json-rpc in GetBlock.io Web3 documentation.
+title: near:query(view_account_basic) \[POST\]
+description: Returns basic account information.
 ---
 
 ### Parameters

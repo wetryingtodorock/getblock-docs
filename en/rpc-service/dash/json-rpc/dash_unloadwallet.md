@@ -1,6 +1,6 @@
 ---
-title: dash:unloadwallet  {disallowed} - Dash
-description: Example code for the dash:unloadwallet  {disallowed} json-rpc method. Сomplete guide on how to use dash:unloadwallet  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: dash:unloadwallet \[POST\] {disallowed}
+description: Unloads the wallet referenced by the request endpoint otherwise unloadsthe wallet specified in the argument. Specifying the wallet name on awallet endpoint is invalid.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: matic:eth_getLogs - Polygon
-description: Example code for the matic:eth_getLogs json-rpc method. Сomplete guide on how to use matic:eth_getLogs json-rpc in GetBlock.io Web3 documentation.
+title: matic:eth_getLogs \[POST\]
+description: Returns an array of all logs matching a given filter object.
 ---
 
 ### Parameters

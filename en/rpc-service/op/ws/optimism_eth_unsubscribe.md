@@ -1,6 +1,6 @@
 ---
-title: optimism:eth_unsubscribe - Optimism
-description: Example code for the optimism:eth_unsubscribe ws method. Сomplete guide on how to use optimism:eth_unsubscribe ws in GetBlock.io Web3 documentation.
+title: optimism:eth_unsubscribe \[WebSocket\]
+description: Cancels specified subscription. Returns true if canceled successfully orfalse otherwise.
 ---
 
 ### Parameters

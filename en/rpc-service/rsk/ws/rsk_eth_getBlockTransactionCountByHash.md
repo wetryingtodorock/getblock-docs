@@ -1,6 +1,6 @@
 ---
-title: rsk:eth_getBlockTransactionCountByHash - Rootstock
-description: Example code for the rsk:eth_getBlockTransactionCountByHash ws method. Сomplete guide on how to use rsk:eth_getBlockTransactionCountByHash ws in GetBlock.io Web3 documentation.
+title: rsk:eth_getBlockTransactionCountByHash \[WebSocket\]
+description: Returns the number of transactions in a block from a block matching thegiven block hash.
 ---
 
 ### Parameters

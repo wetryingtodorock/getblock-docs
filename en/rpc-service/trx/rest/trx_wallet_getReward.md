@@ -1,6 +1,6 @@
 ---
-title: trx:/wallet/getReward  {disallowed} - TRON
-description: Example code for the trx:/wallet/getReward  {disallowed} rest method. Сomplete guide on how to use trx:/wallet/getReward  {disallowed} rest in GetBlock.io Web3 documentation.
+title: trx:/wallet/getReward \[POST\] {disallowed}
+description: Get the rewards that a witness or a user has not yet withdrawn.
 ---
 
 ### Parameters

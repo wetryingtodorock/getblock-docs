@@ -1,6 +1,6 @@
 ---
-title: zec:getaccount  {disallowed} - Zcash
-description: Example code for the zec:getaccount  {disallowed} json-rpc method. Сomplete guide on how to use zec:getaccount  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: zec:getaccount \[POST\] {disallowed}
+description: DEPRECATED. Returns the account associated with the given address.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: theta:theta.GetTransaction - Theta Network
-description: Example code for the theta:theta.GetTransaction json-rpc method. Сomplete guide on how to use theta:theta.GetTransaction json-rpc in GetBlock.io Web3 documentation.
+title: theta:theta.GetTransaction \[POST\]
+description: This API returns the transaction being queried in json format.
 ---
 
 ### Parameters

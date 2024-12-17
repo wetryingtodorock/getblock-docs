@@ -1,6 +1,6 @@
 ---
-title: ont:getunboundong - Ontology
-description: Example code for the ont:getunboundong json-rpc method. Сomplete guide on how to use ont:getunboundong json-rpc in GetBlock.io Web3 documentation.
+title: ont:getunboundong \[POST\]
+description: Fetch the amount of unbound ONG that can be withdrawn for a particularaddress.
 ---
 
 ### Parameters

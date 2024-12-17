@@ -1,6 +1,6 @@
 ---
-title: bsc:eth_getBlockReceipts  {disallowed} - Binance Smart Chain
-description: Example code for the bsc:eth_getBlockReceipts  {disallowed} json-rpc method. Сomplete guide on how to use bsc:eth_getBlockReceipts  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: bsc:eth_getBlockReceipts \[POST\] {disallowed}
+description: Returns all transaction receipts for a given block.
 ---
 
 ### Parameters

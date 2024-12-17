@@ -1,6 +1,6 @@
 ---
-title: gno:eth_getBlockByHash - Gnosis
-description: Example code for the gno:eth_getBlockByHash json-rpc method. Сomplete guide on how to use gno:eth_getBlockByHash json-rpc in GetBlock.io Web3 documentation.
+title: gno:eth_getBlockByHash \[POST\]
+description: Returns information about the block by hash.
 ---
 
 ### Parameters

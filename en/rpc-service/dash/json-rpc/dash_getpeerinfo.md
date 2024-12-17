@@ -1,6 +1,6 @@
 ---
-title: dash:getpeerinfo  {disallowed} - Dash
-description: Example code for the dash:getpeerinfo  {disallowed} json-rpc method. Сomplete guide on how to use dash:getpeerinfo  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: dash:getpeerinfo \[POST\] {disallowed}
+description: Returns data about each connected network node.
 ---
 
 ### Parameters

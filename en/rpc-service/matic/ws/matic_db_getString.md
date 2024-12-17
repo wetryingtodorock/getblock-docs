@@ -1,6 +1,6 @@
 ---
-title: matic:db_getString  {disallowed} - Polygon
-description: Example code for the matic:db_getString  {disallowed} ws method. Сomplete guide on how to use matic:db_getString  {disallowed} ws in GetBlock.io Web3 documentation.
+title: matic:db_getString \[WebSocket\] {disallowed}
+description: Returns string from the local database.Note this function is deprecated and will be removed in the future.
 ---
 
 ### Parameters

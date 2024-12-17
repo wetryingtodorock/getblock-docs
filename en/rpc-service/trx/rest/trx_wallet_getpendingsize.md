@@ -1,6 +1,6 @@
 ---
-title: trx:/wallet/getpendingsize - TRON
-description: Example code for the trx:/wallet/getpendingsize rest method. Сomplete guide on how to use trx:/wallet/getpendingsize rest in GetBlock.io Web3 documentation.
+title: trx:/wallet/getpendingsize \[GET\]
+description: Get the size of the pending pool queue
 ---
 
 ### Parameters

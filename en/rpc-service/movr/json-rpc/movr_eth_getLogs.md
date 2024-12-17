@@ -1,6 +1,6 @@
 ---
-title: movr:eth_getLogs  {disallowed} - Moonriver
-description: Example code for the movr:eth_getLogs  {disallowed} json-rpc method. Сomplete guide on how to use movr:eth_getLogs  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: movr:eth_getLogs \[POST\] {disallowed}
+description: Returns logs matching given filter object.
 ---
 
 ### Parameters

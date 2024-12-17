@@ -1,6 +1,6 @@
 ---
-title: btc:getnodeaddresses  {disallowed} - Bitcoin
-description: Example code for the btc:getnodeaddresses  {disallowed} json-rpc method. Сomplete guide on how to use btc:getnodeaddresses  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: btc:getnodeaddresses \[POST\] {disallowed}
+description: Return known addresses which can potentially be used to find new nodesin the network
 ---
 
 ### Parameters

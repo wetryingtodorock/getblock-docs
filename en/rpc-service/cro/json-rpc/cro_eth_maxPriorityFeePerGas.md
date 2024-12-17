@@ -1,6 +1,6 @@
 ---
-title: cro:eth_maxPriorityFeePerGas - Cronos
-description: Example code for the cro:eth_maxPriorityFeePerGas json-rpc method. Сomplete guide on how to use cro:eth_maxPriorityFeePerGas json-rpc in GetBlock.io Web3 documentation.
+title: cro:eth_maxPriorityFeePerGas \[POST\]
+description: Returns the hex value of the priority fee necessary to be included in ablock.
 ---
 
 ### Parameters

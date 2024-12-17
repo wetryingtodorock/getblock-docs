@@ -1,6 +1,6 @@
 ---
-title: ksm:state_getReadProof  {disallowed} - Kusama
-description: Example code for the ksm:state_getReadProof  {disallowed} json-rpc method. Сomplete guide on how to use ksm:state_getReadProof  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: ksm:state_getReadProof \[POST\] {disallowed}
+description: Returns proof of storage entries at a specific block state
 ---
 
 ### Parameters

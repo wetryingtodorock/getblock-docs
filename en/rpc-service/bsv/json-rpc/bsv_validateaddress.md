@@ -1,6 +1,6 @@
 ---
-title: bsv:validateaddress - Bitcoin SV
-description: Example code for the bsv:validateaddress json-rpc method. Сomplete guide on how to use bsv:validateaddress json-rpc in GetBlock.io Web3 documentation.
+title: bsv:validateaddress \[POST\]
+description: Return information about the given btc address.
 ---
 
 ### Parameters

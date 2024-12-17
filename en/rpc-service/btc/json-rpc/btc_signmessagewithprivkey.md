@@ -1,6 +1,6 @@
 ---
-title: btc:signmessagewithprivkey  {disallowed} - Bitcoin
-description: Example code for the btc:signmessagewithprivkey  {disallowed} json-rpc method. Сomplete guide on how to use btc:signmessagewithprivkey  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: btc:signmessagewithprivkey \[POST\] {disallowed}
+description: Sign a message with the private key of an address
 ---
 
 ### Parameters

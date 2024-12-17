@@ -1,6 +1,6 @@
 ---
-title: bch:getnettotals  {disallowed} - Bitcoin Cash
-description: Example code for the bch:getnettotals  {disallowed} json-rpc method. Сomplete guide on how to use bch:getnettotals  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: bch:getnettotals \[POST\] {disallowed}
+description: Returns information about network traffic, including bytes in, bytesout, and current time.
 ---
 
 ### Parameters

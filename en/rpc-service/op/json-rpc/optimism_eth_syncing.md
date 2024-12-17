@@ -1,6 +1,6 @@
 ---
-title: optimism:eth_syncing - Optimism
-description: Example code for the optimism:eth_syncing json-rpc method. Сomplete guide on how to use optimism:eth_syncing json-rpc in GetBlock.io Web3 documentation.
+title: optimism:eth_syncing \[POST\]
+description: Returns an object with data about the sync status or false.
 ---
 
 ### Parameters

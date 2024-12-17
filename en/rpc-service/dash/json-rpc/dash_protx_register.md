@@ -1,6 +1,6 @@
 ---
-title: dash:protx_register  {disallowed} - Dash
-description: Example code for the dash:protx_register  {disallowed} json-rpc method. Сomplete guide on how to use dash:protx_register  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: dash:protx_register \[POST\] {disallowed}
+description: RPC creates a ProRegTx referencing an existing collateral and and sendsit to the network.
 ---
 
 ### Parameters

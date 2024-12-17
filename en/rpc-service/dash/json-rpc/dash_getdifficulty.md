@@ -1,6 +1,6 @@
 ---
-title: dash:getdifficulty - Dash
-description: Example code for the dash:getdifficulty json-rpc method. Сomplete guide on how to use dash:getdifficulty json-rpc in GetBlock.io Web3 documentation.
+title: dash:getdifficulty \[POST\]
+description: Returns the proof-of-work difficulty as a multiple of the minimumdifficulty.
 ---
 
 ### Parameters

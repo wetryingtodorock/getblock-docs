@@ -1,6 +1,6 @@
 ---
-title: avax:eth_mining - Avalanche
-description: Example code for the avax:eth_mining json-rpc method. Сomplete guide on how to use avax:eth_mining json-rpc in GetBlock.io Web3 documentation.
+title: avax:eth_mining \[POST\]
+description: Returns true if client is actively mining new blocks.
 ---
 
 ### Parameters

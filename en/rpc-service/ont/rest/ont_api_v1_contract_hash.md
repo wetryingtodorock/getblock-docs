@@ -1,6 +1,6 @@
 ---
-title: ont:/api/v1/contract/{hash} - Ontology
-description: Example code for the ont:/api/v1/contract/{hash} rest method. Сomplete guide on how to use ont:/api/v1/contract/{hash} rest in GetBlock.io Web3 documentation.
+title: ont:/api/v1/contract/{hash} \[GET\]
+description: Fetches contract details using contract hash
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: heco:eth_newBlockFilter - Huobi ECO Chain
-description: Example code for the heco:eth_newBlockFilter json-rpc method. Сomplete guide on how to use heco:eth_newBlockFilter json-rpc in GetBlock.io Web3 documentation.
+title: heco:eth_newBlockFilter \[POST\]
+description: Creates a filter in the node, to notify when a new block arrives. Tocheck if the state has changed, call eth_getFilterChanges.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: etc:eth_getBlockByHash - Ethereum Classic
-description: Example code for the etc:eth_getBlockByHash json-rpc method. Сomplete guide on how to use etc:eth_getBlockByHash json-rpc in GetBlock.io Web3 documentation.
+title: etc:eth_getBlockByHash \[POST\]
+description: Returns information about the block by hash.
 ---
 
 ### Parameters

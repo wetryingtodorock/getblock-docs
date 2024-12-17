@@ -1,6 +1,6 @@
 ---
-title: optimism:rpc_modules - Optimism
-description: Example code for the optimism:rpc_modules json-rpc method. Сomplete guide on how to use optimism:rpc_modules json-rpc in GetBlock.io Web3 documentation.
+title: optimism:rpc_modules \[POST\]
+description: Lists enabled APIs and the version of each.
 ---
 
 ### Parameters

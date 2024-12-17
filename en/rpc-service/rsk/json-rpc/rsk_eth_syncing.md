@@ -1,6 +1,6 @@
 ---
-title: rsk:eth_syncing - Rootstock
-description: Example code for the rsk:eth_syncing json-rpc method. Сomplete guide on how to use rsk:eth_syncing json-rpc in GetBlock.io Web3 documentation.
+title: rsk:eth_syncing \[POST\]
+description: Returns an object with data about the sync status or false.
 ---
 
 ### Parameters

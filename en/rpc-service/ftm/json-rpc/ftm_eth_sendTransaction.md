@@ -1,6 +1,6 @@
 ---
-title: ftm:eth_sendTransaction  {disallowed} - Fantom
-description: Example code for the ftm:eth_sendTransaction  {disallowed} json-rpc method. Сomplete guide on how to use ftm:eth_sendTransaction  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: ftm:eth_sendTransaction \[POST\] {disallowed}
+description: Creates new message call transaction or a contract creation, if the datafield contains code.
 ---
 
 ### Parameters

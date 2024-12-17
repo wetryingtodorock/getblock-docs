@@ -1,6 +1,6 @@
 ---
-title: zec:z_mergetoaddress  {disallowed} - Zcash
-description: Example code for the zec:z_mergetoaddress  {disallowed} json-rpc method. Сomplete guide on how to use zec:z_mergetoaddress  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: zec:z_mergetoaddress \[POST\] {disallowed}
+description: Merge multiple UTXOs and notes into a single UTXO or note. CoinbaseUTXOs are ignored use \`z_shieldcoinbase\` to combine those into asingle note.This is an asynchronous operation, and UTXOs selected for merging willbe locked. If there is an error, they are unlocked. The RPC call\`listlockunspent\` can be used to return a list of locked UTXOs.The number of UTXOs and notes selected for merging can be limited by thecaller. If the transparent limit parameter is set to zero will meanlimit the number of UTXOs based on the size of the transaction. Anylimit is constrained by the consensus rule defining a maximumtransaction size of 100000 bytes before Sapling, and 2000000 bytes onceSapling activates.
 ---
 
 ### Parameters

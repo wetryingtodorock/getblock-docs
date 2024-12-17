@@ -1,6 +1,6 @@
 ---
-title: gno:eth_getTransactionByHash - Gnosis
-description: Example code for the gno:eth_getTransactionByHash ws method. Сomplete guide on how to use gno:eth_getTransactionByHash ws in GetBlock.io Web3 documentation.
+title: gno:eth_getTransactionByHash \[WebSocket\]
+description: Returns transaction information for the specified transaction hash.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: kcc:eth_uninstallFilter - KuCoin Community Chain
-description: Example code for the kcc:eth_uninstallFilter json-rpc method. Сomplete guide on how to use kcc:eth_uninstallFilter json-rpc in GetBlock.io Web3 documentation.
+title: kcc:eth_uninstallFilter \[POST\]
+description: Uninstalls a filter with given id. Should always be called when watch isno longer needed. Additonally Filters timeout when they aren’t requestedwith eth_getFilterChanges for a period of time.
 ---
 
 ### Parameters

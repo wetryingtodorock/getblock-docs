@@ -1,6 +1,6 @@
 ---
-title: dash:setcoinjoinamount  {disallowed} - Dash
-description: Example code for the dash:setcoinjoinamount  {disallowed} json-rpc method. Сomplete guide on how to use dash:setcoinjoinamount  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: dash:setcoinjoinamount \[POST\] {disallowed}
+description: Sets the amount of DASH to be processed with CoinJoin (previously namedsetprivatesendamount prior to Dash Core 0.17.0).
 ---
 
 ### Parameters

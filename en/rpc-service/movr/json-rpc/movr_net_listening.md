@@ -1,6 +1,6 @@
 ---
-title: movr:net_listening  {disallowed} - Moonriver
-description: Example code for the movr:net_listening  {disallowed} json-rpc method. Сomplete guide on how to use movr:net_listening  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: movr:net_listening \[POST\] {disallowed}
+description: Returns true if client is actively listening for network connections.Otherwise false.
 ---
 
 ### Parameters

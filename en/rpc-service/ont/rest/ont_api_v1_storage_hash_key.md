@@ -1,6 +1,6 @@
 ---
-title: ont:/api/v1/storage/{hash}/{key} - Ontology
-description: Example code for the ont:/api/v1/storage/{hash}/{key} rest method. Сomplete guide on how to use ont:/api/v1/storage/{hash}/{key} rest in GetBlock.io Web3 documentation.
+title: ont:/api/v1/storage/{hash}/{key} \[GET\]
+description: Fetch value using contract address hash and key
 ---
 
 ### Parameters

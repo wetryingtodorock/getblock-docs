@@ -1,6 +1,6 @@
 ---
-title: dgb:getblockstats - DigiByte
-description: Example code for the dgb:getblockstats json-rpc method. Сomplete guide on how to use dgb:getblockstats json-rpc in GetBlock.io Web3 documentation.
+title: dgb:getblockstats \[POST\]
+description: Compute per block statistics for a given window. All amounts are insatoshis.It wont work for some heights with pruning.
 ---
 
 ### Parameters

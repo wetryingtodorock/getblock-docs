@@ -1,6 +1,6 @@
 ---
-title: fuse:eth_gasPrice - Fuse Network
-description: Example code for the fuse:eth_gasPrice json-rpc method. Сomplete guide on how to use fuse:eth_gasPrice json-rpc in GetBlock.io Web3 documentation.
+title: fuse:eth_gasPrice \[POST\]
+description: Returns the current price per gas in wei.
 ---
 
 ### Parameters

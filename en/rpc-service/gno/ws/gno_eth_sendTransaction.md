@@ -1,6 +1,6 @@
 ---
-title: gno:eth_sendTransaction  {disallowed} - Gnosis
-description: Example code for the gno:eth_sendTransaction  {disallowed} ws method. Сomplete guide on how to use gno:eth_sendTransaction  {disallowed} ws in GetBlock.io Web3 documentation.
+title: gno:eth_sendTransaction \[WebSocket\] {disallowed}
+description: Creates new message call transaction or a contract creation, if the datafield contains code.
 ---
 
 ### Parameters

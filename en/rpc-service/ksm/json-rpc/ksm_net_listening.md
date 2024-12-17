@@ -1,6 +1,6 @@
 ---
-title: ksm:net_listening  {disallowed} - Kusama
-description: Example code for the ksm:net_listening  {disallowed} json-rpc method. Сomplete guide on how to use ksm:net_listening  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: ksm:net_listening \[POST\] {disallowed}
+description: Returns true if client is actively listening for network connections.Otherwise false.
 ---
 
 ### Parameters

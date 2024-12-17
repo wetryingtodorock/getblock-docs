@@ -1,6 +1,6 @@
 ---
-title: eth:ibft_getValidatorsByBlockNumber  {disallowed} - Ethereum
-description: Example code for the eth:ibft_getValidatorsByBlockNumber  {disallowed} ws method. Сomplete guide on how to use eth:ibft_getValidatorsByBlockNumber  {disallowed} ws in GetBlock.io Web3 documentation.
+title: eth:ibft_getValidatorsByBlockNumber \[WebSocket\] {disallowed}
+description: Lists the validators defined in the specified block.
 ---
 
 ### Parameters

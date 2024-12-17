@@ -1,6 +1,6 @@
 ---
-title: btg:getindexinfo - Bitcoin Gold
-description: Example code for the btg:getindexinfo json-rpc method. Сomplete guide on how to use btg:getindexinfo json-rpc in GetBlock.io Web3 documentation.
+title: btg:getindexinfo \[POST\]
+description: Returns the status of one or all available indices currently running inthe node.
 ---
 
 ### Parameters

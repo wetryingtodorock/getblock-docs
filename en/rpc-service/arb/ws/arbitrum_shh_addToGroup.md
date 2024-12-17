@@ -1,6 +1,6 @@
 ---
-title: arbitrum:shh_addToGroup  {disallowed} - Arbitrum
-description: Example code for the arbitrum:shh_addToGroup  {disallowed} ws method. Сomplete guide on how to use arbitrum:shh_addToGroup  {disallowed} ws in GetBlock.io Web3 documentation.
+title: arbitrum:shh_addToGroup \[WebSocket\] {disallowed}
+description: Adds given address to a group
 ---
 
 ### Parameters

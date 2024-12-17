@@ -1,6 +1,6 @@
 ---
-title: btc:getblockfilter - Bitcoin
-description: Example code for the btc:getblockfilter json-rpc method. Сomplete guide on how to use btc:getblockfilter json-rpc in GetBlock.io Web3 documentation.
+title: btc:getblockfilter \[POST\]
+description: Retrieve a BIP 157 content filter for a particular block.
 ---
 
 ### Parameters

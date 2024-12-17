@@ -1,6 +1,6 @@
 ---
-title: theta:theta.GetBlock - Theta Network
-description: Example code for the theta:theta.GetBlock json-rpc method. Сomplete guide on how to use theta:theta.GetBlock json-rpc in GetBlock.io Web3 documentation.
+title: theta:theta.GetBlock \[POST\]
+description: This API returns the block being queried in json format.
 ---
 
 ### Parameters

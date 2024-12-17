@@ -1,6 +1,6 @@
 ---
-title: btc:combinerawtransaction - Bitcoin
-description: Example code for the btc:combinerawtransaction json-rpc method. Сomplete guide on how to use btc:combinerawtransaction json-rpc in GetBlock.io Web3 documentation.
+title: btc:combinerawtransaction \[POST\]
+description: Combine multiple partially signed transactions into one transaction.The combined transaction may be another partially signed transaction ora fully signed transaction.
 ---
 
 ### Parameters

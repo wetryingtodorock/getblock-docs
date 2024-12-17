@@ -1,6 +1,6 @@
 ---
-title: kcc:shh_newIdentity  {disallowed} - KuCoin Community Chain
-description: Example code for the kcc:shh_newIdentity  {disallowed} ws method. Сomplete guide on how to use kcc:shh_newIdentity  {disallowed} ws in GetBlock.io Web3 documentation.
+title: kcc:shh_newIdentity \[WebSocket\] {disallowed}
+description: Creates new whisper identity in the client.
 ---
 
 ### Parameters

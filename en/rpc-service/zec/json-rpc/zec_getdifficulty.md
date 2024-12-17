@@ -1,6 +1,6 @@
 ---
-title: zec:getdifficulty - Zcash
-description: Example code for the zec:getdifficulty json-rpc method. Сomplete guide on how to use zec:getdifficulty json-rpc in GetBlock.io Web3 documentation.
+title: zec:getdifficulty \[POST\]
+description: Returns the proof-of-work difficulty as a multiple of the minimumdifficulty.
 ---
 
 ### Parameters

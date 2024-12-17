@@ -1,6 +1,6 @@
 ---
-title: btc:getaddressinfo  {disallowed} - Bitcoin
-description: Example code for the btc:getaddressinfo  {disallowed} json-rpc method. Сomplete guide on how to use btc:getaddressinfo  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: btc:getaddressinfo \[POST\] {disallowed}
+description: Return information about the given bitcoin address.Some of the information will only be present if the address is in theactive wallet.
 ---
 
 ### Parameters

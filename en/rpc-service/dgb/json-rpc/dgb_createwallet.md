@@ -1,6 +1,6 @@
 ---
-title: dgb:createwallet  {disallowed} - DigiByte
-description: Example code for the dgb:createwallet  {disallowed} json-rpc method. Сomplete guide on how to use dgb:createwallet  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: dgb:createwallet \[POST\] {disallowed}
+description: Creates and loads a new wallet.
 ---
 
 ### Parameters

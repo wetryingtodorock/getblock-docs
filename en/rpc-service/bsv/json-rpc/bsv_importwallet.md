@@ -1,6 +1,6 @@
 ---
-title: bsv:importwallet  {disallowed} - Bitcoin SV
-description: Example code for the bsv:importwallet  {disallowed} json-rpc method. Сomplete guide on how to use bsv:importwallet  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: bsv:importwallet \[POST\] {disallowed}
+description: Imports keys from a wallet dump file (see dumpwallet). Requires a newwallet backup to include imported keys.Note Use “getwalletinfo” to query the scanning progress.
 ---
 
 ### Parameters

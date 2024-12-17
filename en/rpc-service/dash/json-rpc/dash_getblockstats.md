@@ -1,6 +1,6 @@
 ---
-title: dash:getblockstats - Dash
-description: Example code for the dash:getblockstats json-rpc method. Сomplete guide on how to use dash:getblockstats json-rpc in GetBlock.io Web3 documentation.
+title: dash:getblockstats \[POST\]
+description: Computes per block statistics for a given window.All amounts are in duffs.It wont work for some heights with pruning. It wont work without-txindex for utxo_size_inc, \*fee or \*feerate stats.
 ---
 
 ### Parameters

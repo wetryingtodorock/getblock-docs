@@ -1,6 +1,6 @@
 ---
-title: fuse:eth_getFilterChanges - Fuse Network
-description: Example code for the fuse:eth_getFilterChanges json-rpc method. Сomplete guide on how to use fuse:eth_getFilterChanges json-rpc in GetBlock.io Web3 documentation.
+title: fuse:eth_getFilterChanges \[POST\]
+description: Polling method for a filter, which returns an array of logs whichoccurred since last poll.
 ---
 
 ### Parameters

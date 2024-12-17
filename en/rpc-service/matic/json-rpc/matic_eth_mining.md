@@ -1,6 +1,6 @@
 ---
-title: matic:eth_mining - Polygon
-description: Example code for the matic:eth_mining json-rpc method. Сomplete guide on how to use matic:eth_mining json-rpc in GetBlock.io Web3 documentation.
+title: matic:eth_mining \[POST\]
+description: Returns true if client is actively mining new blocks.
 ---
 
 ### Parameters

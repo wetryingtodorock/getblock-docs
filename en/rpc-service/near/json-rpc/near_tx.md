@@ -1,6 +1,6 @@
 ---
-title: near:tx - NEAR Protocol
-description: Example code for the near:tx json-rpc method. Сomplete guide on how to use near:tx json-rpc in GetBlock.io Web3 documentation.
+title: near:tx \[POST\]
+description: Queries status of a transaction by hash and returns the finaltransaction result.
 ---
 
 ### Parameters

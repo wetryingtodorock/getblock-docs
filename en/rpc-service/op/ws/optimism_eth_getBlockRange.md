@@ -1,6 +1,6 @@
 ---
-title: optimism:eth_getBlockRange  {disallowed} - Optimism
-description: Example code for the optimism:eth_getBlockRange  {disallowed} ws method. Сomplete guide on how to use optimism:eth_getBlockRange  {disallowed} ws in GetBlock.io Web3 documentation.
+title: optimism:eth_getBlockRange \[WebSocket\] {disallowed}
+description: Deprecated.Returns information about array of blocks by block numbers.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: avax:eth_newPendingTransactionFilter - Avalanche
-description: Example code for the avax:eth_newPendingTransactionFilter json-rpc method. Сomplete guide on how to use avax:eth_newPendingTransactionFilter json-rpc in GetBlock.io Web3 documentation.
+title: avax:eth_newPendingTransactionFilter \[POST\]
+description: Creates a filter in the node, to notify when new pending transactionsarrive. To check if the state has changed, call eth_getFilterChanges.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: optimism:eth_getBlockReceipts  {disallowed} - Optimism
-description: Example code for the optimism:eth_getBlockReceipts  {disallowed} json-rpc method. Сomplete guide on how to use optimism:eth_getBlockReceipts  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: optimism:eth_getBlockReceipts \[POST\] {disallowed}
+description: Returns all transaction receipts for a given block.
 ---
 
 ### Parameters

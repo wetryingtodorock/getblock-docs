@@ -1,6 +1,6 @@
 ---
-title: xmr:get_block_header_by_hash - Monero
-description: Example code for the xmr:get_block_header_by_hash json-rpc method. Сomplete guide on how to use xmr:get_block_header_by_hash json-rpc in GetBlock.io Web3 documentation.
+title: xmr:get_block_header_by_hash \[POST\]
+description: Block header information can be retrieved using either a block's hash or height. This method includes a block's hash as an input parameter to retrieve basic information about the block.
 ---
 
 ### Parameters

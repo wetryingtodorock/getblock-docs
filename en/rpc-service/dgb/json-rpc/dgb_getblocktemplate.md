@@ -1,6 +1,6 @@
 ---
-title: dgb:getblocktemplate - DigiByte
-description: Example code for the dgb:getblocktemplate json-rpc method. Сomplete guide on how to use dgb:getblocktemplate json-rpc in GetBlock.io Web3 documentation.
+title: dgb:getblocktemplate \[POST\]
+description: If the request parameters include a ‘mode’ key, that is used toexplicitly select between the default ‘template’ request or a‘proposal’.It returns data needed to construct a block to work on.
 ---
 
 ### Parameters

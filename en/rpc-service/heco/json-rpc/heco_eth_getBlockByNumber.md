@@ -1,6 +1,6 @@
 ---
-title: heco:eth_getBlockByNumber - Huobi ECO Chain
-description: Example code for the heco:eth_getBlockByNumber json-rpc method. Сomplete guide on how to use heco:eth_getBlockByNumber json-rpc in GetBlock.io Web3 documentation.
+title: heco:eth_getBlockByNumber \[POST\]
+description: Returns information about a block by block number.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: rsk:shh_post  {disallowed} - Rootstock
-description: Example code for the rsk:shh_post  {disallowed} json-rpc method. Сomplete guide on how to use rsk:shh_post  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: rsk:shh_post \[POST\] {disallowed}
+description: Whisper protocol not supported.
 ---
 
 ### Parameters

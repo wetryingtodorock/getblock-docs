@@ -1,6 +1,6 @@
 ---
-title: dgb:getmempoolinfo - DigiByte
-description: Example code for the dgb:getmempoolinfo json-rpc method. Сomplete guide on how to use dgb:getmempoolinfo json-rpc in GetBlock.io Web3 documentation.
+title: dgb:getmempoolinfo \[POST\]
+description: Returns details on the active state of the TX memory pool.
 ---
 
 ### Parameters

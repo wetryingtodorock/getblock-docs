@@ -1,6 +1,6 @@
 ---
-title: ftm:eth_maxPriorityFeePerGas - Fantom
-description: Example code for the ftm:eth_maxPriorityFeePerGas json-rpc method. Сomplete guide on how to use ftm:eth_maxPriorityFeePerGas json-rpc in GetBlock.io Web3 documentation.
+title: ftm:eth_maxPriorityFeePerGas \[POST\]
+description: Returns the hex value of the priority fee necessary to be included in ablock.
 ---
 
 ### Parameters

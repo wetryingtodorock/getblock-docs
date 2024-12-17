@@ -1,6 +1,6 @@
 ---
-title: dgb:getaddressesbylabel  {disallowed} - DigiByte
-description: Example code for the dgb:getaddressesbylabel  {disallowed} json-rpc method. Сomplete guide on how to use dgb:getaddressesbylabel  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: dgb:getaddressesbylabel \[POST\] {disallowed}
+description: Returns the list of addresses assigned the specified label.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: dot:beefy_getFinalizedHead  {disallowed} - Polkadot
-description: Example code for the dot:beefy_getFinalizedHead  {disallowed} json-rpc method. Сomplete guide on how to use dot:beefy_getFinalizedHead  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: dot:beefy_getFinalizedHead \[POST\] {disallowed}
+description: Returns hash of the latest BEEFY finalized block as seen by this client.
 ---
 
 ### Parameters

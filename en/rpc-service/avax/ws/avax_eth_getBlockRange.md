@@ -1,6 +1,6 @@
 ---
-title: avax:eth_getBlockRange  {disallowed} - Avalanche
-description: Example code for the avax:eth_getBlockRange  {disallowed} ws method. Сomplete guide on how to use avax:eth_getBlockRange  {disallowed} ws in GetBlock.io Web3 documentation.
+title: avax:eth_getBlockRange \[WebSocket\] {disallowed}
+description: Deprecated.Returns information about array of blocks by block numbers.
 ---
 
 ### Parameters

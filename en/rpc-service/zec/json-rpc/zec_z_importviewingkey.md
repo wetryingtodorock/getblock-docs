@@ -1,6 +1,6 @@
 ---
-title: zec:z_importviewingkey  {disallowed} - Zcash
-description: Example code for the zec:z_importviewingkey  {disallowed} json-rpc method. Сomplete guide on how to use zec:z_importviewingkey  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: zec:z_importviewingkey \[POST\] {disallowed}
+description: Adds a viewing key (as returned by z_exportviewingkey) to your wallet.
 ---
 
 ### Parameters

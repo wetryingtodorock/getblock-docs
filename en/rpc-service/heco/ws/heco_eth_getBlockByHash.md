@@ -1,6 +1,6 @@
 ---
-title: heco:eth_getBlockByHash - Huobi ECO Chain
-description: Example code for the heco:eth_getBlockByHash ws method. Сomplete guide on how to use heco:eth_getBlockByHash ws in GetBlock.io Web3 documentation.
+title: heco:eth_getBlockByHash \[WebSocket\]
+description: Returns information about a block by hash.
 ---
 
 ### Parameters

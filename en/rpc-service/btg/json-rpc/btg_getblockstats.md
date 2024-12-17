@@ -1,6 +1,6 @@
 ---
-title: btg:getblockstats - Bitcoin Gold
-description: Example code for the btg:getblockstats json-rpc method. Сomplete guide on how to use btg:getblockstats json-rpc in GetBlock.io Web3 documentation.
+title: btg:getblockstats \[POST\]
+description: Compute per block statistics for a given window. All amounts are insatoshis.It wont work for some heights with pruning.
 ---
 
 ### Parameters

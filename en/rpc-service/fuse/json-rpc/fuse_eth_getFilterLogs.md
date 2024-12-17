@@ -1,6 +1,6 @@
 ---
-title: fuse:eth_getFilterLogs - Fuse Network
-description: Example code for the fuse:eth_getFilterLogs json-rpc method. Сomplete guide on how to use fuse:eth_getFilterLogs json-rpc in GetBlock.io Web3 documentation.
+title: fuse:eth_getFilterLogs \[POST\]
+description: Returns an array of all logs matching filter with given id.
 ---
 
 ### Parameters

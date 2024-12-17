@@ -1,6 +1,6 @@
 ---
-title: btg:getchaintxstats - Bitcoin Gold
-description: Example code for the btg:getchaintxstats json-rpc method. Сomplete guide on how to use btg:getchaintxstats json-rpc in GetBlock.io Web3 documentation.
+title: btg:getchaintxstats \[POST\]
+description: Compute statistics about the total number and rate of transactions inthe chain.
 ---
 
 ### Parameters

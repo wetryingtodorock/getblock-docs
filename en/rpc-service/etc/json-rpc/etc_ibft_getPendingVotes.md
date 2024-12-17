@@ -1,6 +1,6 @@
 ---
-title: etc:ibft_getPendingVotes  {disallowed} - Ethereum Classic
-description: Example code for the etc:ibft_getPendingVotes  {disallowed} json-rpc method. Сomplete guide on how to use etc:ibft_getPendingVotes  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: etc:ibft_getPendingVotes \[POST\] {disallowed}
+description: Returns votes cast in the current epoch.
 ---
 
 ### Parameters

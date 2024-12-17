@@ -1,6 +1,6 @@
 ---
-title: eth:priv_getPrivateTransaction  {disallowed} - Ethereum
-description: Example code for the eth:priv_getPrivateTransaction  {disallowed} ws method. Сomplete guide on how to use eth:priv_getPrivateTransaction  {disallowed} ws in GetBlock.io Web3 documentation.
+title: eth:priv_getPrivateTransaction \[WebSocket\] {disallowed}
+description: Returns the private transaction if you are a participant, otherwise,null.
 ---
 
 ### Parameters

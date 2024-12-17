@@ -1,6 +1,6 @@
 ---
-title: bsv:walletcreatefundedpsbt  {disallowed} - Bitcoin SV
-description: Example code for the bsv:walletcreatefundedpsbt  {disallowed} json-rpc method. Сomplete guide on how to use bsv:walletcreatefundedpsbt  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: bsv:walletcreatefundedpsbt \[POST\] {disallowed}
+description: Creates and funds a transaction in the Partially Signed Transactionformat.Implements the Creator and Updater roles.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: kcc:eth_getBalance - KuCoin Community Chain
-description: Example code for the kcc:eth_getBalance ws method. Сomplete guide on how to use kcc:eth_getBalance ws in GetBlock.io Web3 documentation.
+title: kcc:eth_getBalance \[WebSocket\]
+description: Returns the balance of the account of given address.
 ---
 
 ### Parameters

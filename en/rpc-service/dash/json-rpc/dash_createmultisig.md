@@ -1,6 +1,6 @@
 ---
-title: dash:createmultisig  {disallowed} - Dash
-description: Example code for the dash:createmultisig  {disallowed} json-rpc method. Сomplete guide on how to use dash:createmultisig  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: dash:createmultisig \[POST\] {disallowed}
+description: Creates a P2SH multi-signature address.Deprecation Warning!As of Dash Core 0.17.0, using addresses with createmultisig isunsupported. Clients must use addmultisigaddress to create multisigaddresses.
 ---
 
 ### Parameters

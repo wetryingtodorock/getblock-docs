@@ -1,6 +1,6 @@
 ---
-title: avax:eth_call - Avalanche
-description: Example code for the avax:eth_call ws method. Сomplete guide on how to use avax:eth_call ws in GetBlock.io Web3 documentation.
+title: avax:eth_call \[WebSocket\]
+description: Executes a new message call immediately without creating a transactionon the block chain.
 ---
 
 ### Parameters

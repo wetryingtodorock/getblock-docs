@@ -1,6 +1,6 @@
 ---
-title: ton:/unpackAddress - The Open Network (TON)
-description: Example code for the ton:/unpackAddress json-rpc method. Сomplete guide on how to use ton:/unpackAddress json-rpc in GetBlock.io Web3 documentation.
+title: ton:/unpackAddress \[GET\]
+description: Convert an address from human-readable to raw format.
 ---
 
 ### Parameters

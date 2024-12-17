@@ -1,6 +1,6 @@
 ---
-title: dgb:decodescript - DigiByte
-description: Example code for the dgb:decodescript json-rpc method. Сomplete guide on how to use dgb:decodescript json-rpc in GetBlock.io Web3 documentation.
+title: dgb:decodescript \[POST\]
+description: Decode a hex-encoded script.
 ---
 
 ### Parameters

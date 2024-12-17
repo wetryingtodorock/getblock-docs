@@ -1,6 +1,6 @@
 ---
-title: movr:contracts_instantiate  {disallowed} - Moonriver
-description: Example code for the movr:contracts_instantiate  {disallowed} json-rpc method. Сomplete guide on how to use movr:contracts_instantiate  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: movr:contracts_instantiate \[POST\] {disallowed}
+description: Instantiate a new contract.
 ---
 
 ### Parameters

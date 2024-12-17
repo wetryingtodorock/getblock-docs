@@ -1,6 +1,6 @@
 ---
-title: kcc:eth_getBlockTransactionCountByHash - KuCoin Community Chain
-description: Example code for the kcc:eth_getBlockTransactionCountByHash ws method. Сomplete guide on how to use kcc:eth_getBlockTransactionCountByHash ws in GetBlock.io Web3 documentation.
+title: kcc:eth_getBlockTransactionCountByHash \[WebSocket\]
+description: Returns the number of transactions in a block from a block matching thegiven block hash.
 ---
 
 ### Parameters

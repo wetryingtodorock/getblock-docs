@@ -1,6 +1,6 @@
 ---
-title: btc:sendmany  {disallowed} - Bitcoin
-description: Example code for the btc:sendmany  {disallowed} json-rpc method. Сomplete guide on how to use btc:sendmany  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: btc:sendmany \[POST\] {disallowed}
+description: Send multiple times. Amounts are double-precision floating pointnumbers.Requires wallet passphrase to be set with walletpassphrase call ifwallet is encrypted.
 ---
 
 ### Parameters

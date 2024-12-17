@@ -1,6 +1,6 @@
 ---
-title: one:hmy_getBlockTransactionCountByHash - Harmony
-description: Example code for the one:hmy_getBlockTransactionCountByHash json-rpc method. Сomplete guide on how to use one:hmy_getBlockTransactionCountByHash json-rpc in GetBlock.io Web3 documentation.
+title: one:hmy_getBlockTransactionCountByHash \[POST\]
+description: Returns the number of transactions in the block matching the given blockhash.
 ---
 
 ### Parameters

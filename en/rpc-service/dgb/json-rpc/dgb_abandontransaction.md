@@ -1,6 +1,6 @@
 ---
-title: dgb:abandontransaction  {disallowed} - DigiByte
-description: Example code for the dgb:abandontransaction  {disallowed} json-rpc method. Сomplete guide on how to use dgb:abandontransaction  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: dgb:abandontransaction \[POST\] {disallowed}
+description: Mark in-wallet transaction txid as abandonedThis will mark this transaction and all its in-wallet descendants asabandoned which will allow for their inputs to be respent. It can beused to replace stuck or evicted transactions.It only works on transactions which are not included in a block and arenot currently in the mempool.It has no effect on transactions which are already abandoned.
 ---
 
 ### Parameters

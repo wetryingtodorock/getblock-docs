@@ -1,6 +1,6 @@
 ---
-title: zec:getwalletinfo  {disallowed} - Zcash
-description: Example code for the zec:getwalletinfo  {disallowed} json-rpc method. Сomplete guide on how to use zec:getwalletinfo  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: zec:getwalletinfo \[POST\] {disallowed}
+description: Returns an object containing various wallet state info.
 ---
 
 ### Parameters

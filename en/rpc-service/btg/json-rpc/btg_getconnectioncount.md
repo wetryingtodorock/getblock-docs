@@ -1,6 +1,6 @@
 ---
-title: btg:getconnectioncount  {disallowed} - Bitcoin Gold
-description: Example code for the btg:getconnectioncount  {disallowed} json-rpc method. Сomplete guide on how to use btg:getconnectioncount  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: btg:getconnectioncount \[POST\] {disallowed}
+description: Returns the number of connections to other nodes.
 ---
 
 ### Parameters

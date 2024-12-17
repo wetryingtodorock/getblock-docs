@@ -1,6 +1,6 @@
 ---
-title: bch:disconnectnode  {disallowed} - Bitcoin Cash
-description: Example code for the bch:disconnectnode  {disallowed} json-rpc method. Сomplete guide on how to use bch:disconnectnode  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: bch:disconnectnode \[POST\] {disallowed}
+description: Immediately disconnects from the specified peer node.Strictly one out of ‘address’ and ‘nodeid’ can be provided to identifythe node.To disconnect by nodeid, either set ‘address’ to the empty string, orcall using the named ‘nodeid’ argument only.
 ---
 
 ### Parameters

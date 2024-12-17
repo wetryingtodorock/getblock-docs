@@ -1,6 +1,6 @@
 ---
-title: bch:decodescript - Bitcoin Cash
-description: Example code for the bch:decodescript json-rpc method. Сomplete guide on how to use bch:decodescript json-rpc in GetBlock.io Web3 documentation.
+title: bch:decodescript \[POST\]
+description: Decode a hex-encoded script.
 ---
 
 ### Parameters

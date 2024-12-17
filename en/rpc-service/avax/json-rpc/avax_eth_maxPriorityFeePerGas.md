@@ -1,6 +1,6 @@
 ---
-title: avax:eth_maxPriorityFeePerGas  {disallowed} - Avalanche
-description: Example code for the avax:eth_maxPriorityFeePerGas  {disallowed} json-rpc method. Сomplete guide on how to use avax:eth_maxPriorityFeePerGas  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: avax:eth_maxPriorityFeePerGas \[POST\] {disallowed}
+description: Get the priority fee needed to be included in a block.
 ---
 
 ### Parameters

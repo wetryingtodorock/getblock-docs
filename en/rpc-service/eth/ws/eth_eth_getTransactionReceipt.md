@@ -1,6 +1,6 @@
 ---
-title: eth:eth_getTransactionReceipt - Ethereum
-description: Example code for the eth:eth_getTransactionReceipt ws method. Сomplete guide on how to use eth:eth_getTransactionReceipt ws in GetBlock.io Web3 documentation.
+title: eth:eth_getTransactionReceipt \[WebSocket\]
+description: Returns the receipt of a transaction by transaction hash. Receipts forpending transactions are not available.If you enabled revert reason, the receipt includes available revertreasons in the response.
 ---
 
 ### Parameters

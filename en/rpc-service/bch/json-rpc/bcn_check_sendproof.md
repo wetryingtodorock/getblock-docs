@@ -1,6 +1,6 @@
 ---
-title: bcn:check_sendproof - Bitcoin Cash
-description: Example code for the bcn:check_sendproof json-rpc method. Сomplete guide on how to use bcn:check_sendproof json-rpc in GetBlock.io Web3 documentation.
+title: bcn:check_sendproof \[POST\]
+description: Checks that given sendproof is valid and correct. Returns info about thesendproof if correct or error info with explanation if not.
 ---
 
 ### Parameters

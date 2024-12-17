@@ -1,6 +1,6 @@
 ---
-title: btg:getbalances  {disallowed} - Bitcoin Gold
-description: Example code for the btg:getbalances  {disallowed} json-rpc method. Сomplete guide on how to use btg:getbalances  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: btg:getbalances \[POST\] {disallowed}
+description: Returns an object with all balances in BTC.
 ---
 
 ### Parameters

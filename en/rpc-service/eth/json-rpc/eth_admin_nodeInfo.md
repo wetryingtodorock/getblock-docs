@@ -1,6 +1,6 @@
 ---
-title: eth:admin_nodeInfo  {disallowed} - Ethereum
-description: Example code for the eth:admin_nodeInfo  {disallowed} json-rpc method. Сomplete guide on how to use eth:admin_nodeInfo  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: eth:admin_nodeInfo \[POST\] {disallowed}
+description: Returns networking information about the node. The information includesgeneral information about the node and specific information from eachrunning Ethereum sub-protocol (for example, eth).
 ---
 
 ### Parameters

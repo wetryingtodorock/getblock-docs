@@ -1,6 +1,6 @@
 ---
-title: rsk:eth_getUncleByBlockNumberAndIndex - Rootstock
-description: Example code for the rsk:eth_getUncleByBlockNumberAndIndex ws method. Сomplete guide on how to use rsk:eth_getUncleByBlockNumberAndIndex ws in GetBlock.io Web3 documentation.
+title: rsk:eth_getUncleByBlockNumberAndIndex \[WebSocket\]
+description: Returns information about a uncle of a block by number and uncle indexposition.
 ---
 
 ### Parameters

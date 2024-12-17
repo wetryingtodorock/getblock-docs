@@ -1,6 +1,6 @@
 ---
-title: btc:walletpassphrasechange  {disallowed} - Bitcoin
-description: Example code for the btc:walletpassphrasechange  {disallowed} json-rpc method. Сomplete guide on how to use btc:walletpassphrasechange  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: btc:walletpassphrasechange \[POST\] {disallowed}
+description: Changes the wallet passphrase from ‘oldpassphrase’ to ‘newpassphrase’.
 ---
 
 ### Parameters

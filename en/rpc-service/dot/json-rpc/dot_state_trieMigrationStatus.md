@@ -1,6 +1,6 @@
 ---
-title: dot:state_trieMigrationStatus  {disallowed} - Polkadot
-description: Example code for the dot:state_trieMigrationStatus  {disallowed} json-rpc method. Сomplete guide on how to use dot:state_trieMigrationStatus  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: dot:state_trieMigrationStatus \[POST\] {disallowed}
+description: Check current migration stateThis method is only active with appropriate flags
 ---
 
 ### Parameters

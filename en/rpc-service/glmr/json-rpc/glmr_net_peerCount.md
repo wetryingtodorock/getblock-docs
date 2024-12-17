@@ -1,6 +1,6 @@
 ---
-title: glmr:net_peerCount - Moonbeam
-description: Example code for the glmr:net_peerCount json-rpc method. Сomplete guide on how to use glmr:net_peerCount json-rpc in GetBlock.io Web3 documentation.
+title: glmr:net_peerCount \[POST\]
+description: Returns number of peers currently connected to the client.
 ---
 
 ### Parameters

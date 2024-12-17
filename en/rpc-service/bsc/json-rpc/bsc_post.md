@@ -1,6 +1,6 @@
 ---
-title: bsc:post  {disallowed} - Binance Smart Chain
-description: Example code for the bsc:post  {disallowed} json-rpc method. Сomplete guide on how to use bsc:post  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: bsc:post \[POST\] {disallowed}
+description: Sends a whisper message.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: dash:gobject_deserialize - Dash
-description: Example code for the dash:gobject_deserialize json-rpc method. Сomplete guide on how to use dash:gobject_deserialize json-rpc in GetBlock.io Web3 documentation.
+title: dash:gobject_deserialize \[POST\]
+description: deserializes a governance object from a hex string to JSON.
 ---
 
 ### Parameters

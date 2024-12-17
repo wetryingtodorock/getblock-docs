@@ -1,6 +1,6 @@
 ---
-title: avax:web3_clientVersion - Avalanche
-description: Example code for the avax:web3_clientVersion json-rpc method. Сomplete guide on how to use avax:web3_clientVersion json-rpc in GetBlock.io Web3 documentation.
+title: avax:web3_clientVersion \[POST\]
+description: Returns the current client version.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: movr:grandpa_roundState - Moonriver
-description: Example code for the movr:grandpa_roundState json-rpc method. Сomplete guide on how to use movr:grandpa_roundState json-rpc in GetBlock.io Web3 documentation.
+title: movr:grandpa_roundState \[POST\]
+description: Returns the state of the current best round state as well as the ongoingbackground rounds.
 ---
 
 ### Parameters

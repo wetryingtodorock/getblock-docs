@@ -1,6 +1,6 @@
 ---
-title: bsv:getreceivedbyaddress  {disallowed} - Bitcoin SV
-description: Example code for the bsv:getreceivedbyaddress  {disallowed} json-rpc method. Сomplete guide on how to use bsv:getreceivedbyaddress  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: bsv:getreceivedbyaddress \[POST\] {disallowed}
+description: Returns the total amount received by the given address in transactionswith at least minconf confirmations.
 ---
 
 ### Parameters

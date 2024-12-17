@@ -1,6 +1,6 @@
 ---
-title: xem:/account/mosaic/owned - NEM
-description: Example code for the xem:/account/mosaic/owned rest method. Сomplete guide on how to use xem:/account/mosaic/owned rest in GetBlock.io Web3 documentation.
+title: xem:/account/mosaic/owned \[GET\]
+description: Gets an array of mosaic objects for a given account address.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: dgb:sendtoaddress  {disallowed} - DigiByte
-description: Example code for the dgb:sendtoaddress  {disallowed} json-rpc method. Сomplete guide on how to use dgb:sendtoaddress  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: dgb:sendtoaddress \[POST\] {disallowed}
+description: Send an amount to a given address.Requires wallet passphrase to be set with walletpassphrase call ifwallet is encrypted.
 ---
 
 ### Parameters

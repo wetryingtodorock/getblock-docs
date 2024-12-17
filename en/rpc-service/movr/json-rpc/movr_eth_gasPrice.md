@@ -1,6 +1,6 @@
 ---
-title: movr:eth_gasPrice  {disallowed} - Moonriver
-description: Example code for the movr:eth_gasPrice  {disallowed} json-rpc method. Сomplete guide on how to use movr:eth_gasPrice  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: movr:eth_gasPrice \[POST\] {disallowed}
+description: Returns current gas price.
 ---
 
 ### Parameters

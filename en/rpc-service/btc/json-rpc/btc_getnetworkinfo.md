@@ -1,6 +1,6 @@
 ---
-title: btc:getnetworkinfo  {disallowed} - Bitcoin
-description: Example code for the btc:getnetworkinfo  {disallowed} json-rpc method. Сomplete guide on how to use btc:getnetworkinfo  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: btc:getnetworkinfo \[POST\] {disallowed}
+description: Returns an object containing various state info regarding P2Pnetworking.
 ---
 
 ### Parameters

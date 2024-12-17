@@ -1,6 +1,6 @@
 ---
-title: xem:/node/peer-list/reachable - NEM
-description: Example code for the xem:/node/peer-list/reachable rest method. Сomplete guide on how to use xem:/node/peer-list/reachable rest in GetBlock.io Web3 documentation.
+title: xem:/node/peer-list/reachable \[GET\]
+description: Gets an array of all nodes with status active in the neighborhood.
 ---
 
 ### Parameters

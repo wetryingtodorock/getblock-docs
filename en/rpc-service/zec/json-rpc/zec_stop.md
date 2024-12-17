@@ -1,6 +1,6 @@
 ---
-title: zec:stop  {disallowed} - Zcash
-description: Example code for the zec:stop  {disallowed} json-rpc method. Сomplete guide on how to use zec:stop  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: zec:stop \[POST\] {disallowed}
+description: Stop Zcash server.
 ---
 
 ### Parameters

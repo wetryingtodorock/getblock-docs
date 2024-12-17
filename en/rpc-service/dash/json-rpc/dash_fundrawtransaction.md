@@ -1,6 +1,6 @@
 ---
-title: dash:fundrawtransaction  {disallowed} - Dash
-description: Example code for the dash:fundrawtransaction  {disallowed} json-rpc method. Сomplete guide on how to use dash:fundrawtransaction  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: dash:fundrawtransaction \[POST\] {disallowed}
+description: Requires wallet support (unavailable on masternodes).Adds inputs to a transaction until it has enough in value to meet itsout value. This will not modify existing inputs, and will add one changeoutput to the outputs.Note that inputs which were signed may need to be resigned aftercompletion since in/outputs have been added. The inputs added will notbe signed, use signrawtransaction for that.All existing inputs must have their previous output transaction be inthe wallet.
 ---
 
 ### Parameters

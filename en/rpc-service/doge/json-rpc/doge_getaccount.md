@@ -1,6 +1,6 @@
 ---
-title: doge:getaccount  {disallowed} - Dogecoin
-description: Example code for the doge:getaccount  {disallowed} json-rpc method. Сomplete guide on how to use doge:getaccount  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: doge:getaccount \[POST\] {disallowed}
+description: Returns the account associated with the given address.
 ---
 
 ### Parameters

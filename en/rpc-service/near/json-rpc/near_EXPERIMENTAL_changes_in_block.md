@@ -1,6 +1,6 @@
 ---
-title: near:EXPERIMENTAL_changes_in_block  {disallowed} - NEAR Protocol
-description: Example code for the near:EXPERIMENTAL_changes_in_block  {disallowed} json-rpc method. Сomplete guide on how to use near:EXPERIMENTAL_changes_in_block  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: near:EXPERIMENTAL_changes_in_block \[POST\] {disallowed}
+description: Returns changes in block for given block height or hash. You can alsouse finality param to return latest block details.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: bsc:eth_submitHashrate  {disallowed} - Binance Smart Chain
-description: Example code for the bsc:eth_submitHashrate  {disallowed} ws method. Сomplete guide on how to use bsc:eth_submitHashrate  {disallowed} ws in GetBlock.io Web3 documentation.
+title: bsc:eth_submitHashrate \[WebSocket\] {disallowed}
+description: Submits the mining hashrate.Used by mining software such as Ethminer.
 ---
 
 ### Parameters

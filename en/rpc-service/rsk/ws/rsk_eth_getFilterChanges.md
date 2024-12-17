@@ -1,6 +1,6 @@
 ---
-title: rsk:eth_getFilterChanges - Rootstock
-description: Example code for the rsk:eth_getFilterChanges ws method. Сomplete guide on how to use rsk:eth_getFilterChanges ws in GetBlock.io Web3 documentation.
+title: rsk:eth_getFilterChanges \[WebSocket\]
+description: Polling method for a filter, which returns an array of logs whichoccurred since last poll.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: theta:theta.GetPendingTransactions - Theta Network
-description: Example code for the theta:theta.GetPendingTransactions json-rpc method. Сomplete guide on how to use theta:theta.GetPendingTransactions json-rpc in GetBlock.io Web3 documentation.
+title: theta:theta.GetPendingTransactions \[POST\]
+description: This API returns the pending transactions in the mempool.
 ---
 
 ### Parameters

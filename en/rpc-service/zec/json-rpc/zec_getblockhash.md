@@ -1,6 +1,6 @@
 ---
-title: zec:getblockhash - Zcash
-description: Example code for the zec:getblockhash json-rpc method. Сomplete guide on how to use zec:getblockhash json-rpc in GetBlock.io Web3 documentation.
+title: zec:getblockhash \[POST\]
+description: Returns hash of block in best-block-chain at index provided.
 ---
 
 ### Parameters

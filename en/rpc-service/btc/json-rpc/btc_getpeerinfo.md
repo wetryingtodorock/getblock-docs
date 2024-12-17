@@ -1,6 +1,6 @@
 ---
-title: btc:getpeerinfo  {disallowed} - Bitcoin
-description: Example code for the btc:getpeerinfo  {disallowed} json-rpc method. Сomplete guide on how to use btc:getpeerinfo  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: btc:getpeerinfo \[POST\] {disallowed}
+description: Returns data about each connected network node as a json array ofobjects.
 ---
 
 ### Parameters

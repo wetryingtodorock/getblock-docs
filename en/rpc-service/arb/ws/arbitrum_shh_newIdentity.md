@@ -1,6 +1,6 @@
 ---
-title: arbitrum:shh_newIdentity  {disallowed} - Arbitrum
-description: Example code for the arbitrum:shh_newIdentity  {disallowed} ws method. Сomplete guide on how to use arbitrum:shh_newIdentity  {disallowed} ws in GetBlock.io Web3 documentation.
+title: arbitrum:shh_newIdentity \[WebSocket\] {disallowed}
+description: Creates new whisper identity in the client.
 ---
 
 ### Parameters

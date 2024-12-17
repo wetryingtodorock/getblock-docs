@@ -1,6 +1,6 @@
 ---
-title: arbitrum:shh_version  {disallowed} - Arbitrum
-description: Example code for the arbitrum:shh_version  {disallowed} ws method. Сomplete guide on how to use arbitrum:shh_version  {disallowed} ws in GetBlock.io Web3 documentation.
+title: arbitrum:shh_version \[WebSocket\] {disallowed}
+description: Returns the current whisper protocol version.
 ---
 
 ### Parameters

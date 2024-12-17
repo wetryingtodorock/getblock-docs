@@ -1,6 +1,6 @@
 ---
-title: matic:eth_call - Polygon
-description: Example code for the matic:eth_call json-rpc method. Сomplete guide on how to use matic:eth_call json-rpc in GetBlock.io Web3 documentation.
+title: matic:eth_call \[POST\]
+description: Executes a new message call immediately without creating a transactionon the block chain.
 ---
 
 ### Parameters

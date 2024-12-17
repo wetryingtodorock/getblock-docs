@@ -1,6 +1,6 @@
 ---
-title: bsv:listwallets  {disallowed} - Bitcoin SV
-description: Example code for the bsv:listwallets  {disallowed} json-rpc method. Сomplete guide on how to use bsv:listwallets  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: bsv:listwallets \[POST\] {disallowed}
+description: Returns a list of currently loaded wallets.For full information on the wallet, use “getwalletinfo”
 ---
 
 ### Parameters

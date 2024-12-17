@@ -1,6 +1,6 @@
 ---
-title: matic:eth_getStorageAt - Polygon
-description: Example code for the matic:eth_getStorageAt ws method. Сomplete guide on how to use matic:eth_getStorageAt ws in GetBlock.io Web3 documentation.
+title: matic:eth_getStorageAt \[WebSocket\]
+description: Returns the value from a storage position at a given address.
 ---
 
 ### Parameters

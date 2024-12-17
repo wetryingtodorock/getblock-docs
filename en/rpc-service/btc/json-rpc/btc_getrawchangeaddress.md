@@ -1,6 +1,6 @@
 ---
-title: btc:getrawchangeaddress  {disallowed} - Bitcoin
-description: Example code for the btc:getrawchangeaddress  {disallowed} json-rpc method. Сomplete guide on how to use btc:getrawchangeaddress  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: btc:getrawchangeaddress \[POST\] {disallowed}
+description: Returns a new Bitcoin address, for receiving change.This is for use with raw transactions, NOT normal use.
 ---
 
 ### Parameters

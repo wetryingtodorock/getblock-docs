@@ -1,6 +1,6 @@
 ---
-title: dgb:validateaddress - DigiByte
-description: Example code for the dgb:validateaddress json-rpc method. Сomplete guide on how to use dgb:validateaddress json-rpc in GetBlock.io Web3 documentation.
+title: dgb:validateaddress \[POST\]
+description: Return information about the given btc address.
 ---
 
 ### Parameters

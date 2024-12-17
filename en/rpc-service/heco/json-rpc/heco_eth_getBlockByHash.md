@@ -1,6 +1,6 @@
 ---
-title: heco:eth_getBlockByHash - Huobi ECO Chain
-description: Example code for the heco:eth_getBlockByHash json-rpc method. Сomplete guide on how to use heco:eth_getBlockByHash json-rpc in GetBlock.io Web3 documentation.
+title: heco:eth_getBlockByHash \[POST\]
+description: Returns information about a block by hash.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: gno:eth_getBlockReceipts  {disallowed} - Gnosis
-description: Example code for the gno:eth_getBlockReceipts  {disallowed} ws method. Сomplete guide on how to use gno:eth_getBlockReceipts  {disallowed} ws in GetBlock.io Web3 documentation.
+title: gno:eth_getBlockReceipts \[WebSocket\] {disallowed}
+description: Returns all transaction receipts for a given block.
 ---
 
 ### Parameters

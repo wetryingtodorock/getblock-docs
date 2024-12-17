@@ -1,6 +1,6 @@
 ---
-title: fuse:eth_coinbase - Fuse Network
-description: Example code for the fuse:eth_coinbase json-rpc method. Сomplete guide on how to use fuse:eth_coinbase json-rpc in GetBlock.io Web3 documentation.
+title: fuse:eth_coinbase \[POST\]
+description: Returns the client coinbase address.
 ---
 
 ### Parameters

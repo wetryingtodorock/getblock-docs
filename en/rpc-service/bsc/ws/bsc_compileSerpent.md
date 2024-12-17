@@ -1,6 +1,6 @@
 ---
-title: bsc:compileSerpent  {disallowed} - Binance Smart Chain
-description: Example code for the bsc:compileSerpent  {disallowed} ws method. Сomplete guide on how to use bsc:compileSerpent  {disallowed} ws in GetBlock.io Web3 documentation.
+title: bsc:compileSerpent \[WebSocket\] {disallowed}
+description: Returns compiled serpent code.
 ---
 
 ### Parameters

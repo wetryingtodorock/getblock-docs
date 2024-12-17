@@ -1,6 +1,6 @@
 ---
-title: optimism:eth_newPendingTransactionFilter - Optimism
-description: Example code for the optimism:eth_newPendingTransactionFilter ws method. Сomplete guide on how to use optimism:eth_newPendingTransactionFilter ws in GetBlock.io Web3 documentation.
+title: optimism:eth_newPendingTransactionFilter \[WebSocket\]
+description: Creates a filter in the node, to notify when new pending transactionsarrive. To check if the state has changed, call eth_getFilterChanges.
 ---
 
 ### Parameters

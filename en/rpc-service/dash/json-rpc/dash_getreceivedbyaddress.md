@@ -1,6 +1,6 @@
 ---
-title: dash:getreceivedbyaddress  {disallowed} - Dash
-description: Example code for the dash:getreceivedbyaddress  {disallowed} json-rpc method. Сomplete guide on how to use dash:getreceivedbyaddress  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: dash:getreceivedbyaddress \[POST\] {disallowed}
+description: Note This RPC only returns a balance for addresses contained in thelocal wallet.Returns the total amount received by the specified address intransactions with the specified number of confirmations. It does notcount coinbase transactions.
 ---
 
 ### Parameters

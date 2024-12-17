@@ -1,6 +1,6 @@
 ---
-title: movr:dev_getBlockStats  {disallowed} - Moonriver
-description: Example code for the movr:dev_getBlockStats  {disallowed} json-rpc method. Сomplete guide on how to use movr:dev_getBlockStats  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: movr:dev_getBlockStats \[POST\] {disallowed}
+description: Reexecute the specified block_hash and gather statistics while doing soThis method is only active with appropriate flags
 ---
 
 ### Parameters

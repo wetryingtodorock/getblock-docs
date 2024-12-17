@@ -1,6 +1,6 @@
 ---
-title: btg:keypoolrefill  {disallowed} - Bitcoin Gold
-description: Example code for the btg:keypoolrefill  {disallowed} json-rpc method. Сomplete guide on how to use btg:keypoolrefill  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: btg:keypoolrefill \[POST\] {disallowed}
+description: Fills the keypool.Requires wallet passphrase to be set with walletpassphrase call ifwallet is encrypted.
 ---
 
 ### Parameters

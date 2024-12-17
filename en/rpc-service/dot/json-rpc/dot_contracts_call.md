@@ -1,6 +1,6 @@
 ---
-title: dot:contracts_call  {disallowed} - Polkadot
-description: Example code for the dot:contracts_call  {disallowed} json-rpc method. Сomplete guide on how to use dot:contracts_call  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: dot:contracts_call \[POST\] {disallowed}
+description: Executes a call to a contract.
 ---
 
 ### Parameters

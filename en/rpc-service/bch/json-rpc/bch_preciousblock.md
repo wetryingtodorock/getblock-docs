@@ -1,6 +1,6 @@
 ---
-title: bch:preciousblock - Bitcoin Cash
-description: Example code for the bch:preciousblock json-rpc method. Сomplete guide on how to use bch:preciousblock json-rpc in GetBlock.io Web3 documentation.
+title: bch:preciousblock \[POST\]
+description: Treats a block as if it were received before others with the same work.A later preciousblock call can override the effect of an earlier one.The effects of preciousblock are not retained across restarts.
 ---
 
 ### Parameters

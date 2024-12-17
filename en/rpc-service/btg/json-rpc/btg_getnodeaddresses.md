@@ -1,6 +1,6 @@
 ---
-title: btg:getnodeaddresses  {disallowed} - Bitcoin Gold
-description: Example code for the btg:getnodeaddresses  {disallowed} json-rpc method. Сomplete guide on how to use btg:getnodeaddresses  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: btg:getnodeaddresses \[POST\] {disallowed}
+description: Return known addresses which can potentially be used to find new nodesin the network
 ---
 
 ### Parameters

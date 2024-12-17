@@ -1,6 +1,6 @@
 ---
-title: near:broadcast_tx_async - NEAR Protocol
-description: Example code for the near:broadcast_tx_async json-rpc method. Сomplete guide on how to use near:broadcast_tx_async json-rpc in GetBlock.io Web3 documentation.
+title: near:broadcast_tx_async \[POST\]
+description: Sends a transaction and immediately returns transaction hash.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: dash:signmessagewithprivkey  {disallowed} - Dash
-description: Example code for the dash:signmessagewithprivkey  {disallowed} json-rpc method. Сomplete guide on how to use dash:signmessagewithprivkey  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: dash:signmessagewithprivkey \[POST\] {disallowed}
+description: Signs a message with a given private key.
 ---
 
 ### Parameters

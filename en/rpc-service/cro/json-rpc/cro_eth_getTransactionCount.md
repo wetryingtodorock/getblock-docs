@@ -1,6 +1,6 @@
 ---
-title: cro:eth_getTransactionCount - Cronos
-description: Example code for the cro:eth_getTransactionCount json-rpc method. Сomplete guide on how to use cro:eth_getTransactionCount json-rpc in GetBlock.io Web3 documentation.
+title: cro:eth_getTransactionCount \[POST\]
+description: Returns the number of transactions sent from a specified address. Usethe pending tag to get the next account nonce not used by any pendingtransactions.
 ---
 
 ### Parameters

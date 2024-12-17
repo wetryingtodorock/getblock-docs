@@ -1,6 +1,6 @@
 ---
-title: avax:eth_getStorageAt - Avalanche
-description: Example code for the avax:eth_getStorageAt json-rpc method. Сomplete guide on how to use avax:eth_getStorageAt json-rpc in GetBlock.io Web3 documentation.
+title: avax:eth_getStorageAt \[POST\]
+description: Returns the value from a storage position at a given address.
 ---
 
 ### Parameters

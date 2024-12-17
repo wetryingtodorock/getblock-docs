@@ -1,6 +1,6 @@
 ---
-title: avax:admin.memoryProfile  {disallowed} - Avalanche
-description: Example code for the avax:admin.memoryProfile  {disallowed} json-rpc method. Сomplete guide on how to use avax:admin.memoryProfile  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: avax:admin.memoryProfile \[POST\] {disallowed}
+description: Runs and writes a memory profile.
 ---
 
 ### Parameters

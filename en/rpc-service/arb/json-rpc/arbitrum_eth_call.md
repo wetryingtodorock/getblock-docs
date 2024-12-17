@@ -1,6 +1,6 @@
 ---
-title: arbitrum:eth_call - Arbitrum
-description: Example code for the arbitrum:eth_call json-rpc method. Сomplete guide on how to use arbitrum:eth_call json-rpc in GetBlock.io Web3 documentation.
+title: arbitrum:eth_call \[POST\]
+description: Executes a new message call immediately without creating a transactionon the block chain.
 ---
 
 ### Parameters

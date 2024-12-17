@@ -1,6 +1,6 @@
 ---
-title: dgb:converttopsbt - DigiByte
-description: Example code for the dgb:converttopsbt json-rpc method. Сomplete guide on how to use dgb:converttopsbt json-rpc in GetBlock.io Web3 documentation.
+title: dgb:converttopsbt \[POST\]
+description: Converts a network serialized transaction to a PSBT. This should be usedonly with createrawtransaction and fundrawtransaction createpsbt andwalletcreatefundedpsbt should be used for new applications.
 ---
 
 ### Parameters

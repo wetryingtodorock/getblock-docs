@@ -1,6 +1,6 @@
 ---
-title: optimism:eth_getUncleCountByBlockNumber - Optimism
-description: Example code for the optimism:eth_getUncleCountByBlockNumber json-rpc method. Сomplete guide on how to use optimism:eth_getUncleCountByBlockNumber json-rpc in GetBlock.io Web3 documentation.
+title: optimism:eth_getUncleCountByBlockNumber \[POST\]
+description: Returns the number of uncles in a block from a block matching the givenblock number.
 ---
 
 ### Parameters

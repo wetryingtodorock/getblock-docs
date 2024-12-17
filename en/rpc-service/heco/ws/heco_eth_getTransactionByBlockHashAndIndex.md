@@ -1,6 +1,6 @@
 ---
-title: heco:eth_getTransactionByBlockHashAndIndex - Huobi ECO Chain
-description: Example code for the heco:eth_getTransactionByBlockHashAndIndex ws method. Сomplete guide on how to use heco:eth_getTransactionByBlockHashAndIndex ws in GetBlock.io Web3 documentation.
+title: heco:eth_getTransactionByBlockHashAndIndex \[WebSocket\]
+description: Returns information about a transaction by block hash and transactionindex position.
 ---
 
 ### Parameters

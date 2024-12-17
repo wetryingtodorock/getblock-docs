@@ -1,6 +1,6 @@
 ---
-title: eth:trace_transaction  {disallowed} - Ethereum
-description: Example code for the eth:trace_transaction  {disallowed} ws method. Сomplete guide on how to use eth:trace_transaction  {disallowed} ws in GetBlock.io Web3 documentation.
+title: eth:trace_transaction \[WebSocket\] {disallowed}
+description: Provides transaction processing of type trace for the specifiedtransaction.
 ---
 
 ### Parameters

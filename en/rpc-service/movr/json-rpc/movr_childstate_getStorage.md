@@ -1,6 +1,6 @@
 ---
-title: movr:childstate_getStorage  {disallowed} - Moonriver
-description: Example code for the movr:childstate_getStorage  {disallowed} json-rpc method. Сomplete guide on how to use movr:childstate_getStorage  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: movr:childstate_getStorage \[POST\] {disallowed}
+description: Returns a child storage entry at a specific block state
 ---
 
 ### Parameters

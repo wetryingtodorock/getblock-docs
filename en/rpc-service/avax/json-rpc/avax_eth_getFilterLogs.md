@@ -1,6 +1,6 @@
 ---
-title: avax:eth_getFilterLogs - Avalanche
-description: Example code for the avax:eth_getFilterLogs json-rpc method. Сomplete guide on how to use avax:eth_getFilterLogs json-rpc in GetBlock.io Web3 documentation.
+title: avax:eth_getFilterLogs \[POST\]
+description: Returns an array of all logs matching filter with given id.
 ---
 
 ### Parameters

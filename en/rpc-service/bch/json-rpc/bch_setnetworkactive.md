@@ -1,6 +1,6 @@
 ---
-title: bch:setnetworkactive  {disallowed} - Bitcoin Cash
-description: Example code for the bch:setnetworkactive  {disallowed} json-rpc method. Сomplete guide on how to use bch:setnetworkactive  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: bch:setnetworkactive \[POST\] {disallowed}
+description: Disable/enable all p2p network activity.
 ---
 
 ### Parameters

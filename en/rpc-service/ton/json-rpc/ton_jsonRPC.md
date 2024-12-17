@@ -1,6 +1,6 @@
 ---
-title: ton:/jsonRPC - The Open Network (TON)
-description: Example code for the ton:/jsonRPC json-rpc method. Сomplete guide on how to use ton:/jsonRPC json-rpc in GetBlock.io Web3 documentation.
+title: ton:/jsonRPC \[POST\]
+description: All methods in the API are available through JSON-RPC protocol.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: zec:getblockheader - Zcash
-description: Example code for the zec:getblockheader json-rpc method. Сomplete guide on how to use zec:getblockheader json-rpc in GetBlock.io Web3 documentation.
+title: zec:getblockheader \[POST\]
+description: If verbose is false, returns a string that is serialized, hex-encodeddata for blockheader hash.If verbose is true, returns an Object with information about blockheaderhash.
 ---
 
 ### Parameters

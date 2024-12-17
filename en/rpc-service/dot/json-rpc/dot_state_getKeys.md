@@ -1,6 +1,6 @@
 ---
-title: dot:state_getKeys  {disallowed} - Polkadot
-description: Example code for the dot:state_getKeys  {disallowed} json-rpc method. Сomplete guide on how to use dot:state_getKeys  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: dot:state_getKeys \[POST\] {disallowed}
+description: Retrieves the keys with a certain prefix.
 ---
 
 ### Parameters

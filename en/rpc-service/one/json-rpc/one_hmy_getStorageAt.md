@@ -1,6 +1,6 @@
 ---
-title: one:hmy_getStorageAt - Harmony
-description: Example code for the one:hmy_getStorageAt json-rpc method. Сomplete guide on how to use one:hmy_getStorageAt json-rpc in GetBlock.io Web3 documentation.
+title: one:hmy_getStorageAt \[POST\]
+description: Returns the value of a storage position at a specified address.
 ---
 
 ### Parameters

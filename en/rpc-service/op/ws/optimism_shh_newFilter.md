@@ -1,6 +1,6 @@
 ---
-title: optimism:shh_newFilter  {disallowed} - Optimism
-description: Example code for the optimism:shh_newFilter  {disallowed} ws method. Сomplete guide on how to use optimism:shh_newFilter  {disallowed} ws in GetBlock.io Web3 documentation.
+title: optimism:shh_newFilter \[WebSocket\] {disallowed}
+description: Creates filter to notify, when client receives whisper message matchingthe filter options.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: trx:/wallet/getaccountnet  {disallowed} - TRON
-description: Example code for the trx:/wallet/getaccountnet  {disallowed} rest method. Сomplete guide on how to use trx:/wallet/getaccountnet  {disallowed} rest in GetBlock.io Web3 documentation.
+title: trx:/wallet/getaccountnet \[POST\] {disallowed}
+description: Query bandwidth information.
 ---
 
 ### Parameters

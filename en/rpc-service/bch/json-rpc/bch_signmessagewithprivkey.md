@@ -1,6 +1,6 @@
 ---
-title: bch:signmessagewithprivkey  {disallowed} - Bitcoin Cash
-description: Example code for the bch:signmessagewithprivkey  {disallowed} json-rpc method. Сomplete guide on how to use bch:signmessagewithprivkey  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: bch:signmessagewithprivkey \[POST\] {disallowed}
+description: Sign a message with the private key of an address
 ---
 
 ### Parameters

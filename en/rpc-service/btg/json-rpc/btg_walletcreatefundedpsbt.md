@@ -1,6 +1,6 @@
 ---
-title: btg:walletcreatefundedpsbt  {disallowed} - Bitcoin Gold
-description: Example code for the btg:walletcreatefundedpsbt  {disallowed} json-rpc method. Сomplete guide on how to use btg:walletcreatefundedpsbt  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: btg:walletcreatefundedpsbt \[POST\] {disallowed}
+description: Creates and funds a transaction in the Partially Signed Transactionformat.Implements the Creator and Updater roles.
 ---
 
 ### Parameters

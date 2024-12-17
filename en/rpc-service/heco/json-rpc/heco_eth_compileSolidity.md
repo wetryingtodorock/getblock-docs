@@ -1,6 +1,6 @@
 ---
-title: heco:eth_compileSolidity  {disallowed} - Huobi ECO Chain
-description: Example code for the heco:eth_compileSolidity  {disallowed} json-rpc method. Сomplete guide on how to use heco:eth_compileSolidity  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: heco:eth_compileSolidity \[POST\] {disallowed}
+description: Returns compiled solidity code.
 ---
 
 ### Parameters

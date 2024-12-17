@@ -1,6 +1,6 @@
 ---
-title: dgb:createpsbt - DigiByte
-description: Example code for the dgb:createpsbt json-rpc method. Сomplete guide on how to use dgb:createpsbt json-rpc in GetBlock.io Web3 documentation.
+title: dgb:createpsbt \[POST\]
+description: Creates a transaction in the Partially Signed Transaction format.Implements the Creator role.
 ---
 
 ### Parameters

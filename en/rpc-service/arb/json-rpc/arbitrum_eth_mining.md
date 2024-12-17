@@ -1,6 +1,6 @@
 ---
-title: arbitrum:eth_mining  {disallowed} - Arbitrum
-description: Example code for the arbitrum:eth_mining  {disallowed} json-rpc method. Сomplete guide on how to use arbitrum:eth_mining  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: arbitrum:eth_mining \[POST\] {disallowed}
+description: Returns true if client is actively mining new blocks.
 ---
 
 ### Parameters

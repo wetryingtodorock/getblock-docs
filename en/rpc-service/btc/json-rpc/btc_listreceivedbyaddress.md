@@ -1,6 +1,6 @@
 ---
-title: btc:listreceivedbyaddress  {disallowed} - Bitcoin
-description: Example code for the btc:listreceivedbyaddress  {disallowed} json-rpc method. Сomplete guide on how to use btc:listreceivedbyaddress  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: btc:listreceivedbyaddress \[POST\] {disallowed}
+description: List balances by receiving address.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: gno:eth_getBlockTransactionCountByNumber - Gnosis
-description: Example code for the gno:eth_getBlockTransactionCountByNumber json-rpc method. Сomplete guide on how to use gno:eth_getBlockTransactionCountByNumber json-rpc in GetBlock.io Web3 documentation.
+title: gno:eth_getBlockTransactionCountByNumber \[POST\]
+description: Returns the number of transactions in a block matching the specifiedblock number.
 ---
 
 ### Parameters

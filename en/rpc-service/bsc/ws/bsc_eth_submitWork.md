@@ -1,6 +1,6 @@
 ---
-title: bsc:eth_submitWork  {disallowed} - Binance Smart Chain
-description: Example code for the bsc:eth_submitWork  {disallowed} ws method. Сomplete guide on how to use bsc:eth_submitWork  {disallowed} ws in GetBlock.io Web3 documentation.
+title: bsc:eth_submitWork \[WebSocket\] {disallowed}
+description: Submits a Proof of Work (Ethash) solution.Used by mining software such as Ethminer.
 ---
 
 ### Parameters

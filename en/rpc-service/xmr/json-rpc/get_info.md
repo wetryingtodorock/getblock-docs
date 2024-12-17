@@ -1,6 +1,6 @@
 ---
-title: xmr:get_info - Monero
-description: Example code for the xmr:get_info json-rpc method. Сomplete guide on how to use xmr:get_info json-rpc in GetBlock.io Web3 documentation.
+title: xmr:get_info \[POST\]
+description: Retrieve general information about the state of your node and the network.
 ---
 
 ### Parameters

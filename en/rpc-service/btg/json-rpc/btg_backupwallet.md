@@ -1,6 +1,6 @@
 ---
-title: btg:backupwallet  {disallowed} - Bitcoin Gold
-description: Example code for the btg:backupwallet  {disallowed} json-rpc method. Сomplete guide on how to use btg:backupwallet  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: btg:backupwallet \[POST\] {disallowed}
+description: Safely copies current wallet file to destination, which can be adirectory or a path with filename.
 ---
 
 ### Parameters

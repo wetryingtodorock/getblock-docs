@@ -1,6 +1,6 @@
 ---
-title: btg:getaddressesbylabel  {disallowed} - Bitcoin Gold
-description: Example code for the btg:getaddressesbylabel  {disallowed} json-rpc method. Сomplete guide on how to use btg:getaddressesbylabel  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: btg:getaddressesbylabel \[POST\] {disallowed}
+description: Returns the list of addresses assigned the specified label.
 ---
 
 ### Parameters

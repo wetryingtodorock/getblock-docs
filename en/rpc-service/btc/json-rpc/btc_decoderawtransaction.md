@@ -1,6 +1,6 @@
 ---
-title: btc:decoderawtransaction - Bitcoin
-description: Example code for the btc:decoderawtransaction json-rpc method. Сomplete guide on how to use btc:decoderawtransaction json-rpc in GetBlock.io Web3 documentation.
+title: btc:decoderawtransaction \[POST\]
+description: Return a JSON object representing the serialized, hex-encodedtransaction.
 ---
 
 ### Parameters

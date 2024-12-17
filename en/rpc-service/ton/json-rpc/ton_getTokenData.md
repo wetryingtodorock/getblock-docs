@@ -1,6 +1,6 @@
 ---
-title: ton:/getTokenData - The Open Network (TON)
-description: Example code for the ton:/getTokenData json-rpc method. Сomplete guide on how to use ton:/getTokenData json-rpc in GetBlock.io Web3 documentation.
+title: ton:/getTokenData \[GET\]
+description: Get NFT or Jetton information.
 ---
 
 ### Parameters

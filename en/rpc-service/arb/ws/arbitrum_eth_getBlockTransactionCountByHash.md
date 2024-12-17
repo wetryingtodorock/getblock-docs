@@ -1,6 +1,6 @@
 ---
-title: arbitrum:eth_getBlockTransactionCountByHash - Arbitrum
-description: Example code for the arbitrum:eth_getBlockTransactionCountByHash ws method. Сomplete guide on how to use arbitrum:eth_getBlockTransactionCountByHash ws in GetBlock.io Web3 documentation.
+title: arbitrum:eth_getBlockTransactionCountByHash \[WebSocket\]
+description: Returns the number of transactions in a block from a block matching thegiven block hash.
 ---
 
 ### Parameters

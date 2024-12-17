@@ -1,6 +1,6 @@
 ---
-title: ksm:system_reservedPeers  {disallowed} - Kusama
-description: Example code for the ksm:system_reservedPeers  {disallowed} json-rpc method. Сomplete guide on how to use ksm:system_reservedPeers  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: ksm:system_reservedPeers \[POST\] {disallowed}
+description: Returns the list of reserved peers.
 ---
 
 ### Parameters

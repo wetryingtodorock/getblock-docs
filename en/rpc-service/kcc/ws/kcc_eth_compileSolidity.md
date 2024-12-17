@@ -1,6 +1,6 @@
 ---
-title: kcc:eth_compileSolidity  {disallowed} - KuCoin Community Chain
-description: Example code for the kcc:eth_compileSolidity  {disallowed} ws method. Сomplete guide on how to use kcc:eth_compileSolidity  {disallowed} ws in GetBlock.io Web3 documentation.
+title: kcc:eth_compileSolidity \[WebSocket\] {disallowed}
+description: Returns compiled solidity code.
 ---
 
 ### Parameters

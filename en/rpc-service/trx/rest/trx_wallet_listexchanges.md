@@ -1,6 +1,6 @@
 ---
-title: trx:/wallet/listexchanges - TRON
-description: Example code for the trx:/wallet/listexchanges rest method. Сomplete guide on how to use trx:/wallet/listexchanges rest in GetBlock.io Web3 documentation.
+title: trx:/wallet/listexchanges \[GET\]
+description: List all exchange pairs.
 ---
 
 ### Parameters

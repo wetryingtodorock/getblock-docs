@@ -1,6 +1,6 @@
 ---
-title: avax:eth_getUncleByBlockNumberAndIndex - Avalanche
-description: Example code for the avax:eth_getUncleByBlockNumberAndIndex json-rpc method. Сomplete guide on how to use avax:eth_getUncleByBlockNumberAndIndex json-rpc in GetBlock.io Web3 documentation.
+title: avax:eth_getUncleByBlockNumberAndIndex \[POST\]
+description: Returns information about a uncle of a block by number and uncle indexposition.
 ---
 
 ### Parameters

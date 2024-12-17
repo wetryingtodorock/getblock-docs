@@ -1,6 +1,6 @@
 ---
-title: dash:preciousblock - Dash
-description: Example code for the dash:preciousblock json-rpc method. Сomplete guide on how to use dash:preciousblock json-rpc in GetBlock.io Web3 documentation.
+title: dash:preciousblock \[POST\]
+description: Treats a block as if it were received before others with the same work.A later preciousblock call can override the effect of an earlier one.The effects of preciousblock are not retained across restarts.
 ---
 
 ### Parameters

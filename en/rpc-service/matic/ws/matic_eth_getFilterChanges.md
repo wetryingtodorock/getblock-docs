@@ -1,6 +1,6 @@
 ---
-title: matic:eth_getFilterChanges - Polygon
-description: Example code for the matic:eth_getFilterChanges ws method. Сomplete guide on how to use matic:eth_getFilterChanges ws in GetBlock.io Web3 documentation.
+title: matic:eth_getFilterChanges \[WebSocket\]
+description: Polling method for a filter, which returns an array of logs whichoccurred since last poll.
 ---
 
 ### Parameters

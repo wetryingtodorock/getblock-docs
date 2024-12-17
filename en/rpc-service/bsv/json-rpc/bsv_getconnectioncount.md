@@ -1,6 +1,6 @@
 ---
-title: bsv:getconnectioncount  {disallowed} - Bitcoin SV
-description: Example code for the bsv:getconnectioncount  {disallowed} json-rpc method. Сomplete guide on how to use bsv:getconnectioncount  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: bsv:getconnectioncount \[POST\] {disallowed}
+description: Returns the number of connections to other nodes.
 ---
 
 ### Parameters

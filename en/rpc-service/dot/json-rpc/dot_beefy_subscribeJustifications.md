@@ -1,6 +1,6 @@
 ---
-title: dot:beefy_subscribeJustifications  {disallowed} - Polkadot
-description: Example code for the dot:beefy_subscribeJustifications  {disallowed} json-rpc method. Сomplete guide on how to use dot:beefy_subscribeJustifications  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: dot:beefy_subscribeJustifications \[POST\] {disallowed}
+description: Returns the block most recently finalized by BEEFY, alongside side itsjustification.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: eth:priv_call  {disallowed} - Ethereum
-description: Example code for the eth:priv_call  {disallowed} ws method. Сomplete guide on how to use eth:priv_call  {disallowed} ws in GetBlock.io Web3 documentation.
+title: eth:priv_call \[WebSocket\] {disallowed}
+description: Invokes a private contract function locally and does not change theprivacy group state.For private contracts, priv_call is the same as eth_call for publiccontracts.
 ---
 
 ### Parameters

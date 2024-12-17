@@ -1,6 +1,6 @@
 ---
-title: avax:eth_getUncleCountByBlockNumber - Avalanche
-description: Example code for the avax:eth_getUncleCountByBlockNumber json-rpc method. Сomplete guide on how to use avax:eth_getUncleCountByBlockNumber json-rpc in GetBlock.io Web3 documentation.
+title: avax:eth_getUncleCountByBlockNumber \[POST\]
+description: Returns the number of uncles in a block from a block matching the givenblock number.
 ---
 
 ### Parameters

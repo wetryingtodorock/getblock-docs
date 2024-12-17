@@ -1,6 +1,6 @@
 ---
-title: optimism:eth_getTransactionReceipt - Optimism
-description: Example code for the optimism:eth_getTransactionReceipt ws method. Сomplete guide on how to use optimism:eth_getTransactionReceipt ws in GetBlock.io Web3 documentation.
+title: optimism:eth_getTransactionReceipt \[WebSocket\]
+description: Returns the receipt of a transaction by transaction hash.Note That the receipt is not available for pending transactions.
 ---
 
 ### Parameters

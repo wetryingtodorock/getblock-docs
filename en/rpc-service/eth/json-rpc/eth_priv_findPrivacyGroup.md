@@ -1,6 +1,6 @@
 ---
-title: eth:priv_findPrivacyGroup  {disallowed} - Ethereum
-description: Example code for the eth:priv_findPrivacyGroup  {disallowed} json-rpc method. Сomplete guide on how to use eth:priv_findPrivacyGroup  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: eth:priv_findPrivacyGroup \[POST\] {disallowed}
+description: Returns a list of privacy groups containing only the listed members. Forexample, if the listed members are A and B, a privacy group containingA, B, and C is not returned.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: btg:signmessage  {disallowed} - Bitcoin Gold
-description: Example code for the btg:signmessage  {disallowed} json-rpc method. Сomplete guide on how to use btg:signmessage  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: btg:signmessage \[POST\] {disallowed}
+description: Sign a message with the private key of an address Requires walletpassphrase to be set with walletpassphrase call if wallet is encrypted.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: avax:avax.issueTx  {disallowed} - Avalanche
-description: Example code for the avax:avax.issueTx  {disallowed} json-rpc method. Сomplete guide on how to use avax:avax.issueTx  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: avax:avax.issueTx \[POST\] {disallowed}
+description: Send a signed transaction to the network.
 ---
 
 ### Parameters

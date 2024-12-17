@@ -1,6 +1,6 @@
 ---
-title: glmr:eth_getFilterChanges - Moonbeam
-description: Example code for the glmr:eth_getFilterChanges json-rpc method. Сomplete guide on how to use glmr:eth_getFilterChanges json-rpc in GetBlock.io Web3 documentation.
+title: glmr:eth_getFilterChanges \[POST\]
+description: Polling method for a filter, which returns an array of logs whichoccurred since last poll.
 ---
 
 ### Parameters

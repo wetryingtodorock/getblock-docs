@@ -1,6 +1,6 @@
 ---
-title: cro:eth_sign  {disallowed} - Cronos
-description: Example code for the cro:eth_sign  {disallowed} json-rpc method. Сomplete guide on how to use cro:eth_sign  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: cro:eth_sign \[POST\] {disallowed}
+description: The sign method calculates an Ethereum specific signature withsign(keccak256(\x19Ethereum Signed Message\n + len(message) +message))).
 ---
 
 ### Parameters

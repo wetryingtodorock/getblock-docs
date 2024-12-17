@@ -1,6 +1,6 @@
 ---
-title: btc:uptime - Bitcoin
-description: Example code for the btc:uptime json-rpc method. Сomplete guide on how to use btc:uptime json-rpc in GetBlock.io Web3 documentation.
+title: btc:uptime \[POST\]
+description: Returns the total uptime of the server.
 ---
 
 ### Parameters

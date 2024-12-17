@@ -1,6 +1,6 @@
 ---
-title: arbitrum:web3_sha3 - Arbitrum
-description: Example code for the arbitrum:web3_sha3 ws method. Сomplete guide on how to use arbitrum:web3_sha3 ws in GetBlock.io Web3 documentation.
+title: arbitrum:web3_sha3 \[WebSocket\]
+description: Returns Keccak-256 (not the standardized SHA3-256) of the given data.
 ---
 
 ### Parameters

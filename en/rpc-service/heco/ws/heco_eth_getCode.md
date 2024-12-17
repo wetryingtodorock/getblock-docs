@@ -1,6 +1,6 @@
 ---
-title: heco:eth_getCode - Huobi ECO Chain
-description: Example code for the heco:eth_getCode ws method. Сomplete guide on how to use heco:eth_getCode ws in GetBlock.io Web3 documentation.
+title: heco:eth_getCode \[WebSocket\]
+description: Returns code at a given address.
 ---
 
 ### Parameters

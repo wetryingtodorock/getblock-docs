@@ -1,6 +1,6 @@
 ---
-title: rsk:eth_pendingTransactions - Rootstock
-description: Example code for the rsk:eth_pendingTransactions json-rpc method. Сomplete guide on how to use rsk:eth_pendingTransactions json-rpc in GetBlock.io Web3 documentation.
+title: rsk:eth_pendingTransactions \[POST\]
+description: Returns the pending transactions list.
 ---
 
 ### Parameters

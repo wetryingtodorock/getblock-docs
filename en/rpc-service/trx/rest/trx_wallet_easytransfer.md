@@ -1,6 +1,6 @@
 ---
-title: trx:/wallet/easytransfer  {disallowed} - TRON
-description: Example code for the trx:/wallet/easytransfer  {disallowed} rest method. Сomplete guide on how to use trx:/wallet/easytransfer  {disallowed} rest in GetBlock.io Web3 documentation.
+title: trx:/wallet/easytransfer \[POST\] {disallowed}
+description: Easily transfer from an address using the password string. Only workswith accounts created from createAddress,integrated getransactionsignand broadcasttransaction. There is a security risk. This interfaceservice has been shutdown by the Trongrid. Please use the offline modeor the node deployed by yourself.
 ---
 
 ### Parameters

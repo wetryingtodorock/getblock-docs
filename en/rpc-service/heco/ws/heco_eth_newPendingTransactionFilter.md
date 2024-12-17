@@ -1,6 +1,6 @@
 ---
-title: heco:eth_newPendingTransactionFilter - Huobi ECO Chain
-description: Example code for the heco:eth_newPendingTransactionFilter ws method. Сomplete guide on how to use heco:eth_newPendingTransactionFilter ws in GetBlock.io Web3 documentation.
+title: heco:eth_newPendingTransactionFilter \[WebSocket\]
+description: Creates a filter in the node, to notify when new pending transactionsarrive. To check if the state has changed, call eth_getFilterChanges.
 ---
 
 ### Parameters

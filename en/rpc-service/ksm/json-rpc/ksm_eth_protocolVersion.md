@@ -1,6 +1,6 @@
 ---
-title: ksm:eth_protocolVersion  {disallowed} - Kusama
-description: Example code for the ksm:eth_protocolVersion  {disallowed} json-rpc method. Сomplete guide on how to use ksm:eth_protocolVersion  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: ksm:eth_protocolVersion \[POST\] {disallowed}
+description: Returns protocol version encoded as a string (quotes are necessary).
 ---
 
 ### Parameters

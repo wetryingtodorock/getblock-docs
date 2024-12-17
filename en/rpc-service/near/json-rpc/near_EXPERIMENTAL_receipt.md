@@ -1,6 +1,6 @@
 ---
-title: near:EXPERIMENTAL_receipt  {disallowed} - NEAR Protocol
-description: Example code for the near:EXPERIMENTAL_receipt  {disallowed} json-rpc method. Сomplete guide on how to use near:EXPERIMENTAL_receipt  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: near:EXPERIMENTAL_receipt \[POST\] {disallowed}
+description: Fetches a receipt by its ID (as is, without a status or executionoutcome)
 ---
 
 ### Parameters

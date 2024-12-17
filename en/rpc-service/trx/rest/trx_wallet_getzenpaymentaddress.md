@@ -1,6 +1,6 @@
 ---
-title: trx:/wallet/getzenpaymentaddress  {disallowed} - TRON
-description: Example code for the trx:/wallet/getzenpaymentaddress  {disallowed} rest method. Сomplete guide on how to use trx:/wallet/getzenpaymentaddress  {disallowed} rest in GetBlock.io Web3 documentation.
+title: trx:/wallet/getzenpaymentaddress \[POST\] {disallowed}
+description: get zen payment address
 ---
 
 ### Parameters

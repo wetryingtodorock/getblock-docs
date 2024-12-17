@@ -1,6 +1,6 @@
 ---
-title: xem:/account/importances - NEM
-description: Example code for the xem:/account/importances rest method. Сomplete guide on how to use xem:/account/importances rest in GetBlock.io Web3 documentation.
+title: xem:/account/importances \[GET\]
+description: Gets an array of account importance view model objects.
 ---
 
 ### Parameters

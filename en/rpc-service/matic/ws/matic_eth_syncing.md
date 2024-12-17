@@ -1,6 +1,6 @@
 ---
-title: matic:eth_syncing - Polygon
-description: Example code for the matic:eth_syncing ws method. Сomplete guide on how to use matic:eth_syncing ws in GetBlock.io Web3 documentation.
+title: matic:eth_syncing \[WebSocket\]
+description: Returns an object with data about the sync status or false.
 ---
 
 ### Parameters

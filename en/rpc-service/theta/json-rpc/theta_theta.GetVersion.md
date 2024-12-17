@@ -1,6 +1,6 @@
 ---
-title: theta:theta.GetVersion - Theta Network
-description: Example code for the theta:theta.GetVersion json-rpc method. Сomplete guide on how to use theta:theta.GetVersion json-rpc in GetBlock.io Web3 documentation.
+title: theta:theta.GetVersion \[POST\]
+description: This API returns the version of the blockchain software.
 ---
 
 ### Parameters

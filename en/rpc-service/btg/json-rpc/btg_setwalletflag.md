@@ -1,6 +1,6 @@
 ---
-title: btg:setwalletflag  {disallowed} - Bitcoin Gold
-description: Example code for the btg:setwalletflag  {disallowed} json-rpc method. Сomplete guide on how to use btg:setwalletflag  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: btg:setwalletflag \[POST\] {disallowed}
+description: Change the state of the given wallet flag for a wallet.
 ---
 
 ### Parameters

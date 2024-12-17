@@ -1,6 +1,6 @@
 ---
-title: eth:priv_distributeRawTransaction  {disallowed} - Ethereum
-description: Example code for the eth:priv_distributeRawTransaction  {disallowed} ws method. Сomplete guide on how to use eth:priv_distributeRawTransaction  {disallowed} ws in GetBlock.io Web3 documentation.
+title: eth:priv_distributeRawTransaction \[WebSocket\] {disallowed}
+description: Distributes a signed, RLP encoded private transaction.
 ---
 
 ### Parameters

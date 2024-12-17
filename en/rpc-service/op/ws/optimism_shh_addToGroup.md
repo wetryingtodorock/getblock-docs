@@ -1,6 +1,6 @@
 ---
-title: optimism:shh_addToGroup  {disallowed} - Optimism
-description: Example code for the optimism:shh_addToGroup  {disallowed} ws method. Сomplete guide on how to use optimism:shh_addToGroup  {disallowed} ws in GetBlock.io Web3 documentation.
+title: optimism:shh_addToGroup \[WebSocket\] {disallowed}
+description: Adds given address to a group
 ---
 
 ### Parameters

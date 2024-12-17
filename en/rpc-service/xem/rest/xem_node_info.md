@@ -1,6 +1,6 @@
 ---
-title: xem:/node/info - NEM
-description: Example code for the xem:/node/info rest method. Сomplete guide on how to use xem:/node/info rest in GetBlock.io Web3 documentation.
+title: xem:/node/info \[GET\]
+description: Gets basic information about a node. Using IP 127.0.0.1 gets informationabout the local node.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: bch:setexcessiveblock  {disallowed} - Bitcoin Cash
-description: Example code for the bch:setexcessiveblock  {disallowed} json-rpc method. Сomplete guide on how to use bch:setexcessiveblock  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: bch:setexcessiveblock \[POST\] {disallowed}
+description: Set the excessive block size. Excessive blocks will not be used in theactive chain or relayed.This discourages the propagation of blocks that you consider excessivelylarge.
 ---
 
 ### Parameters

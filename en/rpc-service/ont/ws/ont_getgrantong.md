@@ -1,6 +1,6 @@
 ---
-title: ont:getgrantong - Ontology
-description: Example code for the ont:getgrantong ws method. Сomplete guide on how to use ont:getgrantong ws in GetBlock.io Web3 documentation.
+title: ont:getgrantong \[WebSocket\]
+description: Fetch the granted ONG for an address.
 ---
 
 ### Parameters

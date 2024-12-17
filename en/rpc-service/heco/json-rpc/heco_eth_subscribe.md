@@ -1,6 +1,6 @@
 ---
-title: heco:eth_subscribe - Huobi ECO Chain
-description: Example code for the heco:eth_subscribe json-rpc method. Сomplete guide on how to use heco:eth_subscribe json-rpc in GetBlock.io Web3 documentation.
+title: heco:eth_subscribe \[POST\]
+description: Subscribes to a specified event type, optionally restricted to one ormany objects. This method is available via websocket only.
 ---
 
 ### Parameters

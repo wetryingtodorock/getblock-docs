@@ -1,6 +1,6 @@
 ---
-title: movr:author_insertKey  {disallowed} - Moonriver
-description: Example code for the movr:author_insertKey  {disallowed} json-rpc method. Сomplete guide on how to use movr:author_insertKey  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: movr:author_insertKey \[POST\] {disallowed}
+description: Insert a key into the keystore.
 ---
 
 ### Parameters

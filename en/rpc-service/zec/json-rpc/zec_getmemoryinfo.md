@@ -1,6 +1,6 @@
 ---
-title: zec:getmemoryinfo - Zcash
-description: Example code for the zec:getmemoryinfo json-rpc method. Сomplete guide on how to use zec:getmemoryinfo json-rpc in GetBlock.io Web3 documentation.
+title: zec:getmemoryinfo \[POST\]
+description: Returns an object containing information about memory usage.
 ---
 
 ### Parameters

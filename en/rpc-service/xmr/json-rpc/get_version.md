@@ -1,6 +1,6 @@
 ---
-title: xmr:get_version - Monero
-description: Example code for the xmr:get_version json-rpc method. Сomplete guide on how to use xmr:get_version json-rpc in GetBlock.io Web3 documentation.
+title: xmr:get_version \[POST\]
+description: Give the node current version
 ---
 
 ### Parameters

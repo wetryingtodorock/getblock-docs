@@ -1,6 +1,6 @@
 ---
-title: rsk:shh_hasIdentity  {disallowed} - Rootstock
-description: Example code for the rsk:shh_hasIdentity  {disallowed} json-rpc method. Сomplete guide on how to use rsk:shh_hasIdentity  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: rsk:shh_hasIdentity \[POST\] {disallowed}
+description: Whisper protocol not supported.
 ---
 
 ### Parameters

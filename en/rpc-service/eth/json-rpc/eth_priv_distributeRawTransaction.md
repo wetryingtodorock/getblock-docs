@@ -1,6 +1,6 @@
 ---
-title: eth:priv_distributeRawTransaction  {disallowed} - Ethereum
-description: Example code for the eth:priv_distributeRawTransaction  {disallowed} json-rpc method. Сomplete guide on how to use eth:priv_distributeRawTransaction  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: eth:priv_distributeRawTransaction \[POST\] {disallowed}
+description: Distributes a signed, RLP encoded private transaction.
 ---
 
 ### Parameters

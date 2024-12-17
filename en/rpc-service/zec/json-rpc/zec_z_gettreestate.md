@@ -1,6 +1,6 @@
 ---
-title: zec:z_gettreestate - Zcash
-description: Example code for the zec:z_gettreestate json-rpc method. Сomplete guide on how to use zec:z_gettreestate json-rpc in GetBlock.io Web3 documentation.
+title: zec:z_gettreestate \[POST\]
+description: Return information about the given blocks tree state.
 ---
 
 ### Parameters

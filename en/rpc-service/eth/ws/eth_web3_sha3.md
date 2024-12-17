@@ -1,6 +1,6 @@
 ---
-title: eth:web3_sha3 - Ethereum
-description: Example code for the eth:web3_sha3 ws method. Сomplete guide on how to use eth:web3_sha3 ws in GetBlock.io Web3 documentation.
+title: eth:web3_sha3 \[WebSocket\]
+description: Returns a SHA3 hash of the specified data. The result value is aKeccak-256 hash, not the standardized SHA3-256.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: dot:engine_finalizeBlock  {disallowed} - Polkadot
-description: Example code for the dot:engine_finalizeBlock  {disallowed} json-rpc method. Сomplete guide on how to use dot:engine_finalizeBlock  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: dot:engine_finalizeBlock \[POST\] {disallowed}
+description: Instructs the manual-seal authorship task to finalize a block.
 ---
 
 ### Parameters

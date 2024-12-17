@@ -1,6 +1,6 @@
 ---
-title: dgb:getmininginfo - DigiByte
-description: Example code for the dgb:getmininginfo json-rpc method. Сomplete guide on how to use dgb:getmininginfo json-rpc in GetBlock.io Web3 documentation.
+title: dgb:getmininginfo \[POST\]
+description: Returns a json object containing mining-related information.
 ---
 
 ### Parameters

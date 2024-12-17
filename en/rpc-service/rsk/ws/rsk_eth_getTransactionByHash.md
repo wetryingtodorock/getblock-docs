@@ -1,6 +1,6 @@
 ---
-title: rsk:eth_getTransactionByHash - Rootstock
-description: Example code for the rsk:eth_getTransactionByHash ws method. Сomplete guide on how to use rsk:eth_getTransactionByHash ws in GetBlock.io Web3 documentation.
+title: rsk:eth_getTransactionByHash \[WebSocket\]
+description: Returns the information about a transaction requested by transactionhash.
 ---
 
 ### Parameters

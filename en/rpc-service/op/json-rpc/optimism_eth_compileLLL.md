@@ -1,6 +1,6 @@
 ---
-title: optimism:eth_compileLLL  {disallowed} - Optimism
-description: Example code for the optimism:eth_compileLLL  {disallowed} json-rpc method. Сomplete guide on how to use optimism:eth_compileLLL  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: optimism:eth_compileLLL \[POST\] {disallowed}
+description: Returns compiled LLL code.
 ---
 
 ### Parameters

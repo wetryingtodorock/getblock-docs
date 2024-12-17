@@ -1,6 +1,6 @@
 ---
-title: doge:listtransactions  {disallowed} - Dogecoin
-description: Example code for the doge:listtransactions  {disallowed} json-rpc method. Сomplete guide on how to use doge:listtransactions  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: doge:listtransactions \[POST\] {disallowed}
+description: \-Returnsalistofthelasttransactionsforanaccount.EachtransactionisrepresentedwithaTransactionInfoobject.
 ---
 
 ### Parameters

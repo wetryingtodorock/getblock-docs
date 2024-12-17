@@ -1,6 +1,6 @@
 ---
-title: one:hmy_getLogs - Harmony
-description: Example code for the one:hmy_getLogs json-rpc method. Сomplete guide on how to use one:hmy_getLogs json-rpc in GetBlock.io Web3 documentation.
+title: one:hmy_getLogs \[POST\]
+description: Returns an array of logs matching a specified filter object.Leave the --auto-log-bloom-caching-enabled command line option at thedefault value of true to improve log retrieval performance.
 ---
 
 ### Parameters

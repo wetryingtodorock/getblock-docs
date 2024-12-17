@@ -1,6 +1,6 @@
 ---
-title: rsk:eth_getBlockByNumber - Rootstock
-description: Example code for the rsk:eth_getBlockByNumber ws method. Сomplete guide on how to use rsk:eth_getBlockByNumber ws in GetBlock.io Web3 documentation.
+title: rsk:eth_getBlockByNumber \[WebSocket\]
+description: Returns information about a block by block number.
 ---
 
 ### Parameters

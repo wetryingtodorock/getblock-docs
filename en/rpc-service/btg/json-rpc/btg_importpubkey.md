@@ -1,6 +1,6 @@
 ---
-title: btg:importpubkey  {disallowed} - Bitcoin Gold
-description: Example code for the btg:importpubkey  {disallowed} json-rpc method. Сomplete guide on how to use btg:importpubkey  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: btg:importpubkey \[POST\] {disallowed}
+description: Adds a public key (in hex) that can be watched as if it were in yourwallet but cannot be used to spend. Requires a new wallet backup.Hint use importmulti to import more than one public key.Note This call can take over an hour to complete if rescan is true,during that time, other rpc calls may report that the imported pubkeyexists but related transactions are still missing, leading totemporarily incorrect/bogus balances and unspent outputs until rescancompletes.Note Use “getwalletinfo” to query the scanning progress.
 ---
 
 ### Parameters

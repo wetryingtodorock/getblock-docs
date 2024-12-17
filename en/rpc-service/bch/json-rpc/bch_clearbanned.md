@@ -1,6 +1,6 @@
 ---
-title: bch:clearbanned  {disallowed} - Bitcoin Cash
-description: Example code for the bch:clearbanned  {disallowed} json-rpc method. Сomplete guide on how to use bch:clearbanned  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: bch:clearbanned \[POST\] {disallowed}
+description: Clear all banned IPs.
 ---
 
 ### Parameters

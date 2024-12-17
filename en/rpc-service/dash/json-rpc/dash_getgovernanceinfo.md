@@ -1,6 +1,6 @@
 ---
-title: dash:getgovernanceinfo - Dash
-description: Example code for the dash:getgovernanceinfo json-rpc method. Сomplete guide on how to use dash:getgovernanceinfo json-rpc in GetBlock.io Web3 documentation.
+title: dash:getgovernanceinfo \[POST\]
+description: Returns an object containing governance parameters.
 ---
 
 ### Parameters

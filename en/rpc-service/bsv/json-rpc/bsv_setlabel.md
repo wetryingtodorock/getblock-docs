@@ -1,6 +1,6 @@
 ---
-title: bsv:setlabel  {disallowed} - Bitcoin SV
-description: Example code for the bsv:setlabel  {disallowed} json-rpc method. Сomplete guide on how to use bsv:setlabel  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: bsv:setlabel \[POST\] {disallowed}
+description: Sets the label associated with the given address.
 ---
 
 ### Parameters

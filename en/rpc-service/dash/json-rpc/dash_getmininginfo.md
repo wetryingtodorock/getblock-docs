@@ -1,6 +1,6 @@
 ---
-title: dash:getmininginfo - Dash
-description: Example code for the dash:getmininginfo json-rpc method. Сomplete guide on how to use dash:getmininginfo json-rpc in GetBlock.io Web3 documentation.
+title: dash:getmininginfo \[POST\]
+description: Returns various mining-related information.
 ---
 
 ### Parameters

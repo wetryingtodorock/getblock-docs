@@ -1,6 +1,6 @@
 ---
-title: bsc:getString  {disallowed} - Binance Smart Chain
-description: Example code for the bsc:getString  {disallowed} ws method. Сomplete guide on how to use bsc:getString  {disallowed} ws in GetBlock.io Web3 documentation.
+title: bsc:getString \[WebSocket\] {disallowed}
+description: Returns string from the local database.Note this function is deprecated and will be removed in the future.
 ---
 
 ### Parameters

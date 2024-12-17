@@ -1,6 +1,6 @@
 ---
-title: movr:state_getReadProof  {disallowed} - Moonriver
-description: Example code for the movr:state_getReadProof  {disallowed} json-rpc method. Сomplete guide on how to use movr:state_getReadProof  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: movr:state_getReadProof \[POST\] {disallowed}
+description: Returns proof of storage entries at a specific block state
 ---
 
 ### Parameters

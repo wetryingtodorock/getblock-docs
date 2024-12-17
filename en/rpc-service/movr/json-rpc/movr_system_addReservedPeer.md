@@ -1,6 +1,6 @@
 ---
-title: movr:system_addReservedPeer  {disallowed} - Moonriver
-description: Example code for the movr:system_addReservedPeer  {disallowed} json-rpc method. Сomplete guide on how to use movr:system_addReservedPeer  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: movr:system_addReservedPeer \[POST\] {disallowed}
+description: Adds a reserved peer
 ---
 
 ### Parameters

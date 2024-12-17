@@ -1,6 +1,6 @@
 ---
-title: dot:eth_getWork  {disallowed} - Polkadot
-description: Example code for the dot:eth_getWork  {disallowed} json-rpc method. Сomplete guide on how to use dot:eth_getWork  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: dot:eth_getWork \[POST\] {disallowed}
+description: Returns the hash of the current block, the seedHash, and the boundarycondition to be met.
 ---
 
 ### Parameters

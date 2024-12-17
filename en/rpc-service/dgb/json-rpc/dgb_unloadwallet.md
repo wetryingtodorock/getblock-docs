@@ -1,6 +1,6 @@
 ---
-title: dgb:unloadwallet  {disallowed} - DigiByte
-description: Example code for the dgb:unloadwallet  {disallowed} json-rpc method. Сomplete guide on how to use dgb:unloadwallet  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: dgb:unloadwallet \[POST\] {disallowed}
+description: Unloads the wallet referenced by the request endpoint otherwise unloadsthe wallet specified in the argument.Specifying the wallet name on a wallet endpoint is invalid.
 ---
 
 ### Parameters

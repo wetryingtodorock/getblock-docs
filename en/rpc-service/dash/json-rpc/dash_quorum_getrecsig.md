@@ -1,6 +1,6 @@
 ---
-title: dash:quorum_getrecsig  {disallowed} - Dash
-description: Example code for the dash:quorum_getrecsig  {disallowed} json-rpc method. Сomplete guide on how to use dash:quorum_getrecsig  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: dash:quorum_getrecsig \[POST\] {disallowed}
+description: Gets the recovered signature for a previous threshold-signing messagerequest.
 ---
 
 ### Parameters

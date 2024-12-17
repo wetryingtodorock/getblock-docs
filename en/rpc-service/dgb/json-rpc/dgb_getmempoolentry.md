@@ -1,6 +1,6 @@
 ---
-title: dgb:getmempoolentry - DigiByte
-description: Example code for the dgb:getmempoolentry json-rpc method. Сomplete guide on how to use dgb:getmempoolentry json-rpc in GetBlock.io Web3 documentation.
+title: dgb:getmempoolentry \[POST\]
+description: Returns mempool data for given transaction
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: bsv:getnettotals  {disallowed} - Bitcoin SV
-description: Example code for the bsv:getnettotals  {disallowed} json-rpc method. Сomplete guide on how to use bsv:getnettotals  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: bsv:getnettotals \[POST\] {disallowed}
+description: Returns information about network traffic, including bytes in, bytesout, and current time.
 ---
 
 ### Parameters

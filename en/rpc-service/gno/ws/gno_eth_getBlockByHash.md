@@ -1,6 +1,6 @@
 ---
-title: gno:eth_getBlockByHash - Gnosis
-description: Example code for the gno:eth_getBlockByHash ws method. Сomplete guide on how to use gno:eth_getBlockByHash ws in GetBlock.io Web3 documentation.
+title: gno:eth_getBlockByHash \[WebSocket\]
+description: Returns information about the block by hash.
 ---
 
 ### Parameters

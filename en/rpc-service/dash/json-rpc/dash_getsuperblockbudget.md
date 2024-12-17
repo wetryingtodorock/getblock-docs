@@ -1,6 +1,6 @@
 ---
-title: dash:getsuperblockbudget - Dash
-description: Example code for the dash:getsuperblockbudget json-rpc method. Сomplete guide on how to use dash:getsuperblockbudget json-rpc in GetBlock.io Web3 documentation.
+title: dash:getsuperblockbudget \[POST\]
+description: returns the absolute maximum sum of superblock payments allowed.
 ---
 
 ### Parameters

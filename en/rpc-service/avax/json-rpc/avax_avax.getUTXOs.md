@@ -1,6 +1,6 @@
 ---
-title: avax:avax.getUTXOs  {disallowed} - Avalanche
-description: Example code for the avax:avax.getUTXOs  {disallowed} json-rpc method. Сomplete guide on how to use avax:avax.getUTXOs  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: avax:avax.getUTXOs \[POST\] {disallowed}
+description: Gets the UTXOs that reference a given address.
 ---
 
 ### Parameters

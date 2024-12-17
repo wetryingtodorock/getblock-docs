@@ -1,6 +1,6 @@
 ---
-title: movr:system_resetLogFilter  {disallowed} - Moonriver
-description: Example code for the movr:system_resetLogFilter  {disallowed} json-rpc method. Сomplete guide on how to use movr:system_resetLogFilter  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: movr:system_resetLogFilter \[POST\] {disallowed}
+description: Resets the log filter to Substrate defaults.
 ---
 
 ### Parameters

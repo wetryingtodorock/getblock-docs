@@ -1,6 +1,6 @@
 ---
-title: heco:eth_getLogs - Huobi ECO Chain
-description: Example code for the heco:eth_getLogs ws method. Сomplete guide on how to use heco:eth_getLogs ws in GetBlock.io Web3 documentation.
+title: heco:eth_getLogs \[WebSocket\]
+description: Returns an array of all logs matching a given filter object.
 ---
 
 ### Parameters

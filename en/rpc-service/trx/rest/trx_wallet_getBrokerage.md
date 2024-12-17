@@ -1,6 +1,6 @@
 ---
-title: trx:/wallet/getBrokerage  {disallowed} - TRON
-description: Example code for the trx:/wallet/getBrokerage  {disallowed} rest method. Сomplete guide on how to use trx:/wallet/getBrokerage  {disallowed} rest in GetBlock.io Web3 documentation.
+title: trx:/wallet/getBrokerage \[POST\] {disallowed}
+description: Get SR brokerage ratio
 ---
 
 ### Parameters

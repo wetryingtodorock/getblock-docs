@@ -1,6 +1,6 @@
 ---
-title: bsc:web3_clientVersion - Binance Smart Chain
-description: Example code for the bsc:web3_clientVersion ws method. Сomplete guide on how to use bsc:web3_clientVersion ws in GetBlock.io Web3 documentation.
+title: bsc:web3_clientVersion \[WebSocket\]
+description: Returns the current client version.
 ---
 
 ### Parameters

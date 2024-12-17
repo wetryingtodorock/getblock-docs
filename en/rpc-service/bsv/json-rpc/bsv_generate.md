@@ -1,6 +1,6 @@
 ---
-title: bsv:generate  {disallowed} - Bitcoin SV
-description: Example code for the bsv:generate  {disallowed} json-rpc method. Сomplete guide on how to use bsv:generate  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: bsv:generate \[POST\] {disallowed}
+description: Mine blocks immediately to a specified descriptor (before the RPC callreturns)
 ---
 
 ### Parameters

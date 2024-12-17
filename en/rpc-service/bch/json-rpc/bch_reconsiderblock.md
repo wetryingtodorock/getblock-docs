@@ -1,6 +1,6 @@
 ---
-title: bch:reconsiderblock  {disallowed} - Bitcoin Cash
-description: Example code for the bch:reconsiderblock  {disallowed} json-rpc method. Сomplete guide on how to use bch:reconsiderblock  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: bch:reconsiderblock \[POST\] {disallowed}
+description: Removes invalidity status of a block and its descendants, reconsiderthem for activation.This can be used to undo the effects of invalidateblock.
 ---
 
 ### Parameters

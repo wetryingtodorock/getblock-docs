@@ -1,6 +1,6 @@
 ---
-title: movr:chain_subscribeFinalizedHeads  {disallowed} - Moonriver
-description: Example code for the movr:chain_subscribeFinalizedHeads  {disallowed} json-rpc method. Сomplete guide on how to use movr:chain_subscribeFinalizedHeads  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: movr:chain_subscribeFinalizedHeads \[POST\] {disallowed}
+description: Retrieves the best finalized header via subscription.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: heco:eth_syncing - Huobi ECO Chain
-description: Example code for the heco:eth_syncing json-rpc method. Сomplete guide on how to use heco:eth_syncing json-rpc in GetBlock.io Web3 documentation.
+title: heco:eth_syncing \[POST\]
+description: Returns an object with data about the sync status or false.
 ---
 
 ### Parameters

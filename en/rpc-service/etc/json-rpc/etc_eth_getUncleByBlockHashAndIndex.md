@@ -1,6 +1,6 @@
 ---
-title: etc:eth_getUncleByBlockHashAndIndex - Ethereum Classic
-description: Example code for the etc:eth_getUncleByBlockHashAndIndex json-rpc method. Сomplete guide on how to use etc:eth_getUncleByBlockHashAndIndex json-rpc in GetBlock.io Web3 documentation.
+title: etc:eth_getUncleByBlockHashAndIndex \[POST\]
+description: Returns uncle specified by block hash and index.
 ---
 
 ### Parameters

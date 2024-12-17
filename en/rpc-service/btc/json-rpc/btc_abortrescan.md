@@ -1,6 +1,6 @@
 ---
-title: btc:abortrescan  {disallowed} - Bitcoin
-description: Example code for the btc:abortrescan  {disallowed} json-rpc method. Сomplete guide on how to use btc:abortrescan  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: btc:abortrescan \[POST\] {disallowed}
+description: Stops current wallet rescan triggered by an RPC call, e.g. by animportprivkey call. Note Use getwalletinfo to query the scanningprogress.
 ---
 
 ### Parameters

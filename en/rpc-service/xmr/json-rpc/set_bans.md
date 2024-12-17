@@ -1,6 +1,6 @@
 ---
-title: xmr:set_bans  {disallowed} - Monero
-description: Example code for the xmr:set_bans  {disallowed} json-rpc method. Сomplete guide on how to use xmr:set_bans  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: xmr:set_bans \[POST\] {disallowed}
+description: Ban another node by IP.
 ---
 
 ### Parameters

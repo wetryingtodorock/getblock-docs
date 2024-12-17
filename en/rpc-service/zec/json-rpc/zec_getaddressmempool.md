@@ -1,6 +1,6 @@
 ---
-title: zec:getaddressmempool  {disallowed} - Zcash
-description: Example code for the zec:getaddressmempool  {disallowed} json-rpc method. Сomplete guide on how to use zec:getaddressmempool  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: zec:getaddressmempool \[POST\] {disallowed}
+description: Returns all mempool deltas for an address.WARNING getaddressmempool is disabled.
 ---
 
 ### Parameters

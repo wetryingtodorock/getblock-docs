@@ -1,6 +1,6 @@
 ---
-title: bsv:getdifficulty - Bitcoin SV
-description: Example code for the bsv:getdifficulty json-rpc method. Сomplete guide on how to use bsv:getdifficulty json-rpc in GetBlock.io Web3 documentation.
+title: bsv:getdifficulty \[POST\]
+description: Returns the proof-of-work difficulty as a multiple of the minimumdifficulty.
 ---
 
 ### Parameters

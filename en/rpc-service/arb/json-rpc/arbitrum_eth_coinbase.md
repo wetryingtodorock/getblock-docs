@@ -1,6 +1,6 @@
 ---
-title: arbitrum:eth_coinbase  {disallowed} - Arbitrum
-description: Example code for the arbitrum:eth_coinbase  {disallowed} json-rpc method. Сomplete guide on how to use arbitrum:eth_coinbase  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: arbitrum:eth_coinbase \[POST\] {disallowed}
+description: Returns the client coinbase address.
 ---
 
 ### Parameters

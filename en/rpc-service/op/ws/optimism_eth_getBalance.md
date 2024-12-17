@@ -1,6 +1,6 @@
 ---
-title: optimism:eth_getBalance - Optimism
-description: Example code for the optimism:eth_getBalance ws method. Сomplete guide on how to use optimism:eth_getBalance ws in GetBlock.io Web3 documentation.
+title: optimism:eth_getBalance \[WebSocket\]
+description: Returns the balance of the account of given address.
 ---
 
 ### Parameters

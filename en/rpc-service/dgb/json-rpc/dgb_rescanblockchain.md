@@ -1,6 +1,6 @@
 ---
-title: dgb:rescanblockchain  {disallowed} - DigiByte
-description: Example code for the dgb:rescanblockchain  {disallowed} json-rpc method. Сomplete guide on how to use dgb:rescanblockchain  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: dgb:rescanblockchain \[POST\] {disallowed}
+description: Rescan the local blockchain for wallet related transactions.Note Use “getwalletinfo” to query the scanning progress.
 ---
 
 ### Parameters

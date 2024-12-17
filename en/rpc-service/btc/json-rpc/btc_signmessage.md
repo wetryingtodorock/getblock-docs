@@ -1,6 +1,6 @@
 ---
-title: btc:signmessage  {disallowed} - Bitcoin
-description: Example code for the btc:signmessage  {disallowed} json-rpc method. Сomplete guide on how to use btc:signmessage  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: btc:signmessage \[POST\] {disallowed}
+description: Sign a message with the private key of an address Requires walletpassphrase to be set with walletpassphrase call if wallet is encrypted.
 ---
 
 ### Parameters

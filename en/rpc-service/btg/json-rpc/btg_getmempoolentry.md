@@ -1,6 +1,6 @@
 ---
-title: btg:getmempoolentry - Bitcoin Gold
-description: Example code for the btg:getmempoolentry json-rpc method. Сomplete guide on how to use btg:getmempoolentry json-rpc in GetBlock.io Web3 documentation.
+title: btg:getmempoolentry \[POST\]
+description: Returns mempool data for given transaction
 ---
 
 ### Parameters

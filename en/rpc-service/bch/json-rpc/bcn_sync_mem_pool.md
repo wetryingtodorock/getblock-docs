@@ -1,6 +1,6 @@
 ---
-title: bcn:sync_mem_pool - Bitcoin Cash
-description: Example code for the bcn:sync_mem_pool json-rpc method. Сomplete guide on how to use bcn:sync_mem_pool json-rpc in GetBlock.io Web3 documentation.
+title: bcn:sync_mem_pool \[POST\]
+description: Returns difference between local and network memory pool. Accepts asorted array of known transactions.
 ---
 
 ### Parameters

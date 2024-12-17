@@ -1,6 +1,6 @@
 ---
-title: bch:getblockhash - Bitcoin Cash
-description: Example code for the bch:getblockhash json-rpc method. Сomplete guide on how to use bch:getblockhash json-rpc in GetBlock.io Web3 documentation.
+title: bch:getblockhash \[POST\]
+description: Returns hash of block in best-block-chain at height provided.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: avax:avax.import  {disallowed} - Avalanche
-description: Example code for the avax:avax.import  {disallowed} ws method. Сomplete guide on how to use avax:avax.import  {disallowed} ws in GetBlock.io Web3 documentation.
+title: avax:avax.import \[WebSocket\] {disallowed}
+description: Finalize the transfer of a non-AVAX or AVAX from the X-Chain to theC-Chain. Before this method is called, you must call the X-Chainsavm.export method with assetID AVAX to initiate the transfer.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: zec:getblocksubsidy - Zcash
-description: Example code for the zec:getblocksubsidy json-rpc method. Сomplete guide on how to use zec:getblocksubsidy json-rpc in GetBlock.io Web3 documentation.
+title: zec:getblocksubsidy \[POST\]
+description: Returns block subsidy reward, taking into account the mining slow startand the founders reward, of block at index provided.
 ---
 
 ### Parameters

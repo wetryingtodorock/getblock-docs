@@ -1,6 +1,6 @@
 ---
-title: trx:eth_getCode - TRON
-description: Example code for the trx:eth_getCode json-rpc method. Сomplete guide on how to use trx:eth_getCode json-rpc in GetBlock.io Web3 documentation.
+title: trx:eth_getCode \[POST\]
+description: Returns runtime code of a given smart contract address.
 ---
 
 ### Parameters

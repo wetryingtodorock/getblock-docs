@@ -1,6 +1,6 @@
 ---
-title: trx:eth_getTransactionReceipt - TRON
-description: Example code for the trx:eth_getTransactionReceipt json-rpc method. Сomplete guide on how to use trx:eth_getTransactionReceipt json-rpc in GetBlock.io Web3 documentation.
+title: trx:eth_getTransactionReceipt \[POST\]
+description: Returns the transaction info receipt, transaction fee, block height ...by transaction hash.
 ---
 
 ### Parameters

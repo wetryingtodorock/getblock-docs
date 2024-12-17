@@ -1,6 +1,6 @@
 ---
-title: dgb:fundrawtransaction - DigiByte
-description: Example code for the dgb:fundrawtransaction json-rpc method. Сomplete guide on how to use dgb:fundrawtransaction json-rpc in GetBlock.io Web3 documentation.
+title: dgb:fundrawtransaction \[POST\]
+description: If the transaction has no inputs, they will be automatically selected tomeet its out value.It will add at most one change output to the outputs.No existing outputs will be modified unless subtractFeeFromOutputs isspecified.Note that inputs which were signed may need to be resigned aftercompletion since in/outputs have been added.The inputs added will not be signed, use signrawtransactionwithkey orsignrawtransactionwithwallet for that.Note that all existing inputs must have their previous outputtransaction be in the wallet.Note that all inputs selected must be of standard form and P2SH scriptsmust be in the wallet using importaddress or addmultisigaddress (tocalculate fees).You can see whether this is the case by checking the solvable field inthe listunspent output.Only pay-to-pubkey, multisig, and P2SH versions thereof are currentlysupported for watch-only.
 ---
 
 ### Parameters

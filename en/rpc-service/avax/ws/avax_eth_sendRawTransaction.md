@@ -1,6 +1,6 @@
 ---
-title: avax:eth_sendRawTransaction - Avalanche
-description: Example code for the avax:eth_sendRawTransaction ws method. Сomplete guide on how to use avax:eth_sendRawTransaction ws in GetBlock.io Web3 documentation.
+title: avax:eth_sendRawTransaction \[WebSocket\]
+description: Creates new message call transaction or a contract creation for signedtransactions.
 ---
 
 ### Parameters

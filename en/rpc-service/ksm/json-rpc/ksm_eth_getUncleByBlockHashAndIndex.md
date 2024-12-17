@@ -1,6 +1,6 @@
 ---
-title: ksm:eth_getUncleByBlockHashAndIndex  {disallowed} - Kusama
-description: Example code for the ksm:eth_getUncleByBlockHashAndIndex  {disallowed} json-rpc method. Сomplete guide on how to use ksm:eth_getUncleByBlockHashAndIndex  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: ksm:eth_getUncleByBlockHashAndIndex \[POST\] {disallowed}
+description: Returns an uncles at given block and index.
 ---
 
 ### Parameters

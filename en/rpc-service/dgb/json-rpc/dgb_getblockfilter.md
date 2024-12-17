@@ -1,6 +1,6 @@
 ---
-title: dgb:getblockfilter - DigiByte
-description: Example code for the dgb:getblockfilter json-rpc method. Сomplete guide on how to use dgb:getblockfilter json-rpc in GetBlock.io Web3 documentation.
+title: dgb:getblockfilter \[POST\]
+description: Retrieve a BIP 157 content filter for a particular block.
 ---
 
 ### Parameters

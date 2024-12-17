@@ -1,6 +1,6 @@
 ---
-title: eth:debug_traceBlockByHash  {disallowed} - Ethereum
-description: Example code for the eth:debug_traceBlockByHash  {disallowed} json-rpc method. Сomplete guide on how to use eth:debug_traceBlockByHash  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: eth:debug_traceBlockByHash \[POST\] {disallowed}
+description: Returns full trace of all invoked opcodes of all transactions includedin the block.
 ---
 
 ### Parameters

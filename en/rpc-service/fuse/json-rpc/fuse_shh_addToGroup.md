@@ -1,6 +1,6 @@
 ---
-title: fuse:shh_addToGroup  {disallowed} - Fuse Network
-description: Example code for the fuse:shh_addToGroup  {disallowed} json-rpc method. Сomplete guide on how to use fuse:shh_addToGroup  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: fuse:shh_addToGroup \[POST\] {disallowed}
+description: Adds given address to a group
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: eth:admin_changeLogLevel  {disallowed} - Ethereum
-description: Example code for the eth:admin_changeLogLevel  {disallowed} ws method. Сomplete guide on how to use eth:admin_changeLogLevel  {disallowed} ws in GetBlock.io Web3 documentation.
+title: eth:admin_changeLogLevel \[WebSocket\] {disallowed}
+description: Changes the log level without restarting Besu. You can change the loglevel for all logs, or you can change the log level for specificpackages or classes.You can specify only one log level per RPC call.
 ---
 
 ### Parameters

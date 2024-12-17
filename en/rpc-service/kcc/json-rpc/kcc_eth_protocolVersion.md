@@ -1,6 +1,6 @@
 ---
-title: kcc:eth_protocolVersion - KuCoin Community Chain
-description: Example code for the kcc:eth_protocolVersion json-rpc method. Сomplete guide on how to use kcc:eth_protocolVersion json-rpc in GetBlock.io Web3 documentation.
+title: kcc:eth_protocolVersion \[POST\]
+description: Returns the current ethereum protocol version.
 ---
 
 ### Parameters

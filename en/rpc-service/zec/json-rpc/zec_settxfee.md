@@ -1,6 +1,6 @@
 ---
-title: zec:settxfee  {disallowed} - Zcash
-description: Example code for the zec:settxfee  {disallowed} json-rpc method. Сomplete guide on how to use zec:settxfee  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: zec:settxfee \[POST\] {disallowed}
+description: Set the transaction fee per kB. Overwrites the paytxfee parameter.
 ---
 
 ### Parameters

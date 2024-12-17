@@ -1,6 +1,6 @@
 ---
-title: ont:/api/v1/smartcode/event/transactions/{height} - Ontology
-description: Example code for the ont:/api/v1/smartcode/event/transactions/{height} rest method. Сomplete guide on how to use ont:/api/v1/smartcode/event/transactions/{height} rest in GetBlock.io Web3 documentation.
+title: ont:/api/v1/smartcode/event/transactions/{height} \[GET\]
+description: Fetch contract execution result using block height
 ---
 
 ### Parameters

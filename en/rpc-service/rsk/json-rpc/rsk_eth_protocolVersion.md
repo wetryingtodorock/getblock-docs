@@ -1,6 +1,6 @@
 ---
-title: rsk:eth_protocolVersion - Rootstock
-description: Example code for the rsk:eth_protocolVersion json-rpc method. Сomplete guide on how to use rsk:eth_protocolVersion json-rpc in GetBlock.io Web3 documentation.
+title: rsk:eth_protocolVersion \[POST\]
+description: Returns the current ethereum protocol version.
 ---
 
 ### Parameters

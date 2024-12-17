@@ -1,6 +1,6 @@
 ---
-title: bsc:post  {disallowed} - Binance Smart Chain
-description: Example code for the bsc:post  {disallowed} ws method. Сomplete guide on how to use bsc:post  {disallowed} ws in GetBlock.io Web3 documentation.
+title: bsc:post \[WebSocket\] {disallowed}
+description: Sends a whisper message.
 ---
 
 ### Parameters

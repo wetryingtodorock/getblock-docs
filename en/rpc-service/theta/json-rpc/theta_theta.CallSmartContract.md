@@ -1,6 +1,6 @@
 ---
-title: theta:theta.CallSmartContract - Theta Network
-description: Example code for the theta:theta.CallSmartContract json-rpc method. Сomplete guide on how to use theta:theta.CallSmartContract json-rpc in GetBlock.io Web3 documentation.
+title: theta:theta.CallSmartContract \[POST\]
+description: This API simulates the smart contract execution locally withoutsubmitting the smart contract transaction to the blockchain. It isuseful to evalute the execution result, calculate the gas cost, etc.
 ---
 
 ### Parameters

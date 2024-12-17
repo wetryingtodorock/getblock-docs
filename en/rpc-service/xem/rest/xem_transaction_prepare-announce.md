@@ -1,6 +1,6 @@
 ---
-title: xem:/transaction/prepare-announce - NEM
-description: Example code for the xem:/transaction/prepare-announce rest method. Сomplete guide on how to use xem:/transaction/prepare-announce rest in GetBlock.io Web3 documentation.
+title: xem:/transaction/prepare-announce \[POST\]
+description: Creates and broadcasts a transaction. Since this request involves theprivate key of an account, it should only be sent to a local NIS.
 ---
 
 ### Parameters

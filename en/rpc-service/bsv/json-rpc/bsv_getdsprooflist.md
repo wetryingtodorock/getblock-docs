@@ -1,6 +1,6 @@
 ---
-title: bsv:getdsprooflist  {disallowed} - Bitcoin SV
-description: Example code for the bsv:getdsprooflist  {disallowed} json-rpc method. Сomplete guide on how to use bsv:getdsprooflist  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: bsv:getdsprooflist \[POST\] {disallowed}
+description: List double-spend proofs for transactions in the mempool.
 ---
 
 ### Parameters

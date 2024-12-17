@@ -1,6 +1,6 @@
 ---
-title: kcc:eth_accounts - KuCoin Community Chain
-description: Example code for the kcc:eth_accounts ws method. Сomplete guide on how to use kcc:eth_accounts ws in GetBlock.io Web3 documentation.
+title: kcc:eth_accounts \[WebSocket\]
+description: Returns a list of addresses owned by client.
 ---
 
 ### Parameters

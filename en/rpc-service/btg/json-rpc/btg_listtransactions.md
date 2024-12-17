@@ -1,6 +1,6 @@
 ---
-title: btg:listtransactions  {disallowed} - Bitcoin Gold
-description: Example code for the btg:listtransactions  {disallowed} json-rpc method. Сomplete guide on how to use btg:listtransactions  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: btg:listtransactions \[POST\] {disallowed}
+description: If a label name is provided, this will return only incoming transactionspaying to addresses with the specified label.Returns up to ‘count’ most recent transactions skipping the first ‘from’transactions.
 ---
 
 ### Parameters

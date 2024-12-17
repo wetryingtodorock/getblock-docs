@@ -1,6 +1,6 @@
 ---
-title: bcn:get_status - Bitcoin Cash
-description: Example code for the bcn:get_status json-rpc method. Сomplete guide on how to use bcn:get_status json-rpc in GetBlock.io Web3 documentation.
+title: bcn:get_status \[POST\]
+description: Get status about state of bytecoind. This method supports longpolling.If you specify all input parameters, and they are equal to the currentstate of the bytecoind, you will get response only when some of themchange.But if you specify only certain argument, changes to other argumentswont trigger the longpoll. For example, if you are interested inoutgoing_peer_count only, you can specify only outgoing_peer_count inrequest and get response when outgoing_peer_count changes.
 ---
 
 ### Parameters

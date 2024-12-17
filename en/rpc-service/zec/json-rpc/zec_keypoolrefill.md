@@ -1,6 +1,6 @@
 ---
-title: zec:keypoolrefill  {disallowed} - Zcash
-description: Example code for the zec:keypoolrefill  {disallowed} json-rpc method. Сomplete guide on how to use zec:keypoolrefill  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: zec:keypoolrefill \[POST\] {disallowed}
+description: Fills the keypool.
 ---
 
 ### Parameters

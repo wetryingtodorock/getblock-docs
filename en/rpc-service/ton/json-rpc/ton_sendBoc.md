@@ -1,6 +1,6 @@
 ---
-title: ton:/sendBoc - The Open Network (TON)
-description: Example code for the ton:/sendBoc json-rpc method. Сomplete guide on how to use ton:/sendBoc json-rpc in GetBlock.io Web3 documentation.
+title: ton:/sendBoc \[POST\]
+description: Send serialized boc file fully packed and serialized external messageto blockchain.
 ---
 
 ### Parameters

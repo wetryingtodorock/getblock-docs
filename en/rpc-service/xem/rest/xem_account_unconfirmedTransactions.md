@@ -1,6 +1,6 @@
 ---
-title: xem:/account/unconfirmedTransactions - NEM
-description: Example code for the xem:/account/unconfirmedTransactions rest method. Сomplete guide on how to use xem:/account/unconfirmedTransactions rest in GetBlock.io Web3 documentation.
+title: xem:/account/unconfirmedTransactions \[GET\]
+description: Gets the array of transactions for which an account is the sender orreceiver and which have not yet been included in a block. The returnedstructure is UnconfirmedTransactionMetaDataPair, that containsadditional information about the transaction.
 ---
 
 ### Parameters

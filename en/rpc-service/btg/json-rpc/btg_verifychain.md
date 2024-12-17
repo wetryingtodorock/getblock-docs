@@ -1,6 +1,6 @@
 ---
-title: btg:verifychain  {disallowed} - Bitcoin Gold
-description: Example code for the btg:verifychain  {disallowed} json-rpc method. Сomplete guide on how to use btg:verifychain  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: btg:verifychain \[POST\] {disallowed}
+description: Verifies blockchain database.
 ---
 
 ### Parameters

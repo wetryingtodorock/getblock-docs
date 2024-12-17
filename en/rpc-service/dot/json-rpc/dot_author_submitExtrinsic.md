@@ -1,6 +1,6 @@
 ---
-title: dot:author_submitExtrinsic  {disallowed} - Polkadot
-description: Example code for the dot:author_submitExtrinsic  {disallowed} json-rpc method. Сomplete guide on how to use dot:author_submitExtrinsic  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: dot:author_submitExtrinsic \[POST\] {disallowed}
+description: Submit a fully formatted extrinsic for block inclusion
 ---
 
 ### Parameters

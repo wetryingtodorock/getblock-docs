@@ -1,6 +1,6 @@
 ---
-title: bch:getmempoolancestors - Bitcoin Cash
-description: Example code for the bch:getmempoolancestors json-rpc method. Сomplete guide on how to use bch:getmempoolancestors json-rpc in GetBlock.io Web3 documentation.
+title: bch:getmempoolancestors \[POST\]
+description: If txid is in the mempool, returns all in-mempool ancestors.
 ---
 
 ### Parameters

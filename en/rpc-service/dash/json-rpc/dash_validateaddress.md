@@ -1,6 +1,6 @@
 ---
-title: dash:validateaddress - Dash
-description: Example code for the dash:validateaddress json-rpc method. Сomplete guide on how to use dash:validateaddress json-rpc in GetBlock.io Web3 documentation.
+title: dash:validateaddress \[POST\]
+description: Returns information about the given Dash address.Dash Core 0.17.0 DeprecationsParts of this command have been deprecated and moved to thegetaddressinfo RPC. Clients must transition to using getaddressinfo toaccess this information before upgrading to v0.18.The following deprecated fields have moved to getaddressinfo and willonly be shown here with -deprecatedrpc=validateaddress ismine,iswatchonly, script, hex, pubkeys, sigsrequired, pubkey, addresses,embedded, iscompressed, account, timestamp, hdkeypath.
 ---
 
 ### Parameters

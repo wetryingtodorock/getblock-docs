@@ -1,6 +1,6 @@
 ---
-title: rsk:eth_compileLLL  {disallowed} - Rootstock
-description: Example code for the rsk:eth_compileLLL  {disallowed} ws method. Сomplete guide on how to use rsk:eth_compileLLL  {disallowed} ws in GetBlock.io Web3 documentation.
+title: rsk:eth_compileLLL \[Websocket\] {disallowed}
+description: For security reasons, we’ve decided not to include compilers in node.
 ---
 
 ### Parameters

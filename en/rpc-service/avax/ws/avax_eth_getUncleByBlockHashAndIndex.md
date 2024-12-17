@@ -1,6 +1,6 @@
 ---
-title: avax:eth_getUncleByBlockHashAndIndex - Avalanche
-description: Example code for the avax:eth_getUncleByBlockHashAndIndex ws method. Сomplete guide on how to use avax:eth_getUncleByBlockHashAndIndex ws in GetBlock.io Web3 documentation.
+title: avax:eth_getUncleByBlockHashAndIndex \[WebSocket\]
+description: Returns information about a uncle of a block by hash and uncle indexposition.
 ---
 
 ### Parameters

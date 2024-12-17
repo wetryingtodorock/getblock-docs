@@ -1,6 +1,6 @@
 ---
-title: kcc:shh_post  {disallowed} - KuCoin Community Chain
-description: Example code for the kcc:shh_post  {disallowed} ws method. Сomplete guide on how to use kcc:shh_post  {disallowed} ws in GetBlock.io Web3 documentation.
+title: kcc:shh_post \[WebSocket\] {disallowed}
+description: Sends a whisper message.
 ---
 
 ### Parameters

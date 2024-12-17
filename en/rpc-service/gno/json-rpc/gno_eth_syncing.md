@@ -1,6 +1,6 @@
 ---
-title: gno:eth_syncing - Gnosis
-description: Example code for the gno:eth_syncing json-rpc method. Сomplete guide on how to use gno:eth_syncing json-rpc in GetBlock.io Web3 documentation.
+title: gno:eth_syncing \[POST\]
+description: Returns an object with data about the synchronization status, or falseif not synchronizing.
 ---
 
 ### Parameters

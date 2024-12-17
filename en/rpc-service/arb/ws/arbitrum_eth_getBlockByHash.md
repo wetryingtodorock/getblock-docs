@@ -1,6 +1,6 @@
 ---
-title: arbitrum:eth_getBlockByHash - Arbitrum
-description: Example code for the arbitrum:eth_getBlockByHash ws method. Сomplete guide on how to use arbitrum:eth_getBlockByHash ws in GetBlock.io Web3 documentation.
+title: arbitrum:eth_getBlockByHash \[WebSocket\]
+description: Returns information about a block by hash.
 ---
 
 ### Parameters

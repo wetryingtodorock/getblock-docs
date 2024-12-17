@@ -1,6 +1,6 @@
 ---
-title: btg:pruneblockchain  {disallowed} - Bitcoin Gold
-description: Example code for the btg:pruneblockchain  {disallowed} json-rpc method. Сomplete guide on how to use btg:pruneblockchain  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: btg:pruneblockchain \[POST\] {disallowed}
+description: Pruneblockchain height
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: bsv:listwalletdir  {disallowed} - Bitcoin SV
-description: Example code for the bsv:listwalletdir  {disallowed} json-rpc method. Сomplete guide on how to use bsv:listwalletdir  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: bsv:listwalletdir \[POST\] {disallowed}
+description: Returns a list of wallets in the wallet directory.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: heco:eth_getFilterLogs - Huobi ECO Chain
-description: Example code for the heco:eth_getFilterLogs json-rpc method. Сomplete guide on how to use heco:eth_getFilterLogs json-rpc in GetBlock.io Web3 documentation.
+title: heco:eth_getFilterLogs \[POST\]
+description: Returns an array of all logs matching filter with given id.
 ---
 
 ### Parameters

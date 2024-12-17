@@ -1,6 +1,6 @@
 ---
-title: dgb:walletprocesspsbt  {disallowed} - DigiByte
-description: Example code for the dgb:walletprocesspsbt  {disallowed} json-rpc method. Сomplete guide on how to use dgb:walletprocesspsbt  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: dgb:walletprocesspsbt \[POST\] {disallowed}
+description: Update a PSBT with input information from our wallet and then signinputs that we can sign for.Requires wallet passphrase to be set with walletpassphrase call ifwallet is encrypted.
 ---
 
 ### Parameters

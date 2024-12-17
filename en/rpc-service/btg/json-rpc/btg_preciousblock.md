@@ -1,6 +1,6 @@
 ---
-title: btg:preciousblock - Bitcoin Gold
-description: Example code for the btg:preciousblock json-rpc method. Сomplete guide on how to use btg:preciousblock json-rpc in GetBlock.io Web3 documentation.
+title: btg:preciousblock \[POST\]
+description: Treats a block as if it were received before others with the same work.A later preciousblock call can override the effect of an earlier one.The effects of preciousblock are not retained across restarts.
 ---
 
 ### Parameters

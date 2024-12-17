@@ -1,6 +1,6 @@
 ---
-title: rsk:db_putString  {disallowed} - Rootstock
-description: Example code for the rsk:db_putString  {disallowed} ws method. Сomplete guide on how to use rsk:db_putString  {disallowed} ws in GetBlock.io Web3 documentation.
+title: rsk:db_putString \[Websocket\] {disallowed}
+description: Deprecated
 ---
 
 ### Parameters

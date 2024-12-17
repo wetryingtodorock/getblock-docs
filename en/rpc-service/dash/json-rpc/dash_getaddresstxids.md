@@ -1,6 +1,6 @@
 ---
-title: dash:getaddresstxids  {disallowed} - Dash
-description: Example code for the dash:getaddresstxids  {disallowed} json-rpc method. Сomplete guide on how to use dash:getaddresstxids  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: dash:getaddresstxids \[POST\] {disallowed}
+description: Returns the txids for an address(es).
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: fuse:eth_newBlockFilter - Fuse Network
-description: Example code for the fuse:eth_newBlockFilter ws method. Сomplete guide on how to use fuse:eth_newBlockFilter ws in GetBlock.io Web3 documentation.
+title: fuse:eth_newBlockFilter \[WebSocket\]
+description: Creates a filter in the node, to notify when a new block arrives. Tocheck if the state has changed, call eth_getFilterChanges.
 ---
 
 ### Parameters

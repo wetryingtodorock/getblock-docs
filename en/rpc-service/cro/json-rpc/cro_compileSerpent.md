@@ -1,6 +1,6 @@
 ---
-title: cro:compileSerpent  {disallowed} - Cronos
-description: Example code for the cro:compileSerpent  {disallowed} json-rpc method. Сomplete guide on how to use cro:compileSerpent  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: cro:compileSerpent \[POST\] {disallowed}
+description: Returns compiled serpent code.
 ---
 
 ### Parameters

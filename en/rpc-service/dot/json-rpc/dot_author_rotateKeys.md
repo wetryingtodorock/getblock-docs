@@ -1,6 +1,6 @@
 ---
-title: dot:author_rotateKeys  {disallowed} - Polkadot
-description: Example code for the dot:author_rotateKeys  {disallowed} json-rpc method. Сomplete guide on how to use dot:author_rotateKeys  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: dot:author_rotateKeys \[POST\] {disallowed}
+description: Generate new session keys and returns the corresponding public keys
 ---
 
 ### Parameters

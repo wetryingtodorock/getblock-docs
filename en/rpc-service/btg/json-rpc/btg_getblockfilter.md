@@ -1,6 +1,6 @@
 ---
-title: btg:getblockfilter - Bitcoin Gold
-description: Example code for the btg:getblockfilter json-rpc method. Сomplete guide on how to use btg:getblockfilter json-rpc in GetBlock.io Web3 documentation.
+title: btg:getblockfilter \[POST\]
+description: Retrieve a BIP 157 content filter for a particular block.
 ---
 
 ### Parameters

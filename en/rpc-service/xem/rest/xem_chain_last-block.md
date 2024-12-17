@@ -1,6 +1,6 @@
 ---
-title: xem:/chain/last-block - NEM
-description: Example code for the xem:/chain/last-block rest method. Сomplete guide on how to use xem:/chain/last-block rest in GetBlock.io Web3 documentation.
+title: xem:/chain/last-block \[GET\]
+description: Gets the current last block of the chain.
 ---
 
 ### Parameters

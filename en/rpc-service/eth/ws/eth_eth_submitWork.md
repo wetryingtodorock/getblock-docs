@@ -1,6 +1,6 @@
 ---
-title: eth:eth_submitWork - Ethereum
-description: Example code for the eth:eth_submitWork ws method. Сomplete guide on how to use eth:eth_submitWork ws in GetBlock.io Web3 documentation.
+title: eth:eth_submitWork \[WebSocket\]
+description: Submits a Proof of Work (Ethash) solution.Used by mining software such as Ethminer.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: ftm:dag_getEventPayload - Fantom
-description: Example code for the ftm:dag_getEventPayload json-rpc method. Сomplete guide on how to use ftm:dag_getEventPayload json-rpc in GetBlock.io Web3 documentation.
+title: ftm:dag_getEventPayload \[POST\]
+description: Returns an event object, or null if the event is not found.
 ---
 
 ### Parameters

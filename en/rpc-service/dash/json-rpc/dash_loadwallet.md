@@ -1,6 +1,6 @@
 ---
-title: dash:loadwallet  {disallowed} - Dash
-description: Example code for the dash:loadwallet  {disallowed} json-rpc method. Сomplete guide on how to use dash:loadwallet  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: dash:loadwallet \[POST\] {disallowed}
+description: Loads a wallet from a wallet file or directory. Note that all walletcommand-line options used when starting dashd will be applied to the newwallet (eg -zapwallettxes, upgradewallet, rescan, etc).
 ---
 
 ### Parameters

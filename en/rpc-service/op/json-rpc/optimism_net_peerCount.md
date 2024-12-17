@@ -1,6 +1,6 @@
 ---
-title: optimism:net_peerCount - Optimism
-description: Example code for the optimism:net_peerCount json-rpc method. Сomplete guide on how to use optimism:net_peerCount json-rpc in GetBlock.io Web3 documentation.
+title: optimism:net_peerCount \[POST\]
+description: Returns number of peers currently connected to the client.
 ---
 
 ### Parameters

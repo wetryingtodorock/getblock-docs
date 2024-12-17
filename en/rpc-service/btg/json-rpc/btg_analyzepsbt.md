@@ -1,6 +1,6 @@
 ---
-title: btg:analyzepsbt - Bitcoin Gold
-description: Example code for the btg:analyzepsbt json-rpc method. Сomplete guide on how to use btg:analyzepsbt json-rpc in GetBlock.io Web3 documentation.
+title: btg:analyzepsbt \[POST\]
+description: Analyzes and provides information about the current status of a PSBT andits inputs
 ---
 
 ### Parameters

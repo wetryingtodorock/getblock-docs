@@ -1,6 +1,6 @@
 ---
-title: eth:eth_getFilterChanges - Ethereum
-description: Example code for the eth:eth_getFilterChanges ws method. Сomplete guide on how to use eth:eth_getFilterChanges ws in GetBlock.io Web3 documentation.
+title: eth:eth_getFilterChanges \[WebSocket\]
+description: Polls the specified filter and returns an array of changes that haveoccurred since the last poll.
 ---
 
 ### Parameters

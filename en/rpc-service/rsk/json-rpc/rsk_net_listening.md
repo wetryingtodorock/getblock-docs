@@ -1,6 +1,6 @@
 ---
-title: rsk:net_listening - Rootstock
-description: Example code for the rsk:net_listening json-rpc method. Сomplete guide on how to use rsk:net_listening json-rpc in GetBlock.io Web3 documentation.
+title: rsk:net_listening \[POST\]
+description: Returns true if client is actively listening for network connections.
 ---
 
 ### Parameters

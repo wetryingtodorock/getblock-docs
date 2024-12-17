@@ -1,6 +1,6 @@
 ---
-title: dash:getmempoolinfo - Dash
-description: Example code for the dash:getmempoolinfo json-rpc method. Сomplete guide on how to use dash:getmempoolinfo json-rpc in GetBlock.io Web3 documentation.
+title: dash:getmempoolinfo \[POST\]
+description: Returns information about the nodes current transaction memory pool.
 ---
 
 ### Parameters

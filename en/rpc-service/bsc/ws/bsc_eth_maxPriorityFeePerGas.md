@@ -1,6 +1,6 @@
 ---
-title: bsc:eth_maxPriorityFeePerGas - Binance Smart Chain
-description: Example code for the bsc:eth_maxPriorityFeePerGas ws method. Сomplete guide on how to use bsc:eth_maxPriorityFeePerGas ws in GetBlock.io Web3 documentation.
+title: bsc:eth_maxPriorityFeePerGas \[WebSocket\]
+description: Returns the hex value of the priority fee necessary to be included in ablock.
 ---
 
 ### Parameters

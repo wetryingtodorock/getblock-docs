@@ -1,6 +1,6 @@
 ---
-title: ksm:state_getKeys  {disallowed} - Kusama
-description: Example code for the ksm:state_getKeys  {disallowed} json-rpc method. Сomplete guide on how to use ksm:state_getKeys  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: ksm:state_getKeys \[POST\] {disallowed}
+description: Retrieves the keys with a certain prefix.
 ---
 
 ### Parameters

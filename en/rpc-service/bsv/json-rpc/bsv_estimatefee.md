@@ -1,6 +1,6 @@
 ---
-title: bsv:estimatefee  {disallowed} - Bitcoin SV
-description: Example code for the bsv:estimatefee  {disallowed} json-rpc method. Сomplete guide on how to use bsv:estimatefee  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: bsv:estimatefee \[POST\] {disallowed}
+description: Estimates the approximate fee per kilobyte needed for a transaction
 ---
 
 ### Parameters

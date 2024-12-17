@@ -1,6 +1,6 @@
 ---
-title: kcc:shh_version  {disallowed} - KuCoin Community Chain
-description: Example code for the kcc:shh_version  {disallowed} ws method. Сomplete guide on how to use kcc:shh_version  {disallowed} ws in GetBlock.io Web3 documentation.
+title: kcc:shh_version \[WebSocket\] {disallowed}
+description: Returns the current whisper protocol version.
 ---
 
 ### Parameters

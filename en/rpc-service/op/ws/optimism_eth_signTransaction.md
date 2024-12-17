@@ -1,6 +1,6 @@
 ---
-title: optimism:eth_signTransaction  {disallowed} - Optimism
-description: Example code for the optimism:eth_signTransaction  {disallowed} ws method. Сomplete guide on how to use optimism:eth_signTransaction  {disallowed} ws in GetBlock.io Web3 documentation.
+title: optimism:eth_signTransaction \[WebSocket\] {disallowed}
+description: Creates new message call transaction or a contract creation, if the datafield contains code.
 ---
 
 ### Parameters

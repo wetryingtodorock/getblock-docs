@@ -1,6 +1,6 @@
 ---
-title: dgb:combinerawtransaction - DigiByte
-description: Example code for the dgb:combinerawtransaction json-rpc method. Сomplete guide on how to use dgb:combinerawtransaction json-rpc in GetBlock.io Web3 documentation.
+title: dgb:combinerawtransaction \[POST\]
+description: Combine multiple partially signed transactions into one transaction.The combined transaction may be another partially signed transaction ora fully signed transaction.
 ---
 
 ### Parameters

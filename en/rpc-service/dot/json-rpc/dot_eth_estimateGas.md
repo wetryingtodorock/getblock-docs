@@ -1,6 +1,6 @@
 ---
-title: dot:eth_estimateGas  {disallowed} - Polkadot
-description: Example code for the dot:eth_estimateGas  {disallowed} json-rpc method. Сomplete guide on how to use dot:eth_estimateGas  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: dot:eth_estimateGas \[POST\] {disallowed}
+description: Estimate gas needed for execution of given contract.
 ---
 
 ### Parameters

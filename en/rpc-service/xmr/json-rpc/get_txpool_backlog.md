@@ -1,6 +1,6 @@
 ---
-title: xmr:get_txpool_backlog - Monero
-description: Example code for the xmr:get_txpool_backlog json-rpc method. Сomplete guide on how to use xmr:get_txpool_backlog json-rpc in GetBlock.io Web3 documentation.
+title: xmr:get_txpool_backlog \[POST\]
+description: Get all transaction pool backlog
 ---
 
 ### Parameters

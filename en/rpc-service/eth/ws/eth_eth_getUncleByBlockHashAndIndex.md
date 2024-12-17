@@ -1,6 +1,6 @@
 ---
-title: eth:eth_getUncleByBlockHashAndIndex - Ethereum
-description: Example code for the eth:eth_getUncleByBlockHashAndIndex ws method. Сomplete guide on how to use eth:eth_getUncleByBlockHashAndIndex ws in GetBlock.io Web3 documentation.
+title: eth:eth_getUncleByBlockHashAndIndex \[WebSocket\]
+description: Returns uncle specified by block hash and index.
 ---
 
 ### Parameters

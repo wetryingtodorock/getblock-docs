@@ -1,6 +1,6 @@
 ---
-title: avax:eth_hashrate - Avalanche
-description: Example code for the avax:eth_hashrate json-rpc method. Сomplete guide on how to use avax:eth_hashrate json-rpc in GetBlock.io Web3 documentation.
+title: avax:eth_hashrate \[POST\]
+description: Returns the number of hashes per second that the node is mining with.
 ---
 
 ### Parameters

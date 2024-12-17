@@ -1,6 +1,6 @@
 ---
-title: movr:state_getPairs  {disallowed} - Moonriver
-description: Example code for the movr:state_getPairs  {disallowed} json-rpc method. Сomplete guide on how to use movr:state_getPairs  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: movr:state_getPairs \[POST\] {disallowed}
+description: Returns the keys with prefix, leave empty to get all the keys(deprecated Use getKeysPaged.
 ---
 
 ### Parameters

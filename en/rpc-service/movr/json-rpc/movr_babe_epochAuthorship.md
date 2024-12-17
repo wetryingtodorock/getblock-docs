@@ -1,6 +1,6 @@
 ---
-title: movr:babe_epochAuthorship  {disallowed} - Moonriver
-description: Example code for the movr:babe_epochAuthorship  {disallowed} json-rpc method. Сomplete guide on how to use movr:babe_epochAuthorship  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: movr:babe_epochAuthorship \[POST\] {disallowed}
+description: Returns data about which slots (primary or secondary) can be claimed inthe current epoch with the keys in the keystore.
 ---
 
 ### Parameters

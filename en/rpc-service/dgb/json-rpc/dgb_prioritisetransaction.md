@@ -1,6 +1,6 @@
 ---
-title: dgb:prioritisetransaction  {disallowed} - DigiByte
-description: Example code for the dgb:prioritisetransaction  {disallowed} json-rpc method. Сomplete guide on how to use dgb:prioritisetransaction  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: dgb:prioritisetransaction \[POST\] {disallowed}
+description: Accepts the transaction into mined blocks at a higher (or lower)priority
 ---
 
 ### Parameters

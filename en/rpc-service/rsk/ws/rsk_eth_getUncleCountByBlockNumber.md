@@ -1,6 +1,6 @@
 ---
-title: rsk:eth_getUncleCountByBlockNumber - Rootstock
-description: Example code for the rsk:eth_getUncleCountByBlockNumber ws method. Сomplete guide on how to use rsk:eth_getUncleCountByBlockNumber ws in GetBlock.io Web3 documentation.
+title: rsk:eth_getUncleCountByBlockNumber \[WebSocket\]
+description: Returns the number of uncles in a block from a block matching the givenblock number.
 ---
 
 ### Parameters

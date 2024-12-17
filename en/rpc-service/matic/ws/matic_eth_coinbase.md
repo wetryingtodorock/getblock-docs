@@ -1,6 +1,6 @@
 ---
-title: matic:eth_coinbase - Polygon
-description: Example code for the matic:eth_coinbase ws method. Сomplete guide on how to use matic:eth_coinbase ws in GetBlock.io Web3 documentation.
+title: matic:eth_coinbase \[WebSocket\]
+description: Returns the client coinbase address.
 ---
 
 ### Parameters

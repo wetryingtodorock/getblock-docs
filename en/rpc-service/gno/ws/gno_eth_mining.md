@@ -1,6 +1,6 @@
 ---
-title: gno:eth_mining - Gnosis
-description: Example code for the gno:eth_mining ws method. Сomplete guide on how to use gno:eth_mining ws in GetBlock.io Web3 documentation.
+title: gno:eth_mining \[WebSocket\]
+description: Whether the client is actively mining new blocks. Besu pauses miningwhile the client synchronizes with the network regardless of commandsettings or methods called.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: ont:/api/v1/block/details/height/{height} - Ontology
-description: Example code for the ont:/api/v1/block/details/height/{height} rest method. Сomplete guide on how to use ont:/api/v1/block/details/height/{height} rest in GetBlock.io Web3 documentation.
+title: ont:/api/v1/block/details/height/{height} \[GET\]
+description: Fetches block details using block height
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: dot:eth_getUncleCountByBlockNumber  {disallowed} - Polkadot
-description: Example code for the dot:eth_getUncleCountByBlockNumber  {disallowed} json-rpc method. Сomplete guide on how to use dot:eth_getUncleCountByBlockNumber  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: dot:eth_getUncleCountByBlockNumber \[POST\] {disallowed}
+description: Returns the number of uncles in a block with given block number.
 ---
 
 ### Parameters

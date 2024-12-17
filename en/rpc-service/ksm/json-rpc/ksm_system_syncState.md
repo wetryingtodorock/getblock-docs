@@ -1,6 +1,6 @@
 ---
-title: ksm:system_syncState - Kusama
-description: Example code for the ksm:system_syncState json-rpc method. Сomplete guide on how to use ksm:system_syncState json-rpc in GetBlock.io Web3 documentation.
+title: ksm:system_syncState \[POST\]
+description: Returns the state of the syncing of the node.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: bch:getunconfirmedbalance  {disallowed} - Bitcoin Cash
-description: Example code for the bch:getunconfirmedbalance  {disallowed} json-rpc method. Сomplete guide on how to use bch:getunconfirmedbalance  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: bch:getunconfirmedbalance \[POST\] {disallowed}
+description: DEPRECATED Identical to getbalances().mine.untrusted_pending
 ---
 
 ### Parameters

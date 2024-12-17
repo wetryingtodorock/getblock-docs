@@ -1,6 +1,6 @@
 ---
-title: ftm:eth_sign - Fantom
-description: Example code for the ftm:eth_sign json-rpc method. Сomplete guide on how to use ftm:eth_sign json-rpc in GetBlock.io Web3 documentation.
+title: ftm:eth_sign \[POST\]
+description: The sign method calculates an Ethereum specific signature withsign(keccak256(\x19Ethereum Signed Message\n + len(message) +message))).
 ---
 
 ### Parameters

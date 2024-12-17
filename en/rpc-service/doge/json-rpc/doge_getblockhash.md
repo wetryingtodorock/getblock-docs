@@ -1,6 +1,6 @@
 ---
-title: doge:getblockhash - Dogecoin
-description: Example code for the doge:getblockhash json-rpc method. Сomplete guide on how to use doge:getblockhash json-rpc in GetBlock.io Web3 documentation.
+title: doge:getblockhash \[POST\]
+description: Returns hash of block in best-block-chain at index.
 ---
 
 ### Parameters

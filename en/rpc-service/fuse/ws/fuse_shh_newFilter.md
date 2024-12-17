@@ -1,6 +1,6 @@
 ---
-title: fuse:shh_newFilter  {disallowed} - Fuse Network
-description: Example code for the fuse:shh_newFilter  {disallowed} ws method. Сomplete guide on how to use fuse:shh_newFilter  {disallowed} ws in GetBlock.io Web3 documentation.
+title: fuse:shh_newFilter \[WebSocket\] {disallowed}
+description: Creates filter to notify, when client receives whisper message matchingthe filter options.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: ksm:eth_accounts  {disallowed} - Kusama
-description: Example code for the ksm:eth_accounts  {disallowed} json-rpc method. Сomplete guide on how to use ksm:eth_accounts  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: ksm:eth_accounts \[POST\] {disallowed}
+description: Returns accounts list.
 ---
 
 ### Parameters

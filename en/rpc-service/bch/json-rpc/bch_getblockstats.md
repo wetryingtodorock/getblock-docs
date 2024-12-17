@@ -1,6 +1,6 @@
 ---
-title: bch:getblockstats - Bitcoin Cash
-description: Example code for the bch:getblockstats json-rpc method. Сomplete guide on how to use bch:getblockstats json-rpc in GetBlock.io Web3 documentation.
+title: bch:getblockstats \[POST\]
+description: Compute per block statistics for a given window. All amounts are insatoshis.It wont work for some heights with pruning.
 ---
 
 ### Parameters

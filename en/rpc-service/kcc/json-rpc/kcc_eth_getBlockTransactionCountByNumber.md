@@ -1,6 +1,6 @@
 ---
-title: kcc:eth_getBlockTransactionCountByNumber - KuCoin Community Chain
-description: Example code for the kcc:eth_getBlockTransactionCountByNumber json-rpc method. Сomplete guide on how to use kcc:eth_getBlockTransactionCountByNumber json-rpc in GetBlock.io Web3 documentation.
+title: kcc:eth_getBlockTransactionCountByNumber \[POST\]
+description: Returns the number of transactions in a block matching the given blocknumber.
 ---
 
 ### Parameters

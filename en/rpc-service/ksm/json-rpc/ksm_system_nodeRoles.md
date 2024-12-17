@@ -1,6 +1,6 @@
 ---
-title: ksm:system_nodeRoles  {disallowed} - Kusama
-description: Example code for the ksm:system_nodeRoles  {disallowed} json-rpc method. Сomplete guide on how to use ksm:system_nodeRoles  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: ksm:system_nodeRoles \[POST\] {disallowed}
+description: Returns the roles the node is running as.
 ---
 
 ### Parameters

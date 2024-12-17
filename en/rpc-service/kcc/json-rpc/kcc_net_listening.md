@@ -1,6 +1,6 @@
 ---
-title: kcc:net_listening - KuCoin Community Chain
-description: Example code for the kcc:net_listening json-rpc method. Сomplete guide on how to use kcc:net_listening json-rpc in GetBlock.io Web3 documentation.
+title: kcc:net_listening \[POST\]
+description: Returns true if client is actively listening for network connections.
 ---
 
 ### Parameters

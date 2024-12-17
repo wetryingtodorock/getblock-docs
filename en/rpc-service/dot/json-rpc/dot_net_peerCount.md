@@ -1,6 +1,6 @@
 ---
-title: dot:net_peerCount  {disallowed} - Polkadot
-description: Example code for the dot:net_peerCount  {disallowed} json-rpc method. Сomplete guide on how to use dot:net_peerCount  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: dot:net_peerCount \[POST\] {disallowed}
+description: Returns number of peers connected to node.
 ---
 
 ### Parameters

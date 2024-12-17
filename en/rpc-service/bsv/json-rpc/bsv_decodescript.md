@@ -1,6 +1,6 @@
 ---
-title: bsv:decodescript - Bitcoin SV
-description: Example code for the bsv:decodescript json-rpc method. Сomplete guide on how to use bsv:decodescript json-rpc in GetBlock.io Web3 documentation.
+title: bsv:decodescript \[POST\]
+description: Decode a hex-encoded script.
 ---
 
 ### Parameters

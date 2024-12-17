@@ -1,6 +1,6 @@
 ---
-title: zec:clearbanned  {disallowed} - Zcash
-description: Example code for the zec:clearbanned  {disallowed} json-rpc method. Сomplete guide on how to use zec:clearbanned  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: zec:clearbanned \[POST\] {disallowed}
+description: Clear all banned IPs.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: xmr:sync_info - Monero
-description: Example code for the xmr:sync_info json-rpc method. Сomplete guide on how to use xmr:sync_info json-rpc in GetBlock.io Web3 documentation.
+title: xmr:sync_info \[POST\]
+description: Get synchronisation informations
 ---
 
 ### Parameters

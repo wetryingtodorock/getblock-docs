@@ -1,6 +1,6 @@
 ---
-title: dot:eth_subscribe  {disallowed} - Polkadot
-description: Example code for the dot:eth_subscribe  {disallowed} json-rpc method. Сomplete guide on how to use dot:eth_subscribe  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: dot:eth_subscribe \[POST\] {disallowed}
+description: Subscribe to Eth subscription.
 ---
 
 ### Parameters

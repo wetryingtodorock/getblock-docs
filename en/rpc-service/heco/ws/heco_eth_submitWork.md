@@ -1,6 +1,6 @@
 ---
-title: heco:eth_submitWork  {disallowed} - Huobi ECO Chain
-description: Example code for the heco:eth_submitWork  {disallowed} ws method. Сomplete guide on how to use heco:eth_submitWork  {disallowed} ws in GetBlock.io Web3 documentation.
+title: heco:eth_submitWork \[WebSocket\] {disallowed}
+description: Used for submitting a proof-of-work solution.
 ---
 
 ### Parameters

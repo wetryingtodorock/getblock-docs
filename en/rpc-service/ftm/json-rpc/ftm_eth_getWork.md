@@ -1,6 +1,6 @@
 ---
-title: ftm:eth_getWork  {disallowed} - Fantom
-description: Example code for the ftm:eth_getWork  {disallowed} json-rpc method. Сomplete guide on how to use ftm:eth_getWork  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: ftm:eth_getWork \[POST\] {disallowed}
+description: Returns the hash of the current block, the seed hash, and the requiredtarget boundary condition.
 ---
 
 ### Parameters

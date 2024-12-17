@@ -1,6 +1,6 @@
 ---
-title: optimism:eth_newBlockFilter - Optimism
-description: Example code for the optimism:eth_newBlockFilter json-rpc method. Сomplete guide on how to use optimism:eth_newBlockFilter json-rpc in GetBlock.io Web3 documentation.
+title: optimism:eth_newBlockFilter \[POST\]
+description: Creates a filter in the node, to notify when a new block arrives. Tocheck if the state has changed, call eth_getFilterChanges.
 ---
 
 ### Parameters

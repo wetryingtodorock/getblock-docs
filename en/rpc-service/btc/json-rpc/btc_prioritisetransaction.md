@@ -1,6 +1,6 @@
 ---
-title: btc:prioritisetransaction  {disallowed} - Bitcoin
-description: Example code for the btc:prioritisetransaction  {disallowed} json-rpc method. Сomplete guide on how to use btc:prioritisetransaction  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: btc:prioritisetransaction \[POST\] {disallowed}
+description: Accepts the transaction into mined blocks at a higher (or lower)priority
 ---
 
 ### Parameters

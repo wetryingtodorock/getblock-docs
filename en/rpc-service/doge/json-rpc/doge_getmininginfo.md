@@ -1,6 +1,6 @@
 ---
-title: doge:getmininginfo - Dogecoin
-description: Example code for the doge:getmininginfo json-rpc method. Сomplete guide on how to use doge:getmininginfo json-rpc in GetBlock.io Web3 documentation.
+title: doge:getmininginfo \[POST\]
+description: Returns an MiningInfo object containing various mining state info.
 ---
 
 ### Parameters

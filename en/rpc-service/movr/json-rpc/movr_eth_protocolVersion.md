@@ -1,6 +1,6 @@
 ---
-title: movr:eth_protocolVersion  {disallowed} - Moonriver
-description: Example code for the movr:eth_protocolVersion  {disallowed} json-rpc method. Сomplete guide on how to use movr:eth_protocolVersion  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: movr:eth_protocolVersion \[POST\] {disallowed}
+description: Returns protocol version encoded as a string (quotes are necessary).
 ---
 
 ### Parameters

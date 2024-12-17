@@ -1,6 +1,6 @@
 ---
-title: ksm:state_subscribeStorage  {disallowed} - Kusama
-description: Example code for the ksm:state_subscribeStorage  {disallowed} json-rpc method. Сomplete guide on how to use ksm:state_subscribeStorage  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: ksm:state_subscribeStorage \[POST\] {disallowed}
+description: Subscribes to storage changes for the provided keys
 ---
 
 ### Parameters

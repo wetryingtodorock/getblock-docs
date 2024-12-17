@@ -1,6 +1,6 @@
 ---
-title: dgb:getnodeaddresses  {disallowed} - DigiByte
-description: Example code for the dgb:getnodeaddresses  {disallowed} json-rpc method. Сomplete guide on how to use dgb:getnodeaddresses  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: dgb:getnodeaddresses \[POST\] {disallowed}
+description: Return known addresses which can potentially be used to find new nodesin the network
 ---
 
 ### Parameters

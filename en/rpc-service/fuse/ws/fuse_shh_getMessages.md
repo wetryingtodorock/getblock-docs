@@ -1,6 +1,6 @@
 ---
-title: fuse:shh_getMessages  {disallowed} - Fuse Network
-description: Example code for the fuse:shh_getMessages  {disallowed} ws method. Сomplete guide on how to use fuse:shh_getMessages  {disallowed} ws in GetBlock.io Web3 documentation.
+title: fuse:shh_getMessages \[WebSocket\] {disallowed}
+description: Get all messages matching a filter. Unlike shh_getFilterChanges thisreturns all messages.
 ---
 
 ### Parameters

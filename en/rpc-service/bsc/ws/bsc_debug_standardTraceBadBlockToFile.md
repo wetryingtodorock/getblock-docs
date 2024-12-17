@@ -1,6 +1,6 @@
 ---
-title: bsc:debug_standardTraceBadBlockToFile  {disallowed} - Binance Smart Chain
-description: Example code for the bsc:debug_standardTraceBadBlockToFile  {disallowed} ws method. Сomplete guide on how to use bsc:debug_standardTraceBadBlockToFile  {disallowed} ws in GetBlock.io Web3 documentation.
+title: bsc:debug_standardTraceBadBlockToFile \[WebSocket\] {disallowed}
+description: Generates files containing the block trace of invalid blocks. A separatefile is generated for each transaction in the block.Use debug_standardTraceBlockToFile to view the trace for a valid block.
 ---
 
 ### Parameters

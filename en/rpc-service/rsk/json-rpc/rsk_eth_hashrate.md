@@ -1,6 +1,6 @@
 ---
-title: rsk:eth_hashrate - Rootstock
-description: Example code for the rsk:eth_hashrate json-rpc method. Сomplete guide on how to use rsk:eth_hashrate json-rpc in GetBlock.io Web3 documentation.
+title: rsk:eth_hashrate \[POST\]
+description: Returns the number of hashes per second that the node is mining with.
 ---
 
 ### Parameters

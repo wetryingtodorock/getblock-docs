@@ -1,6 +1,6 @@
 ---
-title: bsc:debug_traceBlockByHash  {disallowed} - Binance Smart Chain
-description: Example code for the bsc:debug_traceBlockByHash  {disallowed} ws method. Сomplete guide on how to use bsc:debug_traceBlockByHash  {disallowed} ws in GetBlock.io Web3 documentation.
+title: bsc:debug_traceBlockByHash \[WebSocket\] {disallowed}
+description: Returns full trace of all invoked opcodes of all transactions includedin the block.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: rsk:eth_getLogs - Rootstock
-description: Example code for the rsk:eth_getLogs json-rpc method. Сomplete guide on how to use rsk:eth_getLogs json-rpc in GetBlock.io Web3 documentation.
+title: rsk:eth_getLogs \[POST\]
+description: Returns an array of all logs matching a given filter object.
 ---
 
 ### Parameters

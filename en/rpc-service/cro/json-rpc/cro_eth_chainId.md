@@ -1,6 +1,6 @@
 ---
-title: cro:eth_chainId - Cronos
-description: Example code for the cro:eth_chainId json-rpc method. Сomplete guide on how to use cro:eth_chainId json-rpc in GetBlock.io Web3 documentation.
+title: cro:eth_chainId \[POST\]
+description: Returns the chain ID.
 ---
 
 ### Parameters
