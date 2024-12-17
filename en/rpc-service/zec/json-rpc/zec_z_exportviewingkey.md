@@ -1,6 +1,6 @@
 ---
-title: zec:z_exportviewingkey  {disallowed} - Zcash
-description: Example code for the zec:z_exportviewingkey  {disallowed} json-rpc method. Сomplete guide on how to use zec:z_exportviewingkey  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: zec:z_exportviewingkey \[POST\] {disallowed}
+description: Reveals the viewing key corresponding to zaddr. Then thez_importviewingkey can be used with this output
 ---
 
 ### Parameters

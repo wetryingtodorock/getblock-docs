@@ -1,6 +1,6 @@
 ---
-title: avax:avax.getAtomicTxStatus  {disallowed} - Avalanche
-description: Example code for the avax:avax.getAtomicTxStatus  {disallowed} json-rpc method. Сomplete guide on how to use avax:avax.getAtomicTxStatus  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: avax:avax.getAtomicTxStatus \[POST\] {disallowed}
+description: Get the status of an atomic transaction sent to the network.
 ---
 
 ### Parameters

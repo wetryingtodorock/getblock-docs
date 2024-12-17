@@ -1,6 +1,6 @@
 ---
-title: etc:priv_getTransactionReceipt  {disallowed} - Ethereum Classic
-description: Example code for the etc:priv_getTransactionReceipt  {disallowed} json-rpc method. Сomplete guide on how to use etc:priv_getTransactionReceipt  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: etc:priv_getTransactionReceipt \[POST\] {disallowed}
+description: Returns information about the private transaction after mining thetransaction. Receipts for pending transactions are not available.
 ---
 
 ### Parameters

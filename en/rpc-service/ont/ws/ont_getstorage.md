@@ -1,6 +1,6 @@
 ---
-title: ont:getstorage - Ontology
-description: Example code for the ont:getstorage ws method. Сomplete guide on how to use ont:getstorage ws in GetBlock.io Web3 documentation.
+title: ont:getstorage \[WebSocket\]
+description: Fetches the value stored in a contract using the contract hash and thestorage key.The contract hash passed to the method can be generated in the followingmanner addr = types.AddressFromVmCode(\[\]byte0x00, 0x00, 0x00, 0x00,0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00,0x00, 0x00, 0x00, 0x04) fmt.Println(addr.ToHexString())
 ---
 
 ### Parameters

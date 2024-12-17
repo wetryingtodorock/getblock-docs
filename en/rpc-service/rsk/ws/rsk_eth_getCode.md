@@ -1,6 +1,6 @@
 ---
-title: rsk:eth_getCode - Rootstock
-description: Example code for the rsk:eth_getCode ws method. Сomplete guide on how to use rsk:eth_getCode ws in GetBlock.io Web3 documentation.
+title: rsk:eth_getCode \[WebSocket\]
+description: Returns code at a given address.
 ---
 
 ### Parameters

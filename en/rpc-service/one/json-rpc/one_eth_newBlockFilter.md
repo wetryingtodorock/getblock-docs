@@ -1,6 +1,6 @@
 ---
-title: one:eth_newBlockFilter - Harmony
-description: Example code for the one:eth_newBlockFilter json-rpc method. Сomplete guide on how to use one:eth_newBlockFilter json-rpc in GetBlock.io Web3 documentation.
+title: one:eth_newBlockFilter \[POST\]
+description: Creates a filter in the node, to notify when a new block arrives. Tocheck if the state has changed, call eth_getFilterChanges.
 ---
 
 ### Parameters

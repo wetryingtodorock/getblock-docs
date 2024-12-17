@@ -1,6 +1,6 @@
 ---
-title: bsc:eth_blockNumber - Binance Smart Chain
-description: Example code for the bsc:eth_blockNumber ws method. Сomplete guide on how to use bsc:eth_blockNumber ws in GetBlock.io Web3 documentation.
+title: bsc:eth_blockNumber \[WebSocket\]
+description: Returns the index corresponding to the block number of the current chainhead.
 ---
 
 ### Parameters

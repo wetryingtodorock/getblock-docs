@@ -1,6 +1,6 @@
 ---
-title: btc:estimatefee  {disallowed} - Bitcoin
-description: Example code for the btc:estimatefee  {disallowed} json-rpc method. Сomplete guide on how to use btc:estimatefee  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: btc:estimatefee \[POST\] {disallowed}
+description: Estimates the approximate fee per kilobyte needed for a transaction
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: avax:avax.exportKey  {disallowed} - Avalanche
-description: Example code for the avax:avax.exportKey  {disallowed} json-rpc method. Сomplete guide on how to use avax:avax.exportKey  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: avax:avax.exportKey \[POST\] {disallowed}
+description: Get the private key that controls a given address. The returned privatekey can be added to a user with avax.importKey.
 ---
 
 ### Parameters

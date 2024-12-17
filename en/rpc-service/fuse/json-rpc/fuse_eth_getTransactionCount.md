@@ -1,6 +1,6 @@
 ---
-title: fuse:eth_getTransactionCount - Fuse Network
-description: Example code for the fuse:eth_getTransactionCount json-rpc method. Сomplete guide on how to use fuse:eth_getTransactionCount json-rpc in GetBlock.io Web3 documentation.
+title: fuse:eth_getTransactionCount \[POST\]
+description: Returns the number of transactions sent from an address.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: movr:grandpa_subscribeJustifications  {disallowed} - Moonriver
-description: Example code for the movr:grandpa_subscribeJustifications  {disallowed} json-rpc method. Сomplete guide on how to use movr:grandpa_subscribeJustifications  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: movr:grandpa_subscribeJustifications \[POST\] {disallowed}
+description: Subscribes to grandpa justifications.
 ---
 
 ### Parameters

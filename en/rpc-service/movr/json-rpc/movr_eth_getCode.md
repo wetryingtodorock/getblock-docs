@@ -1,6 +1,6 @@
 ---
-title: movr:eth_getCode  {disallowed} - Moonriver
-description: Example code for the movr:eth_getCode  {disallowed} json-rpc method. Сomplete guide on how to use movr:eth_getCode  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: movr:eth_getCode \[POST\] {disallowed}
+description: Returns the code at given address at given time (block number).
 ---
 
 ### Parameters

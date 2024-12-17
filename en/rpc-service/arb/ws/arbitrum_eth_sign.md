@@ -1,6 +1,6 @@
 ---
-title: arbitrum:eth_sign - Arbitrum
-description: Example code for the arbitrum:eth_sign ws method. Сomplete guide on how to use arbitrum:eth_sign ws in GetBlock.io Web3 documentation.
+title: arbitrum:eth_sign \[WebSocket\]
+description: The sign method calculates an Ethereum specific signature withsign(keccak256(\x19Ethereum Signed Message\n + len(message) +message))).By adding a prefix to the message makes the calculated signaturerecognisable as an Ethereum specific signature. This prevents misusewhere a malicious DApp can sign arbitrary data (e.g. transaction) anduse the signature to impersonate the victim.Note the address to sign with must be unlocked.
 ---
 
 ### Parameters

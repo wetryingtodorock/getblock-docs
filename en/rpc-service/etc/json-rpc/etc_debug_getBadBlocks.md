@@ -1,6 +1,6 @@
 ---
-title: etc:debug_getBadBlocks  {disallowed} - Ethereum Classic
-description: Example code for the etc:debug_getBadBlocks  {disallowed} json-rpc method. Сomplete guide on how to use etc:debug_getBadBlocks  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: etc:debug_getBadBlocks \[POST\] {disallowed}
+description: Returns a list of invalid blocks. This is used to detect and analyzeconsensus flaws.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: movr:eth_getBlockByHash  {disallowed} - Moonriver
-description: Example code for the movr:eth_getBlockByHash  {disallowed} json-rpc method. Сomplete guide on how to use movr:eth_getBlockByHash  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: movr:eth_getBlockByHash \[POST\] {disallowed}
+description: Returns block with given hash.
 ---
 
 ### Parameters

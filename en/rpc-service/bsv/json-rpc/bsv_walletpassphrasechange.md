@@ -1,6 +1,6 @@
 ---
-title: bsv:walletpassphrasechange  {disallowed} - Bitcoin SV
-description: Example code for the bsv:walletpassphrasechange  {disallowed} json-rpc method. Сomplete guide on how to use bsv:walletpassphrasechange  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: bsv:walletpassphrasechange \[POST\] {disallowed}
+description: Changes the wallet passphrase from ‘oldpassphrase’ to ‘newpassphrase’.
 ---
 
 ### Parameters

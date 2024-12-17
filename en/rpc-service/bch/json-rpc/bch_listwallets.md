@@ -1,6 +1,6 @@
 ---
-title: bch:listwallets  {disallowed} - Bitcoin Cash
-description: Example code for the bch:listwallets  {disallowed} json-rpc method. Сomplete guide on how to use bch:listwallets  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: bch:listwallets \[POST\] {disallowed}
+description: Returns a list of currently loaded wallets.For full information on the wallet, use “getwalletinfo”
 ---
 
 ### Parameters

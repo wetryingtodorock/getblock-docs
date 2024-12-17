@@ -1,6 +1,6 @@
 ---
-title: etc:perm_addNodesToAllowlist  {disallowed} - Ethereum Classic
-description: Example code for the etc:perm_addNodesToAllowlist  {disallowed} json-rpc method. Сomplete guide on how to use etc:perm_addNodesToAllowlist  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: etc:perm_addNodesToAllowlist \[POST\] {disallowed}
+description: Adds nodes to the nodes allowlist.
 ---
 
 ### Parameters

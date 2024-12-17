@@ -1,6 +1,6 @@
 ---
-title: arbitrum:eth_newBlockFilter - Arbitrum
-description: Example code for the arbitrum:eth_newBlockFilter ws method. Сomplete guide on how to use arbitrum:eth_newBlockFilter ws in GetBlock.io Web3 documentation.
+title: arbitrum:eth_newBlockFilter \[WebSocket\]
+description: Creates a filter in the node, to notify when a new block arrives. Tocheck if the state has changed, call eth_getFilterChanges.
 ---
 
 ### Parameters

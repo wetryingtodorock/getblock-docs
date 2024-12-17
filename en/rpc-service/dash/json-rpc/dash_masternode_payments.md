@@ -1,6 +1,6 @@
 ---
-title: dash:masternode_payments - Dash
-description: Example code for the dash:masternode_payments json-rpc method. Сomplete guide on how to use dash:masternode_payments json-rpc in GetBlock.io Web3 documentation.
+title: dash:masternode_payments \[POST\]
+description: Added in Dash Core 0.17.0prints an array of deterministic masternodes and their payments for thespecified block.By default, payment information is returned for only the chain tip. Moreblock winners can be requested via the optional count parameter.
 ---
 
 ### Parameters

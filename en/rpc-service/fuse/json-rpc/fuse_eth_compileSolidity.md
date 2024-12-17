@@ -1,6 +1,6 @@
 ---
-title: fuse:eth_compileSolidity  {disallowed} - Fuse Network
-description: Example code for the fuse:eth_compileSolidity  {disallowed} json-rpc method. Сomplete guide on how to use fuse:eth_compileSolidity  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: fuse:eth_compileSolidity \[POST\] {disallowed}
+description: Returns compiled solidity code.
 ---
 
 ### Parameters

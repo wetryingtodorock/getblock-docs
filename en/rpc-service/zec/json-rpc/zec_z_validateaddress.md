@@ -1,6 +1,6 @@
 ---
-title: zec:z_validateaddress - Zcash
-description: Example code for the zec:z_validateaddress json-rpc method. Сomplete guide on how to use zec:z_validateaddress json-rpc in GetBlock.io Web3 documentation.
+title: zec:z_validateaddress \[POST\]
+description: Return information about the given z address.
 ---
 
 ### Parameters

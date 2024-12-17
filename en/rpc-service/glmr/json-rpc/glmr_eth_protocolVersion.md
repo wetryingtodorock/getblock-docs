@@ -1,6 +1,6 @@
 ---
-title: glmr:eth_protocolVersion - Moonbeam
-description: Example code for the glmr:eth_protocolVersion json-rpc method. Сomplete guide on how to use glmr:eth_protocolVersion json-rpc in GetBlock.io Web3 documentation.
+title: glmr:eth_protocolVersion \[POST\]
+description: Returns the current ethereum protocol version.
 ---
 
 ### Parameters

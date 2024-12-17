@@ -1,6 +1,6 @@
 ---
-title: bsv:decoderawtransaction - Bitcoin SV
-description: Example code for the bsv:decoderawtransaction json-rpc method. Сomplete guide on how to use bsv:decoderawtransaction json-rpc in GetBlock.io Web3 documentation.
+title: bsv:decoderawtransaction \[POST\]
+description: Return a JSON object representing the serialized, hex-encodedtransaction.
 ---
 
 ### Parameters

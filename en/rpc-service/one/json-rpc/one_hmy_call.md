@@ -1,6 +1,6 @@
 ---
-title: one:hmy_call - Harmony
-description: Example code for the one:hmy_call json-rpc method. Сomplete guide on how to use one:hmy_call json-rpc in GetBlock.io Web3 documentation.
+title: one:hmy_call \[POST\]
+description: Invokes a contract function locally and does not change the state of theblockchain.You can interact with contracts using hmy_sendRawTransaction orhmy_call.If revert reason is enabled with --revert-reason-enabled, the hmy_callerror response will include the revert reason.
 ---
 
 ### Parameters

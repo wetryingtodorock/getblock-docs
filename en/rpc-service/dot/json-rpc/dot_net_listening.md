@@ -1,6 +1,6 @@
 ---
-title: dot:net_listening  {disallowed} - Polkadot
-description: Example code for the dot:net_listening  {disallowed} json-rpc method. Сomplete guide on how to use dot:net_listening  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: dot:net_listening \[POST\] {disallowed}
+description: Returns true if client is actively listening for network connections.Otherwise false.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: bsc:eth_getBlockTransactionCountByNumber - Binance Smart Chain
-description: Example code for the bsc:eth_getBlockTransactionCountByNumber json-rpc method. Сomplete guide on how to use bsc:eth_getBlockTransactionCountByNumber json-rpc in GetBlock.io Web3 documentation.
+title: bsc:eth_getBlockTransactionCountByNumber \[POST\]
+description: Returns the number of transactions in a block matching the specifiedblock number.
 ---
 
 ### Parameters

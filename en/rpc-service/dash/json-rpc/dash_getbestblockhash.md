@@ -1,6 +1,6 @@
 ---
-title: dash:getbestblockhash - Dash
-description: Example code for the dash:getbestblockhash json-rpc method. Сomplete guide on how to use dash:getbestblockhash json-rpc in GetBlock.io Web3 documentation.
+title: dash:getbestblockhash \[POST\]
+description: Returns the header hash of the most recent block on the best blockchain.
 ---
 
 ### Parameters

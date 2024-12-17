@@ -1,6 +1,6 @@
 ---
-title: movr:payment_queryInfo  {disallowed} - Moonriver
-description: Example code for the movr:payment_queryInfo  {disallowed} json-rpc method. Сomplete guide on how to use movr:payment_queryInfo  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: movr:payment_queryInfo \[POST\] {disallowed}
+description: Retrieves the fee information for an encoded extrinsic.
 ---
 
 ### Parameters

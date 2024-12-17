@@ -1,6 +1,6 @@
 ---
-title: optimism:web3_sha3 - Optimism
-description: Example code for the optimism:web3_sha3 ws method. Сomplete guide on how to use optimism:web3_sha3 ws in GetBlock.io Web3 documentation.
+title: optimism:web3_sha3 \[WebSocket\]
+description: Returns Keccak-256 (not the standardized SHA3-256) of the given data.
 ---
 
 ### Parameters

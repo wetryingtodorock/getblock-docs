@@ -1,6 +1,6 @@
 ---
-title: btg:getrawmempool - Bitcoin Gold
-description: Example code for the btg:getrawmempool json-rpc method. Сomplete guide on how to use btg:getrawmempool json-rpc in GetBlock.io Web3 documentation.
+title: btg:getrawmempool \[POST\]
+description: Returns all transaction ids in memory pool as a json array of stringtransaction ids.Hint use getmempoolentry to fetch a specific transaction from themempool.
 ---
 
 ### Parameters

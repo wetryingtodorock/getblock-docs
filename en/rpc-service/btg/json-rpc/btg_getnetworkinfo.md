@@ -1,6 +1,6 @@
 ---
-title: btg:getnetworkinfo  {disallowed} - Bitcoin Gold
-description: Example code for the btg:getnetworkinfo  {disallowed} json-rpc method. Сomplete guide on how to use btg:getnetworkinfo  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: btg:getnetworkinfo \[POST\] {disallowed}
+description: Returns an object containing various state info regarding P2Pnetworking.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: xem:/local/account/transfers/incoming  {disallowed} - NEM
-description: Example code for the xem:/local/account/transfers/incoming  {disallowed} rest method. Сomplete guide on how to use xem:/local/account/transfers/incoming  {disallowed} rest in GetBlock.io Web3 documentation.
+title: xem:/local/account/transfers/incoming \[POST\] {disallowed}
+description: The request returns incoming transactions. If a transaction contains anencoded message, this message will be decoded before it is sent to therequester.
 ---
 
 ### Parameters

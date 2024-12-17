@@ -1,6 +1,6 @@
 ---
-title: bch:createmultisig  {disallowed} - Bitcoin Cash
-description: Example code for the bch:createmultisig  {disallowed} json-rpc method. Сomplete guide on how to use bch:createmultisig  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: bch:createmultisig \[POST\] {disallowed}
+description: Creates a multi-signature address with n signature of m keys required.It returns a json object with the address and redeemScript.
 ---
 
 ### Parameters

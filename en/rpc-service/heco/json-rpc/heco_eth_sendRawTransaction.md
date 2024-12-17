@@ -1,6 +1,6 @@
 ---
-title: heco:eth_sendRawTransaction - Huobi ECO Chain
-description: Example code for the heco:eth_sendRawTransaction json-rpc method. Сomplete guide on how to use heco:eth_sendRawTransaction json-rpc in GetBlock.io Web3 documentation.
+title: heco:eth_sendRawTransaction \[POST\]
+description: Creates new message call transaction or a contract creation for signedtransactions.
 ---
 
 ### Parameters

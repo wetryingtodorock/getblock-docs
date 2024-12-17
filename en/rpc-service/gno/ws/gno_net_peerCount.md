@@ -1,6 +1,6 @@
 ---
-title: gno:net_peerCount - Gnosis
-description: Example code for the gno:net_peerCount ws method. Сomplete guide on how to use gno:net_peerCount ws in GetBlock.io Web3 documentation.
+title: gno:net_peerCount \[WebSocket\]
+description: Returns the number of peers currently connected to the client.
 ---
 
 ### Parameters

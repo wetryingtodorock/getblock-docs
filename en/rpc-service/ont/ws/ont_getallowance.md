@@ -1,6 +1,6 @@
 ---
-title: ont:getallowance - Ontology
-description: Example code for the ont:getallowance ws method. Сomplete guide on how to use ont:getallowance ws in GetBlock.io Web3 documentation.
+title: ont:getallowance \[WebSocket\]
+description: Fetch the amount of allowance of a certain asset granted by one addressto another address.
 ---
 
 ### Parameters

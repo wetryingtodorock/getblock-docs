@@ -1,6 +1,6 @@
 ---
-title: doge:signmessage - Dogecoin
-description: Example code for the doge:signmessage json-rpc method. Сomplete guide on how to use doge:signmessage json-rpc in GetBlock.io Web3 documentation.
+title: doge:signmessage \[POST\]
+description: Sign messages, returns the signature
 ---
 
 ### Parameters

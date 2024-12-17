@@ -1,6 +1,6 @@
 ---
-title: trx:/wallet/createtransaction - TRON
-description: Example code for the trx:/wallet/createtransaction rest method. Сomplete guide on how to use trx:/wallet/createtransaction rest in GetBlock.io Web3 documentation.
+title: trx:/wallet/createtransaction \[POST\]
+description: Create a TRX transfer transaction. If to_address does not exist, thencreate the account on the blockchain.
 ---
 
 ### Parameters

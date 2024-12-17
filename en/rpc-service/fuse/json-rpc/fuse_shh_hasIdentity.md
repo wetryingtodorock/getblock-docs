@@ -1,6 +1,6 @@
 ---
-title: fuse:shh_hasIdentity  {disallowed} - Fuse Network
-description: Example code for the fuse:shh_hasIdentity  {disallowed} json-rpc method. Сomplete guide on how to use fuse:shh_hasIdentity  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: fuse:shh_hasIdentity \[POST\] {disallowed}
+description: Checks if the client hold the private keys for a given identity.
 ---
 
 ### Parameters

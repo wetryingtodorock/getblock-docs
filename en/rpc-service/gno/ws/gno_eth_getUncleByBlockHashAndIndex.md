@@ -1,6 +1,6 @@
 ---
-title: gno:eth_getUncleByBlockHashAndIndex - Gnosis
-description: Example code for the gno:eth_getUncleByBlockHashAndIndex ws method. Сomplete guide on how to use gno:eth_getUncleByBlockHashAndIndex ws in GetBlock.io Web3 documentation.
+title: gno:eth_getUncleByBlockHashAndIndex \[WebSocket\]
+description: Returns uncle specified by block hash and index.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: matic:shh_newFilter  {disallowed} - Polygon
-description: Example code for the matic:shh_newFilter  {disallowed} json-rpc method. Сomplete guide on how to use matic:shh_newFilter  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: matic:shh_newFilter \[POST\] {disallowed}
+description: Creates filter to notify, when client receives whisper message matchingthe filter options.
 ---
 
 ### Parameters

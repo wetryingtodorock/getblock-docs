@@ -1,6 +1,6 @@
 ---
-title: bsv:unloadwallet  {disallowed} - Bitcoin SV
-description: Example code for the bsv:unloadwallet  {disallowed} json-rpc method. Сomplete guide on how to use bsv:unloadwallet  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: bsv:unloadwallet \[POST\] {disallowed}
+description: Unloads the wallet referenced by the request endpoint otherwise unloadsthe wallet specified in the argument.Specifying the wallet name on a wallet endpoint is invalid.
 ---
 
 ### Parameters

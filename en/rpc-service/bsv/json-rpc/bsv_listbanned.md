@@ -1,6 +1,6 @@
 ---
-title: bsv:listbanned  {disallowed} - Bitcoin SV
-description: Example code for the bsv:listbanned  {disallowed} json-rpc method. Сomplete guide on how to use bsv:listbanned  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: bsv:listbanned \[POST\] {disallowed}
+description: List all banned IPs/Subnets.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: zec:listtransactions  {disallowed} - Zcash
-description: Example code for the zec:listtransactions  {disallowed} json-rpc method. Сomplete guide on how to use zec:listtransactions  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: zec:listtransactions \[POST\] {disallowed}
+description: Returns up to count most recent transactions skipping the first fromtransactions for account account.
 ---
 
 ### Parameters

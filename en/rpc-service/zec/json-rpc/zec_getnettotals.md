@@ -1,6 +1,6 @@
 ---
-title: zec:getnettotals  {disallowed} - Zcash
-description: Example code for the zec:getnettotals  {disallowed} json-rpc method. Сomplete guide on how to use zec:getnettotals  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: zec:getnettotals \[POST\] {disallowed}
+description: Returns information about network traffic, including bytes in, bytesout, and current time.
 ---
 
 ### Parameters

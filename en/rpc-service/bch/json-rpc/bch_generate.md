@@ -1,6 +1,6 @@
 ---
-title: bch:generate  {disallowed} - Bitcoin Cash
-description: Example code for the bch:generate  {disallowed} json-rpc method. Сomplete guide on how to use bch:generate  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: bch:generate \[POST\] {disallowed}
+description: Mine blocks immediately to a specified descriptor (before the RPC callreturns)
 ---
 
 ### Parameters

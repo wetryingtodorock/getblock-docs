@@ -1,6 +1,6 @@
 ---
-title: doge:sendfrom  {disallowed} - Dogecoin
-description: Example code for the doge:sendfrom  {disallowed} json-rpc method. Сomplete guide on how to use doge:sendfrom  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: doge:sendfrom \[POST\] {disallowed}
+description: Sends amount from account’s balance to dogecoinaddress.This method will fail if there is less than amount dogecoins withminconf confirmations in the account’s balance (unless account is theempty-string-named default account it behaves like the sendtoaddressmethod).Returns transaction ID on success.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: fuse:eth_submitWork  {disallowed} - Fuse Network
-description: Example code for the fuse:eth_submitWork  {disallowed} json-rpc method. Сomplete guide on how to use fuse:eth_submitWork  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: fuse:eth_submitWork \[POST\] {disallowed}
+description: Used for submitting a proof-of-work solution.
 ---
 
 ### Parameters

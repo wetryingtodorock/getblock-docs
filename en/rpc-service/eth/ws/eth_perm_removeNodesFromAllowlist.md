@@ -1,6 +1,6 @@
 ---
-title: eth:perm_removeNodesFromAllowlist  {disallowed} - Ethereum
-description: Example code for the eth:perm_removeNodesFromAllowlist  {disallowed} ws method. Сomplete guide on how to use eth:perm_removeNodesFromAllowlist  {disallowed} ws in GetBlock.io Web3 documentation.
+title: eth:perm_removeNodesFromAllowlist \[WebSocket\] {disallowed}
+description: Removes nodes from the nodes allowlist.
 ---
 
 ### Parameters

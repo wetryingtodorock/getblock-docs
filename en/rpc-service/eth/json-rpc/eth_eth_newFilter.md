@@ -1,6 +1,6 @@
 ---
-title: eth:eth_newFilter - Ethereum
-description: Example code for the eth:eth_newFilter json-rpc method. Сomplete guide on how to use eth:eth_newFilter json-rpc in GetBlock.io Web3 documentation.
+title: eth:eth_newFilter \[POST\]
+description: Creates a filter object based on the given filter options, to notify when the state changes (logs). To check if the state has changed, call eth_getFilterChanges.
 ---
 
 ### Parameters

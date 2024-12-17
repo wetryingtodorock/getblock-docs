@@ -1,6 +1,6 @@
 ---
-title: eth:priv_createPrivacyGroup  {disallowed} - Ethereum
-description: Example code for the eth:priv_createPrivacyGroup  {disallowed} ws method. Сomplete guide on how to use eth:priv_createPrivacyGroup  {disallowed} ws in GetBlock.io Web3 documentation.
+title: eth:priv_createPrivacyGroup \[WebSocket\] {disallowed}
+description: Creates a group of nodes, specified by their Orion public key.
 ---
 
 ### Parameters

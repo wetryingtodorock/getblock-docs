@@ -1,6 +1,6 @@
 ---
-title: zec:getblockchaininfo - Zcash
-description: Example code for the zec:getblockchaininfo json-rpc method. Сomplete guide on how to use zec:getblockchaininfo json-rpc in GetBlock.io Web3 documentation.
+title: zec:getblockchaininfo \[POST\]
+description: Returns an object containing various state info regarding block chainprocessing.Note that when the chain tip is at the last block before a networkupgrade activation, consensus.chaintip != consensus.nextblock.
 ---
 
 ### Parameters

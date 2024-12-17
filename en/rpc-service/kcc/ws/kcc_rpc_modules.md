@@ -1,6 +1,6 @@
 ---
-title: kcc:rpc_modules - KuCoin Community Chain
-description: Example code for the kcc:rpc_modules ws method. Сomplete guide on how to use kcc:rpc_modules ws in GetBlock.io Web3 documentation.
+title: kcc:rpc_modules \[WebSocket\]
+description: Lists enabled APIs and the version of each.
 ---
 
 ### Parameters

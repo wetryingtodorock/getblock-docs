@@ -1,6 +1,6 @@
 ---
-title: rsk:shh_newGroup  {disallowed} - Rootstock
-description: Example code for the rsk:shh_newGroup  {disallowed} ws method. Сomplete guide on how to use rsk:shh_newGroup  {disallowed} ws in GetBlock.io Web3 documentation.
+title: rsk:shh_newGroup \[Websocket\] {disallowed}
+description: Whisper protocol not supported.
 ---
 
 ### Parameters

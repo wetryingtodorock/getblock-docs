@@ -1,6 +1,6 @@
 ---
-title: avax:eth_compileLLL  {disallowed} - Avalanche
-description: Example code for the avax:eth_compileLLL  {disallowed} ws method. Сomplete guide on how to use avax:eth_compileLLL  {disallowed} ws in GetBlock.io Web3 documentation.
+title: avax:eth_compileLLL \[WebSocket\] {disallowed}
+description: Returns compiled LLL code.
 ---
 
 ### Parameters

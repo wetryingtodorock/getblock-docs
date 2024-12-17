@@ -1,6 +1,6 @@
 ---
-title: zec:getblockcount - Zcash
-description: Example code for the zec:getblockcount json-rpc method. Сomplete guide on how to use zec:getblockcount json-rpc in GetBlock.io Web3 documentation.
+title: zec:getblockcount \[POST\]
+description: Returns the number of blocks in the best valid block chain.
 ---
 
 ### Parameters

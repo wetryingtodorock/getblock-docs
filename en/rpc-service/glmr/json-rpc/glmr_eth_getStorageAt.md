@@ -1,6 +1,6 @@
 ---
-title: glmr:eth_getStorageAt - Moonbeam
-description: Example code for the glmr:eth_getStorageAt json-rpc method. Сomplete guide on how to use glmr:eth_getStorageAt json-rpc in GetBlock.io Web3 documentation.
+title: glmr:eth_getStorageAt \[POST\]
+description: Returns the value from a storage position at a given address.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: matic:eth_getTransactionCount - Polygon
-description: Example code for the matic:eth_getTransactionCount ws method. Сomplete guide on how to use matic:eth_getTransactionCount ws in GetBlock.io Web3 documentation.
+title: matic:eth_getTransactionCount \[WebSocket\]
+description: Returns the number of transactions sent from an address.
 ---
 
 ### Parameters

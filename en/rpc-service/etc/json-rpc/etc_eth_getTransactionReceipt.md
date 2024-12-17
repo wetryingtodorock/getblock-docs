@@ -1,6 +1,6 @@
 ---
-title: etc:eth_getTransactionReceipt - Ethereum Classic
-description: Example code for the etc:eth_getTransactionReceipt json-rpc method. Сomplete guide on how to use etc:eth_getTransactionReceipt json-rpc in GetBlock.io Web3 documentation.
+title: etc:eth_getTransactionReceipt \[POST\]
+description: Returns the receipt of a transaction by transaction hash. Receipts forpending transactions are not available.If you enabled revert reason, the receipt includes available revertreasons in the response.
 ---
 
 ### Parameters

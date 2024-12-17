@@ -1,6 +1,6 @@
 ---
-title: btc:importwallet  {disallowed} - Bitcoin
-description: Example code for the btc:importwallet  {disallowed} json-rpc method. Сomplete guide on how to use btc:importwallet  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: btc:importwallet \[POST\] {disallowed}
+description: Imports keys from a wallet dump file (see dumpwallet). Requires a newwallet backup to include imported keys.Note Use “getwalletinfo” to query the scanning progress.
 ---
 
 ### Parameters

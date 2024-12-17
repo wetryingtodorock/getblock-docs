@@ -1,6 +1,6 @@
 ---
-title: etc:ibft_proposeValidatorVote  {disallowed} - Ethereum Classic
-description: Example code for the etc:ibft_proposeValidatorVote  {disallowed} json-rpc method. Сomplete guide on how to use etc:ibft_proposeValidatorVote  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: etc:ibft_proposeValidatorVote \[POST\] {disallowed}
+description: Propose to add or remove a validator with the specified address.
 ---
 
 ### Parameters

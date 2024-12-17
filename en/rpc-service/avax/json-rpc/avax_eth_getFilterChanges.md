@@ -1,6 +1,6 @@
 ---
-title: avax:eth_getFilterChanges - Avalanche
-description: Example code for the avax:eth_getFilterChanges json-rpc method. Сomplete guide on how to use avax:eth_getFilterChanges json-rpc in GetBlock.io Web3 documentation.
+title: avax:eth_getFilterChanges \[POST\]
+description: Polling method for a filter, which returns an array of logs whichoccurred since last poll.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: btg:getwalletinfo  {disallowed} - Bitcoin Gold
-description: Example code for the btg:getwalletinfo  {disallowed} json-rpc method. Сomplete guide on how to use btg:getwalletinfo  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: btg:getwalletinfo \[POST\] {disallowed}
+description: Returns an object containing various wallet state info.
 ---
 
 ### Parameters

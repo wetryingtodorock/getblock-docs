@@ -1,6 +1,6 @@
 ---
-title: bch:setlabel  {disallowed} - Bitcoin Cash
-description: Example code for the bch:setlabel  {disallowed} json-rpc method. Сomplete guide on how to use bch:setlabel  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: bch:setlabel \[POST\] {disallowed}
+description: Sets the label associated with the given address.
 ---
 
 ### Parameters

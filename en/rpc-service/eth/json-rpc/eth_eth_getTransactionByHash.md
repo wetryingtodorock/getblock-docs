@@ -1,6 +1,6 @@
 ---
-title: eth:eth_getTransactionByHash - Ethereum
-description: Example code for the eth:eth_getTransactionByHash json-rpc method. Сomplete guide on how to use eth:eth_getTransactionByHash json-rpc in GetBlock.io Web3 documentation.
+title: eth:eth_getTransactionByHash \[POST\]
+description: Returns transaction information for the specified transaction hash.
 ---
 
 ### Parameters

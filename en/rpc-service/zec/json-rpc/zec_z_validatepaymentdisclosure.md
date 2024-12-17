@@ -1,6 +1,6 @@
 ---
-title: zec:z_validatepaymentdisclosure  {disallowed} - Zcash
-description: Example code for the zec:z_validatepaymentdisclosure  {disallowed} json-rpc method. Сomplete guide on how to use zec:z_validatepaymentdisclosure  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: zec:z_validatepaymentdisclosure \[POST\] {disallowed}
+description: Validates a payment disclosure.EXPERIMENTAL FEATUREWARNING z_getpaymentdisclosure is disabled.
 ---
 
 ### Parameters

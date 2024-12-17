@@ -1,6 +1,6 @@
 ---
-title: movr:system_version - Moonriver
-description: Example code for the movr:system_version json-rpc method. Сomplete guide on how to use movr:system_version json-rpc in GetBlock.io Web3 documentation.
+title: movr:system_version \[POST\]
+description: Retrieves the version of the node.
 ---
 
 ### Parameters

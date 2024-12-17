@@ -1,6 +1,6 @@
 ---
-title: rsk:mnr_submitWork  {disallowed} - Rootstock
-description: Example code for the rsk:mnr_submitWork  {disallowed} json-rpc method. Сomplete guide on how to use rsk:mnr_submitWork  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: rsk:mnr_submitWork \[POST\] {disallowed}
+description: Used for submitting a proof-of-work solution.
 ---
 
 ### Parameters

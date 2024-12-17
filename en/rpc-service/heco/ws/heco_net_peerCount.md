@@ -1,6 +1,6 @@
 ---
-title: heco:net_peerCount - Huobi ECO Chain
-description: Example code for the heco:net_peerCount ws method. Сomplete guide on how to use heco:net_peerCount ws in GetBlock.io Web3 documentation.
+title: heco:net_peerCount \[WebSocket\]
+description: Returns number of peers currently connected to the client.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: fuse:eth_getTransactionByHash - Fuse Network
-description: Example code for the fuse:eth_getTransactionByHash ws method. Сomplete guide on how to use fuse:eth_getTransactionByHash ws in GetBlock.io Web3 documentation.
+title: fuse:eth_getTransactionByHash \[WebSocket\]
+description: Returns the information about a transaction requested by transactionhash.
 ---
 
 ### Parameters

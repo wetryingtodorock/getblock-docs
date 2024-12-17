@@ -1,6 +1,6 @@
 ---
-title: matic:eth_getTransactionByBlockHashAndIndex - Polygon
-description: Example code for the matic:eth_getTransactionByBlockHashAndIndex ws method. Сomplete guide on how to use matic:eth_getTransactionByBlockHashAndIndex ws in GetBlock.io Web3 documentation.
+title: matic:eth_getTransactionByBlockHashAndIndex \[WebSocket\]
+description: Returns information about a transaction by block hash and transactionindex position.
 ---
 
 ### Parameters

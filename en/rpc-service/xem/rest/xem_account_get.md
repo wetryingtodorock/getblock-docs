@@ -1,6 +1,6 @@
 ---
-title: xem:/account/get - NEM
-description: Example code for the xem:/account/get rest method. Сomplete guide on how to use xem:/account/get rest in GetBlock.io Web3 documentation.
+title: xem:/account/get \[GET\]
+description: Gets an AccountMetaDataPair for an account. The account meta data pairincludes durable information for an account and additional informationabout its state.
 ---
 
 ### Parameters

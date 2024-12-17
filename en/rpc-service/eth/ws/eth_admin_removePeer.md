@@ -1,6 +1,6 @@
 ---
-title: eth:admin_removePeer  {disallowed} - Ethereum
-description: Example code for the eth:admin_removePeer  {disallowed} ws method. Сomplete guide on how to use eth:admin_removePeer  {disallowed} ws in GetBlock.io Web3 documentation.
+title: eth:admin_removePeer \[WebSocket\] {disallowed}
+description: Removes a static node.
 ---
 
 ### Parameters

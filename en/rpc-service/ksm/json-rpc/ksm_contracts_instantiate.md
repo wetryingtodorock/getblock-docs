@@ -1,6 +1,6 @@
 ---
-title: ksm:contracts_instantiate  {disallowed} - Kusama
-description: Example code for the ksm:contracts_instantiate  {disallowed} json-rpc method. Сomplete guide on how to use ksm:contracts_instantiate  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: ksm:contracts_instantiate \[POST\] {disallowed}
+description: Instantiate a new contract.
 ---
 
 ### Parameters

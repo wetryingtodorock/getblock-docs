@@ -1,6 +1,6 @@
 ---
-title: etc:priv_getPrivacyPrecompileAddress  {disallowed} - Ethereum Classic
-description: Example code for the etc:priv_getPrivacyPrecompileAddress  {disallowed} json-rpc method. Сomplete guide on how to use etc:priv_getPrivacyPrecompileAddress  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: etc:priv_getPrivacyPrecompileAddress \[POST\] {disallowed}
+description: Returns the address of the privacy precompiled contract. The address isderived and based on the value of the privacy-onchain-groups-enabledoption.
 ---
 
 ### Parameters

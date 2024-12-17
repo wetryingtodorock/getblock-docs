@@ -1,6 +1,6 @@
 ---
-title: bch:abortrescan  {disallowed} - Bitcoin Cash
-description: Example code for the bch:abortrescan  {disallowed} json-rpc method. Сomplete guide on how to use bch:abortrescan  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: bch:abortrescan \[POST\] {disallowed}
+description: Stops current wallet rescan triggered by an RPC call, e.g. by animportprivkey call. Note Use getwalletinfo to query the scanningprogress.
 ---
 
 ### Parameters

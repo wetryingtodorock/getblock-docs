@@ -1,6 +1,6 @@
 ---
-title: ont:getcontractstate - Ontology
-description: Example code for the ont:getcontractstate json-rpc method. Сomplete guide on how to use ont:getcontractstate json-rpc in GetBlock.io Web3 documentation.
+title: ont:getcontractstate \[POST\]
+description: Fetch contract details using contract address.
 ---
 
 ### Parameters

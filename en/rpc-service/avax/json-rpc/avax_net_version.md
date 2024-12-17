@@ -1,6 +1,6 @@
 ---
-title: avax:net_version - Avalanche
-description: Example code for the avax:net_version json-rpc method. Сomplete guide on how to use avax:net_version json-rpc in GetBlock.io Web3 documentation.
+title: avax:net_version \[POST\]
+description: Returns the current network id.
 ---
 
 ### Parameters

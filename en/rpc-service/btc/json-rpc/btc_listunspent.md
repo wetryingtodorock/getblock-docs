@@ -1,6 +1,6 @@
 ---
-title: btc:listunspent  {disallowed} - Bitcoin
-description: Example code for the btc:listunspent  {disallowed} json-rpc method. Сomplete guide on how to use btc:listunspent  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: btc:listunspent \[POST\] {disallowed}
+description: Returns array of unspent transaction outputs with between minconf andmaxconf (inclusive) confirmations.Optionally filter to only include txouts paid to specified addresses.
 ---
 
 ### Parameters

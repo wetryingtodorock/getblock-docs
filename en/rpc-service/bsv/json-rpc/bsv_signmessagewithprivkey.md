@@ -1,6 +1,6 @@
 ---
-title: bsv:signmessagewithprivkey  {disallowed} - Bitcoin SV
-description: Example code for the bsv:signmessagewithprivkey  {disallowed} json-rpc method. Сomplete guide on how to use bsv:signmessagewithprivkey  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: bsv:signmessagewithprivkey \[POST\] {disallowed}
+description: Sign a message with the private key of an address
 ---
 
 ### Parameters

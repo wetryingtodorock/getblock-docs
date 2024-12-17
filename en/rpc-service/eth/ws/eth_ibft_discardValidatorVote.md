@@ -1,6 +1,6 @@
 ---
-title: eth:ibft_discardValidatorVote  {disallowed} - Ethereum
-description: Example code for the eth:ibft_discardValidatorVote  {disallowed} ws method. Сomplete guide on how to use eth:ibft_discardValidatorVote  {disallowed} ws in GetBlock.io Web3 documentation.
+title: eth:ibft_discardValidatorVote \[WebSocket\] {disallowed}
+description: Discards a proposal to add or remove a validator with the specifiedaddress.
 ---
 
 ### Parameters

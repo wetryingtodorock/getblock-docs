@@ -1,6 +1,6 @@
 ---
-title: dgb:listlockunspent  {disallowed} - DigiByte
-description: Example code for the dgb:listlockunspent  {disallowed} json-rpc method. Сomplete guide on how to use dgb:listlockunspent  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: dgb:listlockunspent \[POST\] {disallowed}
+description: Returns list of temporarily unspendable outputs.See the lockunspent call to lock and unlock transactions for spending.
 ---
 
 ### Parameters

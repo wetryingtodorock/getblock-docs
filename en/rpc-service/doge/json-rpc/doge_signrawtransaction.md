@@ -1,6 +1,6 @@
 ---
-title: doge:signrawtransaction - Dogecoin
-description: Example code for the doge:signrawtransaction json-rpc method. Сomplete guide on how to use doge:signrawtransaction json-rpc in GetBlock.io Web3 documentation.
+title: doge:signrawtransaction \[POST\]
+description: Sign inputs for raw transaction (serialized, hex-encoded).
 ---
 
 ### Parameters

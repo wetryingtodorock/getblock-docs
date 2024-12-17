@@ -1,6 +1,6 @@
 ---
-title: one:net_peerCount - Harmony
-description: Example code for the one:net_peerCount json-rpc method. Сomplete guide on how to use one:net_peerCount json-rpc in GetBlock.io Web3 documentation.
+title: one:net_peerCount \[POST\]
+description: Returns the number of peers currently connected to the client.
 ---
 
 ### Parameters

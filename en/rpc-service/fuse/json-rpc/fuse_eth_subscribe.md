@@ -1,6 +1,6 @@
 ---
-title: fuse:eth_subscribe - Fuse Network
-description: Example code for the fuse:eth_subscribe json-rpc method. Сomplete guide on how to use fuse:eth_subscribe json-rpc in GetBlock.io Web3 documentation.
+title: fuse:eth_subscribe \[POST\]
+description: Subscribes to a specified event type, optionally restricted to one ormany objects. This method is available via websocket only.
 ---
 
 ### Parameters

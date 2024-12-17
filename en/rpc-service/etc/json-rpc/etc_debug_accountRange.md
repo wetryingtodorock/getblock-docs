@@ -1,6 +1,6 @@
 ---
-title: etc:debug_accountRange  {disallowed} - Ethereum Classic
-description: Example code for the etc:debug_accountRange  {disallowed} json-rpc method. Сomplete guide on how to use etc:debug_accountRange  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: etc:debug_accountRange \[POST\] {disallowed}
+description: Retesteth uses debug_accountRange to implement debugging.
 ---
 
 ### Parameters

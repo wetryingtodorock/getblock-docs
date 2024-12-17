@@ -1,6 +1,6 @@
 ---
-title: dot:mmr_generateProof  {disallowed} - Polkadot
-description: Example code for the dot:mmr_generateProof  {disallowed} json-rpc method. Сomplete guide on how to use dot:mmr_generateProof  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: dot:mmr_generateProof \[POST\] {disallowed}
+description: Generate MMR proof for given leaf index.
 ---
 
 ### Parameters

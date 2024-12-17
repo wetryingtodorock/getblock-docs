@@ -1,6 +1,6 @@
 ---
-title: btc:invalidateblock  {disallowed} - Bitcoin
-description: Example code for the btc:invalidateblock  {disallowed} json-rpc method. Сomplete guide on how to use btc:invalidateblock  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: btc:invalidateblock \[POST\] {disallowed}
+description: Permanently marks a block as invalid, as if it violated a consensusrule.
 ---
 
 ### Parameters

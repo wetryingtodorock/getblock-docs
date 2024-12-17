@@ -1,6 +1,6 @@
 ---
-title: zec:zcsamplejoinsplit  {disallowed} - Zcash
-description: Example code for the zec:zcsamplejoinsplit  {disallowed} json-rpc method. Сomplete guide on how to use zec:zcsamplejoinsplit  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: zec:zcsamplejoinsplit \[POST\] {disallowed}
+description: Perform a joinsplit and return the JSDescription.
 ---
 
 ### Parameters

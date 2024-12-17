@@ -1,6 +1,6 @@
 ---
-title: dot:eth_getFilterChanges  {disallowed} - Polkadot
-description: Example code for the dot:eth_getFilterChanges  {disallowed} json-rpc method. Сomplete guide on how to use dot:eth_getFilterChanges  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: dot:eth_getFilterChanges \[POST\] {disallowed}
+description: Returns filter changes since last poll.
 ---
 
 ### Parameters

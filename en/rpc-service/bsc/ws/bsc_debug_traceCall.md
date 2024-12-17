@@ -1,6 +1,6 @@
 ---
-title: bsc:debug_traceCall - Binance Smart Chain
-description: Example code for the bsc:debug_traceCall ws method. Сomplete guide on how to use bsc:debug_traceCall ws in GetBlock.io Web3 documentation.
+title: bsc:debug_traceCall \[WebSocket\]
+description: Returns a transaction trace object.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: doge:walletpassphrasechange  {disallowed} - Dogecoin
-description: Example code for the doge:walletpassphrasechange  {disallowed} json-rpc method. Сomplete guide on how to use doge:walletpassphrasechange  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: doge:walletpassphrasechange \[POST\] {disallowed}
+description: Changes the wallet passphrase from \[oldpassphrase\] to\[newpassphrase\].
 ---
 
 ### Parameters

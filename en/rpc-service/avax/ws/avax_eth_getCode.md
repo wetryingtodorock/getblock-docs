@@ -1,6 +1,6 @@
 ---
-title: avax:eth_getCode - Avalanche
-description: Example code for the avax:eth_getCode ws method. Сomplete guide on how to use avax:eth_getCode ws in GetBlock.io Web3 documentation.
+title: avax:eth_getCode \[WebSocket\]
+description: Returns code at a given address.
 ---
 
 ### Parameters

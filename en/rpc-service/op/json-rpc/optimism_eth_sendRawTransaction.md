@@ -1,6 +1,6 @@
 ---
-title: optimism:eth_sendRawTransaction - Optimism
-description: Example code for the optimism:eth_sendRawTransaction json-rpc method. Сomplete guide on how to use optimism:eth_sendRawTransaction json-rpc in GetBlock.io Web3 documentation.
+title: optimism:eth_sendRawTransaction \[POST\]
+description: Creates new message call transaction or a contract creation for signedtransactions.
 ---
 
 ### Parameters

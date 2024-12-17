@@ -1,6 +1,6 @@
 ---
-title: kcc:eth_chainId - KuCoin Community Chain
-description: Example code for the kcc:eth_chainId json-rpc method. Сomplete guide on how to use kcc:eth_chainId json-rpc in GetBlock.io Web3 documentation.
+title: kcc:eth_chainId \[POST\]
+description: Returns the currently configured chain id, a value used inreplay-protected transaction signing as introduced by EIP-155.
 ---
 
 ### Parameters

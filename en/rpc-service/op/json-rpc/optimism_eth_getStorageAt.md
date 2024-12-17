@@ -1,6 +1,6 @@
 ---
-title: optimism:eth_getStorageAt - Optimism
-description: Example code for the optimism:eth_getStorageAt json-rpc method. Сomplete guide on how to use optimism:eth_getStorageAt json-rpc in GetBlock.io Web3 documentation.
+title: optimism:eth_getStorageAt \[POST\]
+description: Returns the value from a storage position at a given address.
 ---
 
 ### Parameters

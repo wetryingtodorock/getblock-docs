@@ -1,6 +1,6 @@
 ---
-title: one:hmyv2_syncing - Harmony
-description: Example code for the one:hmyv2_syncing json-rpc method. Сomplete guide on how to use one:hmyv2_syncing json-rpc in GetBlock.io Web3 documentation.
+title: one:hmyv2_syncing \[POST\]
+description: Returns an object with data about the synchronization status, or falseif not synchronizing.
 ---
 
 ### Parameters

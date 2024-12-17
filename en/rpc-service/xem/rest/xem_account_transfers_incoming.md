@@ -1,6 +1,6 @@
 ---
-title: xem:/account/transfers/incoming - NEM
-description: Example code for the xem:/account/transfers/incoming rest method. Сomplete guide on how to use xem:/account/transfers/incoming rest in GetBlock.io Web3 documentation.
+title: xem:/account/transfers/incoming \[GET\]
+description: Gets an array of TransactionMetaDataPair objects where the recipient hasthe address given as parameter to the request. A maximum of 25transaction meta data pairs is returned. The returned transaction metadata pairs are sorted in descending order in which they were written tothe database. If less than 25 transactions fulfill the requirements,only those transactions are returned.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: dash:verifyislock  {disallowed} - Dash
-description: Example code for the dash:verifyislock  {disallowed} json-rpc method. Сomplete guide on how to use dash:verifyislock  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: dash:verifyislock \[POST\] {disallowed}
+description: Tests if a quorum signature is valid for an InstantSend Lock.
 ---
 
 ### Parameters

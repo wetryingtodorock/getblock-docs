@@ -1,6 +1,6 @@
 ---
-title: dgb:createrawtransaction - DigiByte
-description: Example code for the dgb:createrawtransaction json-rpc method. Сomplete guide on how to use dgb:createrawtransaction json-rpc in GetBlock.io Web3 documentation.
+title: dgb:createrawtransaction \[POST\]
+description: Create a transaction spending the given inputs and creating new outputs.Outputs can be addresses or data.Returns hex-encoded raw transaction.Note that the transaction’s inputs are not signed, and it is not storedin the wallet or transmitted to the network.
 ---
 
 ### Parameters

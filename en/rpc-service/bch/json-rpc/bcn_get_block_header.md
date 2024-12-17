@@ -1,6 +1,6 @@
 ---
-title: bcn:get_block_header - Bitcoin Cash
-description: Example code for the bcn:get_block_header json-rpc method. Сomplete guide on how to use bcn:get_block_header json-rpc in GetBlock.io Web3 documentation.
+title: bcn:get_block_header \[POST\]
+description: Returns block header requested either by its hash or height-or-depthvalue.Can be used with either hash or height_or_depth parameters.
 ---
 
 ### Parameters

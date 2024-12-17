@@ -1,6 +1,6 @@
 ---
-title: btc:createmultisig  {disallowed} - Bitcoin
-description: Example code for the btc:createmultisig  {disallowed} json-rpc method. Сomplete guide on how to use btc:createmultisig  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: btc:createmultisig \[POST\] {disallowed}
+description: Create query m key signature multicast signature.It returns json object with address and redeem Script.
 ---
 
 ### Parameters

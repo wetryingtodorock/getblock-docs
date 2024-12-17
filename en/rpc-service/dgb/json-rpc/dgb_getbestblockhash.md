@@ -1,6 +1,6 @@
 ---
-title: dgb:getbestblockhash - DigiByte
-description: Example code for the dgb:getbestblockhash json-rpc method. Сomplete guide on how to use dgb:getbestblockhash json-rpc in GetBlock.io Web3 documentation.
+title: dgb:getbestblockhash \[POST\]
+description: Returns the hash of the best (tip) block in the most-workfully-validated chain.
 ---
 
 ### Parameters

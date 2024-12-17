@@ -1,6 +1,6 @@
 ---
-title: bch:help - Bitcoin Cash
-description: Example code for the bch:help json-rpc method. Сomplete guide on how to use bch:help json-rpc in GetBlock.io Web3 documentation.
+title: bch:help \[POST\]
+description: List all commands, or get help for a specified command.
 ---
 
 ### Parameters

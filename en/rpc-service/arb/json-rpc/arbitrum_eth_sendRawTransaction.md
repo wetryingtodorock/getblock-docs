@@ -1,6 +1,6 @@
 ---
-title: arbitrum:eth_sendRawTransaction - Arbitrum
-description: Example code for the arbitrum:eth_sendRawTransaction json-rpc method. Сomplete guide on how to use arbitrum:eth_sendRawTransaction json-rpc in GetBlock.io Web3 documentation.
+title: arbitrum:eth_sendRawTransaction \[POST\]
+description: Creates new message call transaction or a contract creation for signedtransactions.
 ---
 
 ### Parameters

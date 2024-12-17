@@ -1,6 +1,6 @@
 ---
-title: dgb:combinepsbt - DigiByte
-description: Example code for the dgb:combinepsbt json-rpc method. Сomplete guide on how to use dgb:combinepsbt json-rpc in GetBlock.io Web3 documentation.
+title: dgb:combinepsbt \[POST\]
+description: Combine multiple partially signed Bitcoin transactions into onetransaction.Implements the Combiner role.
 ---
 
 ### Parameters

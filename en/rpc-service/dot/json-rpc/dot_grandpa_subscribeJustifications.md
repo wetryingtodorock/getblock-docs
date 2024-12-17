@@ -1,6 +1,6 @@
 ---
-title: dot:grandpa_subscribeJustifications  {disallowed} - Polkadot
-description: Example code for the dot:grandpa_subscribeJustifications  {disallowed} json-rpc method. Сomplete guide on how to use dot:grandpa_subscribeJustifications  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: dot:grandpa_subscribeJustifications \[POST\] {disallowed}
+description: Subscribes to grandpa justifications.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: heco:rpc_modules - Huobi ECO Chain
-description: Example code for the heco:rpc_modules json-rpc method. Сomplete guide on how to use heco:rpc_modules json-rpc in GetBlock.io Web3 documentation.
+title: heco:rpc_modules \[POST\]
+description: Lists enabled APIs and the version of each.
 ---
 
 ### Parameters

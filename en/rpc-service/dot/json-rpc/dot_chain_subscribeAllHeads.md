@@ -1,6 +1,6 @@
 ---
-title: dot:chain_subscribeAllHeads  {disallowed} - Polkadot
-description: Example code for the dot:chain_subscribeAllHeads  {disallowed} json-rpc method. Сomplete guide on how to use dot:chain_subscribeAllHeads  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: dot:chain_subscribeAllHeads \[POST\] {disallowed}
+description: Retrieves the newest header via subscription.
 ---
 
 ### Parameters

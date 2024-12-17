@@ -1,6 +1,6 @@
 ---
-title: arbitrum:web3_clientVersion - Arbitrum
-description: Example code for the arbitrum:web3_clientVersion ws method. Сomplete guide on how to use arbitrum:web3_clientVersion ws in GetBlock.io Web3 documentation.
+title: arbitrum:web3_clientVersion \[WebSocket\]
+description: Returns the current client version.
 ---
 
 ### Parameters

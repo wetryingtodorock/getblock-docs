@@ -1,6 +1,6 @@
 ---
-title: bch:getaddednodeinfo  {disallowed} - Bitcoin Cash
-description: Example code for the bch:getaddednodeinfo  {disallowed} json-rpc method. Сomplete guide on how to use bch:getaddednodeinfo  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: bch:getaddednodeinfo \[POST\] {disallowed}
+description: Returns information about the given added node, or all added nodes (notethat onetry addnodes are not listed here)
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: eth:admin_addPeer  {disallowed} - Ethereum
-description: Example code for the eth:admin_addPeer  {disallowed} ws method. Сomplete guide on how to use eth:admin_addPeer  {disallowed} ws in GetBlock.io Web3 documentation.
+title: eth:admin_addPeer \[WebSocket\] {disallowed}
+description: Adds a static node.
 ---
 
 ### Parameters

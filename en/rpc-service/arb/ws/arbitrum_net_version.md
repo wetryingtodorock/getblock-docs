@@ -1,6 +1,6 @@
 ---
-title: arbitrum:net_version - Arbitrum
-description: Example code for the arbitrum:net_version ws method. Сomplete guide on how to use arbitrum:net_version ws in GetBlock.io Web3 documentation.
+title: arbitrum:net_version \[WebSocket\]
+description: Returns the current network id.
 ---
 
 ### Parameters

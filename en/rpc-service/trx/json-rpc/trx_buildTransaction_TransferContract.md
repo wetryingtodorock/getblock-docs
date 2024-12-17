@@ -1,6 +1,6 @@
 ---
-title: trx:buildTransaction(TransferContract)  {disallowed} - TRON
-description: Example code for the trx:buildTransaction(TransferContract)  {disallowed} json-rpc method. Сomplete guide on how to use trx:buildTransaction(TransferContract)  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: trx:buildTransaction(TransferContract) \[POST\] {disallowed}
+description: Create a transaction, different transaction types have differentparametersthis is an example of TransferContract
 ---
 
 ### Parameters

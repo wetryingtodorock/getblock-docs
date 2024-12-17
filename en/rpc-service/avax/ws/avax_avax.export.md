@@ -1,6 +1,6 @@
 ---
-title: avax:avax.export  {disallowed} - Avalanche
-description: Example code for the avax:avax.export  {disallowed} ws method. Сomplete guide on how to use avax:avax.export  {disallowed} ws in GetBlock.io Web3 documentation.
+title: avax:avax.export \[WebSocket\] {disallowed}
+description: Export an asset from the C-Chain to the X-Chain. After calling thismethod, you must call avm.import on the X-Chain to complete thetransfer.
 ---
 
 ### Parameters

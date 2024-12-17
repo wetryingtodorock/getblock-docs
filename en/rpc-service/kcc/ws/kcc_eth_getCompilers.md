@@ -1,6 +1,6 @@
 ---
-title: kcc:eth_getCompilers  {disallowed} - KuCoin Community Chain
-description: Example code for the kcc:eth_getCompilers  {disallowed} ws method. Сomplete guide on how to use kcc:eth_getCompilers  {disallowed} ws in GetBlock.io Web3 documentation.
+title: kcc:eth_getCompilers \[WebSocket\] {disallowed}
+description: Returns a list of available compilers in the client.
 ---
 
 ### Parameters

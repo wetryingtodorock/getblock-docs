@@ -1,6 +1,6 @@
 ---
-title: fuse:eth_getTransactionByBlockNumberAndIndex - Fuse Network
-description: Example code for the fuse:eth_getTransactionByBlockNumberAndIndex ws method. Сomplete guide on how to use fuse:eth_getTransactionByBlockNumberAndIndex ws in GetBlock.io Web3 documentation.
+title: fuse:eth_getTransactionByBlockNumberAndIndex \[WebSocket\]
+description: Returns information about a transaction by block number and transactionindex position.
 ---
 
 ### Parameters

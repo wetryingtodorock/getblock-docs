@@ -1,6 +1,6 @@
 ---
-title: xem:/local/chain/blocks-after  {disallowed} - NEM
-description: Example code for the xem:/local/chain/blocks-after  {disallowed} rest method. Сomplete guide on how to use xem:/local/chain/blocks-after  {disallowed} rest in GetBlock.io Web3 documentation.
+title: xem:/local/chain/blocks-after \[POST\] {disallowed}
+description: Gets up to 10 blocks after given block height from the chain. If thedatabase contains less than 10 block after the given height, then lessblocks are returned.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: dash:gettransaction  {disallowed} - Dash
-description: Example code for the dash:gettransaction  {disallowed} json-rpc method. Сomplete guide on how to use dash:gettransaction  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: dash:gettransaction \[POST\] {disallowed}
+description: Gets detailed information about an in-wallet transaction.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: btc:setlabel  {disallowed} - Bitcoin
-description: Example code for the btc:setlabel  {disallowed} json-rpc method. Сomplete guide on how to use btc:setlabel  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: btc:setlabel \[POST\] {disallowed}
+description: Sets the label associated with the given address.
 ---
 
 ### Parameters

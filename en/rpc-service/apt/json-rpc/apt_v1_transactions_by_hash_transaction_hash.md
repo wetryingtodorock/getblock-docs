@@ -1,6 +1,6 @@
 ---
-title: apt:/v1/transactions/by_hash/{transaction_hash} - Aptos
-description: Example code for the apt:/v1/transactions/by_hash/{transaction_hash} json-rpc method. Сomplete guide on how to use apt:/v1/transactions/by_hash/{transaction_hash} json-rpc in GetBlock.io Web3 documentation.
+title: apt:/v1/transactions/by_hash/{transaction_hash} \[GET\]
+description: Gets a transaction by its hash.
 ---
 
 ### Parameters

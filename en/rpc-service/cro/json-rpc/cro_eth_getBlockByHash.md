@@ -1,6 +1,6 @@
 ---
-title: cro:eth_getBlockByHash - Cronos
-description: Example code for the cro:eth_getBlockByHash json-rpc method. Сomplete guide on how to use cro:eth_getBlockByHash json-rpc in GetBlock.io Web3 documentation.
+title: cro:eth_getBlockByHash \[POST\]
+description: Returns information about the block by hash.
 ---
 
 ### Parameters

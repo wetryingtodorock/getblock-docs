@@ -1,6 +1,6 @@
 ---
-title: optimism:eth_compileSolidity  {disallowed} - Optimism
-description: Example code for the optimism:eth_compileSolidity  {disallowed} json-rpc method. Сomplete guide on how to use optimism:eth_compileSolidity  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: optimism:eth_compileSolidity \[POST\] {disallowed}
+description: Returns compiled solidity code.
 ---
 
 ### Parameters

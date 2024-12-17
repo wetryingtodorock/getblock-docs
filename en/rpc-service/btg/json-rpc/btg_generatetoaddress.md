@@ -1,6 +1,6 @@
 ---
-title: btg:generatetoaddress  {disallowed} - Bitcoin Gold
-description: Example code for the btg:generatetoaddress  {disallowed} json-rpc method. Сomplete guide on how to use btg:generatetoaddress  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: btg:generatetoaddress \[POST\] {disallowed}
+description: Mine blocks immediately to a specified address (before the RPC callreturns)
 ---
 
 ### Parameters

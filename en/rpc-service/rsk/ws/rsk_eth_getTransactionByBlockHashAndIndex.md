@@ -1,6 +1,6 @@
 ---
-title: rsk:eth_getTransactionByBlockHashAndIndex - Rootstock
-description: Example code for the rsk:eth_getTransactionByBlockHashAndIndex ws method. Сomplete guide on how to use rsk:eth_getTransactionByBlockHashAndIndex ws in GetBlock.io Web3 documentation.
+title: rsk:eth_getTransactionByBlockHashAndIndex \[WebSocket\]
+description: Returns information about a transaction by block hash and transactionindex position.
 ---
 
 ### Parameters

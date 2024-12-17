@@ -1,6 +1,6 @@
 ---
-title: dot:childstate_getStorageHash  {disallowed} - Polkadot
-description: Example code for the dot:childstate_getStorageHash  {disallowed} json-rpc method. Сomplete guide on how to use dot:childstate_getStorageHash  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: dot:childstate_getStorageHash \[POST\] {disallowed}
+description: Returns the hash of a child storage entry at a block state.
 ---
 
 ### Parameters

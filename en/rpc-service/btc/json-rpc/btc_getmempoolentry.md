@@ -1,6 +1,6 @@
 ---
-title: btc:getmempoolentry - Bitcoin
-description: Example code for the btc:getmempoolentry json-rpc method. Сomplete guide on how to use btc:getmempoolentry json-rpc in GetBlock.io Web3 documentation.
+title: btc:getmempoolentry \[POST\]
+description: Returns mempool data for given transaction
 ---
 
 ### Parameters

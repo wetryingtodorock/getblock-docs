@@ -1,6 +1,6 @@
 ---
-title: heco:eth_coinbase - Huobi ECO Chain
-description: Example code for the heco:eth_coinbase ws method. Сomplete guide on how to use heco:eth_coinbase ws in GetBlock.io Web3 documentation.
+title: heco:eth_coinbase \[WebSocket\]
+description: Returns the client coinbase address.
 ---
 
 ### Parameters

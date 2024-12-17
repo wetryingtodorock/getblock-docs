@@ -1,6 +1,6 @@
 ---
-title: btc:gettxout - Bitcoin
-description: Example code for the btc:gettxout json-rpc method. Сomplete guide on how to use btc:gettxout json-rpc in GetBlock.io Web3 documentation.
+title: btc:gettxout \[POST\]
+description: Returns details about an unspent transaction output.
 ---
 
 ### Parameters

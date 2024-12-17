@@ -1,6 +1,6 @@
 ---
-title: matic:db_putHex  {disallowed} - Polygon
-description: Example code for the matic:db_putHex  {disallowed} json-rpc method. Сomplete guide on how to use matic:db_putHex  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: matic:db_putHex \[POST\] {disallowed}
+description: Stores binary data in the local database.Note this function is deprecated and will be removed in the future.
 ---
 
 ### Parameters

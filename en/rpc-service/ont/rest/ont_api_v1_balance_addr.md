@@ -1,6 +1,6 @@
 ---
-title: ont:/api/v1/balance/{addr} - Ontology
-description: Example code for the ont:/api/v1/balance/{addr} rest method. Сomplete guide on how to use ont:/api/v1/balance/{addr} rest in GetBlock.io Web3 documentation.
+title: ont:/api/v1/balance/{addr} \[GET\]
+description: Fetches balance of a Base58 address
 ---
 
 ### Parameters

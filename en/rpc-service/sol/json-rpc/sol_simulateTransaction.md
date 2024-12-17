@@ -1,6 +1,6 @@
 ---
-title: sol:simulateTransaction - Solana
-description: Example code for the sol:simulateTransaction json-rpc method. Сomplete guide on how to use sol:simulateTransaction json-rpc in GetBlock.io Web3 documentation.
+title: sol:simulateTransaction \[POST\]
+description: Simulate sending a transaction
 ---
 
 ### Parameters

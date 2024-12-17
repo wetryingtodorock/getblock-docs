@@ -1,6 +1,6 @@
 ---
-title: doge:getaccountaddress  {disallowed} - Dogecoin
-description: Example code for the doge:getaccountaddress  {disallowed} json-rpc method. Сomplete guide on how to use doge:getaccountaddress  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: doge:getaccountaddress \[POST\] {disallowed}
+description: Returns the current dogecoin address for receiving payments to anaccount.
 ---
 
 ### Parameters

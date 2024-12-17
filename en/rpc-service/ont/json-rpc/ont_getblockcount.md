@@ -1,6 +1,6 @@
 ---
-title: ont:getblockcount - Ontology
-description: Example code for the ont:getblockcount json-rpc method. Сomplete guide on how to use ont:getblockcount json-rpc in GetBlock.io Web3 documentation.
+title: ont:getblockcount \[POST\]
+description: Fetch current block count.
 ---
 
 ### Parameters

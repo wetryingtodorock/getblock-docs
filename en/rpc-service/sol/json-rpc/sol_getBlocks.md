@@ -1,6 +1,6 @@
 ---
-title: sol:getBlocks - Solana
-description: Example code for the sol:getBlocks json-rpc method. Сomplete guide on how to use sol:getBlocks json-rpc in GetBlock.io Web3 documentation.
+title: sol:getBlocks \[POST\]
+description: Returns a list of confirmed blocks between two slots
 ---
 
 ### Parameters

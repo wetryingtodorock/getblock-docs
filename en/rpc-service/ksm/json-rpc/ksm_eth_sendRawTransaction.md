@@ -1,6 +1,6 @@
 ---
-title: ksm:eth_sendRawTransaction  {disallowed} - Kusama
-description: Example code for the ksm:eth_sendRawTransaction  {disallowed} json-rpc method. Сomplete guide on how to use ksm:eth_sendRawTransaction  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: ksm:eth_sendRawTransaction \[POST\] {disallowed}
+description: Sends signed transaction, returning its hash.
 ---
 
 ### Parameters

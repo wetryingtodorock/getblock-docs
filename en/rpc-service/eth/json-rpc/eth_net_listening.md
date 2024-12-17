@@ -1,6 +1,6 @@
 ---
-title: eth:net_listening - Ethereum
-description: Example code for the eth:net_listening json-rpc method. Сomplete guide on how to use eth:net_listening json-rpc in GetBlock.io Web3 documentation.
+title: eth:net_listening \[POST\]
+description: Whether the client is actively listening for network connections.
 ---
 
 ### Parameters

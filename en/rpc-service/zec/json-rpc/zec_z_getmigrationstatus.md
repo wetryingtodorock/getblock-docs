@@ -1,6 +1,6 @@
 ---
-title: zec:z_getmigrationstatus  {disallowed} - Zcash
-description: Example code for the zec:z_getmigrationstatus  {disallowed} json-rpc method. Сomplete guide on how to use zec:z_getmigrationstatus  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: zec:z_getmigrationstatus \[POST\] {disallowed}
+description: Returns information about the status of the Sprout to Sapling migration.Note A transaction is defined as finalized if it has at least tenconfirmations.Also, it is possible that manually created transactions involving thiswallet will be included in the result.
 ---
 
 ### Parameters

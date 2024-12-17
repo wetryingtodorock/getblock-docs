@@ -1,6 +1,6 @@
 ---
-title: dash:estimatesmartfee - Dash
-description: Example code for the dash:estimatesmartfee json-rpc method. Сomplete guide on how to use dash:estimatesmartfee json-rpc in GetBlock.io Web3 documentation.
+title: dash:estimatesmartfee \[POST\]
+description: Estimates the transaction fee per kilobyte that needs to be paid for atransaction to begin confirmation within a certain number of blocks andreturns the number of blocks for which the estimate is valid.
 ---
 
 ### Parameters

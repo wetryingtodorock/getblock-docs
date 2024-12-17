@@ -1,6 +1,6 @@
 ---
-title: ksm:system_networkState  {disallowed} - Kusama
-description: Example code for the ksm:system_networkState  {disallowed} json-rpc method. Сomplete guide on how to use ksm:system_networkState  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: ksm:system_networkState \[POST\] {disallowed}
+description: Returns current state of the network.
 ---
 
 ### Parameters

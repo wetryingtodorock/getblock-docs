@@ -1,6 +1,6 @@
 ---
-title: gno:eth_getTransactionByHash - Gnosis
-description: Example code for the gno:eth_getTransactionByHash json-rpc method. Сomplete guide on how to use gno:eth_getTransactionByHash json-rpc in GetBlock.io Web3 documentation.
+title: gno:eth_getTransactionByHash \[POST\]
+description: Returns transaction information for the specified transaction hash.
 ---
 
 ### Parameters

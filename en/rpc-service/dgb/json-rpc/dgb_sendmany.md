@@ -1,6 +1,6 @@
 ---
-title: dgb:sendmany  {disallowed} - DigiByte
-description: Example code for the dgb:sendmany  {disallowed} json-rpc method. Сomplete guide on how to use dgb:sendmany  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: dgb:sendmany \[POST\] {disallowed}
+description: Send multiple times. Amounts are double-precision floating pointnumbers.Requires wallet passphrase to be set with walletpassphrase call ifwallet is encrypted.
 ---
 
 ### Parameters

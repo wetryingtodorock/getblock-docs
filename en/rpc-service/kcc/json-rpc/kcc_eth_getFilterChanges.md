@@ -1,6 +1,6 @@
 ---
-title: kcc:eth_getFilterChanges - KuCoin Community Chain
-description: Example code for the kcc:eth_getFilterChanges json-rpc method. Сomplete guide on how to use kcc:eth_getFilterChanges json-rpc in GetBlock.io Web3 documentation.
+title: kcc:eth_getFilterChanges \[POST\]
+description: Polling method for a filter, which returns an array of logs whichoccurred since last poll.
 ---
 
 ### Parameters

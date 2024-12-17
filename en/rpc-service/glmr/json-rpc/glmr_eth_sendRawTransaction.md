@@ -1,6 +1,6 @@
 ---
-title: glmr:eth_sendRawTransaction - Moonbeam
-description: Example code for the glmr:eth_sendRawTransaction json-rpc method. Сomplete guide on how to use glmr:eth_sendRawTransaction json-rpc in GetBlock.io Web3 documentation.
+title: glmr:eth_sendRawTransaction \[POST\]
+description: Creates new message call transaction or a contract creation for signedtransactions.
 ---
 
 ### Parameters

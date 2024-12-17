@@ -1,6 +1,6 @@
 ---
-title: arbitrum:eth_getStorageAt - Arbitrum
-description: Example code for the arbitrum:eth_getStorageAt ws method. Сomplete guide on how to use arbitrum:eth_getStorageAt ws in GetBlock.io Web3 documentation.
+title: arbitrum:eth_getStorageAt \[WebSocket\]
+description: Returns the value from a storage position at a given address.
 ---
 
 ### Parameters

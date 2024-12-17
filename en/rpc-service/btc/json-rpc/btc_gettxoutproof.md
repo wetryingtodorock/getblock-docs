@@ -1,6 +1,6 @@
 ---
-title: btc:gettxoutproof - Bitcoin
-description: Example code for the btc:gettxoutproof json-rpc method. Сomplete guide on how to use btc:gettxoutproof json-rpc in GetBlock.io Web3 documentation.
+title: btc:gettxoutproof \[POST\]
+description: Returns a hex-encoded proof that id was included in a block.NOTE By default this function only works sometimes. This is when thereis an unspent output in the utxo for this transaction. To make it alwayswork, you need to maintain a transaction index, using the -txindexcommand line option or specify the block in which the transaction isincluded manually (by blockhash).
 ---
 
 ### Parameters

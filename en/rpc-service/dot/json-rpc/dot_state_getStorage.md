@@ -1,6 +1,6 @@
 ---
-title: dot:state_getStorage  {disallowed} - Polkadot
-description: Example code for the dot:state_getStorage  {disallowed} json-rpc method. Сomplete guide on how to use dot:state_getStorage  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: dot:state_getStorage \[POST\] {disallowed}
+description: Retrieves the storage for a key.
 ---
 
 ### Parameters

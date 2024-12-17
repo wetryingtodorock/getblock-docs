@@ -1,6 +1,6 @@
 ---
-title: etc:eth_submitWork - Ethereum Classic
-description: Example code for the etc:eth_submitWork json-rpc method. Сomplete guide on how to use etc:eth_submitWork json-rpc in GetBlock.io Web3 documentation.
+title: etc:eth_submitWork \[POST\]
+description: Submits a Proof of Work (Ethash) solution.Used by mining software such as Ethminer.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: cro:eth_newPendingTransactionFilter - Cronos
-description: Example code for the cro:eth_newPendingTransactionFilter json-rpc method. Сomplete guide on how to use cro:eth_newPendingTransactionFilter json-rpc in GetBlock.io Web3 documentation.
+title: cro:eth_newPendingTransactionFilter \[POST\]
+description: Creates a filter in the node, to notify when new pending transactionsarrive. To check if the state has changed, call eth_getFilterChanges.
 ---
 
 ### Parameters

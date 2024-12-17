@@ -1,6 +1,6 @@
 ---
-title: zec:backupwallet  {disallowed} - Zcash
-description: Example code for the zec:backupwallet  {disallowed} json-rpc method. Сomplete guide on how to use zec:backupwallet  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: zec:backupwallet \[POST\] {disallowed}
+description: Safely copies current wallet file to destination filename.
 ---
 
 ### Parameters

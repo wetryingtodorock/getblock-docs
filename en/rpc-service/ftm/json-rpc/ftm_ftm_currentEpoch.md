@@ -1,6 +1,6 @@
 ---
-title: ftm:ftm_currentEpoch - Fantom
-description: Example code for the ftm:ftm_currentEpoch json-rpc method. Сomplete guide on how to use ftm:ftm_currentEpoch json-rpc in GetBlock.io Web3 documentation.
+title: ftm:ftm_currentEpoch \[POST\]
+description: Returns current epoch number (hex).
 ---
 
 ### Parameters

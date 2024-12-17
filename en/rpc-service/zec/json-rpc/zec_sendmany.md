@@ -1,6 +1,6 @@
 ---
-title: zec:sendmany  {disallowed} - Zcash
-description: Example code for the zec:sendmany  {disallowed} json-rpc method. Сomplete guide on how to use zec:sendmany  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: zec:sendmany \[POST\] {disallowed}
+description: Send multiple times. Amounts are decimal numbers with at most 8 digitsof precision.
 ---
 
 ### Parameters

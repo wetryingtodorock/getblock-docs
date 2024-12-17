@@ -1,6 +1,6 @@
 ---
-title: dash:getspecialtxes - Dash
-description: Example code for the dash:getspecialtxes json-rpc method. Сomplete guide on how to use dash:getspecialtxes json-rpc in GetBlock.io Web3 documentation.
+title: dash:getspecialtxes \[POST\]
+description: Returns an array of special transactions found in the specified block.
 ---
 
 ### Parameters

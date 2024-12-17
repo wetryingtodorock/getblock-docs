@@ -1,6 +1,6 @@
 ---
-title: one:eth_blockNumber - Harmony
-description: Example code for the one:eth_blockNumber json-rpc method. Сomplete guide on how to use one:eth_blockNumber json-rpc in GetBlock.io Web3 documentation.
+title: one:eth_blockNumber \[POST\]
+description: Returns the index corresponding to the block number of the current chainhead.
 ---
 
 ### Parameters

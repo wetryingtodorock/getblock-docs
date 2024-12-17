@@ -1,6 +1,6 @@
 ---
-title: etc:eth_getBlockTransactionCountByHash - Ethereum Classic
-description: Example code for the etc:eth_getBlockTransactionCountByHash json-rpc method. Сomplete guide on how to use etc:eth_getBlockTransactionCountByHash json-rpc in GetBlock.io Web3 documentation.
+title: etc:eth_getBlockTransactionCountByHash \[POST\]
+description: Returns the number of transactions in the block matching the given blockhash.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: zec:dumpprivkey  {disallowed} - Zcash
-description: Example code for the zec:dumpprivkey  {disallowed} json-rpc method. Сomplete guide on how to use zec:dumpprivkey  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: zec:dumpprivkey \[POST\] {disallowed}
+description: Reveals the private key corresponding to t-addr. Then theimportprivkey can be used with this output.
 ---
 
 ### Parameters

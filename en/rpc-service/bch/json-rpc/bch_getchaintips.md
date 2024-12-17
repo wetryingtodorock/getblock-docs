@@ -1,6 +1,6 @@
 ---
-title: bch:getchaintips - Bitcoin Cash
-description: Example code for the bch:getchaintips json-rpc method. Сomplete guide on how to use bch:getchaintips json-rpc in GetBlock.io Web3 documentation.
+title: bch:getchaintips \[POST\]
+description: Return information about all known tips in the block tree, including themain chain as well as orphaned branches.
 ---
 
 ### Parameters

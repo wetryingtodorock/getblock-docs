@@ -1,6 +1,6 @@
 ---
-title: heco:eth_getBlockByNumber - Huobi ECO Chain
-description: Example code for the heco:eth_getBlockByNumber ws method. Сomplete guide on how to use heco:eth_getBlockByNumber ws in GetBlock.io Web3 documentation.
+title: heco:eth_getBlockByNumber \[WebSocket\]
+description: Returns information about a block by block number.
 ---
 
 ### Parameters

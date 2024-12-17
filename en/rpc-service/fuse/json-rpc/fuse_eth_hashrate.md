@@ -1,6 +1,6 @@
 ---
-title: fuse:eth_hashrate - Fuse Network
-description: Example code for the fuse:eth_hashrate json-rpc method. Сomplete guide on how to use fuse:eth_hashrate json-rpc in GetBlock.io Web3 documentation.
+title: fuse:eth_hashrate \[POST\]
+description: Returns the number of hashes per second that the node is mining with.
 ---
 
 ### Parameters

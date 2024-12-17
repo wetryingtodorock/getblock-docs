@@ -1,6 +1,6 @@
 ---
-title: bsv:help - Bitcoin SV
-description: Example code for the bsv:help json-rpc method. Сomplete guide on how to use bsv:help json-rpc in GetBlock.io Web3 documentation.
+title: bsv:help \[POST\]
+description: List all commands, or get help for a specified command.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: bsc:eth_getUncleByBlockHashAndIndex - Binance Smart Chain
-description: Example code for the bsc:eth_getUncleByBlockHashAndIndex json-rpc method. Сomplete guide on how to use bsc:eth_getUncleByBlockHashAndIndex json-rpc in GetBlock.io Web3 documentation.
+title: bsc:eth_getUncleByBlockHashAndIndex \[POST\]
+description: Returns uncle specified by block hash and index.
 ---
 
 ### Parameters

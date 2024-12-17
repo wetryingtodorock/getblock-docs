@@ -1,6 +1,6 @@
 ---
-title: optimism:eth_coinbase - Optimism
-description: Example code for the optimism:eth_coinbase ws method. Сomplete guide on how to use optimism:eth_coinbase ws in GetBlock.io Web3 documentation.
+title: optimism:eth_coinbase \[WebSocket\]
+description: Returns the client coinbase address.
 ---
 
 ### Parameters

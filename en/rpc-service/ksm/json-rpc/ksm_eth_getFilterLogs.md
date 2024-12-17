@@ -1,6 +1,6 @@
 ---
-title: ksm:eth_getFilterLogs  {disallowed} - Kusama
-description: Example code for the ksm:eth_getFilterLogs  {disallowed} json-rpc method. Сomplete guide on how to use ksm:eth_getFilterLogs  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: ksm:eth_getFilterLogs \[POST\] {disallowed}
+description: Returns all logs matching given filter (in a range from - to).
 ---
 
 ### Parameters

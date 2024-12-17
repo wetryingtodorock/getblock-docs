@@ -1,6 +1,6 @@
 ---
-title: arbitrum:eth_hashrate  {disallowed} - Arbitrum
-description: Example code for the arbitrum:eth_hashrate  {disallowed} ws method. Сomplete guide on how to use arbitrum:eth_hashrate  {disallowed} ws in GetBlock.io Web3 documentation.
+title: arbitrum:eth_hashrate \[WebSocket\] {disallowed}
+description: Returns the number of hashes per second that the node is mining with.
 ---
 
 ### Parameters

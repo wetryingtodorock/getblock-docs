@@ -1,6 +1,6 @@
 ---
-title: eth:eth_getTransactionByHash - Ethereum
-description: Example code for the eth:eth_getTransactionByHash ws method. Сomplete guide on how to use eth:eth_getTransactionByHash ws in GetBlock.io Web3 documentation.
+title: eth:eth_getTransactionByHash \[WebSocket\]
+description: Returns transaction information for the specified transaction hash.
 ---
 
 ### Parameters

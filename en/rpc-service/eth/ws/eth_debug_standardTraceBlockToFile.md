@@ -1,6 +1,6 @@
 ---
-title: eth:debug_standardTraceBlockToFile  {disallowed} - Ethereum
-description: Example code for the eth:debug_standardTraceBlockToFile  {disallowed} ws method. Сomplete guide on how to use eth:debug_standardTraceBlockToFile  {disallowed} ws in GetBlock.io Web3 documentation.
+title: eth:debug_standardTraceBlockToFile \[WebSocket\] {disallowed}
+description: Generates files containing the block trace. A separate file is generatedfor each transaction in the block.You can also specify a trace file for a specific transaction in a block.Use debug_standardTraceBadBlockToFile to view the trace for an invalidblock.
 ---
 
 ### Parameters

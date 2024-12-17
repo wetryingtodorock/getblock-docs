@@ -1,6 +1,6 @@
 ---
-title: zec:getbestblockhash - Zcash
-description: Example code for the zec:getbestblockhash json-rpc method. Сomplete guide on how to use zec:getbestblockhash json-rpc in GetBlock.io Web3 documentation.
+title: zec:getbestblockhash \[POST\]
+description: Returns the hash of the best (tip) block in the longest block chain.
 ---
 
 ### Parameters

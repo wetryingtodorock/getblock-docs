@@ -1,6 +1,6 @@
 ---
-title: heco:eth_syncing - Huobi ECO Chain
-description: Example code for the heco:eth_syncing ws method. Сomplete guide on how to use heco:eth_syncing ws in GetBlock.io Web3 documentation.
+title: heco:eth_syncing \[WebSocket\]
+description: Returns an object with data about the sync status or false.
 ---
 
 ### Parameters

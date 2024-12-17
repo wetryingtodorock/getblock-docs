@@ -1,6 +1,6 @@
 ---
-title: rsk:net_peerCount - Rootstock
-description: Example code for the rsk:net_peerCount ws method. Сomplete guide on how to use rsk:net_peerCount ws in GetBlock.io Web3 documentation.
+title: rsk:net_peerCount \[WebSocket\]
+description: Returns number of peers currently connected to the client.
 ---
 
 ### Parameters

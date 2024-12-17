@@ -1,6 +1,6 @@
 ---
-title: bsv:listreceivedbyaddress  {disallowed} - Bitcoin SV
-description: Example code for the bsv:listreceivedbyaddress  {disallowed} json-rpc method. Сomplete guide on how to use bsv:listreceivedbyaddress  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: bsv:listreceivedbyaddress \[POST\] {disallowed}
+description: List balances by receiving address.
 ---
 
 ### Parameters

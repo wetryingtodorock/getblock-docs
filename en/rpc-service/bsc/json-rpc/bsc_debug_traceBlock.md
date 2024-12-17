@@ -1,6 +1,6 @@
 ---
-title: bsc:debug_traceBlock  {disallowed} - Binance Smart Chain
-description: Example code for the bsc:debug_traceBlock  {disallowed} json-rpc method. Сomplete guide on how to use bsc:debug_traceBlock  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: bsc:debug_traceBlock \[POST\] {disallowed}
+description: Returns full trace of all invoked opcodes of all transactions includedin the block.
 ---
 
 ### Parameters

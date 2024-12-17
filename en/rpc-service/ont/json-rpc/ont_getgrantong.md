@@ -1,6 +1,6 @@
 ---
-title: ont:getgrantong - Ontology
-description: Example code for the ont:getgrantong json-rpc method. Сomplete guide on how to use ont:getgrantong json-rpc in GetBlock.io Web3 documentation.
+title: ont:getgrantong \[POST\]
+description: Fetch the amount of granted ONG.
 ---
 
 ### Parameters

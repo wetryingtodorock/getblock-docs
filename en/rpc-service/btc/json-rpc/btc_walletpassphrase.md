@@ -1,6 +1,6 @@
 ---
-title: btc:walletpassphrase  {disallowed} - Bitcoin
-description: Example code for the btc:walletpassphrase  {disallowed} json-rpc method. Сomplete guide on how to use btc:walletpassphrase  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: btc:walletpassphrase \[POST\] {disallowed}
+description: Stores the wallet decryption key in memory for ‘timeout’ seconds.This is needed prior to performing transactions related to private keyssuch as sending bitcoinsNote Issuing the walletpassphrase command while the wallet is alreadyunlocked will set a new unlock time that overrides the old one.
 ---
 
 ### Parameters

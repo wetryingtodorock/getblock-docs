@@ -1,6 +1,6 @@
 ---
-title: gno:eth_getUncleByBlockNumberAndIndex - Gnosis
-description: Example code for the gno:eth_getUncleByBlockNumberAndIndex json-rpc method. Сomplete guide on how to use gno:eth_getUncleByBlockNumberAndIndex json-rpc in GetBlock.io Web3 documentation.
+title: gno:eth_getUncleByBlockNumberAndIndex \[POST\]
+description: Returns uncle specified by block number and index.
 ---
 
 ### Parameters

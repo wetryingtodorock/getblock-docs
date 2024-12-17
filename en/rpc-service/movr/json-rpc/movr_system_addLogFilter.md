@@ -1,6 +1,6 @@
 ---
-title: movr:system_addLogFilter  {disallowed} - Moonriver
-description: Example code for the movr:system_addLogFilter  {disallowed} json-rpc method. Сomplete guide on how to use movr:system_addLogFilter  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: movr:system_addLogFilter \[POST\] {disallowed}
+description: Adds the supplied directives to the current log filter.
 ---
 
 ### Parameters

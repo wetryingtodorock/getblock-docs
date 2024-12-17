@@ -1,6 +1,6 @@
 ---
-title: btg:uptime - Bitcoin Gold
-description: Example code for the btg:uptime json-rpc method. Сomplete guide on how to use btg:uptime json-rpc in GetBlock.io Web3 documentation.
+title: btg:uptime \[POST\]
+description: Returns the total uptime of the server.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: ksm:contracts_getStorage  {disallowed} - Kusama
-description: Example code for the ksm:contracts_getStorage  {disallowed} json-rpc method. Сomplete guide on how to use ksm:contracts_getStorage  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: ksm:contracts_getStorage \[POST\] {disallowed}
+description: Returns the value under a specified storage key in a contract.
 ---
 
 ### Parameters

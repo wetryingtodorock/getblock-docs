@@ -1,6 +1,6 @@
 ---
-title: movr:eth_getFilterChanges  {disallowed} - Moonriver
-description: Example code for the movr:eth_getFilterChanges  {disallowed} json-rpc method. Сomplete guide on how to use movr:eth_getFilterChanges  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: movr:eth_getFilterChanges \[POST\] {disallowed}
+description: Returns filter changes since last poll.
 ---
 
 ### Parameters

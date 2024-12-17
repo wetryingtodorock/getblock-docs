@@ -1,6 +1,6 @@
 ---
-title: arbitrum:eth_getBlockByNumber - Arbitrum
-description: Example code for the arbitrum:eth_getBlockByNumber ws method. Сomplete guide on how to use arbitrum:eth_getBlockByNumber ws in GetBlock.io Web3 documentation.
+title: arbitrum:eth_getBlockByNumber \[WebSocket\]
+description: Returns information about a block by block number.
 ---
 
 ### Parameters

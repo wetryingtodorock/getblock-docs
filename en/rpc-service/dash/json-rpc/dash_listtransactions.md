@@ -1,6 +1,6 @@
 ---
-title: dash:listtransactions  {disallowed} - Dash
-description: Example code for the dash:listtransactions  {disallowed} json-rpc method. Сomplete guide on how to use dash:listtransactions  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: dash:listtransactions \[POST\] {disallowed}
+description: Returns the most recent transactions that affect the wallet. If a labelname is provided, this will return only incoming transactions paying toaddresses with the specified label.
 ---
 
 ### Parameters

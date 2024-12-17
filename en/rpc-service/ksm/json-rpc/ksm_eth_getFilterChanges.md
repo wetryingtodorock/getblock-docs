@@ -1,6 +1,6 @@
 ---
-title: ksm:eth_getFilterChanges  {disallowed} - Kusama
-description: Example code for the ksm:eth_getFilterChanges  {disallowed} json-rpc method. Сomplete guide on how to use ksm:eth_getFilterChanges  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: ksm:eth_getFilterChanges \[POST\] {disallowed}
+description: Returns filter changes since last poll.
 ---
 
 ### Parameters

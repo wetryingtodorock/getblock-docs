@@ -1,6 +1,6 @@
 ---
-title: movr:system_health - Moonriver
-description: Example code for the movr:system_health json-rpc method. Сomplete guide on how to use movr:system_health json-rpc in GetBlock.io Web3 documentation.
+title: movr:system_health \[POST\]
+description: Return health status of the node
 ---
 
 ### Parameters

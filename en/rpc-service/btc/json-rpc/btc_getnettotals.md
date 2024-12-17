@@ -1,6 +1,6 @@
 ---
-title: btc:getnettotals  {disallowed} - Bitcoin
-description: Example code for the btc:getnettotals  {disallowed} json-rpc method. Сomplete guide on how to use btc:getnettotals  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: btc:getnettotals \[POST\] {disallowed}
+description: Returns information about network traffic, including bytes in, bytesout, and current time.
 ---
 
 ### Parameters

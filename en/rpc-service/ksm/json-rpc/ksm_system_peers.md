@@ -1,6 +1,6 @@
 ---
-title: ksm:system_peers  {disallowed} - Kusama
-description: Example code for the ksm:system_peers  {disallowed} json-rpc method. Сomplete guide on how to use ksm:system_peers  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: ksm:system_peers \[POST\] {disallowed}
+description: Returns the currently connected peers.
 ---
 
 ### Parameters

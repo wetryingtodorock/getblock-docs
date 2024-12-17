@@ -1,6 +1,6 @@
 ---
-title: trx:/wallet/freezebalance  {disallowed} - TRON
-description: Example code for the trx:/wallet/freezebalance  {disallowed} rest method. Сomplete guide on how to use trx:/wallet/freezebalance  {disallowed} rest in GetBlock.io Web3 documentation.
+title: trx:/wallet/freezebalance \[POST\] {disallowed}
+description: Stake an amount of TRX to obtain bandwidth OR Energy and TRON Power(voting rights) . Optionally, user can stake TRX to grant Energy orBandwidth to others. Balance amount in the denomination of sun.
 ---
 
 ### Parameters

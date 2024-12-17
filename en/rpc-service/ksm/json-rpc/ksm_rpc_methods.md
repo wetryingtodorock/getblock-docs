@@ -1,6 +1,6 @@
 ---
-title: ksm:rpc_methods - Kusama
-description: Example code for the ksm:rpc_methods json-rpc method. Сomplete guide on how to use ksm:rpc_methods json-rpc in GetBlock.io Web3 documentation.
+title: ksm:rpc_methods \[POST\]
+description: Retrieves the list of RPC methods that are exposed by the node
 ---
 
 ### Parameters

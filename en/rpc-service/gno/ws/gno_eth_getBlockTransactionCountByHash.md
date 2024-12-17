@@ -1,6 +1,6 @@
 ---
-title: gno:eth_getBlockTransactionCountByHash - Gnosis
-description: Example code for the gno:eth_getBlockTransactionCountByHash ws method. Сomplete guide on how to use gno:eth_getBlockTransactionCountByHash ws in GetBlock.io Web3 documentation.
+title: gno:eth_getBlockTransactionCountByHash \[WebSocket\]
+description: Returns the number of transactions in the block matching the given blockhash.
 ---
 
 ### Parameters

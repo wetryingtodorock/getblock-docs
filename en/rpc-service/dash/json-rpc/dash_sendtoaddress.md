@@ -1,6 +1,6 @@
 ---
-title: dash:sendtoaddress  {disallowed} - Dash
-description: Example code for the dash:sendtoaddress  {disallowed} json-rpc method. Сomplete guide on how to use dash:sendtoaddress  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: dash:sendtoaddress \[POST\] {disallowed}
+description: Spends an amount to a given address.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: heco:eth_sendTransaction - Huobi ECO Chain
-description: Example code for the heco:eth_sendTransaction json-rpc method. Сomplete guide on how to use heco:eth_sendTransaction json-rpc in GetBlock.io Web3 documentation.
+title: heco:eth_sendTransaction \[POST\]
+description: Creates new message call transaction or a contract creation, if the datafield contains code.
 ---
 
 ### Parameters

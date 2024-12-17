@@ -1,6 +1,6 @@
 ---
-title: optimism:eth_getFilterChanges - Optimism
-description: Example code for the optimism:eth_getFilterChanges json-rpc method. Сomplete guide on how to use optimism:eth_getFilterChanges json-rpc in GetBlock.io Web3 documentation.
+title: optimism:eth_getFilterChanges \[POST\]
+description: Polling method for a filter, which returns an array of logs whichoccurred since last poll.
 ---
 
 ### Parameters

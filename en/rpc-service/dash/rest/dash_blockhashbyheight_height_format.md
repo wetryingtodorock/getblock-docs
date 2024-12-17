@@ -1,6 +1,6 @@
 ---
-title: dash:/blockhashbyheight/{height}{format} - Dash
-description: Example code for the dash:/blockhashbyheight/{height}{format} rest method. Сomplete guide on how to use dash:/blockhashbyheight/{height}{format} rest in GetBlock.io Web3 documentation.
+title: dash:/blockhashbyheight/{height}{format} \[GET\]
+description: The GET blockhashbyheight operation returns the hash of a block inbest-block-chain at the height provided. The hash can be returned as aJSON object or serialized as binary or hex.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: one:eth_getBlockByHash - Harmony
-description: Example code for the one:eth_getBlockByHash json-rpc method. Сomplete guide on how to use one:eth_getBlockByHash json-rpc in GetBlock.io Web3 documentation.
+title: one:eth_getBlockByHash \[POST\]
+description: Returns information about the block by hash.
 ---
 
 ### Parameters

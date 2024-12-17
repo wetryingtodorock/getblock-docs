@@ -1,6 +1,6 @@
 ---
-title: dash:getaddressutxos  {disallowed} - Dash
-description: Example code for the dash:getaddressutxos  {disallowed} json-rpc method. Сomplete guide on how to use dash:getaddressutxos  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: dash:getaddressutxos \[POST\] {disallowed}
+description: returns all unspent outputs for an address.
 ---
 
 ### Parameters

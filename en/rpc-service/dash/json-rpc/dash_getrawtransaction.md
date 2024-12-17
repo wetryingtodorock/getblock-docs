@@ -1,6 +1,6 @@
 ---
-title: dash:getrawtransaction - Dash
-description: Example code for the dash:getrawtransaction json-rpc method. Сomplete guide on how to use dash:getrawtransaction json-rpc in GetBlock.io Web3 documentation.
+title: dash:getrawtransaction \[POST\]
+description: gets a hex-encoded serialized transaction or a JSON object describingthe transaction. By default, Dash Core only stores complete transactiondata for UTXOs and your own transactions, so the RPC may fail onhistoric transactions unless you use the non-default txindex=1 in yourDash Core startup settings.Note By default this function only works for mempool transactions. Whencalled with a blockhash argument, getrawtransaction will return thetransaction if the specified block is available and the transaction isfound in that block. When called without a blockhash argument,getrawtransaction will return the transaction if it is in the mempool,or if -txindex is enabled and the transaction is in a block in theblockchain.If you begin using txindex=1 after downloading the block chain, you mustrebuild your indexes by starting Dash Core with the option -reindex.This may take several hours to complete, during which time your nodewill not process new blocks or transactions. This reindex only needs tobe done once.
 ---
 
 ### Parameters

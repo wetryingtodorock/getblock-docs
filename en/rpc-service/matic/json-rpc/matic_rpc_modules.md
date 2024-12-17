@@ -1,6 +1,6 @@
 ---
-title: matic:rpc_modules - Polygon
-description: Example code for the matic:rpc_modules json-rpc method. Сomplete guide on how to use matic:rpc_modules json-rpc in GetBlock.io Web3 documentation.
+title: matic:rpc_modules \[POST\]
+description: Lists enabled APIs and the version of each.
 ---
 
 ### Parameters

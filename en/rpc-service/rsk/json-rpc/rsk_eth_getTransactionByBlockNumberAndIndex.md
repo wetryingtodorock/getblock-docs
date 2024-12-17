@@ -1,6 +1,6 @@
 ---
-title: rsk:eth_getTransactionByBlockNumberAndIndex - Rootstock
-description: Example code for the rsk:eth_getTransactionByBlockNumberAndIndex json-rpc method. Сomplete guide on how to use rsk:eth_getTransactionByBlockNumberAndIndex json-rpc in GetBlock.io Web3 documentation.
+title: rsk:eth_getTransactionByBlockNumberAndIndex \[POST\]
+description: Returns information about a transaction by block number and transactionindex position.
 ---
 
 ### Parameters

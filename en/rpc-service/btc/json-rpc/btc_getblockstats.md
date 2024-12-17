@@ -1,6 +1,6 @@
 ---
-title: btc:getblockstats - Bitcoin
-description: Example code for the btc:getblockstats json-rpc method. Сomplete guide on how to use btc:getblockstats json-rpc in GetBlock.io Web3 documentation.
+title: btc:getblockstats \[POST\]
+description: Compute per block statistics for a given window. All amounts are insatoshis.It wont work for some heights with pruning.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: ton:/getConsensusBlock - The Open Network (TON)
-description: Example code for the ton:/getConsensusBlock json-rpc method. Сomplete guide on how to use ton:/getConsensusBlock json-rpc in GetBlock.io Web3 documentation.
+title: ton:/getConsensusBlock \[GET\]
+description: Get consensus block and its update timestamp.
 ---
 
 ### Parameters

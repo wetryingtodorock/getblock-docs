@@ -1,6 +1,6 @@
 ---
-title: bsc:web3_sha3 - Binance Smart Chain
-description: Example code for the bsc:web3_sha3 ws method. Сomplete guide on how to use bsc:web3_sha3 ws in GetBlock.io Web3 documentation.
+title: bsc:web3_sha3 \[WebSocket\]
+description: Returns a SHA3 hash of the specified data. The result value is aKeccak-256 hash, not the standardized SHA3-256.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: dash:getblock - Dash
-description: Example code for the dash:getblock json-rpc method. Сomplete guide on how to use dash:getblock json-rpc in GetBlock.io Web3 documentation.
+title: dash:getblock \[POST\]
+description: gets a block with a particular header hash from the local block databaseeither as a JSON object or as a serialized block.
 ---
 
 ### Parameters

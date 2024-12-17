@@ -1,6 +1,6 @@
 ---
-title: gno:eth_getTransactionByBlockHashAndIndex - Gnosis
-description: Example code for the gno:eth_getTransactionByBlockHashAndIndex ws method. Сomplete guide on how to use gno:eth_getTransactionByBlockHashAndIndex ws in GetBlock.io Web3 documentation.
+title: gno:eth_getTransactionByBlockHashAndIndex \[WebSocket\]
+description: Returns transaction information for the specified block hash andtransaction index position.
 ---
 
 ### Parameters

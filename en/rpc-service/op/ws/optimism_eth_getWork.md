@@ -1,6 +1,6 @@
 ---
-title: optimism:eth_getWork  {disallowed} - Optimism
-description: Example code for the optimism:eth_getWork  {disallowed} ws method. Сomplete guide on how to use optimism:eth_getWork  {disallowed} ws in GetBlock.io Web3 documentation.
+title: optimism:eth_getWork \[WebSocket\] {disallowed}
+description: Returns the hash of the current block, the seedHash, and the boundarycondition to be met (“target”).Currently unavailable.
 ---
 
 ### Parameters

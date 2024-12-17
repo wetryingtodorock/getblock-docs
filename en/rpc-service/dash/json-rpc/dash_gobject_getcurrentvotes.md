@@ -1,6 +1,6 @@
 ---
-title: dash:gobject_getcurrentvotes - Dash
-description: Example code for the dash:gobject_getcurrentvotes json-rpc method. Сomplete guide on how to use dash:gobject_getcurrentvotes json-rpc in GetBlock.io Web3 documentation.
+title: dash:gobject_getcurrentvotes \[POST\]
+description: gets only current (tallying) votes for a governance object hash (doesnot include old votes).
 ---
 
 ### Parameters

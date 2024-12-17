@@ -1,6 +1,6 @@
 ---
-title: doge:getconnectioncount - Dogecoin
-description: Example code for the doge:getconnectioncount json-rpc method. Сomplete guide on how to use doge:getconnectioncount json-rpc in GetBlock.io Web3 documentation.
+title: doge:getconnectioncount \[POST\]
+description: Returns the number of connections to other nodes.
 ---
 
 ### Parameters

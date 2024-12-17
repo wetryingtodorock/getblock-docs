@@ -1,6 +1,6 @@
 ---
-title: etc:txpool_besuPendingTransactions  {disallowed} - Ethereum Classic
-description: Example code for the etc:txpool_besuPendingTransactions  {disallowed} json-rpc method. Сomplete guide on how to use etc:txpool_besuPendingTransactions  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: etc:txpool_besuPendingTransactions \[POST\] {disallowed}
+description: Lists pending transactions that match the supplied filter conditions.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: bsv:combinerawtransaction - Bitcoin SV
-description: Example code for the bsv:combinerawtransaction json-rpc method. Сomplete guide on how to use bsv:combinerawtransaction json-rpc in GetBlock.io Web3 documentation.
+title: bsv:combinerawtransaction \[POST\]
+description: Combine multiple partially signed transactions into one transaction.The combined transaction may be another partially signed transaction ora fully signed transaction.
 ---
 
 ### Parameters

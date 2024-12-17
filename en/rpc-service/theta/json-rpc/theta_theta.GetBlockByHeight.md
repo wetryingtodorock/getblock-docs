@@ -1,6 +1,6 @@
 ---
-title: theta:theta.GetBlockByHeight - Theta Network
-description: Example code for the theta:theta.GetBlockByHeight json-rpc method. Сomplete guide on how to use theta:theta.GetBlockByHeight json-rpc in GetBlock.io Web3 documentation.
+title: theta:theta.GetBlockByHeight \[POST\]
+description: This API returns the finalized block of given the height. If none of theblock at the given height is finalized (either directly or indirectly),the API simplely returns an empty result.
 ---
 
 ### Parameters

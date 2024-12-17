@@ -1,6 +1,6 @@
 ---
-title: dash:quorum_sign  {disallowed} - Dash
-description: Example code for the dash:quorum_sign  {disallowed} json-rpc method. Сomplete guide on how to use dash:quorum_sign  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: dash:quorum_sign \[POST\] {disallowed}
+description: Requests threshold-signing for a message.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: dgb:getreceivedbylabel  {disallowed} - DigiByte
-description: Example code for the dgb:getreceivedbylabel  {disallowed} json-rpc method. Сomplete guide on how to use dgb:getreceivedbylabel  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: dgb:getreceivedbylabel \[POST\] {disallowed}
+description: Returns the total amount received by addresses with label intransactions with at least \[minconf\] confirmations.
 ---
 
 ### Parameters

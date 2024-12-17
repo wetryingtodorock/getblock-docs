@@ -1,6 +1,6 @@
 ---
-title: trx:/wallet/createshieldedcontractparameters  {disallowed} - TRON
-description: Example code for the trx:/wallet/createshieldedcontractparameters  {disallowed} rest method. Сomplete guide on how to use trx:/wallet/createshieldedcontractparameters  {disallowed} rest in GetBlock.io Web3 documentation.
+title: trx:/wallet/createshieldedcontractparameters \[POST\] {disallowed}
+description: Note To ensure security, Trongrid has disabled this interface service,please use the service provided by the local node.
 ---
 
 ### Parameters

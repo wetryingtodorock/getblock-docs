@@ -1,6 +1,6 @@
 ---
-title: matic:shh_hasIdentity  {disallowed} - Polygon
-description: Example code for the matic:shh_hasIdentity  {disallowed} json-rpc method. Сomplete guide on how to use matic:shh_hasIdentity  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: matic:shh_hasIdentity \[POST\] {disallowed}
+description: Checks if the client hold the private keys for a given identity.
 ---
 
 ### Parameters

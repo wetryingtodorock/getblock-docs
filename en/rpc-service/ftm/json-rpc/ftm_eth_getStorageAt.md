@@ -1,6 +1,6 @@
 ---
-title: ftm:eth_getStorageAt - Fantom
-description: Example code for the ftm:eth_getStorageAt json-rpc method. Сomplete guide on how to use ftm:eth_getStorageAt json-rpc in GetBlock.io Web3 documentation.
+title: ftm:eth_getStorageAt \[POST\]
+description: Returns the value of a storage position at a specified address.
 ---
 
 ### Parameters

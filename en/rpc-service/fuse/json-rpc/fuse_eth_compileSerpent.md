@@ -1,6 +1,6 @@
 ---
-title: fuse:eth_compileSerpent  {disallowed} - Fuse Network
-description: Example code for the fuse:eth_compileSerpent  {disallowed} json-rpc method. Сomplete guide on how to use fuse:eth_compileSerpent  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: fuse:eth_compileSerpent \[POST\] {disallowed}
+description: Returns compiled serpent code.
 ---
 
 ### Parameters

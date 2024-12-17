@@ -1,6 +1,6 @@
 ---
-title: dash:gobject_submit  {disallowed} - Dash
-description: Example code for the dash:gobject_submit  {disallowed} json-rpc method. Сomplete guide on how to use dash:gobject_submit  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: dash:gobject_submit \[POST\] {disallowed}
+description: Submits a governance object to network (objects must first be preparedvia gobject prepare).
 ---
 
 ### Parameters

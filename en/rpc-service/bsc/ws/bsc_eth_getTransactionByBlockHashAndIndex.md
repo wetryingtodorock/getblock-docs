@@ -1,6 +1,6 @@
 ---
-title: bsc:eth_getTransactionByBlockHashAndIndex - Binance Smart Chain
-description: Example code for the bsc:eth_getTransactionByBlockHashAndIndex ws method. Сomplete guide on how to use bsc:eth_getTransactionByBlockHashAndIndex ws in GetBlock.io Web3 documentation.
+title: bsc:eth_getTransactionByBlockHashAndIndex \[WebSocket\]
+description: Returns transaction information for the specified block hash andtransaction index position.
 ---
 
 ### Parameters

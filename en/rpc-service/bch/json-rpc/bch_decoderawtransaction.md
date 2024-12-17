@@ -1,6 +1,6 @@
 ---
-title: bch:decoderawtransaction - Bitcoin Cash
-description: Example code for the bch:decoderawtransaction json-rpc method. Сomplete guide on how to use bch:decoderawtransaction json-rpc in GetBlock.io Web3 documentation.
+title: bch:decoderawtransaction \[POST\]
+description: Return a JSON object representing the serialized, hex-encodedtransaction.
 ---
 
 ### Parameters

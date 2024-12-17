@@ -1,6 +1,6 @@
 ---
-title: zec:getrawmempool - Zcash
-description: Example code for the zec:getrawmempool json-rpc method. Сomplete guide on how to use zec:getrawmempool json-rpc in GetBlock.io Web3 documentation.
+title: zec:getrawmempool \[POST\]
+description: Returns all transaction ids in memory pool as a json array of stringtransaction ids.
 ---
 
 ### Parameters

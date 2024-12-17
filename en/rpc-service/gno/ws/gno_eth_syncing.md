@@ -1,6 +1,6 @@
 ---
-title: gno:eth_syncing - Gnosis
-description: Example code for the gno:eth_syncing ws method. Сomplete guide on how to use gno:eth_syncing ws in GetBlock.io Web3 documentation.
+title: gno:eth_syncing \[WebSocket\]
+description: Returns an object with data about the synchronization status, or falseif not synchronizing.
 ---
 
 ### Parameters

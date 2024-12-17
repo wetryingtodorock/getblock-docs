@@ -1,6 +1,6 @@
 ---
-title: btc:testmempoolaccept - Bitcoin
-description: Example code for the btc:testmempoolaccept json-rpc method. Сomplete guide on how to use btc:testmempoolaccept json-rpc in GetBlock.io Web3 documentation.
+title: btc:testmempoolaccept \[POST\]
+description: Returns result of mempool acceptance tests indicating if raw transaction(serialized, hex-encoded) would be accepted by mempool.This checks if the transaction violates the consensus or policy rules.See sendrawtransaction call.
 ---
 
 ### Parameters

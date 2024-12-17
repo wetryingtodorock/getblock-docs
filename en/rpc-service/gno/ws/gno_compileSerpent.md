@@ -1,6 +1,6 @@
 ---
-title: gno:compileSerpent  {disallowed} - Gnosis
-description: Example code for the gno:compileSerpent  {disallowed} ws method. Сomplete guide on how to use gno:compileSerpent  {disallowed} ws in GetBlock.io Web3 documentation.
+title: gno:compileSerpent \[WebSocket\] {disallowed}
+description: Returns compiled serpent code.
 ---
 
 ### Parameters

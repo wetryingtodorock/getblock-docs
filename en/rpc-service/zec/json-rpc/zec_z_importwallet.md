@@ -1,6 +1,6 @@
 ---
-title: zec:z_importwallet  {disallowed} - Zcash
-description: Example code for the zec:z_importwallet  {disallowed} json-rpc method. Сomplete guide on how to use zec:z_importwallet  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: zec:z_importwallet \[POST\] {disallowed}
+description: Imports taddr and zaddr keys from a wallet export file (seez_exportwallet).
 ---
 
 ### Parameters

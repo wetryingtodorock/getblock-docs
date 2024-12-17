@@ -1,6 +1,6 @@
 ---
-title: bsv:getrawchangeaddress  {disallowed} - Bitcoin SV
-description: Example code for the bsv:getrawchangeaddress  {disallowed} json-rpc method. Сomplete guide on how to use bsv:getrawchangeaddress  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: bsv:getrawchangeaddress \[POST\] {disallowed}
+description: Returns a new Bitcoin address, for receiving change.This is for use with raw transactions, NOT normal use.
 ---
 
 ### Parameters

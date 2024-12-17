@@ -1,6 +1,6 @@
 ---
-title: dot:eth_getBlockByNumber  {disallowed} - Polkadot
-description: Example code for the dot:eth_getBlockByNumber  {disallowed} json-rpc method. Сomplete guide on how to use dot:eth_getBlockByNumber  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: dot:eth_getBlockByNumber \[POST\] {disallowed}
+description: get block by number
 ---
 
 ### Parameters

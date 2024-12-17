@@ -1,6 +1,6 @@
 ---
-title: ksm:system_chainType - Kusama
-description: Example code for the ksm:system_chainType json-rpc method. Сomplete guide on how to use ksm:system_chainType json-rpc in GetBlock.io Web3 documentation.
+title: ksm:system_chainType \[POST\]
+description: Retrieves the chain type.
 ---
 
 ### Parameters

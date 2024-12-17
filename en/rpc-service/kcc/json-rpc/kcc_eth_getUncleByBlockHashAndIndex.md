@@ -1,6 +1,6 @@
 ---
-title: kcc:eth_getUncleByBlockHashAndIndex - KuCoin Community Chain
-description: Example code for the kcc:eth_getUncleByBlockHashAndIndex json-rpc method. Сomplete guide on how to use kcc:eth_getUncleByBlockHashAndIndex json-rpc in GetBlock.io Web3 documentation.
+title: kcc:eth_getUncleByBlockHashAndIndex \[POST\]
+description: Returns information about a uncle of a block by hash and uncle indexposition.
 ---
 
 ### Parameters

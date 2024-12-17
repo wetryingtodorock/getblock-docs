@@ -1,6 +1,6 @@
 ---
-title: one:hmyv2_getBlockTransactionCountByNumber - Harmony
-description: Example code for the one:hmyv2_getBlockTransactionCountByNumber json-rpc method. Сomplete guide on how to use one:hmyv2_getBlockTransactionCountByNumber json-rpc in GetBlock.io Web3 documentation.
+title: one:hmyv2_getBlockTransactionCountByNumber \[POST\]
+description: Returns the number of transactions in a block matching the specifiedblock number.
 ---
 
 ### Parameters

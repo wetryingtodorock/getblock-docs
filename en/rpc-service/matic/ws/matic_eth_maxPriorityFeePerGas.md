@@ -1,6 +1,6 @@
 ---
-title: matic:eth_maxPriorityFeePerGas - Polygon
-description: Example code for the matic:eth_maxPriorityFeePerGas ws method. Сomplete guide on how to use matic:eth_maxPriorityFeePerGas ws in GetBlock.io Web3 documentation.
+title: matic:eth_maxPriorityFeePerGas \[WebSocket\]
+description: Returns the hex value of the priority fee necessary to be included in ablock.
 ---
 
 ### Parameters

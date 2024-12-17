@@ -1,6 +1,6 @@
 ---
-title: trx:/wallet/getnextmaintenancetime - TRON
-description: Example code for the trx:/wallet/getnextmaintenancetime rest method. Сomplete guide on how to use trx:/wallet/getnextmaintenancetime rest in GetBlock.io Web3 documentation.
+title: trx:/wallet/getnextmaintenancetime \[POST\]
+description: Returns the timestamp of the next voting time in milliseconds.
 ---
 
 ### Parameters

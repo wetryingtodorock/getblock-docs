@@ -1,6 +1,6 @@
 ---
-title: eth:eth_submitHashrate - Ethereum
-description: Example code for the eth:eth_submitHashrate json-rpc method. Сomplete guide on how to use eth:eth_submitHashrate json-rpc in GetBlock.io Web3 documentation.
+title: eth:eth_submitHashrate \[POST\]
+description: Submits the mining hashrate.Used by mining software such as Ethminer.
 ---
 
 ### Parameters

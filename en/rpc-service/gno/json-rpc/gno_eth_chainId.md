@@ -1,6 +1,6 @@
 ---
-title: gno:eth_chainId - Gnosis
-description: Example code for the gno:eth_chainId json-rpc method. Сomplete guide on how to use gno:eth_chainId json-rpc in GetBlock.io Web3 documentation.
+title: gno:eth_chainId \[POST\]
+description: Returns the chain ID.
 ---
 
 ### Parameters

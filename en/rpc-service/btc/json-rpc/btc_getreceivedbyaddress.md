@@ -1,6 +1,6 @@
 ---
-title: btc:getreceivedbyaddress  {disallowed} - Bitcoin
-description: Example code for the btc:getreceivedbyaddress  {disallowed} json-rpc method. Сomplete guide on how to use btc:getreceivedbyaddress  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: btc:getreceivedbyaddress \[POST\] {disallowed}
+description: Returns the total amount received by the given address in transactionswith at least minconf confirmations.
 ---
 
 ### Parameters

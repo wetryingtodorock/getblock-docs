@@ -1,6 +1,6 @@
 ---
-title: bch:getmempoolinfo - Bitcoin Cash
-description: Example code for the bch:getmempoolinfo json-rpc method. Сomplete guide on how to use bch:getmempoolinfo json-rpc in GetBlock.io Web3 documentation.
+title: bch:getmempoolinfo \[POST\]
+description: Returns details on the active state of the TX memory pool.
 ---
 
 ### Parameters

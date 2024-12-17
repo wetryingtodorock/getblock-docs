@@ -1,6 +1,6 @@
 ---
-title: glmr:eth_syncing - Moonbeam
-description: Example code for the glmr:eth_syncing json-rpc method. Сomplete guide on how to use glmr:eth_syncing json-rpc in GetBlock.io Web3 documentation.
+title: glmr:eth_syncing \[POST\]
+description: Returns an object with data about the sync status or false.
 ---
 
 ### Parameters

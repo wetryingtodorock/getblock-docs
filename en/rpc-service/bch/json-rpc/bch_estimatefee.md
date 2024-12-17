@@ -1,6 +1,6 @@
 ---
-title: bch:estimatefee  {disallowed} - Bitcoin Cash
-description: Example code for the bch:estimatefee  {disallowed} json-rpc method. Сomplete guide on how to use bch:estimatefee  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: bch:estimatefee \[POST\] {disallowed}
+description: Estimates the approximate fee per kilobyte needed for a transaction
 ---
 
 ### Parameters

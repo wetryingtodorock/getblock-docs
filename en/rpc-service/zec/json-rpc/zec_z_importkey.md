@@ -1,6 +1,6 @@
 ---
-title: zec:z_importkey  {disallowed} - Zcash
-description: Example code for the zec:z_importkey  {disallowed} json-rpc method. Сomplete guide on how to use zec:z_importkey  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: zec:z_importkey \[POST\] {disallowed}
+description: Adds a zkey (as returned by z_exportkey) to your wallet.Note This call can take minutes to complete if rescan is true.
 ---
 
 ### Parameters

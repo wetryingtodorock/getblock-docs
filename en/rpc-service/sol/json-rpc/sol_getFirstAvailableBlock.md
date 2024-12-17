@@ -1,6 +1,6 @@
 ---
-title: sol:getFirstAvailableBlock - Solana
-description: Example code for the sol:getFirstAvailableBlock json-rpc method. Сomplete guide on how to use sol:getFirstAvailableBlock json-rpc in GetBlock.io Web3 documentation.
+title: sol:getFirstAvailableBlock \[POST\]
+description: Returns the slot of the lowest confirmed block that has not been purgedfrom the ledger
 ---
 
 ### Parameters

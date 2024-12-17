@@ -1,6 +1,6 @@
 ---
-title: bsv:walletpassphrase  {disallowed} - Bitcoin SV
-description: Example code for the bsv:walletpassphrase  {disallowed} json-rpc method. Сomplete guide on how to use bsv:walletpassphrase  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: bsv:walletpassphrase \[POST\] {disallowed}
+description: Stores the wallet decryption key in memory for ‘timeout’ seconds.This is needed prior to performing transactions related to private keyssuch as sending bitcoins Note\\Issuing the walletpassphrase command while the wallet is alreadyunlocked will set a new unlock time that overrides the old one.
 ---
 
 ### Parameters

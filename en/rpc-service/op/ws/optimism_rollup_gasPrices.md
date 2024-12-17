@@ -1,6 +1,6 @@
 ---
-title: optimism:rollup_gasPrices - Optimism
-description: Example code for the optimism:rollup_gasPrices ws method. Сomplete guide on how to use optimism:rollup_gasPrices ws in GetBlock.io Web3 documentation.
+title: optimism:rollup_gasPrices \[WebSocket\]
+description: Returns the L1 and L2 gas prices that are being used by the Sequencer tocalculate fees.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: doge:listaccounts  {disallowed} - Dogecoin
-description: Example code for the doge:listaccounts  {disallowed} json-rpc method. Сomplete guide on how to use doge:listaccounts  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: doge:listaccounts \[POST\] {disallowed}
+description: Returns a list of account names.
 ---
 
 ### Parameters

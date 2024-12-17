@@ -1,6 +1,6 @@
 ---
-title: trx:/wallet/validateaddress - TRON
-description: Example code for the trx:/wallet/validateaddress rest method. Сomplete guide on how to use trx:/wallet/validateaddress rest in GetBlock.io Web3 documentation.
+title: trx:/wallet/validateaddress \[POST\]
+description: Validates address, returns either true or false.
 ---
 
 ### Parameters

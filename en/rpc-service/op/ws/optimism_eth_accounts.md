@@ -1,6 +1,6 @@
 ---
-title: optimism:eth_accounts - Optimism
-description: Example code for the optimism:eth_accounts ws method. Сomplete guide on how to use optimism:eth_accounts ws in GetBlock.io Web3 documentation.
+title: optimism:eth_accounts \[WebSocket\]
+description: Returns a list of addresses owned by client.
 ---
 
 ### Parameters

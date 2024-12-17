@@ -1,6 +1,6 @@
 ---
-title: optimism:eth_call - Optimism
-description: Example code for the optimism:eth_call ws method. Сomplete guide on how to use optimism:eth_call ws in GetBlock.io Web3 documentation.
+title: optimism:eth_call \[WebSocket\]
+description: Executes a new message call immediately without creating a transactionon the block chain.
 ---
 
 ### Parameters

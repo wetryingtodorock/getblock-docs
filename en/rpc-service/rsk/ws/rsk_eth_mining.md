@@ -1,6 +1,6 @@
 ---
-title: rsk:eth_mining - Rootstock
-description: Example code for the rsk:eth_mining ws method. Сomplete guide on how to use rsk:eth_mining ws in GetBlock.io Web3 documentation.
+title: rsk:eth_mining \[WebSocket\]
+description: Returns true if client is actively mining new blocks.
 ---
 
 ### Parameters

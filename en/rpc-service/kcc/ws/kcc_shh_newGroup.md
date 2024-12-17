@@ -1,6 +1,6 @@
 ---
-title: kcc:shh_newGroup  {disallowed} - KuCoin Community Chain
-description: Example code for the kcc:shh_newGroup  {disallowed} ws method. Сomplete guide on how to use kcc:shh_newGroup  {disallowed} ws in GetBlock.io Web3 documentation.
+title: kcc:shh_newGroup \[WebSocket\] {disallowed}
+description: Creates new group
 ---
 
 ### Parameters

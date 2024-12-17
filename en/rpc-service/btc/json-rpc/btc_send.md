@@ -1,6 +1,6 @@
 ---
-title: btc:send  {disallowed} - Bitcoin
-description: Example code for the btc:send  {disallowed} json-rpc method. Сomplete guide on how to use btc:send  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: btc:send \[POST\] {disallowed}
+description: EXPERIMENTAL warning this call may be changed in future releases.Send a transaction.
 ---
 
 ### Parameters

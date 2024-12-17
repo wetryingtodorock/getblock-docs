@@ -1,6 +1,6 @@
 ---
-title: gno:eth_getWork  {disallowed} - Gnosis
-description: Example code for the gno:eth_getWork  {disallowed} json-rpc method. Сomplete guide on how to use gno:eth_getWork  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: gno:eth_getWork \[POST\] {disallowed}
+description: Returns the hash of the current block, the seed hash, and the requiredtarget boundary condition.
 ---
 
 ### Parameters

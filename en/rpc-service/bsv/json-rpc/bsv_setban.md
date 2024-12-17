@@ -1,6 +1,6 @@
 ---
-title: bsv:setban  {disallowed} - Bitcoin SV
-description: Example code for the bsv:setban  {disallowed} json-rpc method. Сomplete guide on how to use bsv:setban  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: bsv:setban \[POST\] {disallowed}
+description: Attempts to add or remove an IP/Subnet from the banned list.
 ---
 
 ### Parameters

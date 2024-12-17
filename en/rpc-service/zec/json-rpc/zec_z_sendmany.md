@@ -1,6 +1,6 @@
 ---
-title: zec:z_sendmany  {disallowed} - Zcash
-description: Example code for the zec:z_sendmany  {disallowed} json-rpc method. Сomplete guide on how to use zec:z_sendmany  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: zec:z_sendmany \[POST\] {disallowed}
+description: Send multiple times. Amounts are decimal numbers with at most 8 digitsof precision.Change generated from one or more transparent addresses flows to a newtransparent address, while change generated from a shielded addressreturns to itself.When sending coinbase UTXOs to a shielded address, change is notallowed.The entire value of the UTXO(s) must be consumed.Before Sapling activates, the maximum number of zaddr outputs is 54 dueto transaction size limits.
 ---
 
 ### Parameters

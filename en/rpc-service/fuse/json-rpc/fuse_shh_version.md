@@ -1,6 +1,6 @@
 ---
-title: fuse:shh_version  {disallowed} - Fuse Network
-description: Example code for the fuse:shh_version  {disallowed} json-rpc method. Сomplete guide on how to use fuse:shh_version  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: fuse:shh_version \[POST\] {disallowed}
+description: Returns the current whisper protocol version.
 ---
 
 ### Parameters

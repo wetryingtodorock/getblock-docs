@@ -1,6 +1,6 @@
 ---
-title: dash:listaddressbalances  {disallowed} - Dash
-description: Example code for the dash:listaddressbalances  {disallowed} json-rpc method. Сomplete guide on how to use dash:listaddressbalances  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: dash:listaddressbalances \[POST\] {disallowed}
+description: Lists addresses of this wallet and their balances.
 ---
 
 ### Parameters

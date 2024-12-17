@@ -1,6 +1,6 @@
 ---
-title: btc:generate  {disallowed} - Bitcoin
-description: Example code for the btc:generate  {disallowed} json-rpc method. Сomplete guide on how to use btc:generate  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: btc:generate \[POST\] {disallowed}
+description: Mine blocks immediately to a specified descriptor (before the RPC callreturns)
 ---
 
 ### Parameters

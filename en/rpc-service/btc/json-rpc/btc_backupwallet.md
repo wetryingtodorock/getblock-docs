@@ -1,6 +1,6 @@
 ---
-title: btc:backupwallet  {disallowed} - Bitcoin
-description: Example code for the btc:backupwallet  {disallowed} json-rpc method. Сomplete guide on how to use btc:backupwallet  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: btc:backupwallet \[POST\] {disallowed}
+description: eSafely copies current wallet file to destination, which can be adirectory or a path with filename.
 ---
 
 ### Parameters

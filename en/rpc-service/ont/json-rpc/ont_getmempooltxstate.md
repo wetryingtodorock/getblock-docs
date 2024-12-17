@@ -1,6 +1,6 @@
 ---
-title: ont:getmempooltxstate - Ontology
-description: Example code for the ont:getmempooltxstate json-rpc method. Сomplete guide on how to use ont:getmempooltxstate json-rpc in GetBlock.io Web3 documentation.
+title: ont:getmempooltxstate \[POST\]
+description: Fetch state of transaction in the node memory pool using giventransaction hash.
 ---
 
 ### Parameters

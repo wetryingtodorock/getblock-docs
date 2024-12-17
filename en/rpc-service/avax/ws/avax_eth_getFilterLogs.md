@@ -1,6 +1,6 @@
 ---
-title: avax:eth_getFilterLogs - Avalanche
-description: Example code for the avax:eth_getFilterLogs ws method. Сomplete guide on how to use avax:eth_getFilterLogs ws in GetBlock.io Web3 documentation.
+title: avax:eth_getFilterLogs \[WebSocket\]
+description: Returns an array of all logs matching filter with given id.
 ---
 
 ### Parameters

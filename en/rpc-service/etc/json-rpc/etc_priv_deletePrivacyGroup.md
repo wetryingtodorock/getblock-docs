@@ -1,6 +1,6 @@
 ---
-title: etc:priv_deletePrivacyGroup  {disallowed} - Ethereum Classic
-description: Example code for the etc:priv_deletePrivacyGroup  {disallowed} json-rpc method. Сomplete guide on how to use etc:priv_deletePrivacyGroup  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: etc:priv_deletePrivacyGroup \[POST\] {disallowed}
+description: Deletes the specified privacy group.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: dash:getrawchangeaddress  {disallowed} - Dash
-description: Example code for the dash:getrawchangeaddress  {disallowed} json-rpc method. Сomplete guide on how to use dash:getrawchangeaddress  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: dash:getrawchangeaddress \[POST\] {disallowed}
+description: Returns a new Dash address for receiving change. This is for use withraw transactions, not normal use.
 ---
 
 ### Parameters

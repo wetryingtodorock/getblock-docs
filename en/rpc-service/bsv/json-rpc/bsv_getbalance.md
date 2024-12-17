@@ -1,6 +1,6 @@
 ---
-title: bsv:getbalance  {disallowed} - Bitcoin SV
-description: Example code for the bsv:getbalance  {disallowed} json-rpc method. Сomplete guide on how to use bsv:getbalance  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: bsv:getbalance \[POST\] {disallowed}
+description: Returns the total available balance.The available balance is what the wallet considers currently spendable,and is thus affected by options which limit spendability such as-spendzeroconfchange.
 ---
 
 ### Parameters

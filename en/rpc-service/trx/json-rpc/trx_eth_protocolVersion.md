@@ -1,6 +1,6 @@
 ---
-title: trx:eth_protocolVersion - TRON
-description: Example code for the trx:eth_protocolVersion json-rpc method. Сomplete guide on how to use trx:eth_protocolVersion json-rpc in GetBlock.io Web3 documentation.
+title: trx:eth_protocolVersion \[POST\]
+description: Returns the java-tron block version
 ---
 
 ### Parameters

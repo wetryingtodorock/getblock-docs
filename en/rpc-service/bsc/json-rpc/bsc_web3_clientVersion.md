@@ -1,6 +1,6 @@
 ---
-title: bsc:web3_clientVersion - Binance Smart Chain
-description: Example code for the bsc:web3_clientVersion json-rpc method. Сomplete guide on how to use bsc:web3_clientVersion json-rpc in GetBlock.io Web3 documentation.
+title: bsc:web3_clientVersion \[POST\]
+description: Returns the current client version.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: ksm:chain_getBlock - Kusama
-description: Example code for the ksm:chain_getBlock json-rpc method. Сomplete guide on how to use ksm:chain_getBlock json-rpc in GetBlock.io Web3 documentation.
+title: ksm:chain_getBlock \[POST\]
+description: Get header and body of a relay chain block.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: ksm:system_removeReservedPeer  {disallowed} - Kusama
-description: Example code for the ksm:system_removeReservedPeer  {disallowed} json-rpc method. Сomplete guide on how to use ksm:system_removeReservedPeer  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: ksm:system_removeReservedPeer \[POST\] {disallowed}
+description: Remove a reserved peer.
 ---
 
 ### Parameters

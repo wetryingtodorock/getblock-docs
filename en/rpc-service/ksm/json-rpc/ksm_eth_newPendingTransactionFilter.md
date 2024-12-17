@@ -1,6 +1,6 @@
 ---
-title: ksm:eth_newPendingTransactionFilter  {disallowed} - Kusama
-description: Example code for the ksm:eth_newPendingTransactionFilter  {disallowed} json-rpc method. Сomplete guide on how to use ksm:eth_newPendingTransactionFilter  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: ksm:eth_newPendingTransactionFilter \[POST\] {disallowed}
+description: get new pending transaction filter
 ---
 
 ### Parameters

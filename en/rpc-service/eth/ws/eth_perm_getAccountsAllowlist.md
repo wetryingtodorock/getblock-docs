@@ -1,6 +1,6 @@
 ---
-title: eth:perm_getAccountsAllowlist  {disallowed} - Ethereum
-description: Example code for the eth:perm_getAccountsAllowlist  {disallowed} ws method. Сomplete guide on how to use eth:perm_getAccountsAllowlist  {disallowed} ws in GetBlock.io Web3 documentation.
+title: eth:perm_getAccountsAllowlist \[WebSocket\] {disallowed}
+description: Lists accounts (participants) in the accounts permissions list.
 ---
 
 ### Parameters

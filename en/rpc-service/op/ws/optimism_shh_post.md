@@ -1,6 +1,6 @@
 ---
-title: optimism:shh_post  {disallowed} - Optimism
-description: Example code for the optimism:shh_post  {disallowed} ws method. Сomplete guide on how to use optimism:shh_post  {disallowed} ws in GetBlock.io Web3 documentation.
+title: optimism:shh_post \[WebSocket\] {disallowed}
+description: Sends a whisper message.
 ---
 
 ### Parameters

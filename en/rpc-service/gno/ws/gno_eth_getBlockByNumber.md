@@ -1,6 +1,6 @@
 ---
-title: gno:eth_getBlockByNumber - Gnosis
-description: Example code for the gno:eth_getBlockByNumber ws method. Сomplete guide on how to use gno:eth_getBlockByNumber ws in GetBlock.io Web3 documentation.
+title: gno:eth_getBlockByNumber \[WebSocket\]
+description: Returns information about a block by block number.
 ---
 
 ### Parameters

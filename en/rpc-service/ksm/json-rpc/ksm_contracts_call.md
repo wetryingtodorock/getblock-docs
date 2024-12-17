@@ -1,6 +1,6 @@
 ---
-title: ksm:contracts_call  {disallowed} - Kusama
-description: Example code for the ksm:contracts_call  {disallowed} json-rpc method. Сomplete guide on how to use ksm:contracts_call  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: ksm:contracts_call \[POST\] {disallowed}
+description: Executes a call to a contract.
 ---
 
 ### Parameters

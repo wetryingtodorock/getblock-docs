@@ -1,6 +1,6 @@
 ---
-title: avax:eth_getBlockTransactionCountByNumber - Avalanche
-description: Example code for the avax:eth_getBlockTransactionCountByNumber ws method. Сomplete guide on how to use avax:eth_getBlockTransactionCountByNumber ws in GetBlock.io Web3 documentation.
+title: avax:eth_getBlockTransactionCountByNumber \[WebSocket\]
+description: Returns the number of transactions in a block matching the given blocknumber.
 ---
 
 ### Parameters

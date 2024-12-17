@@ -1,6 +1,6 @@
 ---
-title: dgb:generatetoaddress  {disallowed} - DigiByte
-description: Example code for the dgb:generatetoaddress  {disallowed} json-rpc method. Сomplete guide on how to use dgb:generatetoaddress  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: dgb:generatetoaddress \[POST\] {disallowed}
+description: Mine blocks immediately to a specified address (before the RPC callreturns)
 ---
 
 ### Parameters

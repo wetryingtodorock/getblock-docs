@@ -1,6 +1,6 @@
 ---
-title: kcc:eth_getTransactionCount - KuCoin Community Chain
-description: Example code for the kcc:eth_getTransactionCount ws method. Сomplete guide on how to use kcc:eth_getTransactionCount ws in GetBlock.io Web3 documentation.
+title: kcc:eth_getTransactionCount \[WebSocket\]
+description: Returns the number of transactions sent from an address.
 ---
 
 ### Parameters

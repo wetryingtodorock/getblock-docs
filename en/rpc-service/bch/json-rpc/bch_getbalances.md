@@ -1,6 +1,6 @@
 ---
-title: bch:getbalances  {disallowed} - Bitcoin Cash
-description: Example code for the bch:getbalances  {disallowed} json-rpc method. Сomplete guide on how to use bch:getbalances  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: bch:getbalances \[POST\] {disallowed}
+description: Returns an object with all balances in BTC.
 ---
 
 ### Parameters

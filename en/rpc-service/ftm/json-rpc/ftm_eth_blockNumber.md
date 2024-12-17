@@ -1,6 +1,6 @@
 ---
-title: ftm:eth_blockNumber - Fantom
-description: Example code for the ftm:eth_blockNumber json-rpc method. Сomplete guide on how to use ftm:eth_blockNumber json-rpc in GetBlock.io Web3 documentation.
+title: ftm:eth_blockNumber \[POST\]
+description: Returns the index corresponding to the block number of the current chainhead.
 ---
 
 ### Parameters

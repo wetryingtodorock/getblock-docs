@@ -1,6 +1,6 @@
 ---
-title: eth:eth_getBlockByNumber - Ethereum
-description: Example code for the eth:eth_getBlockByNumber ws method. Сomplete guide on how to use eth:eth_getBlockByNumber ws in GetBlock.io Web3 documentation.
+title: eth:eth_getBlockByNumber \[WebSocket\]
+description: Returns information about a block by block number.
 ---
 
 ### Parameters

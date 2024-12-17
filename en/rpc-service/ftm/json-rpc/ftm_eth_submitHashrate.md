@@ -1,6 +1,6 @@
 ---
-title: ftm:eth_submitHashrate  {disallowed} - Fantom
-description: Example code for the ftm:eth_submitHashrate  {disallowed} json-rpc method. Сomplete guide on how to use ftm:eth_submitHashrate  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: ftm:eth_submitHashrate \[POST\] {disallowed}
+description: Submits the mining hashrate.Used by mining software such as Ethminer.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: avax:eth_compileSerpent  {disallowed} - Avalanche
-description: Example code for the avax:eth_compileSerpent  {disallowed} json-rpc method. Сomplete guide on how to use avax:eth_compileSerpent  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: avax:eth_compileSerpent \[POST\] {disallowed}
+description: Returns compiled serpent code.
 ---
 
 ### Parameters

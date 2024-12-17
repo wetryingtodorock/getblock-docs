@@ -1,6 +1,6 @@
 ---
-title: gno:eth_getUncleCountByBlockNumber - Gnosis
-description: Example code for the gno:eth_getUncleCountByBlockNumber json-rpc method. Сomplete guide on how to use gno:eth_getUncleCountByBlockNumber json-rpc in GetBlock.io Web3 documentation.
+title: gno:eth_getUncleCountByBlockNumber \[POST\]
+description: Returns the number of uncles in a block matching the specified blocknumber.
 ---
 
 ### Parameters

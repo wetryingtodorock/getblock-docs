@@ -1,6 +1,6 @@
 ---
-title: optimism:eth_getBlockReceipts - Optimism
-description: Example code for the optimism:eth_getBlockReceipts ws method. Сomplete guide on how to use optimism:eth_getBlockReceipts ws in GetBlock.io Web3 documentation.
+title: optimism:eth_getBlockReceipts \[WebSocket\]
+description: Returns all transaction receipts for a given block.
 ---
 
 ### Parameters

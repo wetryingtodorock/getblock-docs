@@ -1,6 +1,6 @@
 ---
-title: movr:contracts_rentProjection  {disallowed} - Moonriver
-description: Example code for the movr:contracts_rentProjection  {disallowed} json-rpc method. Сomplete guide on how to use movr:contracts_rentProjection  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: movr:contracts_rentProjection \[POST\] {disallowed}
+description: Returns the projected time a given contract will be able to sustainpaying its rent.
 ---
 
 ### Parameters

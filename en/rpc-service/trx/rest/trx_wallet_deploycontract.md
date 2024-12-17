@@ -1,6 +1,6 @@
 ---
-title: trx:/wallet/deploycontract  {disallowed} - TRON
-description: Example code for the trx:/wallet/deploycontract  {disallowed} rest method. Сomplete guide on how to use trx:/wallet/deploycontract  {disallowed} rest in GetBlock.io Web3 documentation.
+title: trx:/wallet/deploycontract \[POST\] {disallowed}
+description: Deploys a contract. Returns TransactionExtention, which contains anunsigned transaction.
 ---
 
 ### Parameters

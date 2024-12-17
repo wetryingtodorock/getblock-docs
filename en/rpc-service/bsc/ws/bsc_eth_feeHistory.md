@@ -1,6 +1,6 @@
 ---
-title: bsc:eth_feeHistory - Binance Smart Chain
-description: Example code for the bsc:eth_feeHistory ws method. Сomplete guide on how to use bsc:eth_feeHistory ws in GetBlock.io Web3 documentation.
+title: bsc:eth_feeHistory \[WebSocket\]
+description: Returns a list of historical gas information.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: dash:getunconfirmedbalance  {disallowed} - Dash
-description: Example code for the dash:getunconfirmedbalance  {disallowed} json-rpc method. Сomplete guide on how to use dash:getunconfirmedbalance  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: dash:getunconfirmedbalance \[POST\] {disallowed}
+description: Returns the wallets total unconfirmed balance.
 ---
 
 ### Parameters

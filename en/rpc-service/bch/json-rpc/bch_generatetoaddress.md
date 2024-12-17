@@ -1,6 +1,6 @@
 ---
-title: bch:generatetoaddress  {disallowed} - Bitcoin Cash
-description: Example code for the bch:generatetoaddress  {disallowed} json-rpc method. Сomplete guide on how to use bch:generatetoaddress  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: bch:generatetoaddress \[POST\] {disallowed}
+description: Mine blocks immediately to a specified address (before the RPC callreturns)
 ---
 
 ### Parameters

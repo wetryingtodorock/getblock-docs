@@ -1,6 +1,6 @@
 ---
-title: movr:childstate_getKeysPaged  {disallowed} - Moonriver
-description: Example code for the movr:childstate_getKeysPaged  {disallowed} json-rpc method. Сomplete guide on how to use movr:childstate_getKeysPaged  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: movr:childstate_getKeysPaged \[POST\] {disallowed}
+description: Returns the keys with prefix from a child storage with paginationsupport.
 ---
 
 ### Parameters

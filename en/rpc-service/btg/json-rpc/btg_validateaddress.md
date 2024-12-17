@@ -1,6 +1,6 @@
 ---
-title: btg:validateaddress - Bitcoin Gold
-description: Example code for the btg:validateaddress json-rpc method. Сomplete guide on how to use btg:validateaddress json-rpc in GetBlock.io Web3 documentation.
+title: btg:validateaddress \[POST\]
+description: Return information about the given btc address.
 ---
 
 ### Parameters

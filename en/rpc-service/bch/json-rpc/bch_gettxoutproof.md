@@ -1,6 +1,6 @@
 ---
-title: bch:gettxoutproof - Bitcoin Cash
-description: Example code for the bch:gettxoutproof json-rpc method. Сomplete guide on how to use bch:gettxoutproof json-rpc in GetBlock.io Web3 documentation.
+title: bch:gettxoutproof \[POST\]
+description: Returns a hex-encoded proof that “txid” was included in a block.NOTE By default this function only works sometimes. This is when thereis an unspent output in the utxo for this transaction. To make it alwayswork, you need to maintain a transaction index, using the -txindexcommand line option or specify the block in which the transaction isincluded manually (by blockhash).
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: rsk:eth_getBlockTransactionCountByNumber - Rootstock
-description: Example code for the rsk:eth_getBlockTransactionCountByNumber json-rpc method. Сomplete guide on how to use rsk:eth_getBlockTransactionCountByNumber json-rpc in GetBlock.io Web3 documentation.
+title: rsk:eth_getBlockTransactionCountByNumber \[POST\]
+description: Returns the number of transactions in a block matching the given blocknumber.
 ---
 
 ### Parameters

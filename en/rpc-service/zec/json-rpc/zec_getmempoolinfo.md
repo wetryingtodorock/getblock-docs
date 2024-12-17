@@ -1,6 +1,6 @@
 ---
-title: zec:getmempoolinfo - Zcash
-description: Example code for the zec:getmempoolinfo json-rpc method. Сomplete guide on how to use zec:getmempoolinfo json-rpc in GetBlock.io Web3 documentation.
+title: zec:getmempoolinfo \[POST\]
+description: Returns details on the active state of the TX memory pool.
 ---
 
 ### Parameters

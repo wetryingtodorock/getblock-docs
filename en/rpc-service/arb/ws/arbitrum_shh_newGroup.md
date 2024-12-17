@@ -1,6 +1,6 @@
 ---
-title: arbitrum:shh_newGroup  {disallowed} - Arbitrum
-description: Example code for the arbitrum:shh_newGroup  {disallowed} ws method. Сomplete guide on how to use arbitrum:shh_newGroup  {disallowed} ws in GetBlock.io Web3 documentation.
+title: arbitrum:shh_newGroup \[WebSocket\] {disallowed}
+description: Creates new group
 ---
 
 ### Parameters

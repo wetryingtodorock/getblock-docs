@@ -1,6 +1,6 @@
 ---
-title: glmr:eth_getUncleCountByBlockNumber - Moonbeam
-description: Example code for the glmr:eth_getUncleCountByBlockNumber json-rpc method. Сomplete guide on how to use glmr:eth_getUncleCountByBlockNumber json-rpc in GetBlock.io Web3 documentation.
+title: glmr:eth_getUncleCountByBlockNumber \[POST\]
+description: Returns the number of uncles in a block from a block matching the givenblock number.
 ---
 
 ### Parameters

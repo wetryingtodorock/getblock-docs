@@ -1,6 +1,6 @@
 ---
-title: etc:perm_removeAccountsFromAllowlist  {disallowed} - Ethereum Classic
-description: Example code for the etc:perm_removeAccountsFromAllowlist  {disallowed} json-rpc method. Сomplete guide on how to use etc:perm_removeAccountsFromAllowlist  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: etc:perm_removeAccountsFromAllowlist \[POST\] {disallowed}
+description: Removes accounts (participants) from the accounts permissions list.
 ---
 
 ### Parameters

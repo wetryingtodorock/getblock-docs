@@ -1,6 +1,6 @@
 ---
-title: dgb:analyzepsbt - DigiByte
-description: Example code for the dgb:analyzepsbt json-rpc method. Сomplete guide on how to use dgb:analyzepsbt json-rpc in GetBlock.io Web3 documentation.
+title: dgb:analyzepsbt \[POST\]
+description: Analyzes and provides information about the current status of a PSBT andits inputs
 ---
 
 ### Parameters

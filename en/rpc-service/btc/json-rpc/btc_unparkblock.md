@@ -1,6 +1,6 @@
 ---
-title: btc:unparkblock  {disallowed} - Bitcoin
-description: Example code for the btc:unparkblock  {disallowed} json-rpc method. Сomplete guide on how to use btc:unparkblock  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: btc:unparkblock \[POST\] {disallowed}
+description: Removes parked status of a block and its descendants, reconsider themfor activation.This can be used to undo the effects of parkblock.
 ---
 
 ### Parameters

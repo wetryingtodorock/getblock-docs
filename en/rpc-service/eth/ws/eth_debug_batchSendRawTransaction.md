@@ -1,6 +1,6 @@
 ---
-title: eth:debug_batchSendRawTransaction  {disallowed} - Ethereum
-description: Example code for the eth:debug_batchSendRawTransaction  {disallowed} ws method. Сomplete guide on how to use eth:debug_batchSendRawTransaction  {disallowed} ws in GetBlock.io Web3 documentation.
+title: eth:debug_batchSendRawTransaction \[WebSocket\] {disallowed}
+description: Sends a list of signed transactions. This is used to quickly load anetwork with a lot of transactions. This does the same thing as callingeth_sendRawTransaction multiple times.
 ---
 
 ### Parameters

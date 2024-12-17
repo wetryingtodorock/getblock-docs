@@ -1,6 +1,6 @@
 ---
-title: avax:eth_chainId - Avalanche
-description: Example code for the avax:eth_chainId json-rpc method. Сomplete guide on how to use avax:eth_chainId json-rpc in GetBlock.io Web3 documentation.
+title: avax:eth_chainId \[POST\]
+description: Returns the currently configured chain id, a value used inreplay-protected transaction signing as introduced by EIP-155.
 ---
 
 ### Parameters

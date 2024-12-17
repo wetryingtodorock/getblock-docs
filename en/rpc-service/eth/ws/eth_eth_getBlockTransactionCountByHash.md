@@ -1,6 +1,6 @@
 ---
-title: eth:eth_getBlockTransactionCountByHash - Ethereum
-description: Example code for the eth:eth_getBlockTransactionCountByHash ws method. Сomplete guide on how to use eth:eth_getBlockTransactionCountByHash ws in GetBlock.io Web3 documentation.
+title: eth:eth_getBlockTransactionCountByHash \[WebSocket\]
+description: Returns the number of transactions in the block matching the given blockhash.
 ---
 
 ### Parameters

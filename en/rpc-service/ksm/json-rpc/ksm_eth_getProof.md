@@ -1,6 +1,6 @@
 ---
-title: ksm:eth_getProof  {disallowed} - Kusama
-description: Example code for the ksm:eth_getProof  {disallowed} json-rpc method. Сomplete guide on how to use ksm:eth_getProof  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: ksm:eth_getProof \[POST\] {disallowed}
+description: Returns proof for account and storage.
 ---
 
 ### Parameters

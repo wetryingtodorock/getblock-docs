@@ -1,6 +1,6 @@
 ---
-title: glmr:eth_coinbase - Moonbeam
-description: Example code for the glmr:eth_coinbase json-rpc method. Сomplete guide on how to use glmr:eth_coinbase json-rpc in GetBlock.io Web3 documentation.
+title: glmr:eth_coinbase \[POST\]
+description: Returns the client coinbase address.
 ---
 
 ### Parameters

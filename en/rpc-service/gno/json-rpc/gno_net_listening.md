@@ -1,6 +1,6 @@
 ---
-title: gno:net_listening - Gnosis
-description: Example code for the gno:net_listening json-rpc method. Сomplete guide on how to use gno:net_listening json-rpc in GetBlock.io Web3 documentation.
+title: gno:net_listening \[POST\]
+description: Whether the client is actively listening for network connections.
 ---
 
 ### Parameters

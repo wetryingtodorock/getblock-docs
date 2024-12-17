@@ -1,6 +1,6 @@
 ---
-title: trx:/walletsolidity/getblockbynum  {disallowed} - TRON
-description: Example code for the trx:/walletsolidity/getblockbynum  {disallowed} rest method. Сomplete guide on how to use trx:/walletsolidity/getblockbynum  {disallowed} rest in GetBlock.io Web3 documentation.
+title: trx:/walletsolidity/getblockbynum \[POST\] {disallowed}
+description: Queries whether a specified block is confirmed. If the block can beobtained, the block is confirmed by the network if the block cannot beobtained, the block is not confirmed by the network
 ---
 
 ### Parameters

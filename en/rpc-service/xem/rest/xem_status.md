@@ -1,6 +1,6 @@
 ---
-title: xem:/status - NEM
-description: Example code for the xem:/status rest method. Сomplete guide on how to use xem:/status rest in GetBlock.io Web3 documentation.
+title: xem:/status \[GET\]
+description: Determines the status of NIS.The code can be interpreted as follows 0 Unknown status. 1 NIS isstopped. 2 NIS is starting. 3 NIS is running. 4 NIS is booting thelocal node (implies NIS is running). 5 The local node is booted(implies NIS is running). 6 The local node is synchronized (implies NISis running and the local node is booted). 7 NIS local node does not seeany remote NIS node (implies running and booted). 8 NIS is currentlyloading the block chain from the database. In this state NIS cannotserve any requests.
 ---
 
 ### Parameters

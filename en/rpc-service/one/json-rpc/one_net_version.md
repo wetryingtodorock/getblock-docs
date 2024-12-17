@@ -1,6 +1,6 @@
 ---
-title: one:net_version - Harmony
-description: Example code for the one:net_version json-rpc method. Сomplete guide on how to use one:net_version json-rpc in GetBlock.io Web3 documentation.
+title: one:net_version \[POST\]
+description: Returns the network ID.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: sol:getProgramAccounts - Solana
-description: Example code for the sol:getProgramAccounts json-rpc method. Сomplete guide on how to use sol:getProgramAccounts json-rpc in GetBlock.io Web3 documentation.
+title: sol:getProgramAccounts \[POST\]
+description: Returns all accounts owned by the provided program Pubkey
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: cro:eth_feeHistory - Cronos
-description: Example code for the cro:eth_feeHistory json-rpc method. Сomplete guide on how to use cro:eth_feeHistory json-rpc in GetBlock.io Web3 documentation.
+title: cro:eth_feeHistory \[POST\]
+description: Returns a list of historical gas information.
 ---
 
 ### Parameters

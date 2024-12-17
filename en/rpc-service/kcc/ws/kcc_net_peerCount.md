@@ -1,6 +1,6 @@
 ---
-title: kcc:net_peerCount - KuCoin Community Chain
-description: Example code for the kcc:net_peerCount ws method. Сomplete guide on how to use kcc:net_peerCount ws in GetBlock.io Web3 documentation.
+title: kcc:net_peerCount \[WebSocket\]
+description: Returns number of peers currently connected to the client.
 ---
 
 ### Parameters

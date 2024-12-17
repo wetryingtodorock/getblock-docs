@@ -1,6 +1,6 @@
 ---
-title: dgb:submitblock  {disallowed} - DigiByte
-description: Example code for the dgb:submitblock  {disallowed} json-rpc method. Сomplete guide on how to use dgb:submitblock  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: dgb:submitblock \[POST\] {disallowed}
+description: Attempts to submit new block to network.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: gno:web3_clientVersion - Gnosis
-description: Example code for the gno:web3_clientVersion ws method. Сomplete guide on how to use gno:web3_clientVersion ws in GetBlock.io Web3 documentation.
+title: gno:web3_clientVersion \[WebSocket\]
+description: Returns the current client version.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: ont:getsmartcodeevent - Ontology
-description: Example code for the ont:getsmartcodeevent json-rpc method. Сomplete guide on how to use ont:getsmartcodeevent json-rpc in GetBlock.io Web3 documentation.
+title: ont:getsmartcodeevent \[POST\]
+description: Fetch smart contract execution result using block height or transactionhash.When the block height is passed as the parameter, the response containsthe list of all the transactions that are the execution result.When a transaction hash is passed as the parameter, the responsecontains the execution result of the particular transaction.
 ---
 
 ### Parameters

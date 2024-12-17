@@ -1,6 +1,6 @@
 ---
-title: movr:state_queryStorageAt  {disallowed} - Moonriver
-description: Example code for the movr:state_queryStorageAt  {disallowed} json-rpc method. Сomplete guide on how to use movr:state_queryStorageAt  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: movr:state_queryStorageAt \[POST\] {disallowed}
+description: Query storage entries (by key) starting at block hash given as thesecond parameter.
 ---
 
 ### Parameters

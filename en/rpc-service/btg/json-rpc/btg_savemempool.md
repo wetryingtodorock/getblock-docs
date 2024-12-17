@@ -1,6 +1,6 @@
 ---
-title: btg:savemempool  {disallowed} - Bitcoin Gold
-description: Example code for the btg:savemempool  {disallowed} json-rpc method. Сomplete guide on how to use btg:savemempool  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: btg:savemempool \[POST\] {disallowed}
+description: Dumps the mempool to disk. It will fail until the previous dump is fullyloaded.
 ---
 
 ### Parameters

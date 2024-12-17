@@ -1,6 +1,6 @@
 ---
-title: dgb:getwalletinfo  {disallowed} - DigiByte
-description: Example code for the dgb:getwalletinfo  {disallowed} json-rpc method. Сomplete guide on how to use dgb:getwalletinfo  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: dgb:getwalletinfo \[POST\] {disallowed}
+description: Returns an object containing various wallet state info.
 ---
 
 ### Parameters

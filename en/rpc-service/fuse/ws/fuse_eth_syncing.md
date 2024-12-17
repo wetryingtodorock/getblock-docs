@@ -1,6 +1,6 @@
 ---
-title: fuse:eth_syncing - Fuse Network
-description: Example code for the fuse:eth_syncing ws method. Сomplete guide on how to use fuse:eth_syncing ws in GetBlock.io Web3 documentation.
+title: fuse:eth_syncing \[WebSocket\]
+description: Returns an object with data about the sync status or false.
 ---
 
 ### Parameters

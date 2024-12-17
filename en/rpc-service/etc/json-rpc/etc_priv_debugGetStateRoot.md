@@ -1,6 +1,6 @@
 ---
-title: etc:priv_debugGetStateRoot  {disallowed} - Ethereum Classic
-description: Example code for the etc:priv_debugGetStateRoot  {disallowed} json-rpc method. Сomplete guide on how to use etc:priv_debugGetStateRoot  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: etc:priv_debugGetStateRoot \[POST\] {disallowed}
+description: Returns the state root of the specified privacy group at the specifiedblock.
 ---
 
 ### Parameters

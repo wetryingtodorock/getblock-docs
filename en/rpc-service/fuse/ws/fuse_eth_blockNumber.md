@@ -1,6 +1,6 @@
 ---
-title: fuse:eth_blockNumber - Fuse Network
-description: Example code for the fuse:eth_blockNumber ws method. Сomplete guide on how to use fuse:eth_blockNumber ws in GetBlock.io Web3 documentation.
+title: fuse:eth_blockNumber \[WebSocket\]
+description: Returns the number of most recent block.
 ---
 
 ### Parameters

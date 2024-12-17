@@ -1,6 +1,6 @@
 ---
-title: zec:getnetworkinfo  {disallowed} - Zcash
-description: Example code for the zec:getnetworkinfo  {disallowed} json-rpc method. Сomplete guide on how to use zec:getnetworkinfo  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: zec:getnetworkinfo \[POST\] {disallowed}
+description: Returns an object containing various state info regarding P2Pnetworking.
 ---
 
 ### Parameters

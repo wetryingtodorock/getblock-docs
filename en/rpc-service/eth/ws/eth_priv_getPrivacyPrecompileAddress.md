@@ -1,6 +1,6 @@
 ---
-title: eth:priv_getPrivacyPrecompileAddress  {disallowed} - Ethereum
-description: Example code for the eth:priv_getPrivacyPrecompileAddress  {disallowed} ws method. Сomplete guide on how to use eth:priv_getPrivacyPrecompileAddress  {disallowed} ws in GetBlock.io Web3 documentation.
+title: eth:priv_getPrivacyPrecompileAddress \[WebSocket\] {disallowed}
+description: Returns the address of the privacy precompiled contract. The address isderived and based on the value of the privacy-onchain-groups-enabledoption.
 ---
 
 ### Parameters

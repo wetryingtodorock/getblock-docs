@@ -1,6 +1,6 @@
 ---
-title: fuse:eth_unsubscribe - Fuse Network
-description: Example code for the fuse:eth_unsubscribe ws method. Сomplete guide on how to use fuse:eth_unsubscribe ws in GetBlock.io Web3 documentation.
+title: fuse:eth_unsubscribe \[WebSocket\]
+description: Cancels specified subscription. Returns true if canceled successfully orfalse otherwise.
 ---
 
 ### Parameters

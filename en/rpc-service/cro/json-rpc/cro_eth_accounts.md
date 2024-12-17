@@ -1,6 +1,6 @@
 ---
-title: cro:eth_accounts - Cronos
-description: Example code for the cro:eth_accounts json-rpc method. Сomplete guide on how to use cro:eth_accounts json-rpc in GetBlock.io Web3 documentation.
+title: cro:eth_accounts \[POST\]
+description: Returns a list of account addresses a client owns.
 ---
 
 ### Parameters

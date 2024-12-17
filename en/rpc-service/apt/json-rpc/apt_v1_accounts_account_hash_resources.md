@@ -1,6 +1,6 @@
 ---
-title: apt:/v1/accounts/{account_hash}/resources - Aptos
-description: Example code for the apt:/v1/accounts/{account_hash}/resources json-rpc method. Сomplete guide on how to use apt:/v1/accounts/{account_hash}/resources json-rpc in GetBlock.io Web3 documentation.
+title: apt:/v1/accounts/{account_hash}/resources \[GET\]
+description: Gets all resources for a specified account and ledger version.
 ---
 
 ### Parameters

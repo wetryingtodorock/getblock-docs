@@ -1,6 +1,6 @@
 ---
-title: zec:verifytxoutproof  {disallowed} - Zcash
-description: Example code for the zec:verifytxoutproof  {disallowed} json-rpc method. Сomplete guide on how to use zec:verifytxoutproof  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: zec:verifytxoutproof \[POST\] {disallowed}
+description: Verifies that a proof points to a transaction in a block, returning thetransaction it commits to and throwing an RPC error if the block is notin our best chain.
 ---
 
 ### Parameters

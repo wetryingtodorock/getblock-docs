@@ -1,6 +1,6 @@
 ---
-title: bsv:getexcessiveblock  {disallowed} - Bitcoin SV
-description: Example code for the bsv:getexcessiveblock  {disallowed} json-rpc method. Сomplete guide on how to use bsv:getexcessiveblock  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: bsv:getexcessiveblock \[POST\] {disallowed}
+description: Return the excessive block size.
 ---
 
 ### Parameters

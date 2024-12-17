@@ -1,6 +1,6 @@
 ---
-title: heco:eth_unsubscribe - Huobi ECO Chain
-description: Example code for the heco:eth_unsubscribe ws method. Сomplete guide on how to use heco:eth_unsubscribe ws in GetBlock.io Web3 documentation.
+title: heco:eth_unsubscribe \[WebSocket\]
+description: Cancels specified subscription. Returns true if canceled successfully orfalse otherwise.
 ---
 
 ### Parameters

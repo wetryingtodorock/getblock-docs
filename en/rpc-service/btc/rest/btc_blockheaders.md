@@ -1,6 +1,6 @@
 ---
-title: btc:blockheaders - Bitcoin
-description: Example code for the btc:blockheaders rest method. Сomplete guide on how to use btc:blockheaders rest in GetBlock.io Web3 documentation.
+title: btc:blockheaders \[GET\]
+description: Given a block hash returns amount of blockheaders in upward direction. Returns empty if the block doesn't exist or it isn't in the active chain.
 ---
 
 ### Example

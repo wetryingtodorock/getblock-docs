@@ -1,6 +1,6 @@
 ---
-title: optimism:eth_getTransactionByBlockNumberAndIndex - Optimism
-description: Example code for the optimism:eth_getTransactionByBlockNumberAndIndex ws method. Сomplete guide on how to use optimism:eth_getTransactionByBlockNumberAndIndex ws in GetBlock.io Web3 documentation.
+title: optimism:eth_getTransactionByBlockNumberAndIndex \[WebSocket\]
+description: Returns information about a transaction by block number and transactionindex position.
 ---
 
 ### Parameters

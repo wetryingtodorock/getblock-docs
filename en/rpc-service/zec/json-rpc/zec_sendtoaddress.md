@@ -1,6 +1,6 @@
 ---
-title: zec:sendtoaddress  {disallowed} - Zcash
-description: Example code for the zec:sendtoaddress  {disallowed} json-rpc method. Сomplete guide on how to use zec:sendtoaddress  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: zec:sendtoaddress \[POST\] {disallowed}
+description: Send an amount to a given address. The amount is a real and is roundedto the nearest 0.00000001
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: sol:getBlockProduction - Solana
-description: Example code for the sol:getBlockProduction json-rpc method. Сomplete guide on how to use sol:getBlockProduction json-rpc in GetBlock.io Web3 documentation.
+title: sol:getBlockProduction \[POST\]
+description: Returns recent block production information from the current or previousepoch.
 ---
 
 ### Parameters

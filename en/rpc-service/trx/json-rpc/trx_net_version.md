@@ -1,6 +1,6 @@
 ---
-title: trx:net_version - TRON
-description: Example code for the trx:net_version json-rpc method. Сomplete guide on how to use trx:net_version json-rpc in GetBlock.io Web3 documentation.
+title: trx:net_version \[POST\]
+description: Returns the hash of the genesis block.
 ---
 
 ### Parameters

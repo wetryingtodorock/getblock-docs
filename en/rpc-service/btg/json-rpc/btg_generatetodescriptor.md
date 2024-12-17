@@ -1,6 +1,6 @@
 ---
-title: btg:generatetodescriptor  {disallowed} - Bitcoin Gold
-description: Example code for the btg:generatetodescriptor  {disallowed} json-rpc method. Сomplete guide on how to use btg:generatetodescriptor  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: btg:generatetodescriptor \[POST\] {disallowed}
+description: Mine blocks immediately to a specified descriptor (before the RPC callreturns)
 ---
 
 ### Parameters

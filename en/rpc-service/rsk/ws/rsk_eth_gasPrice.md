@@ -1,6 +1,6 @@
 ---
-title: rsk:eth_gasPrice - Rootstock
-description: Example code for the rsk:eth_gasPrice ws method. Сomplete guide on how to use rsk:eth_gasPrice ws in GetBlock.io Web3 documentation.
+title: rsk:eth_gasPrice \[WebSocket\]
+description: Returns the current price per gas in wei.
 ---
 
 ### Parameters

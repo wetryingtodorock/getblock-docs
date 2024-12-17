@@ -1,6 +1,6 @@
 ---
-title: ksm:state_getChildStorage  {disallowed} - Kusama
-description: Example code for the ksm:state_getChildStorage  {disallowed} json-rpc method. Сomplete guide on how to use ksm:state_getChildStorage  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: ksm:state_getChildStorage \[POST\] {disallowed}
+description: Retrieves the child storage for a key.
 ---
 
 ### Parameters

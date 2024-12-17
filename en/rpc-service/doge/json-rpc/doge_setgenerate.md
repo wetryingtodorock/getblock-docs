@@ -1,6 +1,6 @@
 ---
-title: doge:setgenerate  {disallowed} - Dogecoin
-description: Example code for the doge:setgenerate  {disallowed} json-rpc method. Сomplete guide on how to use doge:setgenerate  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: doge:setgenerate \[POST\] {disallowed}
+description: Enable or disable generation (mining) of coins.
 ---
 
 ### Parameters

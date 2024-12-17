@@ -1,6 +1,6 @@
 ---
-title: btg:getmempoolancestors - Bitcoin Gold
-description: Example code for the btg:getmempoolancestors json-rpc method. Сomplete guide on how to use btg:getmempoolancestors json-rpc in GetBlock.io Web3 documentation.
+title: btg:getmempoolancestors \[POST\]
+description: If txid is in the mempool, returns all in-mempool ancestors.
 ---
 
 ### Parameters

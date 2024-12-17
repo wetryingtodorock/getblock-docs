@@ -1,6 +1,6 @@
 ---
-title: one:eth_newPendingTransactionFilter - Harmony
-description: Example code for the one:eth_newPendingTransactionFilter json-rpc method. Сomplete guide on how to use one:eth_newPendingTransactionFilter json-rpc in GetBlock.io Web3 documentation.
+title: one:eth_newPendingTransactionFilter \[POST\]
+description: Creates a filter in the node, to notify when new pending transactionsarrive. To check if the state has changed, call eth_getFilterChanges.
 ---
 
 ### Parameters

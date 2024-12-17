@@ -1,6 +1,6 @@
 ---
-title: matic:eth_accounts - Polygon
-description: Example code for the matic:eth_accounts ws method. Сomplete guide on how to use matic:eth_accounts ws in GetBlock.io Web3 documentation.
+title: matic:eth_accounts \[WebSocket\]
+description: Returns a list of addresses owned by client.
 ---
 
 ### Parameters

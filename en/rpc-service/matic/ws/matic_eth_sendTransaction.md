@@ -1,6 +1,6 @@
 ---
-title: matic:eth_sendTransaction - Polygon
-description: Example code for the matic:eth_sendTransaction ws method. Сomplete guide on how to use matic:eth_sendTransaction ws in GetBlock.io Web3 documentation.
+title: matic:eth_sendTransaction \[WebSocket\]
+description: Creates new message call transaction or a contract creation, if the datafield contains code.
 ---
 
 ### Parameters

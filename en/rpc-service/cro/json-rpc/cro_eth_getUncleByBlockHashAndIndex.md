@@ -1,6 +1,6 @@
 ---
-title: cro:eth_getUncleByBlockHashAndIndex - Cronos
-description: Example code for the cro:eth_getUncleByBlockHashAndIndex json-rpc method. Сomplete guide on how to use cro:eth_getUncleByBlockHashAndIndex json-rpc in GetBlock.io Web3 documentation.
+title: cro:eth_getUncleByBlockHashAndIndex \[POST\]
+description: Returns uncle specified by block hash and index.
 ---
 
 ### Parameters

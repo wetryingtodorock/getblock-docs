@@ -1,6 +1,6 @@
 ---
-title: dash:walletpassphrasechange  {disallowed} - Dash
-description: Example code for the dash:walletpassphrasechange  {disallowed} json-rpc method. Сomplete guide on how to use dash:walletpassphrasechange  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: dash:walletpassphrasechange \[POST\] {disallowed}
+description: Changes the wallet passphrase from old passphrase to new passphrase.If using this RPC on the command line, remember that your shell probablysaves your command lines (including the value of the passphraseparameter).
 ---
 
 ### Parameters

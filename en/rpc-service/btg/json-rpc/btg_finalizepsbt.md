@@ -1,6 +1,6 @@
 ---
-title: btg:finalizepsbt - Bitcoin Gold
-description: Example code for the btg:finalizepsbt json-rpc method. Сomplete guide on how to use btg:finalizepsbt json-rpc in GetBlock.io Web3 documentation.
+title: btg:finalizepsbt \[POST\]
+description: Finalize the inputs of a PSBT. If the transaction is fully signed, itwill produce a network serialized transaction which can be broadcastwith sendrawtransaction. Otherwise a PSBT will be created which has thefinal_scriptSig and final_scriptWitness fields filled for inputs thatare complete.Implements the Finalizer and Extractor roles.
 ---
 
 ### Parameters

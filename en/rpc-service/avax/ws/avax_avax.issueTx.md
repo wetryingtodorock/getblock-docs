@@ -1,6 +1,6 @@
 ---
-title: avax:avax.issueTx  {disallowed} - Avalanche
-description: Example code for the avax:avax.issueTx  {disallowed} ws method. Сomplete guide on how to use avax:avax.issueTx  {disallowed} ws in GetBlock.io Web3 documentation.
+title: avax:avax.issueTx \[WebSocket\] {disallowed}
+description: Send a signed transaction to the network.
 ---
 
 ### Parameters

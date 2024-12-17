@@ -1,6 +1,6 @@
 ---
-title: avax:eth_getAssetBalance  {disallowed} - Avalanche
-description: Example code for the avax:eth_getAssetBalance  {disallowed} json-rpc method. Сomplete guide on how to use avax:eth_getAssetBalance  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: avax:eth_getAssetBalance \[POST\] {disallowed}
+description: In addition to the standard Ethereum APIs, Avalanche offerseth_getAssetBalance to retrieve the balance of first class AvalancheNative Tokens on the C-Chain (excluding AVAX, which must be fetched witheth_getBalance).
 ---
 
 ### Parameters

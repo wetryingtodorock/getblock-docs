@@ -1,6 +1,6 @@
 ---
-title: movr:state_getRuntimeVersion - Moonriver
-description: Example code for the movr:state_getRuntimeVersion json-rpc method. Сomplete guide on how to use movr:state_getRuntimeVersion json-rpc in GetBlock.io Web3 documentation.
+title: movr:state_getRuntimeVersion \[POST\]
+description: Get the runtime version.
 ---
 
 ### Parameters

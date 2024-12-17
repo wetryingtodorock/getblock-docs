@@ -1,6 +1,6 @@
 ---
-title: trx:/wallet/easytransferassetbyprivate  {disallowed} - TRON
-description: Example code for the trx:/wallet/easytransferassetbyprivate  {disallowed} rest method. Сomplete guide on how to use trx:/wallet/easytransferassetbyprivate  {disallowed} rest in GetBlock.io Web3 documentation.
+title: trx:/wallet/easytransferassetbyprivate \[POST\] {disallowed}
+description: TRC10 token easy transfer. Broadcast the created transaction directly.There is a security risk. This interface service has been shutdown bythe Trongrid. Please use the offline mode or the node deployed byyourself.
 ---
 
 ### Parameters

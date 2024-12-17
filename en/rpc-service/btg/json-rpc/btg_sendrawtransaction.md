@@ -1,6 +1,6 @@
 ---
-title: btg:sendrawtransaction - Bitcoin Gold
-description: Example code for the btg:sendrawtransaction json-rpc method. Сomplete guide on how to use btg:sendrawtransaction json-rpc in GetBlock.io Web3 documentation.
+title: btg:sendrawtransaction \[POST\]
+description: Submit a raw transaction (serialized, hex-encoded) to local node andnetwork.Note that the transaction will be sent unconditionally to all peers, sousing this for manual rebroadcast may degrade privacy by leaking thetransactions origin, as nodes will normally not rebroadcast non-wallettransactions already in their mempool.
 ---
 
 ### Parameters

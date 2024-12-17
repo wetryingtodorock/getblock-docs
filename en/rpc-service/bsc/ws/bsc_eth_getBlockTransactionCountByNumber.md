@@ -1,6 +1,6 @@
 ---
-title: bsc:eth_getBlockTransactionCountByNumber - Binance Smart Chain
-description: Example code for the bsc:eth_getBlockTransactionCountByNumber ws method. Сomplete guide on how to use bsc:eth_getBlockTransactionCountByNumber ws in GetBlock.io Web3 documentation.
+title: bsc:eth_getBlockTransactionCountByNumber \[WebSocket\]
+description: Returns the number of transactions in a block matching the specifiedblock number.
 ---
 
 ### Parameters

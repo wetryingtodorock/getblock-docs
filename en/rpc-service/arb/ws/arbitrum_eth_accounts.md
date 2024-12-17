@@ -1,6 +1,6 @@
 ---
-title: arbitrum:eth_accounts - Arbitrum
-description: Example code for the arbitrum:eth_accounts ws method. Сomplete guide on how to use arbitrum:eth_accounts ws in GetBlock.io Web3 documentation.
+title: arbitrum:eth_accounts \[WebSocket\]
+description: Returns a list of addresses owned by client.
 ---
 
 ### Parameters

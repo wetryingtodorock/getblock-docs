@@ -1,6 +1,6 @@
 ---
-title: arbitrum:eth_getTransactionByBlockHashAndIndex - Arbitrum
-description: Example code for the arbitrum:eth_getTransactionByBlockHashAndIndex json-rpc method. Сomplete guide on how to use arbitrum:eth_getTransactionByBlockHashAndIndex json-rpc in GetBlock.io Web3 documentation.
+title: arbitrum:eth_getTransactionByBlockHashAndIndex \[POST\]
+description: Returns information about a transaction by block hash and transactionindex position.
 ---
 
 ### Parameters

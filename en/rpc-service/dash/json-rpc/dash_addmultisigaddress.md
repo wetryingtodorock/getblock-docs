@@ -1,6 +1,6 @@
 ---
-title: dash:addmultisigaddress  {disallowed} - Dash
-description: Example code for the dash:addmultisigaddress  {disallowed} json-rpc method. Сomplete guide on how to use dash:addmultisigaddress  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: dash:addmultisigaddress \[POST\] {disallowed}
+description: Adds a P2SH multisig address to the wallet.
 ---
 
 ### Parameters

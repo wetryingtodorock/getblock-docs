@@ -1,6 +1,6 @@
 ---
-title: kcc:web3_sha3 - KuCoin Community Chain
-description: Example code for the kcc:web3_sha3 ws method. Сomplete guide on how to use kcc:web3_sha3 ws in GetBlock.io Web3 documentation.
+title: kcc:web3_sha3 \[WebSocket\]
+description: Returns Keccak-256 (not the standardized SHA3-256) of the given data.
 ---
 
 ### Parameters

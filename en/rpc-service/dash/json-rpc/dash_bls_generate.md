@@ -1,6 +1,6 @@
 ---
-title: dash:bls_generate  {disallowed} - Dash
-description: Example code for the dash:bls_generate  {disallowed} json-rpc method. Сomplete guide on how to use dash:bls_generate  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: dash:bls_generate \[POST\] {disallowed}
+description: RPC creates a new BLS secret/public key pair.
 ---
 
 ### Parameters

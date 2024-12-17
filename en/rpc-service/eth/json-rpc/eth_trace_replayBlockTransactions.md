@@ -1,6 +1,6 @@
 ---
-title: eth:trace_replayBlockTransactions  {disallowed} - Ethereum
-description: Example code for the eth:trace_replayBlockTransactions  {disallowed} json-rpc method. Сomplete guide on how to use eth:trace_replayBlockTransactions  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: eth:trace_replayBlockTransactions \[POST\] {disallowed}
+description: Provides transaction processing tracing per block.
 ---
 
 ### Parameters

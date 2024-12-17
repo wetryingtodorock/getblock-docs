@@ -1,6 +1,6 @@
 ---
-title: fuse:net_listening - Fuse Network
-description: Example code for the fuse:net_listening json-rpc method. Сomplete guide on how to use fuse:net_listening json-rpc in GetBlock.io Web3 documentation.
+title: fuse:net_listening \[POST\]
+description: Returns true if client is actively listening for network connections.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: matic:web3_clientVersion - Polygon
-description: Example code for the matic:web3_clientVersion json-rpc method. Сomplete guide on how to use matic:web3_clientVersion json-rpc in GetBlock.io Web3 documentation.
+title: matic:web3_clientVersion \[POST\]
+description: Returns the current client version.
 ---
 
 ### Parameters

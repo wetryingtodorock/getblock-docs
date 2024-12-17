@@ -1,6 +1,6 @@
 ---
-title: bsc:txpool_inspect - Binance Smart Chain
-description: Example code for the bsc:txpool_inspect json-rpc method. Сomplete guide on how to use bsc:txpool_inspect json-rpc in GetBlock.io Web3 documentation.
+title: bsc:txpool_inspect \[POST\]
+description: Returns a list of pending and queued transactions.
 ---
 
 ### Parameters

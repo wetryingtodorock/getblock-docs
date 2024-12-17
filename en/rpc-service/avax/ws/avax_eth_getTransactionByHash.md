@@ -1,6 +1,6 @@
 ---
-title: avax:eth_getTransactionByHash - Avalanche
-description: Example code for the avax:eth_getTransactionByHash ws method. Сomplete guide on how to use avax:eth_getTransactionByHash ws in GetBlock.io Web3 documentation.
+title: avax:eth_getTransactionByHash \[WebSocket\]
+description: Returns the information about a transaction requested by transactionhash.
 ---
 
 ### Parameters

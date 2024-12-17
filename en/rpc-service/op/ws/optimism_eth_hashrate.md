@@ -1,6 +1,6 @@
 ---
-title: optimism:eth_hashrate - Optimism
-description: Example code for the optimism:eth_hashrate ws method. Сomplete guide on how to use optimism:eth_hashrate ws in GetBlock.io Web3 documentation.
+title: optimism:eth_hashrate \[WebSocket\]
+description: Returns the number of hashes per second that the node is mining with.
 ---
 
 ### Parameters

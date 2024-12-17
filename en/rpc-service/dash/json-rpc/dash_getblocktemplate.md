@@ -1,6 +1,6 @@
 ---
-title: dash:getblocktemplate - Dash
-description: Example code for the dash:getblocktemplate json-rpc method. Сomplete guide on how to use dash:getblocktemplate json-rpc in GetBlock.io Web3 documentation.
+title: dash:getblocktemplate \[POST\]
+description: Gets a block template or proposal for use with mining software.
 ---
 
 ### Parameters

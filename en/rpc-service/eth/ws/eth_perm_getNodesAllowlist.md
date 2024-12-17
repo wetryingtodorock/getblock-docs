@@ -1,6 +1,6 @@
 ---
-title: eth:perm_getNodesAllowlist  {disallowed} - Ethereum
-description: Example code for the eth:perm_getNodesAllowlist  {disallowed} ws method. Сomplete guide on how to use eth:perm_getNodesAllowlist  {disallowed} ws in GetBlock.io Web3 documentation.
+title: eth:perm_getNodesAllowlist \[WebSocket\] {disallowed}
+description: Lists nodes in the nodes allowlist.
 ---
 
 ### Parameters

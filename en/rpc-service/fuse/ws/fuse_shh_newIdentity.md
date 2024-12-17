@@ -1,6 +1,6 @@
 ---
-title: fuse:shh_newIdentity  {disallowed} - Fuse Network
-description: Example code for the fuse:shh_newIdentity  {disallowed} ws method. Сomplete guide on how to use fuse:shh_newIdentity  {disallowed} ws in GetBlock.io Web3 documentation.
+title: fuse:shh_newIdentity \[WebSocket\] {disallowed}
+description: Creates new whisper identity in the client.
 ---
 
 ### Parameters

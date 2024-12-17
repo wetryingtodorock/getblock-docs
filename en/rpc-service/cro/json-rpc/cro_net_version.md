@@ -1,6 +1,6 @@
 ---
-title: cro:net_version - Cronos
-description: Example code for the cro:net_version json-rpc method. Сomplete guide on how to use cro:net_version json-rpc in GetBlock.io Web3 documentation.
+title: cro:net_version \[POST\]
+description: Returns the network ID.
 ---
 
 ### Parameters

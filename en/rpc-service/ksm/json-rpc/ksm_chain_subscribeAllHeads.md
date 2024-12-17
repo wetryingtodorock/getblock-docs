@@ -1,6 +1,6 @@
 ---
-title: ksm:chain_subscribeAllHeads - Kusama
-description: Example code for the ksm:chain_subscribeAllHeads json-rpc method. Сomplete guide on how to use ksm:chain_subscribeAllHeads json-rpc in GetBlock.io Web3 documentation.
+title: ksm:chain_subscribeAllHeads \[POST\]
+description: Retrieves the newest header via subscription.
 ---
 
 ### Parameters

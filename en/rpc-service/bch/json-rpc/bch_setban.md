@@ -1,6 +1,6 @@
 ---
-title: bch:setban  {disallowed} - Bitcoin Cash
-description: Example code for the bch:setban  {disallowed} json-rpc method. Сomplete guide on how to use bch:setban  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: bch:setban \[POST\] {disallowed}
+description: Attempts to add or remove an IP/Subnet from the banned list.
 ---
 
 ### Parameters

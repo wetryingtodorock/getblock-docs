@@ -1,6 +1,6 @@
 ---
-title: etc:debug_standardTraceBadBlockToFile  {disallowed} - Ethereum Classic
-description: Example code for the etc:debug_standardTraceBadBlockToFile  {disallowed} json-rpc method. Сomplete guide on how to use etc:debug_standardTraceBadBlockToFile  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: etc:debug_standardTraceBadBlockToFile \[POST\] {disallowed}
+description: Generates files containing the block trace of invalid blocks. A separatefile is generated for each transaction in the block.Use debug_standardTraceBlockToFile to view the trace for a valid block.
 ---
 
 ### Parameters

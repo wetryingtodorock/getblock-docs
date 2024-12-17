@@ -1,6 +1,6 @@
 ---
-title: one:hmyv2_getStorageAt - Harmony
-description: Example code for the one:hmyv2_getStorageAt json-rpc method. Сomplete guide on how to use one:hmyv2_getStorageAt json-rpc in GetBlock.io Web3 documentation.
+title: one:hmyv2_getStorageAt \[POST\]
+description: Returns the value of a storage position at a specified address.
 ---
 
 ### Parameters

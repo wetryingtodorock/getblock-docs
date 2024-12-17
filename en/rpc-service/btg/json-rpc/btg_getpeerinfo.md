@@ -1,6 +1,6 @@
 ---
-title: btg:getpeerinfo  {disallowed} - Bitcoin Gold
-description: Example code for the btg:getpeerinfo  {disallowed} json-rpc method. Сomplete guide on how to use btg:getpeerinfo  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: btg:getpeerinfo \[POST\] {disallowed}
+description: Returns data about each connected network node as a json array ofobjects.
 ---
 
 ### Parameters

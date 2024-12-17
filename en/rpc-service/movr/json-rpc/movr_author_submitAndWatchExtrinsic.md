@@ -1,6 +1,6 @@
 ---
-title: movr:author_submitAndWatchExtrinsic  {disallowed} - Moonriver
-description: Example code for the movr:author_submitAndWatchExtrinsic  {disallowed} json-rpc method. Сomplete guide on how to use movr:author_submitAndWatchExtrinsic  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: movr:author_submitAndWatchExtrinsic \[POST\] {disallowed}
+description: Submit and subscribe to watch an extrinsic until unsubscribed
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: btc:getrpcinfo - Bitcoin
-description: Example code for the btc:getrpcinfo json-rpc method. Сomplete guide on how to use btc:getrpcinfo json-rpc in GetBlock.io Web3 documentation.
+title: btc:getrpcinfo \[POST\]
+description: Returns details of the RPC server.
 ---
 
 ### Parameters

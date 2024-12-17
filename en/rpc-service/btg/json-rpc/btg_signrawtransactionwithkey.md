@@ -1,6 +1,6 @@
 ---
-title: btg:signrawtransactionwithkey - Bitcoin Gold
-description: Example code for the btg:signrawtransactionwithkey json-rpc method. Сomplete guide on how to use btg:signrawtransactionwithkey json-rpc in GetBlock.io Web3 documentation.
+title: btg:signrawtransactionwithkey \[POST\]
+description: Sign inputs for raw transaction (serialized, hex-encoded).The second argument is an array of base58-encoded private keys that willbe the only keys used to sign the transaction.The third optional argument (may be null) is an array of previoustransaction outputs that this transaction depends on but may not yet bein the block chain.
 ---
 
 ### Parameters

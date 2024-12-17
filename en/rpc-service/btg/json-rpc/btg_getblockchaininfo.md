@@ -1,6 +1,6 @@
 ---
-title: btg:getblockchaininfo - Bitcoin Gold
-description: Example code for the btg:getblockchaininfo json-rpc method. Сomplete guide on how to use btg:getblockchaininfo json-rpc in GetBlock.io Web3 documentation.
+title: btg:getblockchaininfo \[POST\]
+description: Returns an object containing various state info regarding blockchainprocessing.
 ---
 
 ### Parameters

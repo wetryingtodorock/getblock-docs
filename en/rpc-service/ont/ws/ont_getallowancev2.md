@@ -1,6 +1,6 @@
 ---
-title: ont:getallowancev2 - Ontology
-description: Example code for the ont:getallowancev2 ws method. Сomplete guide on how to use ont:getallowancev2 ws in GetBlock.io Web3 documentation.
+title: ont:getallowancev2 \[WebSocket\]
+description: Return the allowance from the from account to the to account, with ONTsdecimals being 9, a ONGs decimals being 18.
 ---
 
 ### Parameters

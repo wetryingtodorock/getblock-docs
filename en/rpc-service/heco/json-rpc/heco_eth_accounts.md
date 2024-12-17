@@ -1,6 +1,6 @@
 ---
-title: heco:eth_accounts - Huobi ECO Chain
-description: Example code for the heco:eth_accounts json-rpc method. Сomplete guide on how to use heco:eth_accounts json-rpc in GetBlock.io Web3 documentation.
+title: heco:eth_accounts \[POST\]
+description: Returns a list of addresses owned by client.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: eth:eth_getWork - Ethereum
-description: Example code for the eth:eth_getWork json-rpc method. Сomplete guide on how to use eth:eth_getWork json-rpc in GetBlock.io Web3 documentation.
+title: eth:eth_getWork \[POST\]
+description: Returns the hash of the current block, the seed hash, and the requiredtarget boundary condition.
 ---
 
 ### Parameters

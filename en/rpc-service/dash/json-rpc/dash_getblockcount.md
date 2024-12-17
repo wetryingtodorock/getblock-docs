@@ -1,6 +1,6 @@
 ---
-title: dash:getblockcount - Dash
-description: Example code for the dash:getblockcount json-rpc method. Сomplete guide on how to use dash:getblockcount json-rpc in GetBlock.io Web3 documentation.
+title: dash:getblockcount \[POST\]
+description: Returns the number of blocks in the local best block chain.
 ---
 
 ### Parameters

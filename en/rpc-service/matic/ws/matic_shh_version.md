@@ -1,6 +1,6 @@
 ---
-title: matic:shh_version  {disallowed} - Polygon
-description: Example code for the matic:shh_version  {disallowed} ws method. Сomplete guide on how to use matic:shh_version  {disallowed} ws in GetBlock.io Web3 documentation.
+title: matic:shh_version \[WebSocket\] {disallowed}
+description: Whisper protocol not supported.
 ---
 
 ### Parameters

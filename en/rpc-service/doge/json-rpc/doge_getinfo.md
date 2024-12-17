@@ -1,6 +1,6 @@
 ---
-title: doge:getinfo - Dogecoin
-description: Example code for the doge:getinfo json-rpc method. Сomplete guide on how to use doge:getinfo json-rpc in GetBlock.io Web3 documentation.
+title: doge:getinfo \[POST\]
+description: Returns an ServerInfo object containing various state info.
 ---
 
 ### Parameters

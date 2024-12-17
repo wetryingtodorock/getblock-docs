@@ -1,6 +1,6 @@
 ---
-title: bsc:debug_traceCall - Binance Smart Chain
-description: Example code for the bsc:debug_traceCall json-rpc method. Сomplete guide on how to use bsc:debug_traceCall json-rpc in GetBlock.io Web3 documentation.
+title: bsc:debug_traceCall \[POST\]
+description: Returns a transaction trace object.
 ---
 
 ### Parameters

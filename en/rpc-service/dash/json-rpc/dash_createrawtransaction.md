@@ -1,6 +1,6 @@
 ---
-title: dash:createrawtransaction - Dash
-description: Example code for the dash:createrawtransaction json-rpc method. Сomplete guide on how to use dash:createrawtransaction json-rpc in GetBlock.io Web3 documentation.
+title: dash:createrawtransaction \[POST\]
+description: Creates an unsigned serialized transaction that spends a previous outputto a new output with a P2PKH or P2SH address. The transaction is notstored in the wallet or transmitted to the network.
 ---
 
 ### Parameters

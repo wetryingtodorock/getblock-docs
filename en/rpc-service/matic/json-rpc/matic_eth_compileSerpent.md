@@ -1,6 +1,6 @@
 ---
-title: matic:eth_compileSerpent  {disallowed} - Polygon
-description: Example code for the matic:eth_compileSerpent  {disallowed} json-rpc method. Сomplete guide on how to use matic:eth_compileSerpent  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: matic:eth_compileSerpent \[POST\] {disallowed}
+description: For security reasons, we’ve decided not to include compilers in node.
 ---
 
 ### Parameters

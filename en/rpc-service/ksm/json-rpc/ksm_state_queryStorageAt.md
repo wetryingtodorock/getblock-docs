@@ -1,6 +1,6 @@
 ---
-title: ksm:state_queryStorageAt  {disallowed} - Kusama
-description: Example code for the ksm:state_queryStorageAt  {disallowed} json-rpc method. Сomplete guide on how to use ksm:state_queryStorageAt  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: ksm:state_queryStorageAt \[POST\] {disallowed}
+description: Query storage entries (by key) starting at block hash given as thesecond parameter.
 ---
 
 ### Parameters

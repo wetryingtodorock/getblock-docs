@@ -1,6 +1,6 @@
 ---
-title: ont:getversion - Ontology
-description: Example code for the ont:getversion json-rpc method. Сomplete guide on how to use ont:getversion json-rpc in GetBlock.io Web3 documentation.
+title: ont:getversion \[POST\]
+description: Fetch the version of the current node.
 ---
 
 ### Parameters

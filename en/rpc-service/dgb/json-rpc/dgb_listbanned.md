@@ -1,6 +1,6 @@
 ---
-title: dgb:listbanned  {disallowed} - DigiByte
-description: Example code for the dgb:listbanned  {disallowed} json-rpc method. Сomplete guide on how to use dgb:listbanned  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: dgb:listbanned \[POST\] {disallowed}
+description: List all banned IPs/Subnets.
 ---
 
 ### Parameters

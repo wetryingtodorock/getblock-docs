@@ -1,6 +1,6 @@
 ---
-title: bch:lockunspent  {disallowed} - Bitcoin Cash
-description: Example code for the bch:lockunspent  {disallowed} json-rpc method. Сomplete guide on how to use bch:lockunspent  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: bch:lockunspent \[POST\] {disallowed}
+description: Updates list of temporarily unspendable outputs.Temporarily lock (unlock=false) or unlock (unlock=true) specifiedtransaction outputs.If no transaction outputs are specified when unlocking then all currentlocked transaction outputs are unlocked.A locked transaction output will not be chosen by automatic coinselection, when spending bitcoins.Manually selected coins are automatically unlocked.Locks are stored in memory only. Nodes start with zero locked outputs,and the locked output list is always cleared (by virtue of process exit)when a node stops or fails.Also see the listunspent call
 ---
 
 ### Parameters

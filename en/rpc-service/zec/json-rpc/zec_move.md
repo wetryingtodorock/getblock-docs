@@ -1,6 +1,6 @@
 ---
-title: zec:move  {disallowed} - Zcash
-description: Example code for the zec:move  {disallowed} json-rpc method. Сomplete guide on how to use zec:move  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: zec:move \[POST\] {disallowed}
+description: DEPRECATED. Move a specified amount from one account in your wallet toanother.
 ---
 
 ### Parameters

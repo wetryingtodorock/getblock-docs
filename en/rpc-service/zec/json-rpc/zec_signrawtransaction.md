@@ -1,6 +1,6 @@
 ---
-title: zec:signrawtransaction - Zcash
-description: Example code for the zec:signrawtransaction json-rpc method. Сomplete guide on how to use zec:signrawtransaction json-rpc in GetBlock.io Web3 documentation.
+title: zec:signrawtransaction \[POST\]
+description: Sign inputs for raw transaction (serialized, hex-encoded).The second optional argument (may be null) is an array of previoustransaction outputs that this transaction depends on but may not yet bein the block chain.The third optional argument (may be null) is an array of base58-encodedprivate keys that, if given, will be the only keys used to sign thetransaction.
 ---
 
 ### Parameters

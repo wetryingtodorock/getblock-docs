@@ -1,6 +1,6 @@
 ---
-title: ton:/sendBocReturnHash - The Open Network (TON)
-description: Example code for the ton:/sendBocReturnHash json-rpc method. Сomplete guide on how to use ton:/sendBocReturnHash json-rpc in GetBlock.io Web3 documentation.
+title: ton:/sendBocReturnHash \[POST\]
+description: Send serialized boc file fully packed and serialized external messageto blockchain. The method returns message hash.
 ---
 
 ### Parameters

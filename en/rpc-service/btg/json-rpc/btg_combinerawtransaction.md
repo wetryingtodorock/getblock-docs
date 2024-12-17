@@ -1,6 +1,6 @@
 ---
-title: btg:combinerawtransaction - Bitcoin Gold
-description: Example code for the btg:combinerawtransaction json-rpc method. Сomplete guide on how to use btg:combinerawtransaction json-rpc in GetBlock.io Web3 documentation.
+title: btg:combinerawtransaction \[POST\]
+description: Combine multiple partially signed transactions into one transaction.The combined transaction may be another partially signed transaction ora fully signed transaction.
 ---
 
 ### Parameters

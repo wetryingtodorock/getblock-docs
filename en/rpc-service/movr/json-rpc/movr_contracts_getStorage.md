@@ -1,6 +1,6 @@
 ---
-title: movr:contracts_getStorage  {disallowed} - Moonriver
-description: Example code for the movr:contracts_getStorage  {disallowed} json-rpc method. Сomplete guide on how to use movr:contracts_getStorage  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: movr:contracts_getStorage \[POST\] {disallowed}
+description: Returns the value under a specified storage key in a contract.
 ---
 
 ### Parameters

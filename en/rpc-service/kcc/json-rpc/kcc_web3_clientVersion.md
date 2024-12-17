@@ -1,6 +1,6 @@
 ---
-title: kcc:web3_clientVersion - KuCoin Community Chain
-description: Example code for the kcc:web3_clientVersion json-rpc method. Сomplete guide on how to use kcc:web3_clientVersion json-rpc in GetBlock.io Web3 documentation.
+title: kcc:web3_clientVersion \[POST\]
+description: Returns the current client version.
 ---
 
 ### Parameters

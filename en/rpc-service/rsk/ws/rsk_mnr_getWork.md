@@ -1,6 +1,6 @@
 ---
-title: rsk:mnr_getWork - Rootstock
-description: Example code for the rsk:mnr_getWork ws method. Сomplete guide on how to use rsk:mnr_getWork ws in GetBlock.io Web3 documentation.
+title: rsk:mnr_getWork \[WebSocket\]
+description: Returns the hash of the current block, the seedHash, and the boundarycondition to be met (“target”).
 ---
 
 ### Parameters

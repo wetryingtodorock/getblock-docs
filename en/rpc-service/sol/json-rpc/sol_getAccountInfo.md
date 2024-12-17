@@ -1,6 +1,6 @@
 ---
-title: sol:getAccountInfo - Solana
-description: Example code for the sol:getAccountInfo json-rpc method. Сomplete guide on how to use sol:getAccountInfo json-rpc in GetBlock.io Web3 documentation.
+title: sol:getAccountInfo \[POST\]
+description: Returns all information associated with the account of provided Pubkey.
 ---
 
 ### Parameters

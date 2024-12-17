@@ -1,6 +1,6 @@
 ---
-title: eth:perm_getNodesAllowlist  {disallowed} - Ethereum
-description: Example code for the eth:perm_getNodesAllowlist  {disallowed} json-rpc method. Сomplete guide on how to use eth:perm_getNodesAllowlist  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: eth:perm_getNodesAllowlist \[POST\] {disallowed}
+description: Lists nodes in the nodes allowlist.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: gno:eth_getBalance - Gnosis
-description: Example code for the gno:eth_getBalance json-rpc method. Сomplete guide on how to use gno:eth_getBalance json-rpc in GetBlock.io Web3 documentation.
+title: gno:eth_getBalance \[POST\]
+description: Returns the account balance of the specified address.
 ---
 
 ### Parameters

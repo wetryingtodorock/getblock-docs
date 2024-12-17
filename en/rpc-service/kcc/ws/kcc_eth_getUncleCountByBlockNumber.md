@@ -1,6 +1,6 @@
 ---
-title: kcc:eth_getUncleCountByBlockNumber - KuCoin Community Chain
-description: Example code for the kcc:eth_getUncleCountByBlockNumber ws method. Сomplete guide on how to use kcc:eth_getUncleCountByBlockNumber ws in GetBlock.io Web3 documentation.
+title: kcc:eth_getUncleCountByBlockNumber \[WebSocket\]
+description: Returns the number of uncles in a block from a block matching the givenblock number.
 ---
 
 ### Parameters

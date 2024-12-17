@@ -1,6 +1,6 @@
 ---
-title: ksm:eth_getTransactionByBlockHashAndIndex  {disallowed} - Kusama
-description: Example code for the ksm:eth_getTransactionByBlockHashAndIndex  {disallowed} json-rpc method. Сomplete guide on how to use ksm:eth_getTransactionByBlockHashAndIndex  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: ksm:eth_getTransactionByBlockHashAndIndex \[POST\] {disallowed}
+description: Returns transaction at given block hash and index.
 ---
 
 ### Parameters

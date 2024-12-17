@@ -1,6 +1,6 @@
 ---
-title: ton:/getMasterchainInfo - The Open Network (TON)
-description: Example code for the ton:/getMasterchainInfo json-rpc method. Сomplete guide on how to use ton:/getMasterchainInfo json-rpc in GetBlock.io Web3 documentation.
+title: ton:/getMasterchainInfo \[GET\]
+description: Get up-to-date masterchain state.Get Masterchain info
 ---
 
 ### Parameters

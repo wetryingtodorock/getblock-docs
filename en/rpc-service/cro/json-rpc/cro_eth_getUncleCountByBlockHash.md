@@ -1,6 +1,6 @@
 ---
-title: cro:eth_getUncleCountByBlockHash - Cronos
-description: Example code for the cro:eth_getUncleCountByBlockHash json-rpc method. Сomplete guide on how to use cro:eth_getUncleCountByBlockHash json-rpc in GetBlock.io Web3 documentation.
+title: cro:eth_getUncleCountByBlockHash \[POST\]
+description: Returns the number of uncles in a block from a block matching the givenblock hash.
 ---
 
 ### Parameters

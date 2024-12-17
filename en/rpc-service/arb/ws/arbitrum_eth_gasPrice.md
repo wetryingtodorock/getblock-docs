@@ -1,6 +1,6 @@
 ---
-title: arbitrum:eth_gasPrice - Arbitrum
-description: Example code for the arbitrum:eth_gasPrice ws method. Сomplete guide on how to use arbitrum:eth_gasPrice ws in GetBlock.io Web3 documentation.
+title: arbitrum:eth_gasPrice \[WebSocket\]
+description: Returns the current price per gas in wei.
 ---
 
 ### Parameters

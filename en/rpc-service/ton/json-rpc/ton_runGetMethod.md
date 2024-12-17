@@ -1,6 +1,6 @@
 ---
-title: ton:/runGetMethod - The Open Network (TON)
-description: Example code for the ton:/runGetMethod json-rpc method. Сomplete guide on how to use ton:/runGetMethod json-rpc in GetBlock.io Web3 documentation.
+title: ton:/runGetMethod \[POST\]
+description: Run get method on smart contract.
 ---
 
 ### Parameters

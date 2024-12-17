@@ -1,6 +1,6 @@
 ---
-title: eth:priv_newFilter  {disallowed} - Ethereum
-description: Example code for the eth:priv_newFilter  {disallowed} ws method. Сomplete guide on how to use eth:priv_newFilter  {disallowed} ws in GetBlock.io Web3 documentation.
+title: eth:priv_newFilter \[WebSocket\] {disallowed}
+description: Creates a log filter for a private contract. To poll for logs associatedwith the created filter, use priv_getFilterChanges. To get all logsassociated with the filter, use priv_getFilterLogs.For private contracts, priv_newFilter is the same as eth_newFilter forpublic contracts.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: trx:/wallet/getcontract  {disallowed} - TRON
-description: Example code for the trx:/wallet/getcontract  {disallowed} rest method. Сomplete guide on how to use trx:/wallet/getcontract  {disallowed} rest in GetBlock.io Web3 documentation.
+title: trx:/wallet/getcontract \[POST\] {disallowed}
+description: Queries a contracts information from the blockchain, including thebytecode of the contract, ABI, configuration parameters, etc.
 ---
 
 ### Parameters

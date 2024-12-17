@@ -1,6 +1,6 @@
 ---
-title: bsv:verifychain  {disallowed} - Bitcoin SV
-description: Example code for the bsv:verifychain  {disallowed} json-rpc method. Сomplete guide on how to use bsv:verifychain  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: bsv:verifychain \[POST\] {disallowed}
+description: Verifies blockchain database.
 ---
 
 ### Parameters

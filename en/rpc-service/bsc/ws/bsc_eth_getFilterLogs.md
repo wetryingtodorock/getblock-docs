@@ -1,6 +1,6 @@
 ---
-title: bsc:eth_getFilterLogs - Binance Smart Chain
-description: Example code for the bsc:eth_getFilterLogs ws method. Сomplete guide on how to use bsc:eth_getFilterLogs ws in GetBlock.io Web3 documentation.
+title: bsc:eth_getFilterLogs \[WebSocket\]
+description: Returns an array of logs for the specified filter.Leave the --auto-log-bloom-caching-enabled command line option at thedefault value of true to improve log retrieval performance.
 ---
 
 ### Parameters

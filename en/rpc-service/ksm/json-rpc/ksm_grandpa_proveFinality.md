@@ -1,6 +1,6 @@
 ---
-title: ksm:grandpa_proveFinality  {disallowed} - Kusama
-description: Example code for the ksm:grandpa_proveFinality  {disallowed} json-rpc method. Сomplete guide on how to use ksm:grandpa_proveFinality  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: ksm:grandpa_proveFinality \[POST\] {disallowed}
+description: Prove finality for the range (begin end\] hash.
 ---
 
 ### Parameters

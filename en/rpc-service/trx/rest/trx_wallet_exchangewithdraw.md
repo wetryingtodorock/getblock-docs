@@ -1,6 +1,6 @@
 ---
-title: trx:/wallet/exchangewithdraw  {disallowed} - TRON
-description: Example code for the trx:/wallet/exchangewithdraw  {disallowed} rest method. Сomplete guide on how to use trx:/wallet/exchangewithdraw  {disallowed} rest in GetBlock.io Web3 documentation.
+title: trx:/wallet/exchangewithdraw \[POST\] {disallowed}
+description: Withdraws the transaction pair.
 ---
 
 ### Parameters

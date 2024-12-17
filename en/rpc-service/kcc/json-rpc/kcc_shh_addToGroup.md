@@ -1,6 +1,6 @@
 ---
-title: kcc:shh_addToGroup  {disallowed} - KuCoin Community Chain
-description: Example code for the kcc:shh_addToGroup  {disallowed} json-rpc method. Сomplete guide on how to use kcc:shh_addToGroup  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: kcc:shh_addToGroup \[POST\] {disallowed}
+description: Adds given address to a group
 ---
 
 ### Parameters

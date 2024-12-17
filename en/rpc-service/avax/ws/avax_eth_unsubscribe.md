@@ -1,6 +1,6 @@
 ---
-title: avax:eth_unsubscribe - Avalanche
-description: Example code for the avax:eth_unsubscribe ws method. Сomplete guide on how to use avax:eth_unsubscribe ws in GetBlock.io Web3 documentation.
+title: avax:eth_unsubscribe \[WebSocket\]
+description: Cancels specified subscription. Returns true if canceled successfully orfalse otherwise.
 ---
 
 ### Parameters

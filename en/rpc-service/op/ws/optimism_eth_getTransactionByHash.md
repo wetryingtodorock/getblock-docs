@@ -1,6 +1,6 @@
 ---
-title: optimism:eth_getTransactionByHash - Optimism
-description: Example code for the optimism:eth_getTransactionByHash ws method. Сomplete guide on how to use optimism:eth_getTransactionByHash ws in GetBlock.io Web3 documentation.
+title: optimism:eth_getTransactionByHash \[WebSocket\]
+description: Returns the information about a transaction requested by transactionhash.
 ---
 
 ### Parameters

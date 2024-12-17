@@ -1,6 +1,6 @@
 ---
-title: matic:eth_feeHistory - Polygon
-description: Example code for the matic:eth_feeHistory ws method. Сomplete guide on how to use matic:eth_feeHistory ws in GetBlock.io Web3 documentation.
+title: matic:eth_feeHistory \[WebSocket\]
+description: Returns a list of historical gas information.
 ---
 
 ### Parameters

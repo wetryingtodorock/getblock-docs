@@ -1,6 +1,6 @@
 ---
-title: glmr:eth_accounts - Moonbeam
-description: Example code for the glmr:eth_accounts json-rpc method. Сomplete guide on how to use glmr:eth_accounts json-rpc in GetBlock.io Web3 documentation.
+title: glmr:eth_accounts \[POST\]
+description: Returns a list of addresses owned by client.
 ---
 
 ### Parameters

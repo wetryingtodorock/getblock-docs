@@ -1,6 +1,6 @@
 ---
-title: near:sandbox_patch_state  {disallowed} - NEAR Protocol
-description: Example code for the near:sandbox_patch_state  {disallowed} json-rpc method. Сomplete guide on how to use near:sandbox_patch_state  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: near:sandbox_patch_state \[POST\] {disallowed}
+description: WARNING RPC endpoints in this section are only available on the localsandbox node.Patch account, access keys, contract code, or contract state. Onlyadditions and mutations are supported. No deletions. Account, accesskeys, contract code, and contract states have different formats. See theexample for details about their format.
 ---
 
 ### Parameters

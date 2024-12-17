@@ -1,6 +1,6 @@
 ---
-title: fuse:eth_unsubscribe - Fuse Network
-description: Example code for the fuse:eth_unsubscribe json-rpc method. Сomplete guide on how to use fuse:eth_unsubscribe json-rpc in GetBlock.io Web3 documentation.
+title: fuse:eth_unsubscribe \[POST\]
+description: Cancels specified subscription. Returns true if canceled successfully orfalse otherwise.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: avax:eth_getBlockByHash - Avalanche
-description: Example code for the avax:eth_getBlockByHash ws method. Сomplete guide on how to use avax:eth_getBlockByHash ws in GetBlock.io Web3 documentation.
+title: avax:eth_getBlockByHash \[WebSocket\]
+description: Returns information about a block by hash.
 ---
 
 ### Parameters

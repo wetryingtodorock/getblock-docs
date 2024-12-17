@@ -1,6 +1,6 @@
 ---
-title: dot:sync_state_genSyncSpec  {disallowed} - Polkadot
-description: Example code for the dot:sync_state_genSyncSpec  {disallowed} json-rpc method. Сomplete guide on how to use dot:sync_state_genSyncSpec  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: dot:sync_state_genSyncSpec \[POST\] {disallowed}
+description: Returns the json-serialized chainspec running the node, with a syncstate.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: matic:eth_getTransactionByHash - Polygon
-description: Example code for the matic:eth_getTransactionByHash ws method. Сomplete guide on how to use matic:eth_getTransactionByHash ws in GetBlock.io Web3 documentation.
+title: matic:eth_getTransactionByHash \[WebSocket\]
+description: Returns the information about a transaction requested by transactionhash.
 ---
 
 ### Parameters

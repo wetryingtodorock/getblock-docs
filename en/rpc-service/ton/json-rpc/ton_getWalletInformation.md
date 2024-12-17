@@ -1,6 +1,6 @@
 ---
-title: ton:/getWalletInformation - The Open Network (TON)
-description: Example code for the ton:/getWalletInformation json-rpc method. Сomplete guide on how to use ton:/getWalletInformation json-rpc in GetBlock.io Web3 documentation.
+title: ton:/getWalletInformation \[GET\]
+description: Retrieve wallet information. This method parses contract state andcurrently supports more wallet types than getExtendedAddressInformationsimple wallet, standart wallet, v3 wallet, v4 wallet.
 ---
 
 ### Parameters

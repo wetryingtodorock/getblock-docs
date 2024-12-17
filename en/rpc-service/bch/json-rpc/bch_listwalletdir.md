@@ -1,6 +1,6 @@
 ---
-title: bch:listwalletdir  {disallowed} - Bitcoin Cash
-description: Example code for the bch:listwalletdir  {disallowed} json-rpc method. Сomplete guide on how to use bch:listwalletdir  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: bch:listwalletdir \[POST\] {disallowed}
+description: Returns a list of wallets in the wallet directory.
 ---
 
 ### Parameters

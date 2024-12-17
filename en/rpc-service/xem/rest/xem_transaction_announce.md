@@ -1,6 +1,6 @@
 ---
-title: xem:/transaction/announce - NEM
-description: Example code for the xem:/transaction/announce rest method. Сomplete guide on how to use xem:/transaction/announce rest in GetBlock.io Web3 documentation.
+title: xem:/transaction/announce \[POST\]
+description: Creates and broadcasts a transaction. The private key is not involved.
 ---
 
 ### Parameters

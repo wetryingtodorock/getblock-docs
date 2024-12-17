@@ -1,6 +1,6 @@
 ---
-title: dash:disconnectnode  {disallowed} - Dash
-description: Example code for the dash:disconnectnode  {disallowed} json-rpc method. Сomplete guide on how to use dash:disconnectnode  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: dash:disconnectnode \[POST\] {disallowed}
+description: Immediately disconnects from a specified node.
 ---
 
 ### Parameters

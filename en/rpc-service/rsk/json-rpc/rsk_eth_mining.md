@@ -1,6 +1,6 @@
 ---
-title: rsk:eth_mining - Rootstock
-description: Example code for the rsk:eth_mining json-rpc method. Сomplete guide on how to use rsk:eth_mining json-rpc in GetBlock.io Web3 documentation.
+title: rsk:eth_mining \[POST\]
+description: Returns true if client is actively mining new blocks.
 ---
 
 ### Parameters

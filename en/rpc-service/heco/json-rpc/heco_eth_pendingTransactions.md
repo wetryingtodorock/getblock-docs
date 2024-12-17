@@ -1,6 +1,6 @@
 ---
-title: heco:eth_pendingTransactions - Huobi ECO Chain
-description: Example code for the heco:eth_pendingTransactions json-rpc method. Сomplete guide on how to use heco:eth_pendingTransactions json-rpc in GetBlock.io Web3 documentation.
+title: heco:eth_pendingTransactions \[POST\]
+description: Returns the pending transactions list.
 ---
 
 ### Parameters

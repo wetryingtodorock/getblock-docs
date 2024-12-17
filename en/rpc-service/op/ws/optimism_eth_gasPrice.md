@@ -1,6 +1,6 @@
 ---
-title: optimism:eth_gasPrice - Optimism
-description: Example code for the optimism:eth_gasPrice ws method. Сomplete guide on how to use optimism:eth_gasPrice ws in GetBlock.io Web3 documentation.
+title: optimism:eth_gasPrice \[WebSocket\]
+description: Returns the current price per gas in wei.
 ---
 
 ### Parameters

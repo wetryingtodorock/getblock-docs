@@ -1,6 +1,6 @@
 ---
-title: bsc:eth_getUncleCountByBlockHash - Binance Smart Chain
-description: Example code for the bsc:eth_getUncleCountByBlockHash ws method. Сomplete guide on how to use bsc:eth_getUncleCountByBlockHash ws in GetBlock.io Web3 documentation.
+title: bsc:eth_getUncleCountByBlockHash \[WebSocket\]
+description: Returns the number of uncles in a block from a block matching the givenblock hash.
 ---
 
 ### Parameters

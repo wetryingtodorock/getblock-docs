@@ -1,6 +1,6 @@
 ---
-title: dash:masternode_current  {disallowed} - Dash
-description: Example code for the dash:masternode_current  {disallowed} json-rpc method. Сomplete guide on how to use dash:masternode_current  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: dash:masternode_current \[POST\] {disallowed}
+description: Deprecated in Dash Core 0.17.0This RPC has been deprecated and will be removed in a future version ofDash CorePrints info on current masternode winner to be paid the next block(calculated locally).
 ---
 
 ### Parameters

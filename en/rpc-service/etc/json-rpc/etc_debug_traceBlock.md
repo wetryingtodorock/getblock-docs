@@ -1,6 +1,6 @@
 ---
-title: etc:debug_traceBlock  {disallowed} - Ethereum Classic
-description: Example code for the etc:debug_traceBlock  {disallowed} json-rpc method. Сomplete guide on how to use etc:debug_traceBlock  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: etc:debug_traceBlock \[POST\] {disallowed}
+description: Returns full trace of all invoked opcodes of all transactions includedin the block.
 ---
 
 ### Parameters

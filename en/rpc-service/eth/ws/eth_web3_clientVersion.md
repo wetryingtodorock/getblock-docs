@@ -1,6 +1,6 @@
 ---
-title: eth:web3_clientVersion - Ethereum
-description: Example code for the eth:web3_clientVersion ws method. Сomplete guide on how to use eth:web3_clientVersion ws in GetBlock.io Web3 documentation.
+title: eth:web3_clientVersion \[WebSocket\]
+description: Returns the current client version.
 ---
 
 ### Parameters

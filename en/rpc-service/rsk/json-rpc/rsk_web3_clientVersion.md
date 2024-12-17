@@ -1,6 +1,6 @@
 ---
-title: rsk:web3_clientVersion - Rootstock
-description: Example code for the rsk:web3_clientVersion json-rpc method. Сomplete guide on how to use rsk:web3_clientVersion json-rpc in GetBlock.io Web3 documentation.
+title: rsk:web3_clientVersion \[POST\]
+description: Returns the current client version.
 ---
 
 ### Parameters

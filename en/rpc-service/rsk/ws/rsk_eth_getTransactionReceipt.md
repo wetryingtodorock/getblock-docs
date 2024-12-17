@@ -1,6 +1,6 @@
 ---
-title: rsk:eth_getTransactionReceipt - Rootstock
-description: Example code for the rsk:eth_getTransactionReceipt ws method. Сomplete guide on how to use rsk:eth_getTransactionReceipt ws in GetBlock.io Web3 documentation.
+title: rsk:eth_getTransactionReceipt \[WebSocket\]
+description: Returns the receipt of a transaction by transaction hash.Note That the receipt is not available for pending transactions.
 ---
 
 ### Parameters

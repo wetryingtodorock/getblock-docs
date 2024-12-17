@@ -1,6 +1,6 @@
 ---
-title: rsk:eth_getBalance - Rootstock
-description: Example code for the rsk:eth_getBalance json-rpc method. Сomplete guide on how to use rsk:eth_getBalance json-rpc in GetBlock.io Web3 documentation.
+title: rsk:eth_getBalance \[POST\]
+description: Returns the balance of the account of given address.
 ---
 
 ### Parameters

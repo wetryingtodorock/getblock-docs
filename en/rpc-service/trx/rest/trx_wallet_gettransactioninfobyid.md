@@ -1,6 +1,6 @@
 ---
-title: trx:/wallet/gettransactioninfobyid - TRON
-description: Example code for the trx:/wallet/gettransactioninfobyid rest method. Сomplete guide on how to use trx:/wallet/gettransactioninfobyid rest in GetBlock.io Web3 documentation.
+title: trx:/wallet/gettransactioninfobyid \[POST\]
+description: Query the transaction fee, block height by transaction id
 ---
 
 ### Parameters

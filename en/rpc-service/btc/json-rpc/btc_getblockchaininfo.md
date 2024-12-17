@@ -1,6 +1,6 @@
 ---
-title: btc:getblockchaininfo - Bitcoin
-description: Example code for the btc:getblockchaininfo json-rpc method. Сomplete guide on how to use btc:getblockchaininfo json-rpc in GetBlock.io Web3 documentation.
+title: btc:getblockchaininfo \[POST\]
+description: Returns an object containing various state info regarding blockchainprocessing.
 ---
 
 ### Parameters

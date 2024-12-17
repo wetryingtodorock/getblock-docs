@@ -1,6 +1,6 @@
 ---
-title: dgb:getbalances  {disallowed} - DigiByte
-description: Example code for the dgb:getbalances  {disallowed} json-rpc method. Сomplete guide on how to use dgb:getbalances  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: dgb:getbalances \[POST\] {disallowed}
+description: Returns an object with all balances in BTC.
 ---
 
 ### Parameters

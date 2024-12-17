@@ -1,6 +1,6 @@
 ---
-title: movr:eth_getBalance  {disallowed} - Moonriver
-description: Example code for the movr:eth_getBalance  {disallowed} json-rpc method. Сomplete guide on how to use movr:eth_getBalance  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: movr:eth_getBalance \[POST\] {disallowed}
+description: Returns balance of the given account.
 ---
 
 ### Parameters

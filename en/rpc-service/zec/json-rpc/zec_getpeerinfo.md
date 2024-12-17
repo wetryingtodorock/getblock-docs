@@ -1,6 +1,6 @@
 ---
-title: zec:getpeerinfo  {disallowed} - Zcash
-description: Example code for the zec:getpeerinfo  {disallowed} json-rpc method. Сomplete guide on how to use zec:getpeerinfo  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: zec:getpeerinfo \[POST\] {disallowed}
+description: Returns data about each connected network node as a json array ofobjects.
 ---
 
 ### Parameters

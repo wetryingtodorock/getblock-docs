@@ -1,6 +1,6 @@
 ---
-title: dot:web3_clientVersion  {disallowed} - Polkadot
-description: Example code for the dot:web3_clientVersion  {disallowed} json-rpc method. Сomplete guide on how to use dot:web3_clientVersion  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: dot:web3_clientVersion \[POST\] {disallowed}
+description: Returns current client version.
 ---
 
 ### Parameters

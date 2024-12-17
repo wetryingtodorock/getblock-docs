@@ -1,6 +1,6 @@
 ---
-title: arbitrum:db_putHex  {disallowed} - Arbitrum
-description: Example code for the arbitrum:db_putHex  {disallowed} ws method. Сomplete guide on how to use arbitrum:db_putHex  {disallowed} ws in GetBlock.io Web3 documentation.
+title: arbitrum:db_putHex \[WebSocket\] {disallowed}
+description: Stores binary data in the local database.Note this function is deprecated and will be removed in the future.
 ---
 
 ### Parameters

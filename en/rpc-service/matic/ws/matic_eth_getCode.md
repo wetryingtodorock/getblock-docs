@@ -1,6 +1,6 @@
 ---
-title: matic:eth_getCode - Polygon
-description: Example code for the matic:eth_getCode ws method. Сomplete guide on how to use matic:eth_getCode ws in GetBlock.io Web3 documentation.
+title: matic:eth_getCode \[WebSocket\]
+description: Returns code at a given address.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: movr:eth_getTransactionByHash  {disallowed} - Moonriver
-description: Example code for the movr:eth_getTransactionByHash  {disallowed} json-rpc method. Сomplete guide on how to use movr:eth_getTransactionByHash  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: movr:eth_getTransactionByHash \[POST\] {disallowed}
+description: Get transaction by its hash.
 ---
 
 ### Parameters

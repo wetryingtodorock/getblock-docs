@@ -1,6 +1,6 @@
 ---
-title: heco:web3_clientVersion - Huobi ECO Chain
-description: Example code for the heco:web3_clientVersion ws method. Сomplete guide on how to use heco:web3_clientVersion ws in GetBlock.io Web3 documentation.
+title: heco:web3_clientVersion \[WebSocket\]
+description: Returns the current client version.
 ---
 
 ### Parameters

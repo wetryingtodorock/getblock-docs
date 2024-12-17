@@ -1,6 +1,6 @@
 ---
-title: xem:/account/transfers/all - NEM
-description: Example code for the xem:/account/transfers/all rest method. Сomplete guide on how to use xem:/account/transfers/all rest in GetBlock.io Web3 documentation.
+title: xem:/account/transfers/all \[GET\]
+description: Gets an array of transaction meta data pairs for which an account is thesender or receiver. A maximum of 25 transaction meta data pairs isreturned.
 ---
 
 ### Parameters

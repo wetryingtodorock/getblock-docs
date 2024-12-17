@@ -1,6 +1,6 @@
 ---
-title: btg:listbanned  {disallowed} - Bitcoin Gold
-description: Example code for the btg:listbanned  {disallowed} json-rpc method. Сomplete guide on how to use btg:listbanned  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: btg:listbanned \[POST\] {disallowed}
+description: List all banned IPs/Subnets.
 ---
 
 ### Parameters

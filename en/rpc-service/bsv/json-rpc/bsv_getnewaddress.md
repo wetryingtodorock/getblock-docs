@@ -1,6 +1,6 @@
 ---
-title: bsv:getnewaddress  {disallowed} - Bitcoin SV
-description: Example code for the bsv:getnewaddress  {disallowed} json-rpc method. Сomplete guide on how to use bsv:getnewaddress  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: bsv:getnewaddress \[POST\] {disallowed}
+description: Returns a new Bitcoin address for receiving payments.If ‘label’ is specified, it is added to the address book so paymentsreceived with the address will be associated with ‘label’.
 ---
 
 ### Parameters

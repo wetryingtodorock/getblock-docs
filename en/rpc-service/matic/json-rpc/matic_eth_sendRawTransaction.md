@@ -1,6 +1,6 @@
 ---
-title: matic:eth_sendRawTransaction - Polygon
-description: Example code for the matic:eth_sendRawTransaction json-rpc method. Сomplete guide on how to use matic:eth_sendRawTransaction json-rpc in GetBlock.io Web3 documentation.
+title: matic:eth_sendRawTransaction \[POST\]
+description: Creates new message call transaction or a contract creation for signedtransactions.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: bsc:eth_sign - Binance Smart Chain
-description: Example code for the bsc:eth_sign ws method. Сomplete guide on how to use bsc:eth_sign ws in GetBlock.io Web3 documentation.
+title: bsc:eth_sign \[WebSocket\]
+description: The sign method calculates an Ethereum specific signature withsign(keccak256(\x19Ethereum Signed Message\n + len(message) +message))).
 ---
 
 ### Parameters

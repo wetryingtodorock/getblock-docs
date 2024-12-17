@@ -1,6 +1,6 @@
 ---
-title: zec:getblock - Zcash
-description: Example code for the zec:getblock json-rpc method. Сomplete guide on how to use zec:getblock json-rpc in GetBlock.io Web3 documentation.
+title: zec:getblock \[POST\]
+description: If verbosity is 0, returns a string that is serialized, hex-encoded datafor the block.If verbosity is 1, returns an Object with information about the block.If verbosity is 2, returns an Object with information about the blockand information about each transaction.
 ---
 
 ### Parameters

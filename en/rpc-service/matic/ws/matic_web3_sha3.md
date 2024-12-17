@@ -1,6 +1,6 @@
 ---
-title: matic:web3_sha3 - Polygon
-description: Example code for the matic:web3_sha3 ws method. Сomplete guide on how to use matic:web3_sha3 ws in GetBlock.io Web3 documentation.
+title: matic:web3_sha3 \[WebSocket\]
+description: Returns Keccak-256 (not the standardized SHA3-256) of the given data.
 ---
 
 ### Parameters

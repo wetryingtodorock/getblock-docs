@@ -1,6 +1,6 @@
 ---
-title: bsv:getrpcinfo - Bitcoin SV
-description: Example code for the bsv:getrpcinfo json-rpc method. Сomplete guide on how to use bsv:getrpcinfo json-rpc in GetBlock.io Web3 documentation.
+title: bsv:getrpcinfo \[POST\]
+description: Returns details of the RPC server.
 ---
 
 ### Parameters

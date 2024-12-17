@@ -1,6 +1,6 @@
 ---
-title: bsc:eth_accounts - Binance Smart Chain
-description: Example code for the bsc:eth_accounts json-rpc method. Сomplete guide on how to use bsc:eth_accounts json-rpc in GetBlock.io Web3 documentation.
+title: bsc:eth_accounts \[POST\]
+description: Returns a list of account addresses a client owns.
 ---
 
 ### Parameters

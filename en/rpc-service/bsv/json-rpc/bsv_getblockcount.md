@@ -1,6 +1,6 @@
 ---
-title: bsv:getblockcount - Bitcoin SV
-description: Example code for the bsv:getblockcount json-rpc method. Сomplete guide on how to use bsv:getblockcount json-rpc in GetBlock.io Web3 documentation.
+title: bsv:getblockcount \[POST\]
+description: Returns the height of the most-work fully-validated chain.The genesis block has height 0.
 ---
 
 ### Parameters

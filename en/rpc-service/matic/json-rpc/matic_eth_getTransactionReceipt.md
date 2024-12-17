@@ -1,6 +1,6 @@
 ---
-title: matic:eth_getTransactionReceipt - Polygon
-description: Example code for the matic:eth_getTransactionReceipt json-rpc method. Сomplete guide on how to use matic:eth_getTransactionReceipt json-rpc in GetBlock.io Web3 documentation.
+title: matic:eth_getTransactionReceipt \[POST\]
+description: Returns the receipt of a transaction by transaction hash.Note That the receipt is not available for pending transactions.
 ---
 
 ### Parameters

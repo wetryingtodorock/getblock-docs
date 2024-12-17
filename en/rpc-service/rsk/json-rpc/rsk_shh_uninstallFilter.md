@@ -1,6 +1,6 @@
 ---
-title: rsk:shh_uninstallFilter  {disallowed} - Rootstock
-description: Example code for the rsk:shh_uninstallFilter  {disallowed} json-rpc method. Сomplete guide on how to use rsk:shh_uninstallFilter  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: rsk:shh_uninstallFilter \[POST\] {disallowed}
+description: Whisper protocol not supported.
 ---
 
 ### Parameters

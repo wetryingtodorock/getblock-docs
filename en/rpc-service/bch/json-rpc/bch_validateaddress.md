@@ -1,6 +1,6 @@
 ---
-title: bch:validateaddress - Bitcoin Cash
-description: Example code for the bch:validateaddress json-rpc method. Сomplete guide on how to use bch:validateaddress json-rpc in GetBlock.io Web3 documentation.
+title: bch:validateaddress \[POST\]
+description: Return information about the given btc address.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: etc:eth_getUncleCountByBlockNumber - Ethereum Classic
-description: Example code for the etc:eth_getUncleCountByBlockNumber json-rpc method. Сomplete guide on how to use etc:eth_getUncleCountByBlockNumber json-rpc in GetBlock.io Web3 documentation.
+title: etc:eth_getUncleCountByBlockNumber \[POST\]
+description: Returns the number of uncles in a block matching the specified blocknumber.
 ---
 
 ### Parameters

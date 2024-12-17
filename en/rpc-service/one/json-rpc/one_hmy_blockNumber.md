@@ -1,6 +1,6 @@
 ---
-title: one:hmy_blockNumber - Harmony
-description: Example code for the one:hmy_blockNumber json-rpc method. Сomplete guide on how to use one:hmy_blockNumber json-rpc in GetBlock.io Web3 documentation.
+title: one:hmy_blockNumber \[POST\]
+description: Returns the index corresponding to the block number of the current chainhead.
 ---
 
 ### Parameters

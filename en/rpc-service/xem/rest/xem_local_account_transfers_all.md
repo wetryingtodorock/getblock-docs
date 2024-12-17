@@ -1,6 +1,6 @@
 ---
-title: xem:/local/account/transfers/all  {disallowed} - NEM
-description: Example code for the xem:/local/account/transfers/all  {disallowed} rest method. Сomplete guide on how to use xem:/local/account/transfers/all  {disallowed} rest in GetBlock.io Web3 documentation.
+title: xem:/local/account/transfers/all \[POST\] {disallowed}
+description: The request returns all transactions. If a transaction contains anencoded message, this message will be decoded before it is sent to therequester.
 ---
 
 ### Parameters

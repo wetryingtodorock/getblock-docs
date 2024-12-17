@@ -1,6 +1,6 @@
 ---
-title: xem:/account/transfers/outgoing - NEM
-description: Example code for the xem:/account/transfers/outgoing rest method. Сomplete guide on how to use xem:/account/transfers/outgoing rest in GetBlock.io Web3 documentation.
+title: xem:/account/transfers/outgoing \[GET\]
+description: Gets an array of transaction meta data pairs where the recipient has theaddress given as parameter to the request. A maximum of 25 transactionmeta data pairs is returned.
 ---
 
 ### Parameters

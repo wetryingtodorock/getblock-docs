@@ -1,6 +1,6 @@
 ---
-title: xmr:flush_txpool  {disallowed} - Monero
-description: Example code for the xmr:flush_txpool  {disallowed} json-rpc method. Сomplete guide on how to use xmr:flush_txpool  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: xmr:flush_txpool \[POST\] {disallowed}
+description: Flush tx ids from transaction pool
 ---
 
 ### Parameters

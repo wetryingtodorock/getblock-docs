@@ -1,6 +1,6 @@
 ---
-title: movr:grandpa_proveFinality  {disallowed} - Moonriver
-description: Example code for the movr:grandpa_proveFinality  {disallowed} json-rpc method. Сomplete guide on how to use movr:grandpa_proveFinality  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: movr:grandpa_proveFinality \[POST\] {disallowed}
+description: Prove finality for the range (begin end\] hash.
 ---
 
 ### Parameters

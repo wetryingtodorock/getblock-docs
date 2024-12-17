@@ -1,6 +1,6 @@
 ---
-title: btc:getaddednodeinfo  {disallowed} - Bitcoin
-description: Example code for the btc:getaddednodeinfo  {disallowed} json-rpc method. Сomplete guide on how to use btc:getaddednodeinfo  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: btc:getaddednodeinfo \[POST\] {disallowed}
+description: Returns information about the given added node, or all added nodes (notethat onetry addnodes are not listed here)
 ---
 
 ### Parameters

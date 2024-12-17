@@ -1,6 +1,6 @@
 ---
-title: arbitrum:eth_getUncleCountByBlockNumber - Arbitrum
-description: Example code for the arbitrum:eth_getUncleCountByBlockNumber json-rpc method. Сomplete guide on how to use arbitrum:eth_getUncleCountByBlockNumber json-rpc in GetBlock.io Web3 documentation.
+title: arbitrum:eth_getUncleCountByBlockNumber \[POST\]
+description: Returns the number of uncles in a block from a block matching the givenblock number.
 ---
 
 ### Parameters

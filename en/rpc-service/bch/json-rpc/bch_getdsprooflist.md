@@ -1,6 +1,6 @@
 ---
-title: bch:getdsprooflist  {disallowed} - Bitcoin Cash
-description: Example code for the bch:getdsprooflist  {disallowed} json-rpc method. Сomplete guide on how to use bch:getdsprooflist  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: bch:getdsprooflist \[POST\] {disallowed}
+description: List double-spend proofs for transactions in the mempool.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: btc:getnewaddress  {disallowed} - Bitcoin
-description: Example code for the btc:getnewaddress  {disallowed} json-rpc method. Сomplete guide on how to use btc:getnewaddress  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: btc:getnewaddress \[POST\] {disallowed}
+description: Returns a new Bitcoin address for receiving payments.If ‘label’ is specified, it is added to the address book so paymentsreceived with the address will be associated with ‘label’.
 ---
 
 ### Parameters

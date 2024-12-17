@@ -1,6 +1,6 @@
 ---
-title: dash:keepass  {disallowed} - Dash
-description: Example code for the dash:keepass  {disallowed} json-rpc method. Сomplete guide on how to use dash:keepass  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: dash:keepass \[POST\] {disallowed}
+description: Provides commands for configuring and managing KeePass authentication.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: bsv:submitheader  {disallowed} - Bitcoin SV
-description: Example code for the bsv:submitheader  {disallowed} json-rpc method. Сomplete guide on how to use bsv:submitheader  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: bsv:submitheader \[POST\] {disallowed}
+description: Decode the given hexdata as a header and submit it as a candidate chaintip if valid.Throws when the header is invalid.
 ---
 
 ### Parameters

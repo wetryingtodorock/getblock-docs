@@ -1,6 +1,6 @@
 ---
-title: dot:chain_getHeader - Polkadot
-description: Example code for the dot:chain_getHeader json-rpc method. Сomplete guide on how to use dot:chain_getHeader json-rpc in GetBlock.io Web3 documentation.
+title: dot:chain_getHeader \[POST\]
+description: Retrieves the header for a specific block.
 ---
 
 ### Parameters

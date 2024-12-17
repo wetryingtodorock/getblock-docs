@@ -1,6 +1,6 @@
 ---
-title: avax:eth_blockNumber - Avalanche
-description: Example code for the avax:eth_blockNumber ws method. Сomplete guide on how to use avax:eth_blockNumber ws in GetBlock.io Web3 documentation.
+title: avax:eth_blockNumber \[WebSocket\]
+description: Returns the number of most recent block.
 ---
 
 ### Parameters

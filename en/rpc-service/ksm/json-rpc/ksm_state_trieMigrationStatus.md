@@ -1,6 +1,6 @@
 ---
-title: ksm:state_trieMigrationStatus  {disallowed} - Kusama
-description: Example code for the ksm:state_trieMigrationStatus  {disallowed} json-rpc method. Сomplete guide on how to use ksm:state_trieMigrationStatus  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: ksm:state_trieMigrationStatus \[POST\] {disallowed}
+description: Check current migration stateThis method is only active with appropriate flags
 ---
 
 ### Parameters

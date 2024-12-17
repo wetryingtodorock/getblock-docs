@@ -1,6 +1,6 @@
 ---
-title: zec:lockunspent  {disallowed} - Zcash
-description: Example code for the zec:lockunspent  {disallowed} json-rpc method. Сomplete guide on how to use zec:lockunspent  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: zec:lockunspent \[POST\] {disallowed}
+description: Updates list of temporarily unspendable outputs.Temporarily lock (unlock=false) or unlock (unlock=true) specifiedtransaction outputs.A locked transaction output will not be chosen by automatic coinselection, when spending Zcash.Locks are stored in memory only. Nodes start with zero locked outputs,and the locked output list is always cleared (by virtue of process exit)when a node stops or fails.Also see the listunspent call.
 ---
 
 ### Parameters

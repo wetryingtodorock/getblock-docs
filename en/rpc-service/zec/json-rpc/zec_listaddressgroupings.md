@@ -1,6 +1,6 @@
 ---
-title: zec:listaddressgroupings  {disallowed} - Zcash
-description: Example code for the zec:listaddressgroupings  {disallowed} json-rpc method. Сomplete guide on how to use zec:listaddressgroupings  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: zec:listaddressgroupings \[POST\] {disallowed}
+description: Lists groups of addresses which have had their common ownership madepublic by common use as inputs or as the resulting change in pasttransactions.
 ---
 
 ### Parameters

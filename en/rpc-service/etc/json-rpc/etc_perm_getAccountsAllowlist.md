@@ -1,6 +1,6 @@
 ---
-title: etc:perm_getAccountsAllowlist  {disallowed} - Ethereum Classic
-description: Example code for the etc:perm_getAccountsAllowlist  {disallowed} json-rpc method. Сomplete guide on how to use etc:perm_getAccountsAllowlist  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: etc:perm_getAccountsAllowlist \[POST\] {disallowed}
+description: Lists accounts (participants) in the accounts permissions list.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: doge:gettxout - Dogecoin
-description: Example code for the doge:gettxout json-rpc method. Сomplete guide on how to use doge:gettxout json-rpc in GetBlock.io Web3 documentation.
+title: doge:gettxout \[POST\]
+description: Returns details about an unspent transaction output (UTXO)
 ---
 
 ### Parameters

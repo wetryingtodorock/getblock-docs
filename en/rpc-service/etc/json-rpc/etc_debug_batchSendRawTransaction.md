@@ -1,6 +1,6 @@
 ---
-title: etc:debug_batchSendRawTransaction  {disallowed} - Ethereum Classic
-description: Example code for the etc:debug_batchSendRawTransaction  {disallowed} json-rpc method. Сomplete guide on how to use etc:debug_batchSendRawTransaction  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+title: etc:debug_batchSendRawTransaction \[POST\] {disallowed}
+description: Sends a list of signed transactions. This is used to quickly load anetwork with a lot of transactions. This does the same thing as callingeth_sendRawTransaction multiple times.
 ---
 
 ### Parameters

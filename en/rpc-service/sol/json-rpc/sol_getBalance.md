@@ -1,6 +1,6 @@
 ---
-title: sol:getBalance - Solana
-description: Example code for the sol:getBalance json-rpc method. Сomplete guide on how to use sol:getBalance json-rpc in GetBlock.io Web3 documentation.
+title: sol:getBalance \[POST\]
+description: Returns the balance of the account of provided Pubkey
 ---
 
 ### Parameters

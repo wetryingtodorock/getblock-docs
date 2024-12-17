@@ -1,6 +1,6 @@
 ---
-title: gno:eth_getStorageAt - Gnosis
-description: Example code for the gno:eth_getStorageAt ws method. Сomplete guide on how to use gno:eth_getStorageAt ws in GetBlock.io Web3 documentation.
+title: gno:eth_getStorageAt \[WebSocket\]
+description: Returns the value of a storage position at a specified address.
 ---
 
 ### Parameters

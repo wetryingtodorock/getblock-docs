@@ -1,6 +1,6 @@
 ---
-title: kcc:shh_getMessages  {disallowed} - KuCoin Community Chain
-description: Example code for the kcc:shh_getMessages  {disallowed} ws method. Сomplete guide on how to use kcc:shh_getMessages  {disallowed} ws in GetBlock.io Web3 documentation.
+title: kcc:shh_getMessages \[WebSocket\] {disallowed}
+description: Get all messages matching a filter. Unlike shh_getFilterChanges thisreturns all messages.
 ---
 
 ### Parameters

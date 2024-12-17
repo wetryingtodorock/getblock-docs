@@ -1,6 +1,6 @@
 ---
-title: dgb:getmempoolancestors - DigiByte
-description: Example code for the dgb:getmempoolancestors json-rpc method. Сomplete guide on how to use dgb:getmempoolancestors json-rpc in GetBlock.io Web3 documentation.
+title: dgb:getmempoolancestors \[POST\]
+description: If txid is in the mempool, returns all in-mempool ancestors.
 ---
 
 ### Parameters

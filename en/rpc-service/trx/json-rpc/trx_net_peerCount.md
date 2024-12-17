@@ -1,6 +1,6 @@
 ---
-title: trx:net_peerCount - TRON
-description: Example code for the trx:net_peerCount json-rpc method. Сomplete guide on how to use trx:net_peerCount json-rpc in GetBlock.io Web3 documentation.
+title: trx:net_peerCount \[POST\]
+description: Returns number of peers currently connected to the client.
 ---
 
 ### Parameters

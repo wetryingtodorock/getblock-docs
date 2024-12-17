@@ -1,6 +1,6 @@
 ---
-title: one:eth_getBalance - Harmony
-description: Example code for the one:eth_getBalance json-rpc method. Сomplete guide on how to use one:eth_getBalance json-rpc in GetBlock.io Web3 documentation.
+title: one:eth_getBalance \[POST\]
+description: Returns the account balance of the specified address.
 ---
 
 ### Parameters

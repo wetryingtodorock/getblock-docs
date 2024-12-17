@@ -1,6 +1,6 @@
 ---
-title: rsk:eth_getStorageAt - Rootstock
-description: Example code for the rsk:eth_getStorageAt ws method. Сomplete guide on how to use rsk:eth_getStorageAt ws in GetBlock.io Web3 documentation.
+title: rsk:eth_getStorageAt \[WebSocket\]
+description: Returns the value from a storage position at a given address.
 ---
 
 ### Parameters

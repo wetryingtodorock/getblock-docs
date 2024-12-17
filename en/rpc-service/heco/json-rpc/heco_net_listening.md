@@ -1,6 +1,6 @@
 ---
-title: heco:net_listening - Huobi ECO Chain
-description: Example code for the heco:net_listening json-rpc method. Сomplete guide on how to use heco:net_listening json-rpc in GetBlock.io Web3 documentation.
+title: heco:net_listening \[POST\]
+description: Returns true if client is actively listening for network connections.
 ---
 
 ### Parameters

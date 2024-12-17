@@ -1,6 +1,6 @@
 ---
-title: ont:sendrawtransaction - Ontology
-description: Example code for the ont:sendrawtransaction json-rpc method. Сomplete guide on how to use ont:sendrawtransaction json-rpc in GetBlock.io Web3 documentation.
+title: ont:sendrawtransaction \[POST\]
+description: Transmit a transaction to the network.The result field contains the transaction hash.
 ---
 
 ### Parameters
