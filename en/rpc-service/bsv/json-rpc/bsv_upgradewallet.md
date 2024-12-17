@@ -1,6 +1,6 @@
 ---
-title: bsv:upgradewallet \[POST\] {disallowed}
-description: Upgrade the wallet. Upgrades to the latest version if no version numberis specified.New keys may be generated and a new wallet backup will need to be made.
+title: upgradewallet  {disallowed} - Bitcoin SV
+description: Example code for the upgradewallet  {disallowed} json-rpc method. Сomplete guide on how to use upgradewallet  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: apt:/v1/accounts/{account_hash} \[GET\]
-description: Gets the authentication key and the sequence number for an accountaddress.
+title: /v1/accounts/{account_hash} - Aptos
+description: Example code for the /v1/accounts/{account_hash} json-rpc method. Сomplete guide on how to use /v1/accounts/{account_hash} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

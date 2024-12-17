@@ -1,6 +1,6 @@
 ---
-title: ont:/api/v1/api/v1/node/syncstatus \[GET\]
-description: Fetch the synchronization status of the node
+title: /api/v1/api/v1/node/syncstatus - Ontology
+description: Example code for the /api/v1/api/v1/node/syncstatus rest method. Сomplete guide on how to use /api/v1/api/v1/node/syncstatus rest in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

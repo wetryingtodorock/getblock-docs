@@ -1,6 +1,6 @@
 ---
-title: xem:/account/status \[GET\]
-description: Gets the AccountMetaData from an account. The account meta datadescribes additional information for the account.
+title: /account/status - NEM
+description: Example code for the /account/status rest method. Сomplete guide on how to use /account/status rest in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

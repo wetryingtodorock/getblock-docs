@@ -1,6 +1,6 @@
 ---
-title: ksm:eth_submitHashrate \[POST\] {disallowed}
-description: Used for submitting mining hashrate.
+title: eth_submitHashrate  {disallowed} - Kusama
+description: Example code for the eth_submitHashrate  {disallowed} json-rpc method. Сomplete guide on how to use eth_submitHashrate  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

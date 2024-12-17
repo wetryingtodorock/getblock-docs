@@ -1,6 +1,6 @@
 ---
-title: trx:/wallet/accountpermissionupdate \[POST\] {disallowed}
-description: Update the accounts permission.
+title: /wallet/accountpermissionupdate  {disallowed} - TRON
+description: Example code for the /wallet/accountpermissionupdate  {disallowed} rest method. Сomplete guide on how to use /wallet/accountpermissionupdate  {disallowed} rest in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

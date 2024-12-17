@@ -1,6 +1,6 @@
 ---
-title: ton:/tryLocateSourceTx \[GET\]
-description: Locate incoming transaction of source address by outcoming message.
+title: /tryLocateSourceTx - The Open Network (TON)
+description: Example code for the /tryLocateSourceTx json-rpc method. Сomplete guide on how to use /tryLocateSourceTx json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

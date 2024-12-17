@@ -1,6 +1,6 @@
 ---
-title: trx:/wallet/updateaccount \[POST\] {disallowed}
-description: Modify account name
+title: /wallet/updateaccount  {disallowed} - TRON
+description: Example code for the /wallet/updateaccount  {disallowed} rest method. Сomplete guide on how to use /wallet/updateaccount  {disallowed} rest in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

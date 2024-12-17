@@ -1,6 +1,6 @@
 ---
-title: eth:eth_getWork \[WebSocket\]
-description: Returns the hash of the current block, the seed hash, and the requiredtarget boundary condition.
+title: eth_getWork - Ethereum
+description: Example code for the eth_getWork ws method. Сomplete guide on how to use eth_getWork ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

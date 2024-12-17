@@ -1,6 +1,6 @@
 ---
-title: ont:getmerkleproof \[POST\]
-description: Fetches the merkle proof for a transaction using given transaction hash.
+title: getmerkleproof - Ontology
+description: Example code for the getmerkleproof json-rpc method. Сomplete guide on how to use getmerkleproof json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

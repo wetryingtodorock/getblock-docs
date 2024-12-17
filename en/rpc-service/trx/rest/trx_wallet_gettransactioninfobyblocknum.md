@@ -1,6 +1,6 @@
 ---
-title: trx:/wallet/gettransactioninfobyblocknum \[POST\]
-description: Query transaction information by block height.
+title: /wallet/gettransactioninfobyblocknum - TRON
+description: Example code for the /wallet/gettransactioninfobyblocknum rest method. Сomplete guide on how to use /wallet/gettransactioninfobyblocknum rest in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

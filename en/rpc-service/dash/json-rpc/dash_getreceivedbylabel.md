@@ -1,6 +1,6 @@
 ---
-title: dash:getreceivedbylabel \[POST\] {disallowed}
-description: Returns the total amount received by addresses with in transactions withspecified minimum number of confirmations.
+title: getreceivedbylabel  {disallowed} - Dash
+description: Example code for the getreceivedbylabel  {disallowed} json-rpc method. Сomplete guide on how to use getreceivedbylabel  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

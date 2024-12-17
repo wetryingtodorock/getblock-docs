@@ -1,6 +1,6 @@
 ---
-title: zec:help \[POST\]
-description: List all commands, or get help for a specified command.
+title: help - Zcash
+description: Example code for the help json-rpc method. Сomplete guide on how to use help json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

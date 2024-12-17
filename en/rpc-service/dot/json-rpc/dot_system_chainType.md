@@ -1,6 +1,6 @@
 ---
-title: dot:system_chainType \[POST\]
-description: Retrieves the chain type.
+title: system_chainType - Polkadot
+description: Example code for the system_chainType json-rpc method. Сomplete guide on how to use system_chainType json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

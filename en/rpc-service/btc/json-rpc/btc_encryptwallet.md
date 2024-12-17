@@ -1,6 +1,6 @@
 ---
-title: btc:encryptwallet \[POST\] {disallowed}
-description: Encrypts the wallet with ‘passphrase’. This is for first timeencryption.After this, any calls that interact with private keys such as sending orsigning will require the passphrase to be set prior the making thesecalls.Use the walletpassphrase call for this, and then walletlock call.If the wallet is already encrypted, use the walletpassphrasechange call.
+title: encryptwallet  {disallowed} - Bitcoin
+description: Example code for the encryptwallet  {disallowed} json-rpc method. Сomplete guide on how to use encryptwallet  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

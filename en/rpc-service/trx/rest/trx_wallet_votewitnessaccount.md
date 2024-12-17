@@ -1,6 +1,6 @@
 ---
-title: trx:/wallet/votewitnessaccount \[POST\] {disallowed}
-description: Vote for witnesses
+title: /wallet/votewitnessaccount  {disallowed} - TRON
+description: Example code for the /wallet/votewitnessaccount  {disallowed} rest method. Сomplete guide on how to use /wallet/votewitnessaccount  {disallowed} rest in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

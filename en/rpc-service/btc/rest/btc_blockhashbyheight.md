@@ -1,6 +1,6 @@
 ---
-title: btc:blockhashbyheight \[GET\]
-description: Given a height returns hash of block in best-block-chain at height
+title: blockhashbyheight - Bitcoin
+description: Example code for the blockhashbyheight rest method. Сomplete guide on how to use blockhashbyheight rest in GetBlock.io Web3 documentation.
 ---
 
 ### Example

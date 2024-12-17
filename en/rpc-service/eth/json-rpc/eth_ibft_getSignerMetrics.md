@@ -1,6 +1,6 @@
 ---
-title: eth:ibft_getSignerMetrics \[POST\] {disallowed}
-description: Provides validator metrics for the specified range
+title: ibft_getSignerMetrics  {disallowed} - Ethereum
+description: Example code for the ibft_getSignerMetrics  {disallowed} json-rpc method. Сomplete guide on how to use ibft_getSignerMetrics  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

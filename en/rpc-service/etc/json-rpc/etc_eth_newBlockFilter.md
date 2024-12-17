@@ -1,6 +1,6 @@
 ---
-title: etc:eth_newBlockFilter \[POST\]
-description: Creates a filter to retrieve new block hashes. To poll for new blocks,use eth_getFilterChanges.
+title: eth_newBlockFilter - Ethereum Classic
+description: Example code for the eth_newBlockFilter json-rpc method. Сomplete guide on how to use eth_newBlockFilter json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

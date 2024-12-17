@@ -1,6 +1,6 @@
 ---
-title: ont:getblockheightbytxhash \[POST\]
-description: Fetch the block height for the block in which a particular transactionis recorded using transaction hash.
+title: getblockheightbytxhash - Ontology
+description: Example code for the getblockheightbytxhash json-rpc method. Сomplete guide on how to use getblockheightbytxhash json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

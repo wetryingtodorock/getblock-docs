@@ -1,6 +1,6 @@
 ---
-title: btc:getrawtransaction \[POST\]
-description: Return the raw transaction data.By default this function only works for mempool transactions. Whencalled with a blockhash argument, getrawtransaction will return thetransaction if the specified block is available and the transaction isfound in that block. When called without a blockhash argument,getrawtransaction will return the transaction if it is in the mempool,or if -txindex is enabled and the transaction is in a block in theblockchain.
+title: getrawtransaction - Bitcoin
+description: Example code for the getrawtransaction json-rpc method. Сomplete guide on how to use getrawtransaction json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

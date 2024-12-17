@@ -1,6 +1,6 @@
 ---
-title: bch:getnetworkinfo \[POST\] {disallowed}
-description: Returns an object containing various state info regarding P2Pnetworking.
+title: getnetworkinfo  {disallowed} - Bitcoin Cash
+description: Example code for the getnetworkinfo  {disallowed} json-rpc method. Сomplete guide on how to use getnetworkinfo  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

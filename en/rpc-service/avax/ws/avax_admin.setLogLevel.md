@@ -1,6 +1,6 @@
 ---
-title: avax:admin.setLogLevel \[WebSocket\] {disallowed}
-description: Sets the log level of the C-Chain.
+title: admin.setLogLevel  {disallowed} - Avalanche
+description: Example code for the admin.setLogLevel  {disallowed} ws method. Сomplete guide on how to use admin.setLogLevel  {disallowed} ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

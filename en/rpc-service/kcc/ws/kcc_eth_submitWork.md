@@ -1,6 +1,6 @@
 ---
-title: kcc:eth_submitWork \[WebSocket\] {disallowed}
-description: Used for submitting a proof-of-work solution.
+title: eth_submitWork  {disallowed} - KuCoin Community Chain
+description: Example code for the eth_submitWork  {disallowed} ws method. Сomplete guide on how to use eth_submitWork  {disallowed} ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: ont:getbalancev2 \[POST\]
-description: Return the allowance from the from account to the to account, with ONTsdecimals being 9, a ONGs decimals being 18.
+title: getbalancev2 - Ontology
+description: Example code for the getbalancev2 json-rpc method. Сomplete guide on how to use getbalancev2 json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

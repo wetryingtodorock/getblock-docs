@@ -1,6 +1,6 @@
 ---
-title: dash:importmulti \[POST\] {disallowed}
-description: Imports addresses or scripts (with private keys, public keys, or P2SHredeem scripts) and optionally performs the minimum necessary rescan forall imports.
+title: importmulti  {disallowed} - Dash
+description: Example code for the importmulti  {disallowed} json-rpc method. Сomplete guide on how to use importmulti  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

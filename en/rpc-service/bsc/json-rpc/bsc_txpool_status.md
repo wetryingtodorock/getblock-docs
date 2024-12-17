@@ -1,6 +1,6 @@
 ---
-title: bsc:txpool_status \[POST\]
-description: Returns numbers of pending and queued transactions.
+title: txpool_status - Binance Smart Chain
+description: Example code for the txpool_status json-rpc method. Сomplete guide on how to use txpool_status json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

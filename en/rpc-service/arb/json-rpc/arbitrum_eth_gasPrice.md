@@ -1,6 +1,6 @@
 ---
-title: arbitrum:eth_gasPrice \[POST\]
-description: Returns the current price per gas in wei.
+title: eth_gasPrice - Arbitrum
+description: Example code for the eth_gasPrice json-rpc method. Сomplete guide on how to use eth_gasPrice json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

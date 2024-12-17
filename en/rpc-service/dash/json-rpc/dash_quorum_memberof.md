@@ -1,6 +1,6 @@
 ---
-title: dash:quorum_memberof \[POST\] {disallowed}
-description: Checks which quorums the given masternode is a member of.
+title: quorum_memberof  {disallowed} - Dash
+description: Example code for the quorum_memberof  {disallowed} json-rpc method. Сomplete guide on how to use quorum_memberof  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

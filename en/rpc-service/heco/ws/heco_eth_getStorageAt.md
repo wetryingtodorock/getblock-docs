@@ -1,6 +1,6 @@
 ---
-title: heco:eth_getStorageAt \[WebSocket\]
-description: Returns the value from a storage position at a given address.
+title: eth_getStorageAt - Huobi ECO Chain
+description: Example code for the eth_getStorageAt ws method. Сomplete guide on how to use eth_getStorageAt ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

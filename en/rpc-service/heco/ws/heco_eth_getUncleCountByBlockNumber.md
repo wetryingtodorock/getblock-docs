@@ -1,6 +1,6 @@
 ---
-title: heco:eth_getUncleCountByBlockNumber \[WebSocket\]
-description: Returns the number of uncles in a block from a block matching the givenblock number.
+title: eth_getUncleCountByBlockNumber - Huobi ECO Chain
+description: Example code for the eth_getUncleCountByBlockNumber ws method. Сomplete guide on how to use eth_getUncleCountByBlockNumber ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

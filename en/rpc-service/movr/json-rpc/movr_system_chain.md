@@ -1,6 +1,6 @@
 ---
-title: movr:system_chain \[POST\]
-description: Retrieves the chain.
+title: system_chain - Moonriver
+description: Example code for the system_chain json-rpc method. Сomplete guide on how to use system_chain json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

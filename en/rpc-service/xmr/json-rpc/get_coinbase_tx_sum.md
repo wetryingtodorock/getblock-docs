@@ -1,6 +1,6 @@
 ---
-title: xmr:get_coinbase_tx_sum \[POST\]
-description: Get the coinbase amount and the fees amount for n last blocks starting at particular height
+title: get_coinbase_tx_sum - Monero
+description: Example code for the get_coinbase_tx_sum json-rpc method. Сomplete guide on how to use get_coinbase_tx_sum json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: optimism:eth_getBlockRange \[POST\] {disallowed}
-description: Deprecated.Returns information about array of blocks by block numbers.
+title: eth_getBlockRange  {disallowed} - Optimism
+description: Example code for the eth_getBlockRange  {disallowed} json-rpc method. Сomplete guide on how to use eth_getBlockRange  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: doge:importprivkey \[POST\] {disallowed}
-description: import private key \[privkey\] to account \[account\], optionallyrescanning blockchain .
+title: importprivkey  {disallowed} - Dogecoin
+description: Example code for the importprivkey  {disallowed} json-rpc method. Сomplete guide on how to use importprivkey  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

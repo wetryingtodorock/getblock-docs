@@ -1,6 +1,6 @@
 ---
-title: ont:getsyncstatus \[WebSocket\]
-description: Fetch the synchronization status of the node.
+title: getsyncstatus - Ontology
+description: Example code for the getsyncstatus ws method. Сomplete guide on how to use getsyncstatus ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

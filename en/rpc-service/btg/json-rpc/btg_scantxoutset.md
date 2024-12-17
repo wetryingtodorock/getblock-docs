@@ -1,6 +1,6 @@
 ---
-title: btg:scantxoutset \[POST\] {disallowed}
-description: EXPERIMENTAL warning this call may be removed or changed in futurereleases.
+title: scantxoutset  {disallowed} - Bitcoin Gold
+description: Example code for the scantxoutset  {disallowed} json-rpc method. Сomplete guide on how to use scantxoutset  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

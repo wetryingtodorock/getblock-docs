@@ -1,6 +1,6 @@
 ---
-title: dash:gobject_diff \[POST\]
-description: Lists governance objects differences since last diff.
+title: gobject_diff - Dash
+description: Example code for the gobject_diff json-rpc method. Сomplete guide on how to use gobject_diff json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

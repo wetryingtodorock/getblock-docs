@@ -1,6 +1,6 @@
 ---
-title: zec:z_exportwallet \[POST\] {disallowed}
-description: Exports all wallet keys, for taddr and zaddr, in a human-readableformat. Overwriting an existing file is not permitted.
+title: z_exportwallet  {disallowed} - Zcash
+description: Example code for the z_exportwallet  {disallowed} json-rpc method. Сomplete guide on how to use z_exportwallet  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

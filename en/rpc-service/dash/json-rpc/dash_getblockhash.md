@@ -1,6 +1,6 @@
 ---
-title: dash:getblockhash \[POST\]
-description: Returns the header hash of a block at the given height in the local bestblock chain.
+title: getblockhash - Dash
+description: Example code for the getblockhash json-rpc method. Сomplete guide on how to use getblockhash json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

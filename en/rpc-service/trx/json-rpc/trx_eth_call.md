@@ -1,6 +1,6 @@
 ---
-title: trx:eth_call \[POST\]
-description: Executes a message call immediately without creating a transaction onthe block chain.
+title: eth_call - TRON
+description: Example code for the eth_call json-rpc method. Сomplete guide on how to use eth_call json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

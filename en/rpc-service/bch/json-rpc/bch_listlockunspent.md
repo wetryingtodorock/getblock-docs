@@ -1,6 +1,6 @@
 ---
-title: bch:listlockunspent \[POST\] {disallowed}
-description: Returns list of temporarily unspendable outputs.See the lockunspent call to lock and unlock transactions for spending.
+title: listlockunspent  {disallowed} - Bitcoin Cash
+description: Example code for the listlockunspent  {disallowed} json-rpc method. Сomplete guide on how to use listlockunspent  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: kcc:eth_getBlockByHash \[WebSocket\]
-description: Returns information about a block by hash.
+title: eth_getBlockByHash - KuCoin Community Chain
+description: Example code for the eth_getBlockByHash ws method. Сomplete guide on how to use eth_getBlockByHash ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

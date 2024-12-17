@@ -1,6 +1,6 @@
 ---
-title: ont:getblockheight \[WebSocket\]
-description: Fetch the current block height.
+title: getblockheight - Ontology
+description: Example code for the getblockheight ws method. Сomplete guide on how to use getblockheight ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

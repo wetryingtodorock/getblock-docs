@@ -1,6 +1,6 @@
 ---
-title: dash:getcoinjoininfo \[POST\]
-description: Returns an object containing an information about CoinJoin settings andstate (previously named getprivatesendinfo prior to Dash Core 0.17.0).
+title: getcoinjoininfo - Dash
+description: Example code for the getcoinjoininfo json-rpc method. Сomplete guide on how to use getcoinjoininfo json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

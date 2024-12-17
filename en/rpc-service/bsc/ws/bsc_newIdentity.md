@@ -1,6 +1,6 @@
 ---
-title: bsc:newIdentity \[WebSocket\] {disallowed}
-description: Creates new whisper identity in the client.
+title: newIdentity  {disallowed} - Binance Smart Chain
+description: Example code for the newIdentity  {disallowed} ws method. Сomplete guide on how to use newIdentity  {disallowed} ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

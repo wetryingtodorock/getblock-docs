@@ -1,6 +1,6 @@
 ---
-title: bsv:getaddressesbylabel \[POST\] {disallowed}
-description: Returns the list of addresses assigned the specified label.
+title: getaddressesbylabel  {disallowed} - Bitcoin SV
+description: Example code for the getaddressesbylabel  {disallowed} json-rpc method. Сomplete guide on how to use getaddressesbylabel  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

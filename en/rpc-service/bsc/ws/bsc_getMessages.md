@@ -1,6 +1,6 @@
 ---
-title: bsc:getMessages \[WebSocket\] {disallowed}
-description: Get all messages matching a filter. Unlike shh_getFilterChanges thisreturns all messages.
+title: getMessages  {disallowed} - Binance Smart Chain
+description: Example code for the getMessages  {disallowed} ws method. Сomplete guide on how to use getMessages  {disallowed} ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

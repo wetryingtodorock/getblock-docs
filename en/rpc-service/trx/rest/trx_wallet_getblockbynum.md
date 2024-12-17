@@ -1,6 +1,6 @@
 ---
-title: trx:/wallet/getblockbynum \[POST\]
-description: Returns the Block Object corresponding to the Block Height specified(number of blocks preceding it).
+title: /wallet/getblockbynum - TRON
+description: Example code for the /wallet/getblockbynum rest method. Сomplete guide on how to use /wallet/getblockbynum rest in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

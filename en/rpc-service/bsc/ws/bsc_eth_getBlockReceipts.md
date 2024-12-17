@@ -1,6 +1,6 @@
 ---
-title: bsc:eth_getBlockReceipts \[WebSocket\] {disallowed}
-description: Returns all transaction receipts for a given block.
+title: eth_getBlockReceipts  {disallowed} - Binance Smart Chain
+description: Example code for the eth_getBlockReceipts  {disallowed} ws method. Сomplete guide on how to use eth_getBlockReceipts  {disallowed} ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

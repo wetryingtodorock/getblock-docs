@@ -1,6 +1,6 @@
 ---
-title: zec:getdeprecationinfo \[POST\] {disallowed}
-description: Returns an object containing current version and deprecation blockheight. Applicable only on mainnet.
+title: getdeprecationinfo  {disallowed} - Zcash
+description: Example code for the getdeprecationinfo  {disallowed} json-rpc method. Сomplete guide on how to use getdeprecationinfo  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

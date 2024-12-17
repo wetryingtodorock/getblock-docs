@@ -1,6 +1,6 @@
 ---
-title: dash:getaddressbalance \[POST\] {disallowed}
-description: Returns the balance for address(es).
+title: getaddressbalance  {disallowed} - Dash
+description: Example code for the getaddressbalance  {disallowed} json-rpc method. Сomplete guide on how to use getaddressbalance  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

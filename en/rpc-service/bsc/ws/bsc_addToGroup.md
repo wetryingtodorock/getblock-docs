@@ -1,7 +1,6 @@
 ---
-title: bsc:addToGroup \[WebSocket\] {disallowed}
-description: 
----
+title: addToGroup  {disallowed} - Binance Smart Chain
+description: Example code for the addToGroup  {disallowed} ws method. Сomplete guide on how to use addToGroup  {disallowed} ws in GetBlock.io Web3 documentation.
 
 ### Parameters
 

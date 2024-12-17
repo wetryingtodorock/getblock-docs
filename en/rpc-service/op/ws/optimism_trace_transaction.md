@@ -1,6 +1,6 @@
 ---
-title: optimism:trace_transaction \[WebSocket\]
-description: Provides transaction processing of type trace for the specifiedtransaction.
+title: trace_transaction - Optimism
+description: Example code for the trace_transaction ws method. Сomplete guide on how to use trace_transaction ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

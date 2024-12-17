@@ -1,6 +1,6 @@
 ---
-title: ont:/api/v1/transaction \[POST\]
-description: Send a raw transaction
+title: /api/v1/transaction - Ontology
+description: Example code for the /api/v1/transaction rest method. Сomplete guide on how to use /api/v1/transaction rest in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

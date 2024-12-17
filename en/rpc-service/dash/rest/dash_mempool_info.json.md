@@ -1,6 +1,6 @@
 ---
-title: dash:/mempool/info.json \[GET\]
-description: The GET mempool/info operation returns information about the node’scurrent transaction memory pool. Supports only json as output format.
+title: /mempool/info.json - Dash
+description: Example code for the /mempool/info.json rest method. Сomplete guide on how to use /mempool/info.json rest in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

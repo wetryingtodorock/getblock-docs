@@ -1,6 +1,6 @@
 ---
-title: etc:clique_proposals \[POST\] {disallowed}
-description: Returns current proposals.
+title: clique_proposals  {disallowed} - Ethereum Classic
+description: Example code for the clique_proposals  {disallowed} json-rpc method. Сomplete guide on how to use clique_proposals  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

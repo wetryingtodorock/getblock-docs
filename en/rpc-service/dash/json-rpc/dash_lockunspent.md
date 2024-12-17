@@ -1,6 +1,6 @@
 ---
-title: dash:lockunspent \[POST\] {disallowed}
-description: Temporarily locks or unlocks specified transaction outputs. A lockedtransaction output will not be chosen by automatic coin selection whenspending dash. Locks are stored in memory only, so nodes start with zerolocked outputs and the locked output list is always cleared when a nodestops or fails.
+title: lockunspent  {disallowed} - Dash
+description: Example code for the lockunspent  {disallowed} json-rpc method. Сomplete guide on how to use lockunspent  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

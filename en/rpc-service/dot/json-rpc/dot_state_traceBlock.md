@@ -1,6 +1,6 @@
 ---
-title: dot:state_traceBlock \[POST\] {disallowed}
-description: Provides a way to trace the re-execution of a single block
+title: state_traceBlock  {disallowed} - Polkadot
+description: Example code for the state_traceBlock  {disallowed} json-rpc method. Сomplete guide on how to use state_traceBlock  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: zec:getgenerate \[POST\] {disallowed}
-description: Return if the server is set to generate coins or not. The default isfalse.It is set with the command line argument -gen (or zcash.conf settinggen)It can also be set with the setgenerate call.
+title: getgenerate  {disallowed} - Zcash
+description: Example code for the getgenerate  {disallowed} json-rpc method. Сomplete guide on how to use getgenerate  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

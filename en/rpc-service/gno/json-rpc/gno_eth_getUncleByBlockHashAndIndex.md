@@ -1,6 +1,6 @@
 ---
-title: gno:eth_getUncleByBlockHashAndIndex \[POST\]
-description: Returns uncle specified by block hash and index.
+title: eth_getUncleByBlockHashAndIndex - Gnosis
+description: Example code for the eth_getUncleByBlockHashAndIndex json-rpc method. Сomplete guide on how to use eth_getUncleByBlockHashAndIndex json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: btg:createwallet \[POST\] {disallowed}
-description: Creates and loads a new wallet.
+title: createwallet  {disallowed} - Bitcoin Gold
+description: Example code for the createwallet  {disallowed} json-rpc method. Сomplete guide on how to use createwallet  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

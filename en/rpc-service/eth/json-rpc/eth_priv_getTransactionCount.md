@@ -1,6 +1,6 @@
 ---
-title: eth:priv_getTransactionCount \[POST\] {disallowed}
-description: Returns the private transaction count for specified account and privacygroup.
+title: priv_getTransactionCount  {disallowed} - Ethereum
+description: Example code for the priv_getTransactionCount  {disallowed} json-rpc method. Сomplete guide on how to use priv_getTransactionCount  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

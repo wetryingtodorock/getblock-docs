@@ -1,6 +1,6 @@
 ---
-title: zec:listreceivedbyaddress \[POST\] {disallowed}
-description: List balances by receiving address.
+title: listreceivedbyaddress  {disallowed} - Zcash
+description: Example code for the listreceivedbyaddress  {disallowed} json-rpc method. Сomplete guide on how to use listreceivedbyaddress  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

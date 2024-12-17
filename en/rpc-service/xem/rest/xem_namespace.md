@@ -1,6 +1,6 @@
 ---
-title: xem:/namespace \[GET\]
-description: Gets the namespace with given id.
+title: /namespace - NEM
+description: Example code for the /namespace rest method. Сomplete guide on how to use /namespace rest in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

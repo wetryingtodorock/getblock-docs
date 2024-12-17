@@ -1,6 +1,6 @@
 ---
-title: dash:importprunedfunds \[POST\] {disallowed}
-description: imports funds without the need of a rescan. Meant for use with prunedwallets. Corresponding address or script must previously be included inwallet.The end-user is responsible to import additional transactions thatsubsequently spend the imported outputs or rescan after the point in theblockchain the transaction is included.
+title: importprunedfunds  {disallowed} - Dash
+description: Example code for the importprunedfunds  {disallowed} json-rpc method. Сomplete guide on how to use importprunedfunds  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

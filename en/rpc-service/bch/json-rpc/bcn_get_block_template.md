@@ -1,6 +1,6 @@
 ---
-title: bcn:get_block_template \[POST\] {disallowed}
-description: Get block template.
+title: get_block_template  {disallowed} - Bitcoin Cash
+description: Example code for the get_block_template  {disallowed} json-rpc method. Сomplete guide on how to use get_block_template  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

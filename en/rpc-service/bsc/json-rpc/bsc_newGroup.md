@@ -1,7 +1,6 @@
 ---
-title: bsc:newGroup \[POST\] {disallowed}
-description: 
----
+title: newGroup  {disallowed} - Binance Smart Chain
+description: Example code for the newGroup  {disallowed} json-rpc method. Сomplete guide on how to use newGroup  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 
 ### Parameters
 

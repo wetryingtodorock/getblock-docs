@@ -1,6 +1,6 @@
 ---
-title: kcc:eth_coinbase \[POST\]
-description: Returns the client coinbase address.
+title: eth_coinbase - KuCoin Community Chain
+description: Example code for the eth_coinbase json-rpc method. Сomplete guide on how to use eth_coinbase json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

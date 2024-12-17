@@ -1,6 +1,6 @@
 ---
-title: dash:gettxoutproof \[POST\]
-description: Returns a hex-encoded proof that one or more specified transactions wereincluded in a block.NOTE By default this function only works when there is an unspentoutput in the UTXO set for this transaction.To make it always work, you need to maintain a transaction index, usingthe -txindex command line option, or specify the block in which thetransaction is included in manually (by block header hash).
+title: gettxoutproof - Dash
+description: Example code for the gettxoutproof json-rpc method. Сomplete guide on how to use gettxoutproof json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

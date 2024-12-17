@@ -1,6 +1,6 @@
 ---
-title: doge:getblock \[POST\]
-description: Returns information about the given block hash.
+title: getblock - Dogecoin
+description: Example code for the getblock json-rpc method. Сomplete guide on how to use getblock json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

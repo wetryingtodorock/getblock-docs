@@ -1,6 +1,6 @@
 ---
-title: ftm:dag_getHeads \[POST\]
-description: Returns an array of event IDs.
+title: dag_getHeads - Fantom
+description: Example code for the dag_getHeads json-rpc method. Сomplete guide on how to use dag_getHeads json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

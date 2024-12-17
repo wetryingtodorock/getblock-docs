@@ -1,6 +1,6 @@
 ---
-title: dgb:getnettotals \[POST\] {disallowed}
-description: Returns information about network traffic, including bytes in, bytesout, and current time.
+title: getnettotals  {disallowed} - DigiByte
+description: Example code for the getnettotals  {disallowed} json-rpc method. Сomplete guide on how to use getnettotals  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

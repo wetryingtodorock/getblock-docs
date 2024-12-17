@@ -1,6 +1,6 @@
 ---
-title: trx:/wallet/createspendauthsig \[POST\] {disallowed}
-description: Note To ensure security, Trongrid has disabled this interface service,please use the service provided by the local node.
+title: /wallet/createspendauthsig  {disallowed} - TRON
+description: Example code for the /wallet/createspendauthsig  {disallowed} rest method. Сomplete guide on how to use /wallet/createspendauthsig  {disallowed} rest in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

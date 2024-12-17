@@ -1,6 +1,6 @@
 ---
-title: avax:avax.export \[POST\] {disallowed}
-description: Export an asset from the C-Chain to the X-Chain. After calling thismethod, you must call avm.import on the X-Chain to complete thetransfer.
+title: avax.export  {disallowed} - Avalanche
+description: Example code for the avax.export  {disallowed} json-rpc method. Сomplete guide on how to use avax.export  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

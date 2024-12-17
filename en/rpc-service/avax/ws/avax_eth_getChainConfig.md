@@ -1,6 +1,6 @@
 ---
-title: avax:eth_getChainConfig \[WebSocket\]
-description: Returns a list of available compilers in the client.
+title: eth_getChainConfig - Avalanche
+description: Example code for the eth_getChainConfig ws method. Сomplete guide on how to use eth_getChainConfig ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

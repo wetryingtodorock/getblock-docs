@@ -1,6 +1,6 @@
 ---
-title: trx:/wallet/getassetissuelist \[GET\] {disallowed}
-description: Query the list of all the TRC10 tokens.
+title: /wallet/getassetissuelist  {disallowed} - TRON
+description: Example code for the /wallet/getassetissuelist  {disallowed} rest method. Сomplete guide on how to use /wallet/getassetissuelist  {disallowed} rest in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

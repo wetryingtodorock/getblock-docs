@@ -1,6 +1,6 @@
 ---
-title: trx:/wallet/withdrawbalance \[POST\] {disallowed}
-description: Super Representative or user withdraw rewards, usable every 24 hours.Super representatives can withdraw the balance from the accountallowance into the account balance, Users can claim the voting rewardfrom the SRs and deposit into his account balance.
+title: /wallet/withdrawbalance  {disallowed} - TRON
+description: Example code for the /wallet/withdrawbalance  {disallowed} rest method. Сomplete guide on how to use /wallet/withdrawbalance  {disallowed} rest in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

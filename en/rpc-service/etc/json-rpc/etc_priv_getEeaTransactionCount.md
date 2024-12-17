@@ -1,6 +1,6 @@
 ---
-title: etc:priv_getEeaTransactionCount \[POST\] {disallowed}
-description: Returns the private transaction count for the specified account andgroup of sender and recipients.
+title: priv_getEeaTransactionCount  {disallowed} - Ethereum Classic
+description: Example code for the priv_getEeaTransactionCount  {disallowed} json-rpc method. Сomplete guide on how to use priv_getEeaTransactionCount  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

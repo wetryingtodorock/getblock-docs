@@ -1,6 +1,6 @@
 ---
-title: eth:priv_getFilterChanges \[POST\] {disallowed}
-description: Polls the specified filter for a private contract and returns an arrayof changes that have occurred since the last poll.Filters for private contracts can only be created by priv_newFilter sounlike eth_getFilterChanges, priv_getFilterChanges always returns anarray of log objects or an empty list.
+title: priv_getFilterChanges  {disallowed} - Ethereum
+description: Example code for the priv_getFilterChanges  {disallowed} json-rpc method. Сomplete guide on how to use priv_getFilterChanges  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

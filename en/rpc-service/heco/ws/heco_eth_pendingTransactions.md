@@ -1,6 +1,6 @@
 ---
-title: heco:eth_pendingTransactions \[WebSocket\]
-description: Returns the pending transactions list.
+title: eth_pendingTransactions - Huobi ECO Chain
+description: Example code for the eth_pendingTransactions ws method. Сomplete guide on how to use eth_pendingTransactions ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

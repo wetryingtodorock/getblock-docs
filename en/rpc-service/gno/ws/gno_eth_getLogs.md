@@ -1,6 +1,6 @@
 ---
-title: gno:eth_getLogs \[WebSocket\]
-description: Returns an array of logs matching a specified filter object.Leave the --auto-log-bloom-caching-enabled command line option at thedefault value of true to improve log retrieval performance.
+title: eth_getLogs - Gnosis
+description: Example code for the eth_getLogs ws method. Сomplete guide on how to use eth_getLogs ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

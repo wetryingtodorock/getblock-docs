@@ -1,6 +1,6 @@
 ---
-title: ksm:grandpa_roundState \[POST\]
-description: Returns the state of the current best round state as well as the ongoingbackground rounds.
+title: grandpa_roundState - Kusama
+description: Example code for the grandpa_roundState json-rpc method. Сomplete guide on how to use grandpa_roundState json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

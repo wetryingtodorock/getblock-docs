@@ -1,6 +1,6 @@
 ---
-title: dash:protx_register_submit \[POST\] {disallowed}
-description: The protx register_submit RPC combines the unsigned ProTx and asignature of the signMessage, signs all inputs which were added to coverfees and submits the resulting transaction to the network.Note See protx register_prepare for more info about creating a ProTxand a message to sign.
+title: protx_register_submit  {disallowed} - Dash
+description: Example code for the protx_register_submit  {disallowed} json-rpc method. Сomplete guide on how to use protx_register_submit  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: eth:trace_replayBlockTransactions \[WebSocket\] {disallowed}
-description: Provides transaction processing tracing per block.
+title: trace_replayBlockTransactions  {disallowed} - Ethereum
+description: Example code for the trace_replayBlockTransactions  {disallowed} ws method. Сomplete guide on how to use trace_replayBlockTransactions  {disallowed} ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

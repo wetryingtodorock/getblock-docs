@@ -1,6 +1,6 @@
 ---
-title: optimism:shh_newGroup \[WebSocket\] {disallowed}
-description: Creates new group
+title: shh_newGroup  {disallowed} - Optimism
+description: Example code for the shh_newGroup  {disallowed} ws method. Сomplete guide on how to use shh_newGroup  {disallowed} ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

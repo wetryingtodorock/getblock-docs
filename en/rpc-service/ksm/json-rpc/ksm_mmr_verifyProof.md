@@ -1,6 +1,6 @@
 ---
-title: ksm:mmr_verifyProof \[POST\] {disallowed}
-description: Verify an MMR proof
+title: mmr_verifyProof  {disallowed} - Kusama
+description: Example code for the mmr_verifyProof  {disallowed} json-rpc method. Сomplete guide on how to use mmr_verifyProof  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

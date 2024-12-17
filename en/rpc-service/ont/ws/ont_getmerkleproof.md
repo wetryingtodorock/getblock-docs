@@ -1,6 +1,6 @@
 ---
-title: ont:getmerkleproof \[WebSocket\]
-description: Fetch merkle proof for given block hash.
+title: getmerkleproof - Ontology
+description: Example code for the getmerkleproof ws method. Сomplete guide on how to use getmerkleproof ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

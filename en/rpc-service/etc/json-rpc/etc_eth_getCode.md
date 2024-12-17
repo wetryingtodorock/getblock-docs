@@ -1,6 +1,6 @@
 ---
-title: etc:eth_getCode \[POST\]
-description: Returns the code of the smart contract at the specified address. Besustores compiled smart contract code as a hexadecimal value.
+title: eth_getCode - Ethereum Classic
+description: Example code for the eth_getCode json-rpc method. Сomplete guide on how to use eth_getCode json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

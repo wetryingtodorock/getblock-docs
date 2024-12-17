@@ -1,6 +1,6 @@
 ---
-title: near:gas_price \[POST\]
-description: Returns gas price for a specific block_height or block_hash.Using \[null\] will return the most recent blocks gas price.
+title: gas_price - NEAR Protocol
+description: Example code for the gas_price json-rpc method. Сomplete guide on how to use gas_price json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

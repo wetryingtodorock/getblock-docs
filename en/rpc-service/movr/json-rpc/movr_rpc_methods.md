@@ -1,6 +1,6 @@
 ---
-title: movr:rpc_methods \[POST\]
-description: Retrieves the list of RPC methods that are exposed by the node
+title: rpc_methods - Moonriver
+description: Example code for the rpc_methods json-rpc method. Сomplete guide on how to use rpc_methods json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

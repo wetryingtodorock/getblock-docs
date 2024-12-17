@@ -1,6 +1,6 @@
 ---
-title: ksm:eth_gasPrice \[POST\] {disallowed}
-description: Returns current gas price.
+title: eth_gasPrice  {disallowed} - Kusama
+description: Example code for the eth_gasPrice  {disallowed} json-rpc method. Сomplete guide on how to use eth_gasPrice  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

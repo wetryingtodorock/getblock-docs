@@ -1,6 +1,6 @@
 ---
-title: bsc:putString \[POST\] {disallowed}
-description: Stores a string in the local database.Note this function is deprecated and will be removed in the future.
+title: putString  {disallowed} - Binance Smart Chain
+description: Example code for the putString  {disallowed} json-rpc method. Сomplete guide on how to use putString  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

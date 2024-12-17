@@ -1,6 +1,6 @@
 ---
-title: eth:eth_getFilterLogs \[POST\]
-description: Returns an array of logs for the specified filter.Leave the --auto-log-bloom-caching-enabled command line option at thedefault value of true to improve log retrieval performance.
+title: eth_getFilterLogs - Ethereum
+description: Example code for the eth_getFilterLogs json-rpc method. Сomplete guide on how to use eth_getFilterLogs json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

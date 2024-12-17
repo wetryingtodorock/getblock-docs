@@ -1,6 +1,6 @@
 ---
-title: xem:/namespace/root/page \[GET\]
-description: Gets the root namespaces. The requests supports paging, i.e. retrievingthe root namespaces in batches of a specified size.
+title: /namespace/root/page - NEM
+description: Example code for the /namespace/root/page rest method. Сomplete guide on how to use /namespace/root/page rest in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

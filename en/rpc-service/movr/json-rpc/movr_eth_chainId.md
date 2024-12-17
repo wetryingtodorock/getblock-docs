@@ -1,6 +1,6 @@
 ---
-title: movr:eth_chainId \[POST\] {disallowed}
-description: Returns the chain ID used for transaction signing at the current bestblock. None is returned if not available.
+title: eth_chainId  {disallowed} - Moonriver
+description: Example code for the eth_chainId  {disallowed} json-rpc method. Сomplete guide on how to use eth_chainId  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: bsc:eth_getWork \[WebSocket\] {disallowed}
-description: Returns the hash of the current block, the seed hash, and the requiredtarget boundary condition.
+title: eth_getWork  {disallowed} - Binance Smart Chain
+description: Example code for the eth_getWork  {disallowed} ws method. Сomplete guide on how to use eth_getWork  {disallowed} ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

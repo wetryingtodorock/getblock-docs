@@ -1,6 +1,6 @@
 ---
-title: ksm:eth_hashrate \[POST\] {disallowed}
-description: Returns the number of hashes per second that the node is mining with.
+title: eth_hashrate  {disallowed} - Kusama
+description: Example code for the eth_hashrate  {disallowed} json-rpc method. Сomplete guide on how to use eth_hashrate  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

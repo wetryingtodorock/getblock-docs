@@ -1,6 +1,6 @@
 ---
-title: ont:getmempooltxcount \[POST\]
-description: Fetch the number of transactions in the node memory pool.
+title: getmempooltxcount - Ontology
+description: Example code for the getmempooltxcount json-rpc method. Сomplete guide on how to use getmempooltxcount json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

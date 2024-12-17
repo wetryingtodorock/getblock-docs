@@ -1,6 +1,6 @@
 ---
-title: eth:clique_discard \[WebSocket\] {disallowed}
-description: Discards a proposal to add or remove a signer with the specifiedaddress.
+title: clique_discard  {disallowed} - Ethereum
+description: Example code for the clique_discard  {disallowed} ws method. Сomplete guide on how to use clique_discard  {disallowed} ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

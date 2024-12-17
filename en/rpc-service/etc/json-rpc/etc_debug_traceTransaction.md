@@ -1,6 +1,6 @@
 ---
-title: etc:debug_traceTransaction \[POST\] {disallowed}
-description: Remix uses debug_traceTransaction to implement debugging. Use theDebugger tab in Remix instead of calling debug_traceTransactiondirectly.Reruns the transaction with the same state as when the transactionexecuted.
+title: debug_traceTransaction  {disallowed} - Ethereum Classic
+description: Example code for the debug_traceTransaction  {disallowed} json-rpc method. Сomplete guide on how to use debug_traceTransaction  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: ton:/detectAddress \[GET\]
-description: Get all possible address forms.
+title: /detectAddress - The Open Network (TON)
+description: Example code for the /detectAddress json-rpc method. Сomplete guide on how to use /detectAddress json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

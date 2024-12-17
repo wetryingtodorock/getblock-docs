@@ -1,6 +1,6 @@
 ---
-title: trx:/wallet/listnodes \[GET\]
-description: Query the list of nodes connected to the API node
+title: /wallet/listnodes - TRON
+description: Example code for the /wallet/listnodes rest method. Сomplete guide on how to use /wallet/listnodes rest in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: movr:author_removeExtrinsic \[POST\] {disallowed}
-description: Remove given extrinsic from the pool and temporarily ban it to preventreimporting
+title: author_removeExtrinsic  {disallowed} - Moonriver
+description: Example code for the author_removeExtrinsic  {disallowed} json-rpc method. Сomplete guide on how to use author_removeExtrinsic  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

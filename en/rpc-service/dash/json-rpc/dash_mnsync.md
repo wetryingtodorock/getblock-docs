@@ -1,6 +1,6 @@
 ---
-title: dash:mnsync \[POST\]
-description: returns the sync status, updates to the next step or resets it entirely.
+title: mnsync - Dash
+description: Example code for the mnsync json-rpc method. Сomplete guide on how to use mnsync json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

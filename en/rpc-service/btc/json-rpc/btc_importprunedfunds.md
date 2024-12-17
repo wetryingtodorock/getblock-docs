@@ -1,6 +1,6 @@
 ---
-title: btc:importprunedfunds \[POST\] {disallowed}
-description: Imports funds without rescan. Corresponding address or script mustpreviously be included in wallet. Aimed towards pruned wallets. Theend-user is responsible to import additional transactions thatsubsequently spend the imported outputs or rescan after the point in theblockchain the transaction is included.
+title: importprunedfunds  {disallowed} - Bitcoin
+description: Example code for the importprunedfunds  {disallowed} json-rpc method. Сomplete guide on how to use importprunedfunds  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

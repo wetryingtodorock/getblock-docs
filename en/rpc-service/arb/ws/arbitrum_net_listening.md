@@ -1,6 +1,6 @@
 ---
-title: arbitrum:net_listening \[WebSocket\] {disallowed}
-description: Returns true if client is actively listening for network connections.
+title: net_listening  {disallowed} - Arbitrum
+description: Example code for the net_listening  {disallowed} ws method. Сomplete guide on how to use net_listening  {disallowed} ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

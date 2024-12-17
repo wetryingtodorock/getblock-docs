@@ -1,6 +1,6 @@
 ---
-title: rsk:shh_getFilterChanges \[POST\] {disallowed}
-description: Whisper protocol not supported.
+title: shh_getFilterChanges  {disallowed} - Rootstock
+description: Example code for the shh_getFilterChanges  {disallowed} json-rpc method. Сomplete guide on how to use shh_getFilterChanges  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: etc:plugins_reloadPluginConfig \[POST\] {disallowed}
-description: Reload Plugin config
+title: plugins_reloadPluginConfig  {disallowed} - Ethereum Classic
+description: Example code for the plugins_reloadPluginConfig  {disallowed} json-rpc method. Сomplete guide on how to use plugins_reloadPluginConfig  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

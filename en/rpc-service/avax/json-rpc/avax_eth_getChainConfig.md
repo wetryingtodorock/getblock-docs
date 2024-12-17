@@ -1,6 +1,6 @@
 ---
-title: avax:eth_getChainConfig \[POST\]
-description: Returns a list of available compilers in the client.
+title: eth_getChainConfig - Avalanche
+description: Example code for the eth_getChainConfig json-rpc method. Сomplete guide on how to use eth_getChainConfig json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

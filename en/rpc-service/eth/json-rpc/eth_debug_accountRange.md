@@ -1,6 +1,6 @@
 ---
-title: eth:debug_accountRange \[POST\] {disallowed}
-description: Enumerates all accounts at a given block with paging capability.maxResults are returned in the page and the items have keys that comeafter the start key (hashed address).If incompletes is false, then accounts for which the key preimage (i.ethe address) doesn’t exist in db are skipped. NB geth by default doesnot store preimages.
+title: debug_accountRange  {disallowed} - Ethereum
+description: Example code for the debug_accountRange  {disallowed} json-rpc method. Сomplete guide on how to use debug_accountRange  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

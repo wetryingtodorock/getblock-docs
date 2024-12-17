@@ -1,6 +1,6 @@
 ---
-title: ksm:childstate_getKeysPaged \[POST\] {disallowed}
-description: Returns the keys with prefix from a child storage with paginationsupport.
+title: childstate_getKeysPaged  {disallowed} - Kusama
+description: Example code for the childstate_getKeysPaged  {disallowed} json-rpc method. Сomplete guide on how to use childstate_getKeysPaged  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

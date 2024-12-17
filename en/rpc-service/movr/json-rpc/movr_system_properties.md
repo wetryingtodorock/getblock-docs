@@ -1,6 +1,6 @@
 ---
-title: movr:system_properties \[POST\]
-description: Get a custom set of properties as a JSON object, defined in the chainspec.
+title: system_properties - Moonriver
+description: Example code for the system_properties json-rpc method. Сomplete guide on how to use system_properties json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

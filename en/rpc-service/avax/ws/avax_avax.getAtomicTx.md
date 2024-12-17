@@ -1,6 +1,6 @@
 ---
-title: avax:avax.getAtomicTx \[WebSocket\] {disallowed}
-description: Gets a transaction by its ID.
+title: avax.getAtomicTx  {disallowed} - Avalanche
+description: Example code for the avax.getAtomicTx  {disallowed} ws method. Сomplete guide on how to use avax.getAtomicTx  {disallowed} ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: bsc:newFilter \[WebSocket\] {disallowed}
-description: Creates filter to notify, when client receives whisper message matchingthe filter options.
+title: newFilter  {disallowed} - Binance Smart Chain
+description: Example code for the newFilter  {disallowed} ws method. Сomplete guide on how to use newFilter  {disallowed} ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

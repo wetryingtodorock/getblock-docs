@@ -1,6 +1,6 @@
 ---
-title: ksm:engine_createBlock \[POST\] {disallowed}
-description: Instructs the manual-seal authorship task to create a new block.
+title: engine_createBlock  {disallowed} - Kusama
+description: Example code for the engine_createBlock  {disallowed} json-rpc method. Сomplete guide on how to use engine_createBlock  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

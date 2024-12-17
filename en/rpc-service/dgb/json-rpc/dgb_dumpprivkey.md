@@ -1,6 +1,6 @@
 ---
-title: dgb:dumpprivkey \[POST\] {disallowed}
-description: Reveals the private key corresponding to ‘address’.Then the importprivkey can be used with this output
+title: dumpprivkey  {disallowed} - DigiByte
+description: Example code for the dumpprivkey  {disallowed} json-rpc method. Сomplete guide on how to use dumpprivkey  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

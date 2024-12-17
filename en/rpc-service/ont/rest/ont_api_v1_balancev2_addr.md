@@ -1,6 +1,6 @@
 ---
-title: ont:/api/v1/balancev2/{addr} \[GET\]
-description: Fetch the balance of the account using an address, with ONT decimalsbeing 9, and ONG decimals being 18
+title: /api/v1/balancev2/{addr} - Ontology
+description: Example code for the /api/v1/balancev2/{addr} rest method. Сomplete guide on how to use /api/v1/balancev2/{addr} rest in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

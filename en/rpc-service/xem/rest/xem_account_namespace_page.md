@@ -1,6 +1,6 @@
 ---
-title: xem:/account/namespace/page \[GET\]
-description: Gets an array of namespace objects for a given account address. Theparent parameter is optional. If supplied, only sub-namespaces of theparent namespace are returned.
+title: /account/namespace/page - NEM
+description: Example code for the /account/namespace/page rest method. Сomplete guide on how to use /account/namespace/page rest in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: ksm:childstate_getStorageEntries \[POST\] {disallowed}
-description: Returns child storage entries for multiple keys at a specific blockstate
+title: childstate_getStorageEntries  {disallowed} - Kusama
+description: Example code for the childstate_getStorageEntries  {disallowed} json-rpc method. Сomplete guide on how to use childstate_getStorageEntries  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

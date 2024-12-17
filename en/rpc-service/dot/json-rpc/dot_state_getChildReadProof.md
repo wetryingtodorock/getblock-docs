@@ -1,6 +1,6 @@
 ---
-title: dot:state_getChildReadProof \[POST\] {disallowed}
-description: Returns proof of storage for child key entries at a specific blockstate.
+title: state_getChildReadProof  {disallowed} - Polkadot
+description: Example code for the state_getChildReadProof  {disallowed} json-rpc method. Сomplete guide on how to use state_getChildReadProof  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

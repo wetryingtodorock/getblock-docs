@@ -1,6 +1,6 @@
 ---
-title: dash:stop \[POST\] {disallowed}
-description: safely shuts down the Dash Core server.
+title: stop  {disallowed} - Dash
+description: Example code for the stop  {disallowed} json-rpc method. Сomplete guide on how to use stop  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

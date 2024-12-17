@@ -1,6 +1,6 @@
 ---
-title: kcc:eth_mining \[POST\]
-description: Returns true if client is actively mining new blocks.
+title: eth_mining - KuCoin Community Chain
+description: Example code for the eth_mining json-rpc method. Сomplete guide on how to use eth_mining json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

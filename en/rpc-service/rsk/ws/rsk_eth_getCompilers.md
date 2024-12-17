@@ -1,6 +1,6 @@
 ---
-title: rsk:eth_getCompilers \[Websocket\] {disallowed}
-description: For security reasons, we’ve decided not to include compilers in node.
+title: eth_getCompilers  {disallowed} - Rootstock
+description: Example code for the eth_getCompilers  {disallowed} ws method. Сomplete guide on how to use eth_getCompilers  {disallowed} ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

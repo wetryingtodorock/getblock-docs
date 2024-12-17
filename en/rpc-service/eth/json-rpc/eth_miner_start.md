@@ -1,6 +1,6 @@
 ---
-title: eth:miner_start \[POST\] {disallowed}
-description: Starts the mining process. To start mining, you must first specify aminer coinbase using the --miner-coinbase command line option.
+title: miner_start  {disallowed} - Ethereum
+description: Example code for the miner_start  {disallowed} json-rpc method. Сomplete guide on how to use miner_start  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

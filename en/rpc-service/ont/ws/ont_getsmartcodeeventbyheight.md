@@ -1,6 +1,6 @@
 ---
-title: ont:getsmartcodeeventbyheight \[WebSocket\]
-description: Fetches event details for a smart contract event that occurred at givenblock height and fetches the transaction list.
+title: getsmartcodeeventbyheight - Ontology
+description: Example code for the getsmartcodeeventbyheight ws method. Сomplete guide on how to use getsmartcodeeventbyheight ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

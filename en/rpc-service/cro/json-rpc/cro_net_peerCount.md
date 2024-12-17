@@ -1,6 +1,6 @@
 ---
-title: cro:net_peerCount \[POST\]
-description: Returns the number of peers currently connected to the client.
+title: net_peerCount - Cronos
+description: Example code for the net_peerCount json-rpc method. Сomplete guide on how to use net_peerCount json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

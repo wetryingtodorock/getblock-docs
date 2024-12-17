@@ -1,6 +1,6 @@
 ---
-title: one:hmy_getTransactionByHash \[POST\]
-description: Returns transaction information for the specified transaction hash.
+title: hmy_getTransactionByHash - Harmony
+description: Example code for the hmy_getTransactionByHash json-rpc method. Сomplete guide on how to use hmy_getTransactionByHash json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

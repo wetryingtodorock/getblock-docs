@@ -1,6 +1,6 @@
 ---
-title: doge:getblocknumber \[POST\] {disallowed}
-description: Deprecated. Use getblockcount instead.Returns the block number of the latest block in the longest block chain.
+title: getblocknumber  {disallowed} - Dogecoin
+description: Example code for the getblocknumber  {disallowed} json-rpc method. Сomplete guide on how to use getblocknumber  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

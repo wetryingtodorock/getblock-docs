@@ -1,6 +1,6 @@
 ---
-title: ont:getversion \[POST\]
-description: Fetch the version of the current node.
+title: getversion - Ontology
+description: Example code for the getversion json-rpc method. Сomplete guide on how to use getversion json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

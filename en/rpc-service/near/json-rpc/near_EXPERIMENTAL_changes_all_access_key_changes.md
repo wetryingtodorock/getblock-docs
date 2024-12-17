@@ -1,6 +1,6 @@
 ---
-title: near:EXPERIMENTAL_changes(all_access_key_changes) \[POST\] {disallowed}
-description: Returns changes to all access keys of a specific block. Multipleaccounts can be quereied by passing an array of account_ids.
+title: EXPERIMENTAL_changes(all_access_key_changes)  {disallowed} - NEAR Protocol
+description: Example code for the EXPERIMENTAL_changes(all_access_key_changes)  {disallowed} json-rpc method. Сomplete guide on how to use EXPERIMENTAL_changes(all_access_key_changes)  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

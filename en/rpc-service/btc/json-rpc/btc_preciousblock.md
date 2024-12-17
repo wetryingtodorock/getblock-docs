@@ -1,6 +1,6 @@
 ---
-title: btc:preciousblock \[POST\]
-description: Treats a block as if it were received before others with the same work.A later preciousblock call can override the effect of an earlier one.The effects of preciousblock are not retained across restarts.
+title: preciousblock - Bitcoin
+description: Example code for the preciousblock json-rpc method. Сomplete guide on how to use preciousblock json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: ont:getnetworkid \[WebSocket\]
-description: Fetch the network ID.
+title: getnetworkid - Ontology
+description: Example code for the getnetworkid ws method. Сomplete guide on how to use getnetworkid ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

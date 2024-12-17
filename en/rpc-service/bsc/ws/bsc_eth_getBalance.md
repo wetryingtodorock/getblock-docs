@@ -1,6 +1,6 @@
 ---
-title: bsc:eth_getBalance \[WebSocket\]
-description: Returns the account balance of the specified address.
+title: eth_getBalance - Binance Smart Chain
+description: Example code for the eth_getBalance ws method. Сomplete guide on how to use eth_getBalance ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

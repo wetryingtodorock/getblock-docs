@@ -1,6 +1,6 @@
 ---
-title: dash:dumpprivkey \[POST\] {disallowed}
-description: Returns the wallet-import-format (WIP) private key corresponding to anaddress. (But does not remove it from the wallet.)
+title: dumpprivkey  {disallowed} - Dash
+description: Example code for the dumpprivkey  {disallowed} json-rpc method. Сomplete guide on how to use dumpprivkey  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

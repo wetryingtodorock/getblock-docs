@@ -1,6 +1,6 @@
 ---
-title: dash:voteraw \[POST\] {disallowed}
-description: compiles and relays a governance vote with provided external signatureinstead of signing vote internally
+title: voteraw  {disallowed} - Dash
+description: Example code for the voteraw  {disallowed} json-rpc method. Сomplete guide on how to use voteraw  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

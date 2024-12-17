@@ -1,6 +1,6 @@
 ---
-title: ont:getgasprice \[POST\]
-description: Fetch current gas price.
+title: getgasprice - Ontology
+description: Example code for the getgasprice json-rpc method. Сomplete guide on how to use getgasprice json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

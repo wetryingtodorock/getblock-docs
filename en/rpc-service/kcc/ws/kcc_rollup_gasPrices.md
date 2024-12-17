@@ -1,6 +1,6 @@
 ---
-title: kcc:rollup_gasPrices \[WebSocket\]
-description: Returns the L1 and L2 gas prices that are being used by the Sequencer tocalculate fees.
+title: rollup_gasPrices - KuCoin Community Chain
+description: Example code for the rollup_gasPrices ws method. Сomplete guide on how to use rollup_gasPrices ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

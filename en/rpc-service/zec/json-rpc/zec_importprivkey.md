@@ -1,6 +1,6 @@
 ---
-title: zec:importprivkey \[POST\] {disallowed}
-description: Adds a private key (as returned by dumpprivkey) to your wallet.Note This call can take minutes to complete if rescan is true.
+title: importprivkey  {disallowed} - Zcash
+description: Example code for the importprivkey  {disallowed} json-rpc method. Сomplete guide on how to use importprivkey  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

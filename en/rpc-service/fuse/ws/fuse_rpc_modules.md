@@ -1,6 +1,6 @@
 ---
-title: fuse:rpc_modules \[WebSocket\]
-description: Lists enabled APIs and the version of each.
+title: rpc_modules - Fuse Network
+description: Example code for the rpc_modules ws method. Сomplete guide on how to use rpc_modules ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

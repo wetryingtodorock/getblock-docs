@@ -1,6 +1,6 @@
 ---
-title: trx:/wallet/getaccount \[POST\] {disallowed}
-description: Query information about an account,Including TRX balance, TRC-10balances, stake information and vote information and permissions etc.
+title: /wallet/getaccount  {disallowed} - TRON
+description: Example code for the /wallet/getaccount  {disallowed} rest method. Сomplete guide on how to use /wallet/getaccount  {disallowed} rest in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

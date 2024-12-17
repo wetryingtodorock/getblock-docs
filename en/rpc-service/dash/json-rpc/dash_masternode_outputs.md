@@ -1,6 +1,6 @@
 ---
-title: dash:masternode_outputs \[POST\] {disallowed}
-description: prints masternode compatible outputs.
+title: masternode_outputs  {disallowed} - Dash
+description: Example code for the masternode_outputs  {disallowed} json-rpc method. Сomplete guide on how to use masternode_outputs  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

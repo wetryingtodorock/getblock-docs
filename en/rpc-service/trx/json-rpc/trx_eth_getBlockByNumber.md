@@ -1,6 +1,6 @@
 ---
-title: trx:eth_getBlockByNumber \[POST\]
-description: Returns information about a block by hash.
+title: eth_getBlockByNumber - TRON
+description: Example code for the eth_getBlockByNumber json-rpc method. Сomplete guide on how to use eth_getBlockByNumber json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

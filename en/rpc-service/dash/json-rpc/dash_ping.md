@@ -1,6 +1,6 @@
 ---
-title: dash:ping \[POST\] {disallowed}
-description: Sends a P2P ping message to all connected nodes to measure ping time.Results are provided by the getpeerinfo RPC pingtime and pingwait fieldsas decimal seconds.The P2P ping message is handled in a queue with all other commands, soit measures processing backlog, not just network ping.
+title: ping  {disallowed} - Dash
+description: Example code for the ping  {disallowed} json-rpc method. Сomplete guide on how to use ping  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

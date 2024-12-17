@@ -1,6 +1,6 @@
 ---
-title: sol:getBlock \[POST\]
-description: Returns identity and transaction information about a confirmed block inthe ledger
+title: getBlock - Solana
+description: Example code for the getBlock json-rpc method. Сomplete guide on how to use getBlock json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

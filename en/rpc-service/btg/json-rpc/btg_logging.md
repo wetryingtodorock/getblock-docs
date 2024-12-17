@@ -1,6 +1,6 @@
 ---
-title: btg:logging \[POST\] {disallowed}
-description: Gets and sets the logging configuration.When called without an argument, returns the list of categories withstatus that are currently being debug logged or not.When called with arguments, adds or removes categories from debuglogging and return the lists above.The arguments are evaluated in order “include”, “exclude”.If an item is both included and excluded, it will thus end up beingexcluded.The valid logging categories are net, tor, mempool, http, bench, zmq,walletdb, rpc, estimatefee, addrman, selectcoins, reindex, cmpctblock,rand, prune, proxy, mempoolrej, libevent, coindb, qt, leveldb,validationIn addition, the following are available as category names with specialmeanings\- all, 1  represent all logging categories.\- none, 0  even if other logging categories are specified, ignoreall of them.
+title: logging  {disallowed} - Bitcoin Gold
+description: Example code for the logging  {disallowed} json-rpc method. Сomplete guide on how to use logging  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

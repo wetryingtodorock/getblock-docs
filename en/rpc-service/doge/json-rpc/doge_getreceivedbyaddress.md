@@ -1,6 +1,6 @@
 ---
-title: doge:getreceivedbyaddress \[POST\] {disallowed}
-description: Returns the total amount received by a dogecoin address in transactionswith at least a certain number of confirmations.
+title: getreceivedbyaddress  {disallowed} - Dogecoin
+description: Example code for the getreceivedbyaddress  {disallowed} json-rpc method. Сomplete guide on how to use getreceivedbyaddress  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

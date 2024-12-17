@@ -1,6 +1,6 @@
 ---
-title: eth:priv_getTransactionReceipt \[WebSocket\] {disallowed}
-description: Returns information about the private transaction after mining thetransaction. Receipts for pending transactions are not available.
+title: priv_getTransactionReceipt  {disallowed} - Ethereum
+description: Example code for the priv_getTransactionReceipt  {disallowed} ws method. Сomplete guide on how to use priv_getTransactionReceipt  {disallowed} ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

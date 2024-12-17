@@ -1,6 +1,6 @@
 ---
-title: eth:ibft_proposeValidatorVote \[WebSocket\] {disallowed}
-description: Propose to add or remove a validator with the specified address.
+title: ibft_proposeValidatorVote  {disallowed} - Ethereum
+description: Example code for the ibft_proposeValidatorVote  {disallowed} ws method. Сomplete guide on how to use ibft_proposeValidatorVote  {disallowed} ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

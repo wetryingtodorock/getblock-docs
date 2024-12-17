@@ -1,6 +1,6 @@
 ---
-title: dash:upgradetohd \[POST\] {disallowed}
-description: Upgrades non-HD wallets to HD.
+title: upgradetohd  {disallowed} - Dash
+description: Example code for the upgradetohd  {disallowed} json-rpc method. Сomplete guide on how to use upgradetohd  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

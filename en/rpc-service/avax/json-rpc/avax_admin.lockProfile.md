@@ -1,6 +1,6 @@
 ---
-title: avax:admin.lockProfile \[POST\] {disallowed}
-description: Runs a mutex profile writing to the coreth_performance_c directory.
+title: admin.lockProfile  {disallowed} - Avalanche
+description: Example code for the admin.lockProfile  {disallowed} json-rpc method. Сomplete guide on how to use admin.lockProfile  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

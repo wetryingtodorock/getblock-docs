@@ -1,6 +1,6 @@
 ---
-title: heco:eth_mining \[WebSocket\]
-description: Returns true if client is actively mining new blocks.
+title: eth_mining - Huobi ECO Chain
+description: Example code for the eth_mining ws method. Сomplete guide on how to use eth_mining ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

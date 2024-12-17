@@ -1,6 +1,6 @@
 ---
-title: etc:net_enode \[POST\]
-description: Returns the enode URL.
+title: net_enode - Ethereum Classic
+description: Example code for the net_enode json-rpc method. Сomplete guide on how to use net_enode json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

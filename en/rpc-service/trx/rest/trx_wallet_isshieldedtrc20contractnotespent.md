@@ -1,6 +1,6 @@
 ---
-title: trx:/wallet/isshieldedtrc20contractnotespent \[POST\] {disallowed}
-description: Is Shielded Trc20 Contract Note Spent
+title: /wallet/isshieldedtrc20contractnotespent  {disallowed} - TRON
+description: Example code for the /wallet/isshieldedtrc20contractnotespent  {disallowed} rest method. Сomplete guide on how to use /wallet/isshieldedtrc20contractnotespent  {disallowed} rest in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

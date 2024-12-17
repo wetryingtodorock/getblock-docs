@@ -1,6 +1,6 @@
 ---
-title: etc:eth_hashrate \[POST\]
-description: Returns the number of hashes per second with which the node is mining.When the stratum server is enabled, this method returns the cumulativehashrate of all sealers reporting their hashrate.
+title: eth_hashrate - Ethereum Classic
+description: Example code for the eth_hashrate json-rpc method. Сomplete guide on how to use eth_hashrate json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

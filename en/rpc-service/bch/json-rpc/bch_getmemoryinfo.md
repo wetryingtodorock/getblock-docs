@@ -1,6 +1,6 @@
 ---
-title: bch:getmemoryinfo \[POST\]
-description: Returns an object containing information about memory usage.
+title: getmemoryinfo - Bitcoin Cash
+description: Example code for the getmemoryinfo json-rpc method. Сomplete guide on how to use getmemoryinfo json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

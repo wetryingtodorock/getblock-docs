@@ -1,6 +1,6 @@
 ---
-title: zec:z_gettotalbalance \[POST\] {disallowed}
-description: Return the total value of funds stored in the nodes wallet.CAUTION If the wallet contains any addresses for which it only hasincoming viewing keys, the returned private balance may be larger thanthe actual balance, because spends cannot be detected with incomingviewing keys.
+title: z_gettotalbalance  {disallowed} - Zcash
+description: Example code for the z_gettotalbalance  {disallowed} json-rpc method. Сomplete guide on how to use z_gettotalbalance  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: doge:getrawtransaction \[POST\]
-description: Get transaction raw info
+title: getrawtransaction - Dogecoin
+description: Example code for the getrawtransaction json-rpc method. Сomplete guide on how to use getrawtransaction json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

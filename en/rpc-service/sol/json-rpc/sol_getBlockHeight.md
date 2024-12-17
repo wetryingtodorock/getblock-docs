@@ -1,6 +1,6 @@
 ---
-title: sol:getBlockHeight \[POST\]
-description: Returns the current block height of the node
+title: getBlockHeight - Solana
+description: Example code for the getBlockHeight json-rpc method. Сomplete guide on how to use getBlockHeight json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: dgb:listwallets \[POST\] {disallowed}
-description: Returns a list of currently loaded wallets.For full information on the wallet, use “getwalletinfo”
+title: listwallets  {disallowed} - DigiByte
+description: Example code for the listwallets  {disallowed} json-rpc method. Сomplete guide on how to use listwallets  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: kcc:db_putString \[POST\] {disallowed}
-description: Stores a string in the local database.Note this function is deprecated and will be removed in the future.
+title: db_putString  {disallowed} - KuCoin Community Chain
+description: Example code for the db_putString  {disallowed} json-rpc method. Сomplete guide on how to use db_putString  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

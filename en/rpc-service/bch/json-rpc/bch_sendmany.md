@@ -1,6 +1,6 @@
 ---
-title: bch:sendmany \[POST\] {disallowed}
-description: Send multiple times. Amounts are double-precision floating pointnumbers.Requires wallet passphrase to be set with walletpassphrase call ifwallet is encrypted.
+title: sendmany  {disallowed} - Bitcoin Cash
+description: Example code for the sendmany  {disallowed} json-rpc method. Сomplete guide on how to use sendmany  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

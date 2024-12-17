@@ -1,6 +1,6 @@
 ---
-title: ton:/getShardBlockProof \[GET\]
-description: Get merkle proof of shardchain block.
+title: /getShardBlockProof - The Open Network (TON)
+description: Example code for the /getShardBlockProof json-rpc method. Сomplete guide on how to use /getShardBlockProof json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

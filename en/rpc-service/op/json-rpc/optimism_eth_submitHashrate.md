@@ -1,6 +1,6 @@
 ---
-title: optimism:eth_submitHashrate \[POST\] {disallowed}
-description: Submits the mining hashrate.
+title: eth_submitHashrate  {disallowed} - Optimism
+description: Example code for the eth_submitHashrate  {disallowed} json-rpc method. Сomplete guide on how to use eth_submitHashrate  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

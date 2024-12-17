@@ -1,6 +1,6 @@
 ---
-title: dash:gobject_vote-alias \[POST\] {disallowed}
-description: votes on a governance object by masternode alias (using masternode.confsetup).
+title: gobject_vote-alias  {disallowed} - Dash
+description: Example code for the gobject_vote-alias  {disallowed} json-rpc method. Сomplete guide on how to use gobject_vote-alias  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

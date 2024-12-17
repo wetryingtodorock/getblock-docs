@@ -1,6 +1,6 @@
 ---
-title: dgb:importprivkey \[POST\] {disallowed}
-description: Adds a private key (as returned by dumpprivkey) to your wallet. Requiresa new wallet backup.Hint use importmulti to import more than one private key.Note This call can take over an hour to complete if rescan is true,during that time, other rpc calls may report that the imported keyexists but related transactions are still missing, leading totemporarily incorrect/bogus balances and unspent outputs until rescancompletes.Note Use “getwalletinfo” to query the scanning progress.
+title: importprivkey  {disallowed} - DigiByte
+description: Example code for the importprivkey  {disallowed} json-rpc method. Сomplete guide on how to use importprivkey  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

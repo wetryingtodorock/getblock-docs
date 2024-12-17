@@ -1,6 +1,6 @@
 ---
-title: trx:/walletsolidity/getblockbylatestnum \[POST\] {disallowed}
-description: Get last solidity block by number
+title: /walletsolidity/getblockbylatestnum  {disallowed} - TRON
+description: Example code for the /walletsolidity/getblockbylatestnum  {disallowed} rest method. Сomplete guide on how to use /walletsolidity/getblockbylatestnum  {disallowed} rest in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: trx:/wallet/getblock \[POST\]
-description: Query block header information or entire block information according toblock height or block hash
+title: /wallet/getblock - TRON
+description: Example code for the /wallet/getblock rest method. Сomplete guide on how to use /wallet/getblock rest in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

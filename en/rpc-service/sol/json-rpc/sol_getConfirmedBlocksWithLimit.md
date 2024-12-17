@@ -1,6 +1,6 @@
 ---
-title: sol:getConfirmedBlocksWithLimit \[POST\] {disallowed}
-description: DEPRECATED Please use getBlocksWithLimit instead This method isexpected to be removed in solana-core v2.0Returns a list of confirmed blocks starting at the given slot
+title: getConfirmedBlocksWithLimit  {disallowed} - Solana
+description: Example code for the getConfirmedBlocksWithLimit  {disallowed} json-rpc method. Сomplete guide on how to use getConfirmedBlocksWithLimit  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

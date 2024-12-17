@@ -1,6 +1,6 @@
 ---
-title: matic:eth_gasPrice \[WebSocket\]
-description: Returns the current price per gas in wei.
+title: eth_gasPrice - Polygon
+description: Example code for the eth_gasPrice ws method. Сomplete guide on how to use eth_gasPrice ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

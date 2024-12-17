@@ -1,6 +1,6 @@
 ---
-title: trx:/wallet/getassetissuebyid \[POST\] {disallowed}
-description: Query a token by token id. Returns the token object, which contains thetoken name.
+title: /wallet/getassetissuebyid  {disallowed} - TRON
+description: Example code for the /wallet/getassetissuebyid  {disallowed} rest method. Сomplete guide on how to use /wallet/getassetissuebyid  {disallowed} rest in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

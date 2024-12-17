@@ -1,6 +1,6 @@
 ---
-title: rsk:net_peerList \[Websocket\] {disallowed}
-description: Returns list of peers known to the client.
+title: net_peerList  {disallowed} - Rootstock
+description: Example code for the net_peerList  {disallowed} ws method. Сomplete guide on how to use net_peerList  {disallowed} ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: dash:encryptwallet \[POST\] {disallowed}
-description: Encrypts the wallet with a passphrase. This is only to enable encryptionfor the first time. After encryption is enabled, you will need to enterthe passphrase to use private keys.if using this RPC on the command line, remember that your shell probablysaves your command lines (including the value of the passphraseparameter). In addition, there is no RPC to completely disableencryption. If you want to return to an unencrypted wallet, you mustcreate a new wallet and restore your data from a backup made with thedumpwallet RPC.
+title: encryptwallet  {disallowed} - Dash
+description: Example code for the encryptwallet  {disallowed} json-rpc method. Сomplete guide on how to use encryptwallet  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

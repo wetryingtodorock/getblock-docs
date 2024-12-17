@@ -1,6 +1,6 @@
 ---
-title: apt:/v1/accounts/{account_hash}/events/{creation_number} \[GET\]
-description: Gets all events for a specified account and creation_numbercorresponding to event type emitted by account.
+title: /v1/accounts/{account_hash}/events/{creation_number} - Aptos
+description: Example code for the /v1/accounts/{account_hash}/events/{creation_number} json-rpc method. Сomplete guide on how to use /v1/accounts/{account_hash}/events/{creation_number} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

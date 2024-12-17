@@ -1,6 +1,6 @@
 ---
-title: dot:eth_getTransactionByHash \[POST\] {disallowed}
-description: Get transaction by its hash.
+title: eth_getTransactionByHash  {disallowed} - Polkadot
+description: Example code for the eth_getTransactionByHash  {disallowed} json-rpc method. Сomplete guide on how to use eth_getTransactionByHash  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

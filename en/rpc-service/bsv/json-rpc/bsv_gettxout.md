@@ -1,6 +1,6 @@
 ---
-title: bsv:gettxout \[POST\]
-description: Returns details about an unspent transaction output.
+title: gettxout - Bitcoin SV
+description: Example code for the gettxout json-rpc method. Сomplete guide on how to use gettxout json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

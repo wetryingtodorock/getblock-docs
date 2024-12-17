@@ -1,6 +1,6 @@
 ---
-title: arbitrum:net_peerCount \[WebSocket\] {disallowed}
-description: Returns number of peers currently connected to the client.
+title: net_peerCount  {disallowed} - Arbitrum
+description: Example code for the net_peerCount  {disallowed} ws method. Сomplete guide on how to use net_peerCount  {disallowed} ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

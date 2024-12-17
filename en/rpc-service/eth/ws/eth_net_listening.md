@@ -1,6 +1,6 @@
 ---
-title: eth:net_listening \[WebSocket\]
-description: Whether the client is actively listening for network connections.
+title: net_listening - Ethereum
+description: Example code for the net_listening ws method. Сomplete guide on how to use net_listening ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: ksm:state_getChildKeys \[POST\] {disallowed}
-description: Retrieves the keys with prefix of a specific child storage
+title: state_getChildKeys  {disallowed} - Kusama
+description: Example code for the state_getChildKeys  {disallowed} json-rpc method. Сomplete guide on how to use state_getChildKeys  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

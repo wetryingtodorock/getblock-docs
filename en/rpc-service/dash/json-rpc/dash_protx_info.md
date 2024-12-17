@@ -1,6 +1,6 @@
 ---
-title: dash:protx_info \[POST\] {disallowed}
-description: RPC returns detailed information about a deterministic masternode.
+title: protx_info  {disallowed} - Dash
+description: Example code for the protx_info  {disallowed} json-rpc method. Сomplete guide on how to use protx_info  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

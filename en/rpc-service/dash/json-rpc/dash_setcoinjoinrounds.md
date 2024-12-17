@@ -1,6 +1,6 @@
 ---
-title: dash:setcoinjoinrounds \[POST\] {disallowed}
-description: Sets the number of rounds to use (previously named setprivatesendroundsprior to Dash Core 0.17.0).
+title: setcoinjoinrounds  {disallowed} - Dash
+description: Example code for the setcoinjoinrounds  {disallowed} json-rpc method. Сomplete guide on how to use setcoinjoinrounds  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

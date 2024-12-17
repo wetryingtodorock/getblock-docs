@@ -1,6 +1,6 @@
 ---
-title: one:hmyv2_getBlockReceipts \[POST\]
-description: Returns all transaction receipts for a given block.
+title: hmyv2_getBlockReceipts - Harmony
+description: Example code for the hmyv2_getBlockReceipts json-rpc method. Сomplete guide on how to use hmyv2_getBlockReceipts json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

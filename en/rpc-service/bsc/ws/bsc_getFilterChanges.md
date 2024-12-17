@@ -1,6 +1,6 @@
 ---
-title: bsc:getFilterChanges \[WebSocket\] {disallowed}
-description: Polling method for whisper filters. Returns new messages since the lastcall of this method.Note calling the shh_getMessages method, will reset the buffer for thismethod, so that you wont receive duplicate messages.
+title: getFilterChanges  {disallowed} - Binance Smart Chain
+description: Example code for the getFilterChanges  {disallowed} ws method. Сomplete guide on how to use getFilterChanges  {disallowed} ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

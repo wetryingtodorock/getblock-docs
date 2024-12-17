@@ -1,6 +1,6 @@
 ---
-title: eth:perm_addNodesToAllowlist \[WebSocket\] {disallowed}
-description: Adds nodes to the nodes allowlist.
+title: perm_addNodesToAllowlist  {disallowed} - Ethereum
+description: Example code for the perm_addNodesToAllowlist  {disallowed} ws method. Сomplete guide on how to use perm_addNodesToAllowlist  {disallowed} ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

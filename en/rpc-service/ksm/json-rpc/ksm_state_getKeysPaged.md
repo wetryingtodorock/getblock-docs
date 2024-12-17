@@ -1,6 +1,6 @@
 ---
-title: ksm:state_getKeysPaged \[POST\] {disallowed}
-description: Returns the keys with prefix with pagination support.
+title: state_getKeysPaged  {disallowed} - Kusama
+description: Example code for the state_getKeysPaged  {disallowed} json-rpc method. Сomplete guide on how to use state_getKeysPaged  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: avax:eth_maxPriorityFeePerGas \[WebSocket\] {disallowed}
-description: Get the priority fee needed to be included in a block.
+title: eth_maxPriorityFeePerGas  {disallowed} - Avalanche
+description: Example code for the eth_maxPriorityFeePerGas  {disallowed} ws method. Сomplete guide on how to use eth_maxPriorityFeePerGas  {disallowed} ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

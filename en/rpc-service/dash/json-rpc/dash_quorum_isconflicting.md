@@ -1,6 +1,6 @@
 ---
-title: dash:quorum_isconflicting \[POST\] {disallowed}
-description: checks if there is a conflict for a threshold-signing message request.Note Used for RegTest testing only.
+title: quorum_isconflicting  {disallowed} - Dash
+description: Example code for the quorum_isconflicting  {disallowed} json-rpc method. Сomplete guide on how to use quorum_isconflicting  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

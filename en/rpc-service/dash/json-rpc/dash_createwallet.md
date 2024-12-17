@@ -1,6 +1,6 @@
 ---
-title: dash:createwallet \[POST\] {disallowed}
-description: Creates and loads a new wallet.Added in Dash Core 0.17.0
+title: createwallet  {disallowed} - Dash
+description: Example code for the createwallet  {disallowed} json-rpc method. Сomplete guide on how to use createwallet  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

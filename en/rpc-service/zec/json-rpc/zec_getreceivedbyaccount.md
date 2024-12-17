@@ -1,6 +1,6 @@
 ---
-title: zec:getreceivedbyaccount \[POST\] {disallowed}
-description: DEPRECATED. Returns the total amount received by addresses with accountin transactions with at least \[minconf\] confirmations.
+title: getreceivedbyaccount  {disallowed} - Zcash
+description: Example code for the getreceivedbyaccount  {disallowed} json-rpc method. Сomplete guide on how to use getreceivedbyaccount  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

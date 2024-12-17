@@ -1,6 +1,6 @@
 ---
-title: avax:eth_getTransactionCount \[WebSocket\]
-description: Returns the number of transactions sent from an address.
+title: eth_getTransactionCount - Avalanche
+description: Example code for the eth_getTransactionCount ws method. Сomplete guide on how to use eth_getTransactionCount ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: near:query(view_access_key) \[POST\] {disallowed}
-description: Returns information about a single access key for given account.If permission of the key is FunctionCall, it will return more detailssuch as the allowance, receiver_id, and method_names.
+title: query(view_access_key)  {disallowed} - NEAR Protocol
+description: Example code for the query(view_access_key)  {disallowed} json-rpc method. Сomplete guide on how to use query(view_access_key)  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

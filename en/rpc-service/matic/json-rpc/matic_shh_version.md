@@ -1,6 +1,6 @@
 ---
-title: matic:shh_version \[POST\] {disallowed}
-description: Whisper protocol not supported.
+title: shh_version  {disallowed} - Polygon
+description: Example code for the shh_version  {disallowed} json-rpc method. Сomplete guide on how to use shh_version  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

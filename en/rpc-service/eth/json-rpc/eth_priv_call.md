@@ -1,6 +1,6 @@
 ---
-title: eth:priv_call \[POST\] {disallowed}
-description: Invokes a private contract function locally and does not change theprivacy group state.For private contracts, priv_call is the same as eth_call for publiccontracts.
+title: priv_call  {disallowed} - Ethereum
+description: Example code for the priv_call  {disallowed} json-rpc method. Сomplete guide on how to use priv_call  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: movr:eth_newPendingTransactionFilter \[POST\] {disallowed}
-description: get new pending transaction filter
+title: eth_newPendingTransactionFilter  {disallowed} - Moonriver
+description: Example code for the eth_newPendingTransactionFilter  {disallowed} json-rpc method. Сomplete guide on how to use eth_newPendingTransactionFilter  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

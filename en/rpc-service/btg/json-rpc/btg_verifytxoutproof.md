@@ -1,6 +1,6 @@
 ---
-title: btg:verifytxoutproof \[POST\] {disallowed}
-description: Verifies that a proof points to a transaction in a block, returning thetransaction it commits to and throwing an RPC error if the block is notin our best chain
+title: verifytxoutproof  {disallowed} - Bitcoin Gold
+description: Example code for the verifytxoutproof  {disallowed} json-rpc method. Сomplete guide on how to use verifytxoutproof  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: apt:/v1/transactions \[GET\]
-description: Gets on-chain committed transactions. The page size and start ledgerversion can be provided to get a specific sequence of transactions.
+title: /v1/transactions - Aptos
+description: Example code for the /v1/transactions json-rpc method. Сomplete guide on how to use /v1/transactions json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

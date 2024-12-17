@@ -1,6 +1,6 @@
 ---
-title: eth:priv_getPrivateTransaction \[POST\] {disallowed}
-description: Returns the private transaction if you are a participant, otherwise,null.
+title: priv_getPrivateTransaction  {disallowed} - Ethereum
+description: Example code for the priv_getPrivateTransaction  {disallowed} json-rpc method. Сomplete guide on how to use priv_getPrivateTransaction  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

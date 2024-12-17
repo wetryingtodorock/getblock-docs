@@ -1,6 +1,6 @@
 ---
-title: dash:getmerkleblocks \[POST\]
-description: Returns an array of hex-encoded merkleblocks for blocks starting fromwhich match.
+title: getmerkleblocks - Dash
+description: Example code for the getmerkleblocks json-rpc method. Сomplete guide on how to use getmerkleblocks json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

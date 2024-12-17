@@ -1,6 +1,6 @@
 ---
-title: movr:mmr_generateProof \[POST\] {disallowed}
-description: Generate MMR proof for given leaf index.
+title: mmr_generateProof  {disallowed} - Moonriver
+description: Example code for the mmr_generateProof  {disallowed} json-rpc method. Сomplete guide on how to use mmr_generateProof  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

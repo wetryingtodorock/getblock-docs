@@ -1,6 +1,6 @@
 ---
-title: eth:priv_deletePrivacyGroup \[WebSocket\] {disallowed}
-description: Deletes the specified privacy group.
+title: priv_deletePrivacyGroup  {disallowed} - Ethereum
+description: Example code for the priv_deletePrivacyGroup  {disallowed} ws method. Сomplete guide on how to use priv_deletePrivacyGroup  {disallowed} ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

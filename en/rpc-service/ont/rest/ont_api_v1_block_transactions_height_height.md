@@ -1,6 +1,6 @@
 ---
-title: ont:/api/v1/block/transactions/height/{height} \[GET\]
-description: Fetch all transaction hashes for a block at a given height
+title: /api/v1/block/transactions/height/{height} - Ontology
+description: Example code for the /api/v1/block/transactions/height/{height} rest method. Сomplete guide on how to use /api/v1/block/transactions/height/{height} rest in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

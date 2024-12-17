@@ -1,6 +1,6 @@
 ---
-title: doge:walletpassphrase \[POST\] {disallowed}
-description: Stores the wallet decryption key in memory for \[timeout\] seconds.
+title: walletpassphrase  {disallowed} - Dogecoin
+description: Example code for the walletpassphrase  {disallowed} json-rpc method. Сomplete guide on how to use walletpassphrase  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

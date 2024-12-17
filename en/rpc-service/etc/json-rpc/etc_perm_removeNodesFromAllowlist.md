@@ -1,6 +1,6 @@
 ---
-title: etc:perm_removeNodesFromAllowlist \[POST\] {disallowed}
-description: Removes nodes from the nodes allowlist.
+title: perm_removeNodesFromAllowlist  {disallowed} - Ethereum Classic
+description: Example code for the perm_removeNodesFromAllowlist  {disallowed} json-rpc method. Сomplete guide on how to use perm_removeNodesFromAllowlist  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

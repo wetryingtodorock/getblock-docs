@@ -1,6 +1,6 @@
 ---
-title: dgb:listaddressgroupings \[POST\] {disallowed}
-description: Lists groups of addresses which have had their common ownership madepublic by common use as inputs or as the resulting change in pasttransactions
+title: listaddressgroupings  {disallowed} - DigiByte
+description: Example code for the listaddressgroupings  {disallowed} json-rpc method. Сomplete guide on how to use listaddressgroupings  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: trx:/wallet/listproposals \[GET\]
-description: List all proposals.
+title: /wallet/listproposals - TRON
+description: Example code for the /wallet/listproposals rest method. Сomplete guide on how to use /wallet/listproposals rest in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

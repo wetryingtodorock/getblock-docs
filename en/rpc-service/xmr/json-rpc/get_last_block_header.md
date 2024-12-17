@@ -1,6 +1,6 @@
 ---
-title: xmr:get_last_block_header \[POST\]
-description: Block header information for the most recent block is easily retrieved with this method. No inputs are needed.
+title: get_last_block_header - Monero
+description: Example code for the get_last_block_header json-rpc method. Сomplete guide on how to use get_last_block_header json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

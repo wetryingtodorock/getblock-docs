@@ -1,6 +1,6 @@
 ---
-title: movr:state_subscribeRuntimeVersion \[POST\] {disallowed}
-description: Retrieves the runtime version via subscription
+title: state_subscribeRuntimeVersion  {disallowed} - Moonriver
+description: Example code for the state_subscribeRuntimeVersion  {disallowed} json-rpc method. Сomplete guide on how to use state_subscribeRuntimeVersion  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: dot:state_call \[POST\] {disallowed}
-description: Perform a call to a builtin on the chain.
+title: state_call  {disallowed} - Polkadot
+description: Example code for the state_call  {disallowed} json-rpc method. Сomplete guide on how to use state_call  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

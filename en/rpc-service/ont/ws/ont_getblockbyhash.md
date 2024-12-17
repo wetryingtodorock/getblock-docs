@@ -1,6 +1,6 @@
 ---
-title: ont:getblockbyhash \[WebSocket\]
-description: Fetch block details for block using given block hash.
+title: getblockbyhash - Ontology
+description: Example code for the getblockbyhash ws method. Сomplete guide on how to use getblockbyhash ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

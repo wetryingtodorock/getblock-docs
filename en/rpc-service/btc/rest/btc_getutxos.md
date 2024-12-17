@@ -1,6 +1,6 @@
 ---
-title: btc:getutxos \[GET\]
-description: The getutxo command allows querying of the UTXO set given a set of outpoints.
+title: getutxos - Bitcoin
+description: Example code for the getutxos rest method. Сomplete guide on how to use getutxos rest in GetBlock.io Web3 documentation.
 ---
 
 ### Example

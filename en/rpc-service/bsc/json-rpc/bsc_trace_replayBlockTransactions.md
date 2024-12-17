@@ -1,6 +1,6 @@
 ---
-title: bsc:trace_replayBlockTransactions \[POST\]
-description: Provides transaction processing tracing per block.
+title: trace_replayBlockTransactions - Binance Smart Chain
+description: Example code for the trace_replayBlockTransactions json-rpc method. Сomplete guide on how to use trace_replayBlockTransactions json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: near:query(view_access_key_list) \[POST\] {disallowed}
-description: Returns all access keys for a given account.
+title: query(view_access_key_list)  {disallowed} - NEAR Protocol
+description: Example code for the query(view_access_key_list)  {disallowed} json-rpc method. Сomplete guide on how to use query(view_access_key_list)  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

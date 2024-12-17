@@ -1,6 +1,6 @@
 ---
-title: ont:/api/v1/gasprice \[GET\]
-description: Fetch gas price for transaction
+title: /api/v1/gasprice - Ontology
+description: Example code for the /api/v1/gasprice rest method. Сomplete guide on how to use /api/v1/gasprice rest in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

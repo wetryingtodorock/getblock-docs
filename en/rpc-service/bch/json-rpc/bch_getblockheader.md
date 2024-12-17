@@ -1,6 +1,6 @@
 ---
-title: bch:getblockheader \[POST\]
-description: If verbose is false, returns a string that is serialized, hex-encodeddata for blockheader hash.If verbose is true, returns an Object with information about blockheaderhash.
+title: getblockheader - Bitcoin Cash
+description: Example code for the getblockheader json-rpc method. Сomplete guide on how to use getblockheader json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

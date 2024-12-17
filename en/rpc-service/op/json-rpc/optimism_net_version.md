@@ -1,6 +1,6 @@
 ---
-title: optimism:net_version \[POST\]
-description: Returns the current network id.
+title: net_version - Optimism
+description: Example code for the net_version json-rpc method. Сomplete guide on how to use net_version json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

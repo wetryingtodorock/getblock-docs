@@ -1,6 +1,6 @@
 ---
-title: apt:/v1 \[GET\]
-description: Gets the latest ledger info such as chain ID, role type, ledgerversions, epoch, etc.
+title: /v1 - Aptos
+description: Example code for the /v1 json-rpc method. Сomplete guide on how to use /v1 json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

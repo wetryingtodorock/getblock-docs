@@ -1,6 +1,6 @@
 ---
-title: matic:eth_compileSerpent \[WebSocket\] {disallowed}
-description: For security reasons, we’ve decided not to include compilers in node.
+title: eth_compileSerpent  {disallowed} - Polygon
+description: Example code for the eth_compileSerpent  {disallowed} ws method. Сomplete guide on how to use eth_compileSerpent  {disallowed} ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

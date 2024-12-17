@@ -1,6 +1,6 @@
 ---
-title: kcc:eth_signTransaction \[POST\] {disallowed}
-description: Creates new message call transaction or a contract creation, if the datafield contains code.
+title: eth_signTransaction  {disallowed} - KuCoin Community Chain
+description: Example code for the eth_signTransaction  {disallowed} json-rpc method. Сomplete guide on how to use eth_signTransaction  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

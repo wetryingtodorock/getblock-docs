@@ -1,6 +1,6 @@
 ---
-title: doge:move \[POST\] {disallowed}
-description: Move from one account in your wallet to another.
+title: move  {disallowed} - Dogecoin
+description: Example code for the move  {disallowed} json-rpc method. Сomplete guide on how to use move  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

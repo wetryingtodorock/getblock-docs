@@ -1,6 +1,6 @@
 ---
-title: dash:/block/{hash}{format} \[GET\]
-description: The block operation gets a block with a particular header hash from thelocal block database either as a JSON object or as a serialized block.
+title: /block/{hash}{format} - Dash
+description: Example code for the /block/{hash}{format} rest method. Сomplete guide on how to use /block/{hash}{format} rest in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

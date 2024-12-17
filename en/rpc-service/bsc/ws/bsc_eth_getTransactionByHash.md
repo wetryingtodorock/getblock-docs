@@ -1,6 +1,6 @@
 ---
-title: bsc:eth_getTransactionByHash \[WebSocket\]
-description: Returns transaction information for the specified transaction hash.
+title: eth_getTransactionByHash - Binance Smart Chain
+description: Example code for the eth_getTransactionByHash ws method. Сomplete guide on how to use eth_getTransactionByHash ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

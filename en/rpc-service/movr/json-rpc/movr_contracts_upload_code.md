@@ -1,6 +1,6 @@
 ---
-title: movr:contracts_upload_code \[POST\] {disallowed}
-description: Upload new code without instantiating a contract from itNot available in newer versions of the contracts interfaces
+title: contracts_upload_code  {disallowed} - Moonriver
+description: Example code for the contracts_upload_code  {disallowed} json-rpc method. Сomplete guide on how to use contracts_upload_code  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

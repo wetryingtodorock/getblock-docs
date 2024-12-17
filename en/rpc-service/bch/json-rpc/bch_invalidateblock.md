@@ -1,6 +1,6 @@
 ---
-title: bch:invalidateblock \[POST\] {disallowed}
-description: Permanently marks a block as invalid, as if it violated a consensusrule.
+title: invalidateblock  {disallowed} - Bitcoin Cash
+description: Example code for the invalidateblock  {disallowed} json-rpc method. Сomplete guide on how to use invalidateblock  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

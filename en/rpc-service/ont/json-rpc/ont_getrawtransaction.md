@@ -1,6 +1,6 @@
 ---
-title: ont:getrawtransaction \[POST\]
-description: Fetch transaction details using transaction hash.
+title: getrawtransaction - Ontology
+description: Example code for the getrawtransaction json-rpc method. Сomplete guide on how to use getrawtransaction json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

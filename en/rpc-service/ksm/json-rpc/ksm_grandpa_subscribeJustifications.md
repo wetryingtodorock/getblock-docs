@@ -1,6 +1,6 @@
 ---
-title: ksm:grandpa_subscribeJustifications \[POST\] {disallowed}
-description: Subscribes to grandpa justifications.
+title: grandpa_subscribeJustifications  {disallowed} - Kusama
+description: Example code for the grandpa_subscribeJustifications  {disallowed} json-rpc method. Сomplete guide on how to use grandpa_subscribeJustifications  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

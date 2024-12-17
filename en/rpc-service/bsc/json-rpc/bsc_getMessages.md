@@ -1,6 +1,6 @@
 ---
-title: bsc:getMessages \[POST\] {disallowed}
-description: Get all messages matching a filter. Unlike shh_getFilterChanges thisreturns all messages.
+title: getMessages  {disallowed} - Binance Smart Chain
+description: Example code for the getMessages  {disallowed} json-rpc method. Сomplete guide on how to use getMessages  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

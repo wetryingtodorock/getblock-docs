@@ -1,6 +1,6 @@
 ---
-title: one:hmyv2_chainId \[POST\]
-description: Returns the chain ID.
+title: hmyv2_chainId - Harmony
+description: Example code for the hmyv2_chainId json-rpc method. Сomplete guide on how to use hmyv2_chainId json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

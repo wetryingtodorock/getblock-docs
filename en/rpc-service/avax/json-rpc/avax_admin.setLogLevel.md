@@ -1,6 +1,6 @@
 ---
-title: avax:admin.setLogLevel \[POST\] {disallowed}
-description: Sets the log level of the C-Chain.
+title: admin.setLogLevel  {disallowed} - Avalanche
+description: Example code for the admin.setLogLevel  {disallowed} json-rpc method. Сomplete guide on how to use admin.setLogLevel  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

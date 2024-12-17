@@ -1,6 +1,6 @@
 ---
-title: dash:generatetoaddress \[POST\] {disallowed}
-description: Mines blocks immediately to a specified address.
+title: generatetoaddress  {disallowed} - Dash
+description: Example code for the generatetoaddress  {disallowed} json-rpc method. Сomplete guide on how to use generatetoaddress  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

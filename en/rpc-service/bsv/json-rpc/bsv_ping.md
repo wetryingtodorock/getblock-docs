@@ -1,6 +1,6 @@
 ---
-title: bsv:ping \[POST\] {disallowed}
-description: Requests that a ping be sent to all other nodes, to measure ping time.Results provided in getpeerinfo, pingtime and pingwait fields aredecimal seconds.Ping command is handled in queue with all other commands, so it measuresprocessing backlog, not just network ping.
+title: ping  {disallowed} - Bitcoin SV
+description: Example code for the ping  {disallowed} json-rpc method. Сomplete guide on how to use ping  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

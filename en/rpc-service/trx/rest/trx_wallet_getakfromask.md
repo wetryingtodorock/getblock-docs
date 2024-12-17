@@ -1,6 +1,6 @@
 ---
-title: trx:/wallet/getakfromask \[POST\] {disallowed}
-description: Note To ensure security, Trongrid has disabled this interface service,please use the service provided by the local node.
+title: /wallet/getakfromask  {disallowed} - TRON
+description: Example code for the /wallet/getakfromask  {disallowed} rest method. Сomplete guide on how to use /wallet/getakfromask  {disallowed} rest in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

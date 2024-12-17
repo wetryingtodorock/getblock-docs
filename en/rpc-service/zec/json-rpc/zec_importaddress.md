@@ -1,6 +1,6 @@
 ---
-title: zec:importaddress \[POST\] {disallowed}
-description: Adds a script (in hex) or address that can be watched as if it were inyour wallet but cannot be used to spend.Note This call can take minutes to complete if rescan is true. If youhave the full public key, you should call importpubkey instead of this.Note If you import a non-standard raw script in hex form, outputssending to it will be treated as change, and not show up in many RPCs.
+title: importaddress  {disallowed} - Zcash
+description: Example code for the importaddress  {disallowed} json-rpc method. Сomplete guide on how to use importaddress  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

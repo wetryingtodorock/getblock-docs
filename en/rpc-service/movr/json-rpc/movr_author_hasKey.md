@@ -1,6 +1,6 @@
 ---
-title: movr:author_hasKey \[POST\] {disallowed}
-description: Returns true if the keystore has private keys for the given public keyand key type.
+title: author_hasKey  {disallowed} - Moonriver
+description: Example code for the author_hasKey  {disallowed} json-rpc method. Сomplete guide on how to use author_hasKey  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

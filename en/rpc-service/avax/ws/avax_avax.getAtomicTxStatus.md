@@ -1,6 +1,6 @@
 ---
-title: avax:avax.getAtomicTxStatus \[WebSocket\] {disallowed}
-description: Get the status of an atomic transaction sent to the network.
+title: avax.getAtomicTxStatus  {disallowed} - Avalanche
+description: Example code for the avax.getAtomicTxStatus  {disallowed} ws method. Сomplete guide on how to use avax.getAtomicTxStatus  {disallowed} ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: ont:/api/v1/transaction/{hash} \[GET\]
-description: Fetch transaction details using transaction hash
+title: /api/v1/transaction/{hash} - Ontology
+description: Example code for the /api/v1/transaction/{hash} rest method. Сomplete guide on how to use /api/v1/transaction/{hash} rest in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

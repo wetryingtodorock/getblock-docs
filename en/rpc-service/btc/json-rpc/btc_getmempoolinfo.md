@@ -1,6 +1,6 @@
 ---
-title: btc:getmempoolinfo \[POST\]
-description: Returns details on the active state of the TX memory pool.
+title: getmempoolinfo - Bitcoin
+description: Example code for the getmempoolinfo json-rpc method. Сomplete guide on how to use getmempoolinfo json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: eth:eth_accounts \[WebSocket\]
-description: Returns a list of account addresses a client owns.
+title: eth_accounts - Ethereum
+description: Example code for the eth_accounts ws method. Сomplete guide on how to use eth_accounts ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: trx:/wallet/broadcasthex \[POST\] {disallowed}
-description: Broadcast the protobuf encoded transaction hex string after sign
+title: /wallet/broadcasthex  {disallowed} - TRON
+description: Example code for the /wallet/broadcasthex  {disallowed} rest method. Сomplete guide on how to use /wallet/broadcasthex  {disallowed} rest in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

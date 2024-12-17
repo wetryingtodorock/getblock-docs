@@ -1,6 +1,6 @@
 ---
-title: btc:chaininfos \[GET\]
-description: Returns various state info regarding blockchain processing. Only supports JSON as output format.
+title: chaininfos - Bitcoin
+description: Example code for the chaininfos rest method. Сomplete guide on how to use chaininfos rest in GetBlock.io Web3 documentation.
 ---
 
 -   chain : (string) current network name (main, test, signet, regtest)

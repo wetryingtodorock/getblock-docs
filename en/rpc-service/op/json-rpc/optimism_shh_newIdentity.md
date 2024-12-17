@@ -1,6 +1,6 @@
 ---
-title: optimism:shh_newIdentity \[POST\] {disallowed}
-description: Creates new whisper identity in the client.
+title: shh_newIdentity  {disallowed} - Optimism
+description: Example code for the shh_newIdentity  {disallowed} json-rpc method. Сomplete guide on how to use shh_newIdentity  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

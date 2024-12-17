@@ -1,6 +1,6 @@
 ---
-title: dash:settxfee \[POST\] {disallowed}
-description: sets the transaction fee per kilobyte paid by transactions created bythis wallet.
+title: settxfee  {disallowed} - Dash
+description: Example code for the settxfee  {disallowed} json-rpc method. Сomplete guide on how to use settxfee  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

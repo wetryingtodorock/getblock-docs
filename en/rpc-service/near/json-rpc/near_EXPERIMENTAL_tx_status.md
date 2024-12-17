@@ -1,6 +1,6 @@
 ---
-title: near:EXPERIMENTAL_tx_status \[POST\] {disallowed}
-description: Queries status of a transaction by hash, returning the final transactionresult and details of all receipts.
+title: EXPERIMENTAL_tx_status  {disallowed} - NEAR Protocol
+description: Example code for the EXPERIMENTAL_tx_status  {disallowed} json-rpc method. Сomplete guide on how to use EXPERIMENTAL_tx_status  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

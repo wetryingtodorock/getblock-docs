@@ -1,6 +1,6 @@
 ---
-title: ont:subscribe \[WebSocket\]
-description: Used to subscribe to a particular service.
+title: subscribe - Ontology
+description: Example code for the subscribe ws method. Сomplete guide on how to use subscribe ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

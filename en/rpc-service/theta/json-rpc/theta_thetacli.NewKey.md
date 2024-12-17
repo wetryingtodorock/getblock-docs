@@ -1,6 +1,6 @@
 ---
-title: theta:thetacli.NewKey \[POST\] {disallowed}
-description: This API creates a new account (i.e. a private key/addres pair), andencrypts the private key under ~/.thetacli/keys/encrypted/ by default.
+title: thetacli.NewKey  {disallowed} - Theta Network
+description: Example code for the thetacli.NewKey  {disallowed} json-rpc method. Сomplete guide on how to use thetacli.NewKey  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

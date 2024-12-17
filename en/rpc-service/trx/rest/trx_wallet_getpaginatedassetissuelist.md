@@ -1,6 +1,6 @@
 ---
-title: trx:/wallet/getpaginatedassetissuelist \[POST\] {disallowed}
-description: Query the list of all the tokens by pagination.Returns a list of Tokensthat succeed the Token located at offset.
+title: /wallet/getpaginatedassetissuelist  {disallowed} - TRON
+description: Example code for the /wallet/getpaginatedassetissuelist  {disallowed} rest method. Сomplete guide on how to use /wallet/getpaginatedassetissuelist  {disallowed} rest in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

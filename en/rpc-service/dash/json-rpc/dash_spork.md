@@ -1,6 +1,6 @@
 ---
-title: dash:spork \[POST\]
-description: reads or updates spork settings on the network.To display the status of sporks, use the show or active syntax.
+title: spork - Dash
+description: Example code for the spork json-rpc method. Сomplete guide on how to use spork json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

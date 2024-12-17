@@ -1,6 +1,6 @@
 ---
-title: btc:decodescript \[POST\]
-description: Decode a hex-encoded script.
+title: decodescript - Bitcoin
+description: Example code for the decodescript json-rpc method. Сomplete guide on how to use decodescript json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

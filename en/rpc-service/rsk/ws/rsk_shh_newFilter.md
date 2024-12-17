@@ -1,6 +1,6 @@
 ---
-title: rsk:shh_newFilter \[Websocket\] {disallowed}
-description: Whisper protocol not supported.
+title: shh_newFilter  {disallowed} - Rootstock
+description: Example code for the shh_newFilter  {disallowed} ws method. Сomplete guide on how to use shh_newFilter  {disallowed} ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

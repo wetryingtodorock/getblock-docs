@@ -1,6 +1,6 @@
 ---
-title: near:broadcast_tx_commit \[POST\]
-description: Sends a transaction and waits until transaction is fully complete. (Hasa 10 second timeout)
+title: broadcast_tx_commit - NEAR Protocol
+description: Example code for the broadcast_tx_commit json-rpc method. Сomplete guide on how to use broadcast_tx_commit json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: movr:contracts_call \[POST\] {disallowed}
-description: Executes a call to a contract.
+title: contracts_call  {disallowed} - Moonriver
+description: Example code for the contracts_call  {disallowed} json-rpc method. Сomplete guide on how to use contracts_call  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

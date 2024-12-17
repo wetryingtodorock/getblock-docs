@@ -1,6 +1,6 @@
 ---
-title: kcc:shh_newFilter \[WebSocket\] {disallowed}
-description: Creates filter to notify, when client receives whisper message matchingthe filter options.
+title: shh_newFilter  {disallowed} - KuCoin Community Chain
+description: Example code for the shh_newFilter  {disallowed} ws method. Сomplete guide on how to use shh_newFilter  {disallowed} ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: etc:web3_clientVersion \[POST\]
-description: Returns the current client version.
+title: web3_clientVersion - Ethereum Classic
+description: Example code for the web3_clientVersion json-rpc method. Сomplete guide on how to use web3_clientVersion json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

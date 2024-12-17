@@ -1,6 +1,6 @@
 ---
-title: dgb:getblockhash \[POST\]
-description: Returns hash of block in best-block-chain at height provided.
+title: getblockhash - DigiByte
+description: Example code for the getblockhash json-rpc method. Сomplete guide on how to use getblockhash json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

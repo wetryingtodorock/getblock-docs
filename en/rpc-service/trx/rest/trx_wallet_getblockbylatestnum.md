@@ -1,6 +1,6 @@
 ---
-title: trx:/wallet/getblockbylatestnum \[POST\]
-description: Returns a list of block objects.
+title: /wallet/getblockbylatestnum - TRON
+description: Example code for the /wallet/getblockbylatestnum rest method. Сomplete guide on how to use /wallet/getblockbylatestnum rest in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

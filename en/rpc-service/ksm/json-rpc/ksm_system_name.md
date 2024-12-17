@@ -1,6 +1,6 @@
 ---
-title: ksm:system_name \[POST\] {disallowed}
-description: Retrieves the node name.
+title: system_name  {disallowed} - Kusama
+description: Example code for the system_name  {disallowed} json-rpc method. Сomplete guide on how to use system_name  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

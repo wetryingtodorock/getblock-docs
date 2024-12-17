@@ -1,6 +1,6 @@
 ---
-title: matic:eth_compileSolidity \[POST\] {disallowed}
-description: For security reasons, we’ve decided not to include compilers in node.
+title: eth_compileSolidity  {disallowed} - Polygon
+description: Example code for the eth_compileSolidity  {disallowed} json-rpc method. Сomplete guide on how to use eth_compileSolidity  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

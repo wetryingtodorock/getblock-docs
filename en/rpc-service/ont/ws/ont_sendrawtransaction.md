@@ -1,6 +1,6 @@
 ---
-title: ont:sendrawtransaction \[WebSocket\]
-description: Send a raw transaction to be recorded on the chain.
+title: sendrawtransaction - Ontology
+description: Example code for the sendrawtransaction ws method. Сomplete guide on how to use sendrawtransaction ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

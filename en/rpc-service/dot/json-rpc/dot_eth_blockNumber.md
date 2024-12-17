@@ -1,6 +1,6 @@
 ---
-title: dot:eth_blockNumber \[POST\] {disallowed}
-description: Returns the blockNumber.
+title: eth_blockNumber  {disallowed} - Polkadot
+description: Example code for the eth_blockNumber  {disallowed} json-rpc method. Сomplete guide on how to use eth_blockNumber  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: xem:/account/get/from-public-key \[GET\]
-description: Alternatively you can retrieve the account data by providing the publickey for the account.
+title: /account/get/from-public-key - NEM
+description: Example code for the /account/get/from-public-key rest method. Сomplete guide on how to use /account/get/from-public-key rest in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

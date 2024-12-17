@@ -1,6 +1,6 @@
 ---
-title: dot:childstate_getStorageSize \[POST\] {disallowed}
-description: Returns the size of a child storage entry at a block state.
+title: childstate_getStorageSize  {disallowed} - Polkadot
+description: Example code for the childstate_getStorageSize  {disallowed} json-rpc method. Сomplete guide on how to use childstate_getStorageSize  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

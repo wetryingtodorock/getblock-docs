@@ -1,6 +1,6 @@
 ---
-title: trx:/wallet/getspendingkey \[GET\] {disallowed}
-description: Note To ensure security, Trongrid has disabled this interface service,please use the service provided by the local node.
+title: /wallet/getspendingkey  {disallowed} - TRON
+description: Example code for the /wallet/getspendingkey  {disallowed} rest method. Сomplete guide on how to use /wallet/getspendingkey  {disallowed} rest in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

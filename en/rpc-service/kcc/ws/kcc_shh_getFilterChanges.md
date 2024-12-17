@@ -1,6 +1,6 @@
 ---
-title: kcc:shh_getFilterChanges \[WebSocket\] {disallowed}
-description: Polling method for whisper filters. Returns new messages since the lastcall of this method.Note calling the shh_getMessages method, will reset the buffer for thismethod, so that you won’t receive duplicate messages.
+title: shh_getFilterChanges  {disallowed} - KuCoin Community Chain
+description: Example code for the shh_getFilterChanges  {disallowed} ws method. Сomplete guide on how to use shh_getFilterChanges  {disallowed} ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

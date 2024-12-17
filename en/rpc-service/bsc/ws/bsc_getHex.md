@@ -1,6 +1,6 @@
 ---
-title: bsc:getHex \[WebSocket\] {disallowed}
-description: Returns binary data from the local database.Note this function is deprecated and will be removed in the future.
+title: getHex  {disallowed} - Binance Smart Chain
+description: Example code for the getHex  {disallowed} ws method. Сomplete guide on how to use getHex  {disallowed} ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

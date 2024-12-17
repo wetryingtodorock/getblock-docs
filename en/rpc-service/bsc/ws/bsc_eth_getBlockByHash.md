@@ -1,6 +1,6 @@
 ---
-title: bsc:eth_getBlockByHash \[WebSocket\]
-description: Returns information about the block by hash.
+title: eth_getBlockByHash - Binance Smart Chain
+description: Example code for the eth_getBlockByHash ws method. Сomplete guide on how to use eth_getBlockByHash ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

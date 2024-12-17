@@ -1,6 +1,6 @@
 ---
-title: gno:eth_getBlockTransactionCountByHash \[POST\]
-description: Returns the number of transactions in the block matching the given blockhash.
+title: eth_getBlockTransactionCountByHash - Gnosis
+description: Example code for the eth_getBlockTransactionCountByHash json-rpc method. Сomplete guide on how to use eth_getBlockTransactionCountByHash json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

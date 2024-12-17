@@ -1,6 +1,6 @@
 ---
-title: doge:listunspent \[POST\] {disallowed}
-description: Returns a list of unspent transaction inputs in the wallet.
+title: listunspent  {disallowed} - Dogecoin
+description: Example code for the listunspent  {disallowed} json-rpc method. Сomplete guide on how to use listunspent  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

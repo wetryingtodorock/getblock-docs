@@ -1,6 +1,6 @@
 ---
-title: rsk:eth_getStorageAt \[POST\]
-description: Returns the value from a storage position at a given address.
+title: eth_getStorageAt - Rootstock
+description: Example code for the eth_getStorageAt json-rpc method. Сomplete guide on how to use eth_getStorageAt json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

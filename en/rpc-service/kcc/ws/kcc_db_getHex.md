@@ -1,6 +1,6 @@
 ---
-title: kcc:db_getHex \[WebSocket\] {disallowed}
-description: Returns binary data from the local database.Note this function is deprecated and will be removed in the future.
+title: db_getHex  {disallowed} - KuCoin Community Chain
+description: Example code for the db_getHex  {disallowed} ws method. Сomplete guide on how to use db_getHex  {disallowed} ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

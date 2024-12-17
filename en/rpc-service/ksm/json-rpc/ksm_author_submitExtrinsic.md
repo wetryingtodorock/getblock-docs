@@ -1,6 +1,6 @@
 ---
-title: ksm:author_submitExtrinsic \[POST\] {disallowed}
-description: Submit a fully formatted extrinsic for block inclusion
+title: author_submitExtrinsic  {disallowed} - Kusama
+description: Example code for the author_submitExtrinsic  {disallowed} json-rpc method. Сomplete guide on how to use author_submitExtrinsic  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

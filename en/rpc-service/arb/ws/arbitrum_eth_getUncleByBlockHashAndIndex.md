@@ -1,6 +1,6 @@
 ---
-title: arbitrum:eth_getUncleByBlockHashAndIndex \[WebSocket\]
-description: Returns information about a uncle of a block by hash and uncle indexposition.
+title: eth_getUncleByBlockHashAndIndex - Arbitrum
+description: Example code for the eth_getUncleByBlockHashAndIndex ws method. Сomplete guide on how to use eth_getUncleByBlockHashAndIndex ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

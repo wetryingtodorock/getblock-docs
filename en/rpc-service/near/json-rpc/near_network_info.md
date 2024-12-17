@@ -1,6 +1,6 @@
 ---
-title: near:network_info \[POST\]
-description: Returns the current state of node network connections (active peers,transmitted data, etc.)
+title: network_info - NEAR Protocol
+description: Example code for the network_info json-rpc method. Сomplete guide on how to use network_info json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

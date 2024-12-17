@@ -1,6 +1,6 @@
 ---
-title: dash:/mempool/contents.json \[GET\]
-description: The GET mempool/contents operation returns all transaction in the memorypool with detailed information. Supports only json as output format.
+title: /mempool/contents.json - Dash
+description: Example code for the /mempool/contents.json rest method. Сomplete guide on how to use /mempool/contents.json rest in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

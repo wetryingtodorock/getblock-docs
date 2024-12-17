@@ -1,6 +1,6 @@
 ---
-title: dash:signrawtransaction \[POST\] {disallowed}
-description: This RPC is deprecated as of Dash Core 0.17.0. It will be removed in afuture release.Signs a transaction in the serialized transaction format using privatekeys stored in the wallet or provided in the call.
+title: signrawtransaction  {disallowed} - Dash
+description: Example code for the signrawtransaction  {disallowed} json-rpc method. Сomplete guide on how to use signrawtransaction  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

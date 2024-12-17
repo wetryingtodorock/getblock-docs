@@ -1,6 +1,6 @@
 ---
-title: ton:/lookupBlock \[GET\]
-description: Look up block by either seqno, lt or unixtime.
+title: /lookupBlock - The Open Network (TON)
+description: Example code for the /lookupBlock json-rpc method. Сomplete guide on how to use /lookupBlock json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

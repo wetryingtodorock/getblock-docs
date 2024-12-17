@@ -1,6 +1,6 @@
 ---
-title: xem:/node/extended-info \[GET\]
-description: Gets extended information about a node. Using IP 127.0.0.1 gets extendedinformation about the local node.
+title: /node/extended-info - NEM
+description: Example code for the /node/extended-info rest method. Сomplete guide on how to use /node/extended-info rest in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: gno:eth_maxPriorityFeePerGas \[WebSocket\]
-description: Returns the hex value of the priority fee necessary to be included in ablock.
+title: eth_maxPriorityFeePerGas - Gnosis
+description: Example code for the eth_maxPriorityFeePerGas ws method. Сomplete guide on how to use eth_maxPriorityFeePerGas ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

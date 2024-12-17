@@ -1,6 +1,6 @@
 ---
-title: ksm:eth_newFilter \[POST\] {disallowed}
-description: Returns id of new filter.
+title: eth_newFilter  {disallowed} - Kusama
+description: Example code for the eth_newFilter  {disallowed} json-rpc method. Сomplete guide on how to use eth_newFilter  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

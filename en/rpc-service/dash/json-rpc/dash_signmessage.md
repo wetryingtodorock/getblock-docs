@@ -1,6 +1,6 @@
 ---
-title: dash:signmessage \[POST\] {disallowed}
-description: signs a message with the private key of an address.
+title: signmessage  {disallowed} - Dash
+description: Example code for the signmessage  {disallowed} json-rpc method. Сomplete guide on how to use signmessage  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

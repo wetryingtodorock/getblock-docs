@@ -1,6 +1,6 @@
 ---
-title: avax:eth_uninstallFilter \[WebSocket\]
-description: Uninstalls a filter with given id. Should always be called when watch isno longer needed. Additonally Filters timeout when they aren’t requestedwith eth_getFilterChanges for a period of time.
+title: eth_uninstallFilter - Avalanche
+description: Example code for the eth_uninstallFilter ws method. Сomplete guide on how to use eth_uninstallFilter ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

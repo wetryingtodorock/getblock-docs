@@ -1,7 +1,6 @@
 ---
-title: xmr:get_output_distribution \[POST\]
-description: 
----
+title: get_output_distribution - Monero
+description: Example code for the get_output_distribution json-rpc method. Сomplete guide on how to use get_output_distribution json-rpc in GetBlock.io Web3 documentation.
 
 ### Parameters
 

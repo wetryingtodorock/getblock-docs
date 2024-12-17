@@ -1,6 +1,6 @@
 ---
-title: dash:logging \[POST\] {disallowed}
-description: Gets and sets the logging configuration.
+title: logging  {disallowed} - Dash
+description: Example code for the logging  {disallowed} json-rpc method. Сomplete guide on how to use logging  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

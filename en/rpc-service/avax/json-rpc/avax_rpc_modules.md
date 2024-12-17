@@ -1,6 +1,6 @@
 ---
-title: avax:rpc_modules \[POST\]
-description: Lists enabled APIs and the version of each.
+title: rpc_modules - Avalanche
+description: Example code for the rpc_modules json-rpc method. Сomplete guide on how to use rpc_modules json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

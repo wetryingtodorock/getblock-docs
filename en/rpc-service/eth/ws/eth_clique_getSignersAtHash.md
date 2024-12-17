@@ -1,6 +1,6 @@
 ---
-title: eth:clique_getSignersAtHash \[WebSocket\] {disallowed}
-description: Lists signers for the specified block.
+title: clique_getSignersAtHash  {disallowed} - Ethereum
+description: Example code for the clique_getSignersAtHash  {disallowed} ws method. Сomplete guide on how to use clique_getSignersAtHash  {disallowed} ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

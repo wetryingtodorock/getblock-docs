@@ -1,6 +1,6 @@
 ---
-title: bsv:parkblock \[POST\] {disallowed}
-description: Marks a block as parked.
+title: parkblock  {disallowed} - Bitcoin SV
+description: Example code for the parkblock  {disallowed} json-rpc method. Сomplete guide on how to use parkblock  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

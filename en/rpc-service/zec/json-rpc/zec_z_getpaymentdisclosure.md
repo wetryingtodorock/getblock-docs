@@ -1,6 +1,6 @@
 ---
-title: zec:z_getpaymentdisclosure \[POST\] {disallowed}
-description: Generate a payment disclosure for a given joinsplit output.EXPERIMENTAL FEATUREWARNING z_getpaymentdisclosure is disabled.
+title: z_getpaymentdisclosure  {disallowed} - Zcash
+description: Example code for the z_getpaymentdisclosure  {disallowed} json-rpc method. Сomplete guide on how to use z_getpaymentdisclosure  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

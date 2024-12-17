@@ -1,6 +1,6 @@
 ---
-title: apt:/v1/accounts/{account_hash}/resource/{resource_type} \[GET\]
-description: Gets a single resource for a specified account and ledger version.
+title: /v1/accounts/{account_hash}/resource/{resource_type} - Aptos
+description: Example code for the /v1/accounts/{account_hash}/resource/{resource_type} json-rpc method. Сomplete guide on how to use /v1/accounts/{account_hash}/resource/{resource_type} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

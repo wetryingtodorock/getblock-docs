@@ -1,6 +1,6 @@
 ---
-title: zec:getinfo \[POST\]
-description: Returns an object containing various state info.
+title: getinfo - Zcash
+description: Example code for the getinfo json-rpc method. Сomplete guide on how to use getinfo json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

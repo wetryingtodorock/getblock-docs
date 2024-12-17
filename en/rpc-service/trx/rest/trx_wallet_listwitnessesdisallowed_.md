@@ -1,6 +1,6 @@
 ---
-title: trx:/wallet/listwitnesses \[GET\] {disallowed}
-description: List all Super Representatives.
+title: /wallet/listwitnesses  {disallowed} - TRON
+description: Example code for the /wallet/listwitnesses  {disallowed} rest method. Сomplete guide on how to use /wallet/listwitnesses  {disallowed} rest in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

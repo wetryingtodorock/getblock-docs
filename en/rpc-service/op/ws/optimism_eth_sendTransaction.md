@@ -1,6 +1,6 @@
 ---
-title: optimism:eth_sendTransaction \[WebSocket\] {disallowed}
-description: Not supported by Optimism.Creates new message call transaction or a contract creation, if the datafield contains code.
+title: eth_sendTransaction  {disallowed} - Optimism
+description: Example code for the eth_sendTransaction  {disallowed} ws method. Сomplete guide on how to use eth_sendTransaction  {disallowed} ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

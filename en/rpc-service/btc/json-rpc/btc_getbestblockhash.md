@@ -1,6 +1,6 @@
 ---
-title: btc:getbestblockhash \[POST\]
-description: Returns the hash of the best (tip) block in the most-workfully-validated chain.
+title: getbestblockhash - Bitcoin
+description: Example code for the getbestblockhash json-rpc method. Сomplete guide on how to use getbestblockhash json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

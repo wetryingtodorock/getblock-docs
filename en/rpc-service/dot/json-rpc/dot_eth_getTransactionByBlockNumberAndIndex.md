@@ -1,6 +1,6 @@
 ---
-title: dot:eth_getTransactionByBlockNumberAndIndex \[POST\] {disallowed}
-description: Returns transaction by given block number and index.
+title: eth_getTransactionByBlockNumberAndIndex  {disallowed} - Polkadot
+description: Example code for the eth_getTransactionByBlockNumberAndIndex  {disallowed} json-rpc method. Сomplete guide on how to use eth_getTransactionByBlockNumberAndIndex  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

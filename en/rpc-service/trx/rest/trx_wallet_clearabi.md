@@ -1,6 +1,6 @@
 ---
-title: trx:/wallet/clearabi \[POST\] {disallowed}
-description: To clear the ABI info of a smart contract.
+title: /wallet/clearabi  {disallowed} - TRON
+description: Example code for the /wallet/clearabi  {disallowed} rest method. Сomplete guide on how to use /wallet/clearabi  {disallowed} rest in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

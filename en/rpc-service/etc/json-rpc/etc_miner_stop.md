@@ -1,6 +1,6 @@
 ---
-title: etc:miner_stop \[POST\] {disallowed}
-description: Stops the mining process on the client.
+title: miner_stop  {disallowed} - Ethereum Classic
+description: Example code for the miner_stop  {disallowed} json-rpc method. Сomplete guide on how to use miner_stop  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

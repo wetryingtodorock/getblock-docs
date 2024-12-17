@@ -1,6 +1,6 @@
 ---
-title: eth:trace_transaction \[POST\] {disallowed}
-description: Provides transaction processing of type trace for the specifiedtransaction.
+title: trace_transaction  {disallowed} - Ethereum
+description: Example code for the trace_transaction  {disallowed} json-rpc method. Сomplete guide on how to use trace_transaction  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

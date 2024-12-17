@@ -1,6 +1,6 @@
 ---
-title: xem:/chain/score \[GET\]
-description: Gets the current score of the block chain. The higher the score, thebetter the chain. During synchronization, nodes try to get the bestblock chain in the network.
+title: /chain/score - NEM
+description: Example code for the /chain/score rest method. Сomplete guide on how to use /chain/score rest in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

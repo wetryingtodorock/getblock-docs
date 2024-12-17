@@ -1,6 +1,6 @@
 ---
-title: xmr:get_fee_estimate \[POST\]
-description: Gives an estimation on fees per byte.
+title: get_fee_estimate - Monero
+description: Example code for the get_fee_estimate json-rpc method. Сomplete guide on how to use get_fee_estimate json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

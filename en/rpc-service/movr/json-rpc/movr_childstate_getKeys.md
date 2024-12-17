@@ -1,6 +1,6 @@
 ---
-title: movr:childstate_getKeys \[POST\] {disallowed}
-description: Returns the keys with prefix from a child storage, leave empty to getall the keys.
+title: childstate_getKeys  {disallowed} - Moonriver
+description: Example code for the childstate_getKeys  {disallowed} json-rpc method. Сomplete guide on how to use childstate_getKeys  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

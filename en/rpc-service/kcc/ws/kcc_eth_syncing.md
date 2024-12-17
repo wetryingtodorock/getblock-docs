@@ -1,6 +1,6 @@
 ---
-title: kcc:eth_syncing \[WebSocket\]
-description: Returns an object with data about the sync status or false.
+title: eth_syncing - KuCoin Community Chain
+description: Example code for the eth_syncing ws method. Сomplete guide on how to use eth_syncing ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

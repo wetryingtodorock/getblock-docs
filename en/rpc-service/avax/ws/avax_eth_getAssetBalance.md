@@ -1,6 +1,6 @@
 ---
-title: avax:eth_getAssetBalance \[WebSocket\] {disallowed}
-description: In addition to the standard Ethereum APIs, Avalanche offerseth_getAssetBalance to retrieve the balance of first class AvalancheNative Tokens on the C-Chain (excluding AVAX, which must be fetched witheth_getBalance).
+title: eth_getAssetBalance  {disallowed} - Avalanche
+description: Example code for the eth_getAssetBalance  {disallowed} ws method. Сomplete guide on how to use eth_getAssetBalance  {disallowed} ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

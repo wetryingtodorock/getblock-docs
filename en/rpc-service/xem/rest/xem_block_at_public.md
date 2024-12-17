@@ -1,6 +1,6 @@
 ---
-title: xem:/block/at/public \[POST\]
-description: Gets a block from the chain that has the given height.
+title: /block/at/public - NEM
+description: Example code for the /block/at/public rest method. Сomplete guide on how to use /block/at/public rest in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

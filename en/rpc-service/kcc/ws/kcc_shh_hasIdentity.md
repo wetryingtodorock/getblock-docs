@@ -1,6 +1,6 @@
 ---
-title: kcc:shh_hasIdentity \[WebSocket\] {disallowed}
-description: Checks if the client hold the private keys for a given identity.
+title: shh_hasIdentity  {disallowed} - KuCoin Community Chain
+description: Example code for the shh_hasIdentity  {disallowed} ws method. Сomplete guide on how to use shh_hasIdentity  {disallowed} ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

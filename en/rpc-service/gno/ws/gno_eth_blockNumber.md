@@ -1,6 +1,6 @@
 ---
-title: gno:eth_blockNumber \[WebSocket\]
-description: Returns the index corresponding to the block number of the current chainhead.
+title: eth_blockNumber - Gnosis
+description: Example code for the eth_blockNumber ws method. Сomplete guide on how to use eth_blockNumber ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

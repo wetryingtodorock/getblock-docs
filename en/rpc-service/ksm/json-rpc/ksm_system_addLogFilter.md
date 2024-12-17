@@ -1,6 +1,6 @@
 ---
-title: ksm:system_addLogFilter \[POST\] {disallowed}
-description: Adds the supplied directives to the current log filter.
+title: system_addLogFilter  {disallowed} - Kusama
+description: Example code for the system_addLogFilter  {disallowed} json-rpc method. Сomplete guide on how to use system_addLogFilter  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

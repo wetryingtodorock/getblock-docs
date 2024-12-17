@@ -1,6 +1,6 @@
 ---
-title: ont:getbalance \[WebSocket\]
-description: Fetches the balance of a Base58 address.
+title: getbalance - Ontology
+description: Example code for the getbalance ws method. Сomplete guide on how to use getbalance ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

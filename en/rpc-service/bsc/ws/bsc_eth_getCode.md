@@ -1,6 +1,6 @@
 ---
-title: bsc:eth_getCode \[WebSocket\]
-description: Returns the code of the smart contract at the specified address. Besustores compiled smart contract code as a hexadecimal value.
+title: eth_getCode - Binance Smart Chain
+description: Example code for the eth_getCode ws method. Сomplete guide on how to use eth_getCode ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

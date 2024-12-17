@@ -1,6 +1,6 @@
 ---
-title: sol:getBlockCommitment \[POST\]
-description: Returns commitment for particular block
+title: getBlockCommitment - Solana
+description: Example code for the getBlockCommitment json-rpc method. Сomplete guide on how to use getBlockCommitment json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

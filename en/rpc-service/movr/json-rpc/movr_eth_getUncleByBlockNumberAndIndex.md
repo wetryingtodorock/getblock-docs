@@ -1,6 +1,6 @@
 ---
-title: movr:eth_getUncleByBlockNumberAndIndex \[POST\] {disallowed}
-description: Returns an uncles at given block and index.
+title: eth_getUncleByBlockNumberAndIndex  {disallowed} - Moonriver
+description: Example code for the eth_getUncleByBlockNumberAndIndex  {disallowed} json-rpc method. Сomplete guide on how to use eth_getUncleByBlockNumberAndIndex  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

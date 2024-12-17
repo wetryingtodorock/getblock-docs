@@ -1,6 +1,6 @@
 ---
-title: sol:getBlockTime \[POST\]
-description: Returns the estimated production time of a block.Each validator reports their UTC time to the ledger on a regularinterval by intermittently adding a timestamp to a Vote for a particularblock. A requested blocks time is calculated from the stake-weightedmean of the Vote timestamps in a set of recent blocks recorded on theledger.
+title: getBlockTime - Solana
+description: Example code for the getBlockTime json-rpc method. Сomplete guide on how to use getBlockTime json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

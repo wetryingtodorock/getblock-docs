@@ -1,6 +1,6 @@
 ---
-title: doge:getaddressesbyaccount \[POST\] {disallowed}
-description: Returns the list of addresses for the given account.
+title: getaddressesbyaccount  {disallowed} - Dogecoin
+description: Example code for the getaddressesbyaccount  {disallowed} json-rpc method. Сomplete guide on how to use getaddressesbyaccount  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

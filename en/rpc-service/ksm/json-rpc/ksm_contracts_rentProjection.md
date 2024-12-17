@@ -1,6 +1,6 @@
 ---
-title: ksm:contracts_rentProjection \[POST\] {disallowed}
-description: Returns the projected time a given contract will be able to sustainpaying its rent.
+title: contracts_rentProjection  {disallowed} - Kusama
+description: Example code for the contracts_rentProjection  {disallowed} json-rpc method. Сomplete guide on how to use contracts_rentProjection  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

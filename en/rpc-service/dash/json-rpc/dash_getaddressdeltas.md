@@ -1,6 +1,6 @@
 ---
-title: dash:getaddressdeltas \[POST\] {disallowed}
-description: Returns all changes for an address.
+title: getaddressdeltas  {disallowed} - Dash
+description: Example code for the getaddressdeltas  {disallowed} json-rpc method. Сomplete guide on how to use getaddressdeltas  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

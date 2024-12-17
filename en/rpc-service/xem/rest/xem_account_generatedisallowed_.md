@@ -1,6 +1,6 @@
 ---
-title: xem:/account/generate \[GET\] {disallowed}
-description: Generates a KeyPairViewModel object, which contains information about anew account. Information includes the private key, the public key andthe address
+title: /account/generate  {disallowed} - NEM
+description: Example code for the /account/generate  {disallowed} rest method. Сomplete guide on how to use /account/generate  {disallowed} rest in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

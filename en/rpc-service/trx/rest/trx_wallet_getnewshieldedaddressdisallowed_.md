@@ -1,6 +1,6 @@
 ---
-title: trx:/wallet/getnewshieldedaddress \[GET\] {disallowed}
-description: Note To ensure security, Trongrid has disabled this interface service,please use the service provided by the local node.
+title: /wallet/getnewshieldedaddress  {disallowed} - TRON
+description: Example code for the /wallet/getnewshieldedaddress  {disallowed} rest method. Сomplete guide on how to use /wallet/getnewshieldedaddress  {disallowed} rest in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

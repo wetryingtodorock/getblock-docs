@@ -1,6 +1,6 @@
 ---
-title: avax:eth_getWork \[POST\] {disallowed}
-description: Returns the hash of the current block, the seedHash, and the boundarycondition to be met (“target”).Currently unavailable.
+title: eth_getWork  {disallowed} - Avalanche
+description: Example code for the eth_getWork  {disallowed} json-rpc method. Сomplete guide on how to use eth_getWork  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

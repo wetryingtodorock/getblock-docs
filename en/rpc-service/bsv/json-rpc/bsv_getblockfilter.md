@@ -1,6 +1,6 @@
 ---
-title: bsv:getblockfilter \[POST\]
-description: Retrieve a BIP 157 content filter for a particular block.
+title: getblockfilter - Bitcoin SV
+description: Example code for the getblockfilter json-rpc method. Сomplete guide on how to use getblockfilter json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

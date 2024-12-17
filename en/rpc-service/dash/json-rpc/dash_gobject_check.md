@@ -1,6 +1,6 @@
 ---
-title: dash:gobject_check \[POST\]
-description: Provides a set of commands for managing governance objects anddisplaying information about them.
+title: gobject_check - Dash
+description: Example code for the gobject_check json-rpc method. Сomplete guide on how to use gobject_check json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: dot:author_submitAndWatchExtrinsic \[POST\] {disallowed}
-description: Submit and subscribe to watch an extrinsic until unsubscribed
+title: author_submitAndWatchExtrinsic  {disallowed} - Polkadot
+description: Example code for the author_submitAndWatchExtrinsic  {disallowed} json-rpc method. Сomplete guide on how to use author_submitAndWatchExtrinsic  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

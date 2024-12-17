@@ -1,6 +1,6 @@
 ---
-title: ont:getconnectioncount \[WebSocket\]
-description: Fetches the number of connections to the node.
+title: getconnectioncount - Ontology
+description: Example code for the getconnectioncount ws method. Сomplete guide on how to use getconnectioncount ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: dash:gobject_list \[POST\]
-description: Lists governance objects (can be filtered by signal and/or object type).
+title: gobject_list - Dash
+description: Example code for the gobject_list json-rpc method. Сomplete guide on how to use gobject_list json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

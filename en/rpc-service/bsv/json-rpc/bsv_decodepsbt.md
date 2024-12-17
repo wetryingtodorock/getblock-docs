@@ -1,6 +1,6 @@
 ---
-title: bsv:decodepsbt \[POST\]
-description: Return a JSON object representing the serialized, base64-encodedpartially signed Bitcoin transaction.
+title: decodepsbt - Bitcoin SV
+description: Example code for the decodepsbt json-rpc method. Сomplete guide on how to use decodepsbt json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

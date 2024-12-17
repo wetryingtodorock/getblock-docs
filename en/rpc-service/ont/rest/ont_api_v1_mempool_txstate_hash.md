@@ -1,6 +1,6 @@
 ---
-title: ont:/api/v1/mempool/txstate/{hash} \[GET\]
-description: Fetch transaction state in the memory pool
+title: /api/v1/mempool/txstate/{hash} - Ontology
+description: Example code for the /api/v1/mempool/txstate/{hash} rest method. Сomplete guide on how to use /api/v1/mempool/txstate/{hash} rest in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

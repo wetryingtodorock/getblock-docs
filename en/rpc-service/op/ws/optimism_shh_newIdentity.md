@@ -1,6 +1,6 @@
 ---
-title: optimism:shh_newIdentity \[WebSocket\] {disallowed}
-description: Creates new whisper identity in the client.
+title: shh_newIdentity  {disallowed} - Optimism
+description: Example code for the shh_newIdentity  {disallowed} ws method. Сomplete guide on how to use shh_newIdentity  {disallowed} ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

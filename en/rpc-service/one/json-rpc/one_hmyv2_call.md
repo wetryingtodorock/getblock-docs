@@ -1,6 +1,6 @@
 ---
-title: one:hmyv2_call \[POST\]
-description: Invokes a contract function locally and does not change the state of theblockchain.You can interact with contracts using hmyv2_sendRawTransaction orhmyv2_call.If revert reason is enabled with --revert-reason-enabled, the hmyv2_callerror response will include the revert reason.
+title: hmyv2_call - Harmony
+description: Example code for the hmyv2_call json-rpc method. Сomplete guide on how to use hmyv2_call json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

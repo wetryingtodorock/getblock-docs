@@ -1,6 +1,6 @@
 ---
-title: btc:getdsprooflist \[POST\] {disallowed}
-description: List double-spend proofs for transactions in the mempool.
+title: getdsprooflist  {disallowed} - Bitcoin
+description: Example code for the getdsprooflist  {disallowed} json-rpc method. Сomplete guide on how to use getdsprooflist  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: eth:priv_getTransactionCount \[WebSocket\] {disallowed}
-description: Returns the private transaction count for specified account and privacygroup.
+title: priv_getTransactionCount  {disallowed} - Ethereum
+description: Example code for the priv_getTransactionCount  {disallowed} ws method. Сomplete guide on how to use priv_getTransactionCount  {disallowed} ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

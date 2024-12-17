@@ -1,6 +1,6 @@
 ---
-title: dash:/chaininfo.json \[GET\]
-description: The GET chaininfo operation returns information about the current stateof the block chain. Supports only json as output format.
+title: /chaininfo.json - Dash
+description: Example code for the /chaininfo.json rest method. Сomplete guide on how to use /chaininfo.json rest in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

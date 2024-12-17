@@ -1,6 +1,6 @@
 ---
-title: eth:perm_reloadPermissionsFromFile \[WebSocket\] {disallowed}
-description: Reloads the accounts and nodes allowlists from the permissionsconfiguration file.
+title: perm_reloadPermissionsFromFile  {disallowed} - Ethereum
+description: Example code for the perm_reloadPermissionsFromFile  {disallowed} ws method. Сomplete guide on how to use perm_reloadPermissionsFromFile  {disallowed} ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

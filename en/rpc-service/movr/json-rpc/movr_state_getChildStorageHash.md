@@ -1,6 +1,6 @@
 ---
-title: movr:state_getChildStorageHash \[POST\] {disallowed}
-description: Retrieves the child storage hash.
+title: state_getChildStorageHash  {disallowed} - Moonriver
+description: Example code for the state_getChildStorageHash  {disallowed} json-rpc method. Сomplete guide on how to use state_getChildStorageHash  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

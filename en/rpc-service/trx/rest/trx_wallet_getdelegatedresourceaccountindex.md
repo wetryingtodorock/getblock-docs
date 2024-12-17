@@ -1,6 +1,6 @@
 ---
-title: trx:/wallet/getdelegatedresourceaccountindex \[POST\] {disallowed}
-description: Query the energy delegation by an account. i.e. list all addresses thathave delegated resources to an account.
+title: /wallet/getdelegatedresourceaccountindex  {disallowed} - TRON
+description: Example code for the /wallet/getdelegatedresourceaccountindex  {disallowed} rest method. Сomplete guide on how to use /wallet/getdelegatedresourceaccountindex  {disallowed} rest in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

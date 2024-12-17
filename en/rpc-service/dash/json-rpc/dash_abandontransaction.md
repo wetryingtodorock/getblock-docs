@@ -1,6 +1,6 @@
 ---
-title: dash:abandontransaction \[POST\] {disallowed}
-description: Marks an in-wallet transaction and all its in-wallet descendants asabandoned. This allows their inputs to be respent.
+title: abandontransaction  {disallowed} - Dash
+description: Example code for the abandontransaction  {disallowed} json-rpc method. Сomplete guide on how to use abandontransaction  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

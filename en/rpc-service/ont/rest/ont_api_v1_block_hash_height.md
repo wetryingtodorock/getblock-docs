@@ -1,6 +1,6 @@
 ---
-title: ont:/api/v1/block/hash/{height} \[GET\]
-description: Fetch block hash for block at a given height
+title: /api/v1/block/hash/{height} - Ontology
+description: Example code for the /api/v1/block/hash/{height} rest method. Сomplete guide on how to use /api/v1/block/hash/{height} rest in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

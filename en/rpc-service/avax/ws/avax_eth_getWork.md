@@ -1,6 +1,6 @@
 ---
-title: avax:eth_getWork \[WebSocket\] {disallowed}
-description: Returns the hash of the current block, the seedHash, and the boundarycondition to be met (“target”).Currently unavailable.
+title: eth_getWork  {disallowed} - Avalanche
+description: Example code for the eth_getWork  {disallowed} ws method. Сomplete guide on how to use eth_getWork  {disallowed} ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

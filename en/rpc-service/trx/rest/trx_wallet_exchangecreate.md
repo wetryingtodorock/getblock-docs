@@ -1,6 +1,6 @@
 ---
-title: trx:/wallet/exchangecreate \[POST\] {disallowed}
-description: Creates a trading pair.WARNING Successful execution, signing, and broadcast of this API callwill deduct 1024 TRX from the user\`s account.
+title: /wallet/exchangecreate  {disallowed} - TRON
+description: Example code for the /wallet/exchangecreate  {disallowed} rest method. Сomplete guide on how to use /wallet/exchangecreate  {disallowed} rest in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

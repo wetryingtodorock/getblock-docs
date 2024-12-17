@@ -1,6 +1,6 @@
 ---
-title: dgb:listlabels \[POST\] {disallowed}
-description: Returns the list of all labels, or labels that are assigned to addresseswith a specific purpose.
+title: listlabels  {disallowed} - DigiByte
+description: Example code for the listlabels  {disallowed} json-rpc method. Сomplete guide on how to use listlabels  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

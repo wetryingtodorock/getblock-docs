@@ -1,6 +1,6 @@
 ---
-title: btc:tx \[GET\]
-description: Given a transaction hash returns a transaction in binary, hex-encoded binary, or JSON formats. By default, this endpoint will only search the mempool. To query for a confirmed transaction, enable the transaction index via "txindex=1" command line/configuration option.
+title: tx - Bitcoin
+description: Example code for the tx rest method. Сomplete guide on how to use tx rest in GetBlock.io Web3 documentation.
 ---
 
 ### Example

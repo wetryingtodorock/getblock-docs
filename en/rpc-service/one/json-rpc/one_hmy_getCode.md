@@ -1,6 +1,6 @@
 ---
-title: one:hmy_getCode \[POST\]
-description: Returns the code of the smart contract at the specified address. Besustores compiled smart contract code as a hexadecimal value.
+title: hmy_getCode - Harmony
+description: Example code for the hmy_getCode json-rpc method. Сomplete guide on how to use hmy_getCode json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

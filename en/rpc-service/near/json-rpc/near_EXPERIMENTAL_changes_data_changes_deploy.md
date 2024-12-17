@@ -1,6 +1,6 @@
 ---
-title: near:EXPERIMENTAL_changes(data_changes_deploy) \[POST\] {disallowed}
-description: Returns code changes made when deploying a contract. Change is returnedis a base64 encoded WASM file.
+title: EXPERIMENTAL_changes(data_changes_deploy)  {disallowed} - NEAR Protocol
+description: Example code for the EXPERIMENTAL_changes(data_changes_deploy)  {disallowed} json-rpc method. Сomplete guide on how to use EXPERIMENTAL_changes(data_changes_deploy)  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

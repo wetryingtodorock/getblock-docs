@@ -1,6 +1,6 @@
 ---
-title: movr:eth_syncing \[POST\] {disallowed}
-description: Returns an object with data about the sync status or false.
+title: eth_syncing  {disallowed} - Moonriver
+description: Example code for the eth_syncing  {disallowed} json-rpc method. Сomplete guide on how to use eth_syncing  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

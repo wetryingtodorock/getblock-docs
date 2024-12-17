@@ -1,6 +1,6 @@
 ---
-title: bcn:send_transaction \[POST\]
-description: Places the (previously created) transaction into the payment queue forsending to the p2p network. Transactions are kept in the payment queueuntil they are either confirmed in the blockchain with 720 confirmationsor are determined to be conflicting with another transaction, which has720 (or more) confirmations.Result of call will be broadcast, if transaction was successfully placedinto the payment queue. Note, that if bytecoind is not connected tointernet, this method will nevertheless succeed.
+title: send_transaction - Bitcoin Cash
+description: Example code for the send_transaction json-rpc method. Сomplete guide on how to use send_transaction json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

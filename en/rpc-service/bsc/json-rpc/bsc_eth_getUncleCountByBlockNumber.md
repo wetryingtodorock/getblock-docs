@@ -1,6 +1,6 @@
 ---
-title: bsc:eth_getUncleCountByBlockNumber \[POST\]
-description: Returns the number of uncles in a block matching the specified blocknumber.
+title: eth_getUncleCountByBlockNumber - Binance Smart Chain
+description: Example code for the eth_getUncleCountByBlockNumber json-rpc method. Сomplete guide on how to use eth_getUncleCountByBlockNumber json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

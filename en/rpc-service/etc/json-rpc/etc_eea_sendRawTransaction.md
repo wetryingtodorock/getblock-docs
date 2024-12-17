@@ -1,6 +1,6 @@
 ---
-title: etc:eea_sendRawTransaction \[POST\] {disallowed}
-description: Distributes the private transaction, generates the privacy markertransaction and submits it to the transaction pool, and returns thetransaction hash of the privacy marker transaction.The signed transaction passed as an input parameter includes theprivateFrom, privateFor or privacyGroupId, and restriction fields.The gas and gasPrice are used by the privacy marker transaction not theprivate transaction itself.To avoid exposing your private key, create signed transactions offlineand send the signed transaction data using eea_sendRawTransaction.
+title: eea_sendRawTransaction  {disallowed} - Ethereum Classic
+description: Example code for the eea_sendRawTransaction  {disallowed} json-rpc method. Сomplete guide on how to use eea_sendRawTransaction  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: glmr:eth_uninstallFilter \[POST\]
-description: Uninstalls a filter with given id. Should always be called when watch isno longer needed. Additonally Filters timeout when they aren’t requestedwith eth_getFilterChanges for a period of time.
+title: eth_uninstallFilter - Moonbeam
+description: Example code for the eth_uninstallFilter json-rpc method. Сomplete guide on how to use eth_uninstallFilter json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

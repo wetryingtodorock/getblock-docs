@@ -1,6 +1,6 @@
 ---
-title: arbitrum:eth_estimateGas \[POST\]
-description: Generates and returns an estimate of how much gas is necessary to allowthe transaction to complete. The transaction will not be added to theblockchain. Note that the estimate may be significantly more than theamount of gas actually used by the transaction, for a variety of reasonsincluding EVM mechanics and node performance.
+title: eth_estimateGas - Arbitrum
+description: Example code for the eth_estimateGas json-rpc method. Сomplete guide on how to use eth_estimateGas json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

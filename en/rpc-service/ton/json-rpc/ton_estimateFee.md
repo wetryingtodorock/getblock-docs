@@ -1,6 +1,6 @@
 ---
-title: ton:/estimateFee \[POST\]
-description: Estimate fees required for query processing. body, init-code andinit-data accepted in serialized format (b64-encoded).
+title: /estimateFee - The Open Network (TON)
+description: Example code for the /estimateFee json-rpc method. Сomplete guide on how to use /estimateFee json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

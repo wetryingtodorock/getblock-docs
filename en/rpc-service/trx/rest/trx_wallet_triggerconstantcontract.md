@@ -1,6 +1,6 @@
 ---
-title: trx:/wallet/triggerconstantcontract \[POST\] {disallowed}
-description: Invoke the readonly function (modified by the view or pure modifier) ofa contract for contract data query or Invoke the non-readonly functionof a contract for predicting whether the transaction can be successfullyexecuted or estimating the energy consumptionTriggerConstantContract operation will not generate an on-chaintransaction, nor will it change the status of the current node.For estimating energy use triggerconstantcontract to call thenon-readonly method of the contract, and the energy_used field in thereturned value is the energy consumption. Therefore, the fee_limit ofthe transaction can be set to energy_used x energy unit price.
+title: /wallet/triggerconstantcontract  {disallowed} - TRON
+description: Example code for the /wallet/triggerconstantcontract  {disallowed} rest method. Сomplete guide on how to use /wallet/triggerconstantcontract  {disallowed} rest in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

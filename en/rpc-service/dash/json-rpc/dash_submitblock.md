@@ -1,6 +1,6 @@
 ---
-title: dash:submitblock \[POST\] {disallowed}
-description: Accepts a block, verifies it is a valid addition to the block chain, andbroadcasts it to the network.Extra parameters are ignored by Dash Core but may be used by miningpools or other programs.
+title: submitblock  {disallowed} - Dash
+description: Example code for the submitblock  {disallowed} json-rpc method. Сomplete guide on how to use submitblock  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

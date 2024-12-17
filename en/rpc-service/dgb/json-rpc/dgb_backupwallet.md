@@ -1,6 +1,6 @@
 ---
-title: dgb:backupwallet \[POST\] {disallowed}
-description: Safely copies current wallet file to destination, which can be adirectory or a path with filename.
+title: backupwallet  {disallowed} - DigiByte
+description: Example code for the backupwallet  {disallowed} json-rpc method. Сomplete guide on how to use backupwallet  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

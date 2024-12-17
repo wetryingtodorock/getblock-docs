@@ -1,6 +1,6 @@
 ---
-title: eth:eth_getProof \[WebSocket\]
-description: Returns the account and storage values of the specified account,including the Merkle proof.The API allows IoT devices or mobile apps which are unable to run lightclients to verify responses from untrusted sources, by using a trustedblock hash.
+title: eth_getProof - Ethereum
+description: Example code for the eth_getProof ws method. Сomplete guide on how to use eth_getProof ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: matic:shh_addToGroup \[WebSocket\] {disallowed}
-description: Adds given address to a group
+title: shh_addToGroup  {disallowed} - Polygon
+description: Example code for the shh_addToGroup  {disallowed} ws method. Сomplete guide on how to use shh_addToGroup  {disallowed} ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

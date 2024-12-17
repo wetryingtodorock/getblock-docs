@@ -1,6 +1,6 @@
 ---
-title: trx:/wallet/scanshieldedtrc20notesbyovk \[POST\] {disallowed}
-description: Scan outgoing notes(spent).
+title: /wallet/scanshieldedtrc20notesbyovk  {disallowed} - TRON
+description: Example code for the /wallet/scanshieldedtrc20notesbyovk  {disallowed} rest method. Сomplete guide on how to use /wallet/scanshieldedtrc20notesbyovk  {disallowed} rest in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

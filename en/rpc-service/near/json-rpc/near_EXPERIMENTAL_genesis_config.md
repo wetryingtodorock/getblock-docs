@@ -1,6 +1,6 @@
 ---
-title: near:EXPERIMENTAL_genesis_config \[POST\] {disallowed}
-description: Returns current genesis configuration.
+title: EXPERIMENTAL_genesis_config  {disallowed} - NEAR Protocol
+description: Example code for the EXPERIMENTAL_genesis_config  {disallowed} json-rpc method. Сomplete guide on how to use EXPERIMENTAL_genesis_config  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

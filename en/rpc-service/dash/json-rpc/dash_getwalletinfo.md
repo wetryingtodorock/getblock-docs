@@ -1,6 +1,6 @@
 ---
-title: dash:getwalletinfo \[POST\] {disallowed}
-description: Provides information about the wallet.
+title: getwalletinfo  {disallowed} - Dash
+description: Example code for the getwalletinfo  {disallowed} json-rpc method. Сomplete guide on how to use getwalletinfo  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

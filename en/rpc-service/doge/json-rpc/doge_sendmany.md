@@ -1,6 +1,6 @@
 ---
-title: doge:sendmany \[POST\] {disallowed}
-description: Sends specified amounts from account’s balance to dogecoinaddresses.This method will fail if there is less than total amount dogecoins withminconf confirmations in the account’s balance (unless account is theempty-string-named default account).Returns transaction ID on success.
+title: sendmany  {disallowed} - Dogecoin
+description: Example code for the sendmany  {disallowed} json-rpc method. Сomplete guide on how to use sendmany  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

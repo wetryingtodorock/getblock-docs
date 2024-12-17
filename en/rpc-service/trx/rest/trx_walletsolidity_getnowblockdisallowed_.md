@@ -1,6 +1,6 @@
 ---
-title: trx:/walletsolidity/getnowblock \[GET\] {disallowed}
-description: get last solidity block
+title: /walletsolidity/getnowblock  {disallowed} - TRON
+description: Example code for the /walletsolidity/getnowblock  {disallowed} rest method. Сomplete guide on how to use /walletsolidity/getnowblock  {disallowed} rest in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

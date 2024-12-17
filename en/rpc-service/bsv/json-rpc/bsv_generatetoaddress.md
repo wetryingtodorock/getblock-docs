@@ -1,6 +1,6 @@
 ---
-title: bsv:generatetoaddress \[POST\] {disallowed}
-description: Mine blocks immediately to a specified address (before the RPC callreturns)
+title: generatetoaddress  {disallowed} - Bitcoin SV
+description: Example code for the generatetoaddress  {disallowed} json-rpc method. Сomplete guide on how to use generatetoaddress  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

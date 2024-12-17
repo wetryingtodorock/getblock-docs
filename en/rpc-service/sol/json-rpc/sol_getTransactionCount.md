@@ -1,6 +1,6 @@
 ---
-title: sol:getTransactionCount \[POST\]
-description: Returns the current Transaction count from the ledger
+title: getTransactionCount - Solana
+description: Example code for the getTransactionCount json-rpc method. Сomplete guide on how to use getTransactionCount json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

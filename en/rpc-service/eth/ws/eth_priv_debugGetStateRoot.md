@@ -1,6 +1,6 @@
 ---
-title: eth:priv_debugGetStateRoot \[WebSocket\] {disallowed}
-description: Returns the state root of the specified privacy group at the specifiedblock.
+title: priv_debugGetStateRoot  {disallowed} - Ethereum
+description: Example code for the priv_debugGetStateRoot  {disallowed} ws method. Сomplete guide on how to use priv_debugGetStateRoot  {disallowed} ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

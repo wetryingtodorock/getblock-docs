@@ -1,6 +1,6 @@
 ---
-title: bsv:removeprunedfunds \[POST\] {disallowed}
-description: Deletes the specified transaction from the wallet. Meant for use withpruned wallets and as a companion to importprunedfunds. This will affectwallet balances.
+title: removeprunedfunds  {disallowed} - Bitcoin SV
+description: Example code for the removeprunedfunds  {disallowed} json-rpc method. Сomplete guide on how to use removeprunedfunds  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: trx:buildTransaction(CreateSmartContract) \[POST\] {disallowed}
-description: Create a transaction, different transaction types have differentparametersthis is an example of CreateSmartContract
+title: buildTransaction(CreateSmartContract)  {disallowed} - TRON
+description: Example code for the buildTransaction(CreateSmartContract)  {disallowed} json-rpc method. Сomplete guide on how to use buildTransaction(CreateSmartContract)  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: fuse:eth_getCode \[WebSocket\]
-description: Returns code at a given address.
+title: eth_getCode - Fuse Network
+description: Example code for the eth_getCode ws method. Сomplete guide on how to use eth_getCode ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: near:query(view_account) \[POST\]
-description: Allows you to call a contract method as a view function.
+title: query(view_account) - NEAR Protocol
+description: Example code for the query(view_account) json-rpc method. Сomplete guide on how to use query(view_account) json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: dot:system_dryRun \[POST\] {disallowed}
-description: Dry run an extrinsic at a given block.
+title: system_dryRun  {disallowed} - Polkadot
+description: Example code for the system_dryRun  {disallowed} json-rpc method. Сomplete guide on how to use system_dryRun  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

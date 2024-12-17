@@ -1,6 +1,6 @@
 ---
-title: ont:/api/v1/mempool/txcount \[GET\]
-description: Fetch current transaction count in the memory pool
+title: /api/v1/mempool/txcount - Ontology
+description: Example code for the /api/v1/mempool/txcount rest method. Сomplete guide on how to use /api/v1/mempool/txcount rest in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

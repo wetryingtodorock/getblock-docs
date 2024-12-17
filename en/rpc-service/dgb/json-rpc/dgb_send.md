@@ -1,6 +1,6 @@
 ---
-title: dgb:send \[POST\] {disallowed}
-description: EXPERIMENTAL warning this call may be changed in future releases.Send a transaction.
+title: send  {disallowed} - DigiByte
+description: Example code for the send  {disallowed} json-rpc method. Сomplete guide on how to use send  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

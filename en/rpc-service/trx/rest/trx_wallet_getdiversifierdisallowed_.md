@@ -1,6 +1,6 @@
 ---
-title: trx:/wallet/getdiversifier \[GET\] {disallowed}
-description: get diversifier
+title: /wallet/getdiversifier  {disallowed} - TRON
+description: Example code for the /wallet/getdiversifier  {disallowed} rest method. Сomplete guide on how to use /wallet/getdiversifier  {disallowed} rest in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

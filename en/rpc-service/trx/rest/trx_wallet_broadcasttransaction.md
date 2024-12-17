@@ -1,6 +1,6 @@
 ---
-title: trx:/wallet/broadcasttransaction \[POST\]
-description: Broadcast the signed transaction
+title: /wallet/broadcasttransaction - TRON
+description: Example code for the /wallet/broadcasttransaction rest method. Сomplete guide on how to use /wallet/broadcasttransaction rest in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

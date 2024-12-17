@@ -1,6 +1,6 @@
 ---
-title: xem:/account/historical/get \[GET\] {disallowed}
-description: Gets historical information for an account.
+title: /account/historical/get  {disallowed} - NEM
+description: Example code for the /account/historical/get  {disallowed} rest method. Сomplete guide on how to use /account/historical/get  {disallowed} rest in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

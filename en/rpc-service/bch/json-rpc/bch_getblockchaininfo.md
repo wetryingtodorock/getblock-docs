@@ -1,6 +1,6 @@
 ---
-title: bch:getblockchaininfo \[POST\]
-description: Returns an object containing various state info regarding blockchainprocessing.
+title: getblockchaininfo - Bitcoin Cash
+description: Example code for the getblockchaininfo json-rpc method. Сomplete guide on how to use getblockchaininfo json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

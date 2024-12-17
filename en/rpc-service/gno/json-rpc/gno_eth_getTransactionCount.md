@@ -1,6 +1,6 @@
 ---
-title: gno:eth_getTransactionCount \[POST\]
-description: Returns the number of transactions sent from a specified address. Usethe pending tag to get the next account nonce not used by any pendingtransactions.
+title: eth_getTransactionCount - Gnosis
+description: Example code for the eth_getTransactionCount json-rpc method. Сomplete guide on how to use eth_getTransactionCount json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

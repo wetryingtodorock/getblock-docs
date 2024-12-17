@@ -1,6 +1,6 @@
 ---
-title: dash:signrawtransactionwithkey \[POST\]
-description: signs inputs for a transaction in the serialized transaction formatusing private keys provided in the call.Added in Dash Core 0.17.0
+title: signrawtransactionwithkey - Dash
+description: Example code for the signrawtransactionwithkey json-rpc method. Сomplete guide on how to use signrawtransactionwithkey json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

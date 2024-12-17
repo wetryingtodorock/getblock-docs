@@ -1,6 +1,6 @@
 ---
-title: ton:/getConfigParam \[GET\] {disallowed}
-description: Get config by id.
+title: /getConfigParam  {disallowed} - The Open Network (TON)
+description: Example code for the /getConfigParam  {disallowed} json-rpc method. Сomplete guide on how to use /getConfigParam  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

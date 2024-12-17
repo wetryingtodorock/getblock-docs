@@ -1,6 +1,6 @@
 ---
-title: ton:/getAddressBalance \[GET\]
-description: Get balance (in nanotons) of a given address.
+title: /getAddressBalance - The Open Network (TON)
+description: Example code for the /getAddressBalance json-rpc method. Сomplete guide on how to use /getAddressBalance json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

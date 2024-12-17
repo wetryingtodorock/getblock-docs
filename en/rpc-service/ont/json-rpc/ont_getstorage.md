@@ -1,6 +1,6 @@
 ---
-title: ont:getstorage \[POST\]
-description: Fetched the stored value using contract hash and the storage key. Resultwill be hex string.
+title: getstorage - Ontology
+description: Example code for the getstorage json-rpc method. Сomplete guide on how to use getstorage json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

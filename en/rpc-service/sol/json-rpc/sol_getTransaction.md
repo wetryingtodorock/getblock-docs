@@ -1,6 +1,6 @@
 ---
-title: sol:getTransaction \[POST\]
-description: Returns transaction details for a confirmed transaction
+title: getTransaction - Solana
+description: Example code for the getTransaction json-rpc method. Сomplete guide on how to use getTransaction json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: xmr:get_connections \[POST\]
-description: Retrieve information about incoming and outgoing connections to your node.
+title: get_connections - Monero
+description: Example code for the get_connections json-rpc method. Сomplete guide on how to use get_connections json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

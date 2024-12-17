@@ -1,6 +1,6 @@
 ---
-title: dash:dumphdinfo \[POST\] {disallowed}
-description: Returns an object containing sensitive private info about this HD wallet
+title: dumphdinfo  {disallowed} - Dash
+description: Example code for the dumphdinfo  {disallowed} json-rpc method. Сomplete guide on how to use dumphdinfo  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

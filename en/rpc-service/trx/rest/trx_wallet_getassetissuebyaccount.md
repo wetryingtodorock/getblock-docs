@@ -1,6 +1,6 @@
 ---
-title: trx:/wallet/getassetissuebyaccount \[POST\] {disallowed}
-description: Query the TRC10 token information issued by an account.
+title: /wallet/getassetissuebyaccount  {disallowed} - TRON
+description: Example code for the /wallet/getassetissuebyaccount  {disallowed} rest method. Сomplete guide on how to use /wallet/getassetissuebyaccount  {disallowed} rest in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

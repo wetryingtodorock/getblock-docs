@@ -1,6 +1,6 @@
 ---
-title: one:hmyv2_getTransactionReceipt \[POST\]
-description: Returns the receipt of a transaction by transaction hash. Receipts forpending transactions are not available.If you enabled revert reason, the receipt includes available revertreasons in the response.
+title: hmyv2_getTransactionReceipt - Harmony
+description: Example code for the hmyv2_getTransactionReceipt json-rpc method. Сomplete guide on how to use hmyv2_getTransactionReceipt json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

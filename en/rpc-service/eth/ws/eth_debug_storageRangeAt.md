@@ -1,6 +1,6 @@
 ---
-title: eth:debug_storageRangeAt \[WebSocket\] {disallowed}
-description: Remix uses debug_storageRangeAt to implement debugging. Use the Debuggertab in Remix instead of calling debug_storageRangeAt directly.Returns the contract storage for the specified range.
+title: debug_storageRangeAt  {disallowed} - Ethereum
+description: Example code for the debug_storageRangeAt  {disallowed} ws method. Сomplete guide on how to use debug_storageRangeAt  {disallowed} ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: trx:/wallet/transferasset \[POST\] {disallowed}
-description: Transfer TRC10 token.
+title: /wallet/transferasset  {disallowed} - TRON
+description: Example code for the /wallet/transferasset  {disallowed} rest method. Сomplete guide on how to use /wallet/transferasset  {disallowed} rest in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

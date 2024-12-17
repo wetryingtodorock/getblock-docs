@@ -1,6 +1,6 @@
 ---
-title: optimism:eth_protocolVersion \[WebSocket\]
-description: Returns the current ethereum protocol version.
+title: eth_protocolVersion - Optimism
+description: Example code for the eth_protocolVersion ws method. Сomplete guide on how to use eth_protocolVersion ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: trx:/wallet/getenergyprices \[GET\]
-description: Query historical energy unit price
+title: /wallet/getenergyprices - TRON
+description: Example code for the /wallet/getenergyprices rest method. Сomplete guide on how to use /wallet/getenergyprices rest in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

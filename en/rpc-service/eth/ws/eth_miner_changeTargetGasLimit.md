@@ -1,6 +1,6 @@
 ---
-title: eth:miner_changeTargetGasLimit \[WebSocket\] {disallowed}
-description: Updates the target gas limit set using the --target-gas-limit commandline option.
+title: miner_changeTargetGasLimit  {disallowed} - Ethereum
+description: Example code for the miner_changeTargetGasLimit  {disallowed} ws method. Сomplete guide on how to use miner_changeTargetGasLimit  {disallowed} ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: one:hmy_getFilterChanges \[POST\]
-description: Polls the specified filter and returns an array of changes that haveoccurred since the last poll.
+title: hmy_getFilterChanges - Harmony
+description: Example code for the hmy_getFilterChanges json-rpc method. Сomplete guide on how to use hmy_getFilterChanges json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

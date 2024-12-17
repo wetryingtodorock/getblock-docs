@@ -1,6 +1,6 @@
 ---
-title: rsk:eth_getLogs \[WebSocket\]
-description: Returns an array of all logs matching a given filter object.
+title: eth_getLogs - Rootstock
+description: Example code for the eth_getLogs ws method. Сomplete guide on how to use eth_getLogs ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

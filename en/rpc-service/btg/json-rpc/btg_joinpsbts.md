@@ -1,6 +1,6 @@
 ---
-title: btg:joinpsbts \[POST\]
-description: Joins multiple distinct PSBTs with different inputs and outputs into onePSBT with inputs and outputs from all of the PSBTsNo input in any of the PSBTs can be in more than one of the PSBTs.
+title: joinpsbts - Bitcoin Gold
+description: Example code for the joinpsbts json-rpc method. Сomplete guide on how to use joinpsbts json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

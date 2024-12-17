@@ -1,6 +1,6 @@
 ---
-title: bcn:submit_block \[POST\] {disallowed}
-description: Used by miners.
+title: submit_block  {disallowed} - Bitcoin Cash
+description: Example code for the submit_block  {disallowed} json-rpc method. Сomplete guide on how to use submit_block  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

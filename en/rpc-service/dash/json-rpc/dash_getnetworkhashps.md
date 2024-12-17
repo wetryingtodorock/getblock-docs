@@ -1,6 +1,6 @@
 ---
-title: dash:getnetworkhashps \[POST\]
-description: Returns the estimated network hashes per second based on the last nblocks.
+title: getnetworkhashps - Dash
+description: Example code for the getnetworkhashps json-rpc method. Сomplete guide on how to use getnetworkhashps json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

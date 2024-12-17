@@ -1,6 +1,6 @@
 ---
-title: one:hmy_getBlockByHash \[POST\]
-description: Returns information about the block by hash.
+title: hmy_getBlockByHash - Harmony
+description: Example code for the hmy_getBlockByHash json-rpc method. Сomplete guide on how to use hmy_getBlockByHash json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

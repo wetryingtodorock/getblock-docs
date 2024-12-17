@@ -1,6 +1,6 @@
 ---
-title: dash:/headers/{amount}/{hash}{format} \[GET\]
-description: The GET headers operation returns a specified amount of block headers inupward direction.
+title: /headers/{amount}/{hash}{format} - Dash
+description: Example code for the /headers/{amount}/{hash}{format} rest method. Сomplete guide on how to use /headers/{amount}/{hash}{format} rest in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

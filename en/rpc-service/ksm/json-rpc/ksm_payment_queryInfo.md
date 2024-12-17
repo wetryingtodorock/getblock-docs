@@ -1,6 +1,6 @@
 ---
-title: ksm:payment_queryInfo \[POST\] {disallowed}
-description: Retrieves the fee information for an encoded extrinsic.
+title: payment_queryInfo  {disallowed} - Kusama
+description: Example code for the payment_queryInfo  {disallowed} json-rpc method. Сomplete guide on how to use payment_queryInfo  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

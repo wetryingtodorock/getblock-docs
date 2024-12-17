@@ -1,6 +1,6 @@
 ---
-title: xem:/heartbeat \[GET\]
-description: Determines if NIS is up and responsive.
+title: /heartbeat - NEM
+description: Example code for the /heartbeat rest method. Сomplete guide on how to use /heartbeat rest in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

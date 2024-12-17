@@ -1,6 +1,6 @@
 ---
-title: doge:createrawtransaction \[POST\]
-description: Creates a raw transaction spending given inputs (a list of dictionaries,each containing a transaction id and an output number), sending to givenaddress(es).
+title: createrawtransaction - Dogecoin
+description: Example code for the createrawtransaction json-rpc method. Сomplete guide on how to use createrawtransaction json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: rsk:shh_getMessages \[Websocket\] {disallowed}
-description: Whisper protocol not supported.
+title: shh_getMessages  {disallowed} - Rootstock
+description: Example code for the shh_getMessages  {disallowed} ws method. Сomplete guide on how to use shh_getMessages  {disallowed} ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

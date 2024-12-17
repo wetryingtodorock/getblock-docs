@@ -1,6 +1,6 @@
 ---
-title: dash:decoderawtransaction \[POST\]
-description: Decodes a serialized transaction hex string into a JSON objectdescribing the transaction.
+title: decoderawtransaction - Dash
+description: Example code for the decoderawtransaction json-rpc method. Сomplete guide on how to use decoderawtransaction json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

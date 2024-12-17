@@ -1,6 +1,6 @@
 ---
-title: bsc:debug_getBadBlocks \[WebSocket\] {disallowed}
-description: Returns a list of invalid blocks. This is used to detect and analyzeconsensus flaws.
+title: debug_getBadBlocks  {disallowed} - Binance Smart Chain
+description: Example code for the debug_getBadBlocks  {disallowed} ws method. Сomplete guide on how to use debug_getBadBlocks  {disallowed} ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

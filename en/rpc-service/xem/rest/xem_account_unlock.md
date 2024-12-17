@@ -1,6 +1,6 @@
 ---
-title: xem:/account/unlock \[POST\] {disallowed}
-description: Unlocks an account (starts harvesting).
+title: /account/unlock  {disallowed} - NEM
+description: Example code for the /account/unlock  {disallowed} rest method. Сomplete guide on how to use /account/unlock  {disallowed} rest in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

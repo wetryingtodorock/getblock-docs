@@ -1,6 +1,6 @@
 ---
-title: trx:/wallet/getnkfromnsk \[POST\] {disallowed}
-description: get Nk from Nsk
+title: /wallet/getnkfromnsk  {disallowed} - TRON
+description: Example code for the /wallet/getnkfromnsk  {disallowed} rest method. Сomplete guide on how to use /wallet/getnkfromnsk  {disallowed} rest in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

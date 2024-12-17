@@ -1,6 +1,6 @@
 ---
-title: dash:abortrescan \[POST\] {disallowed}
-description: Stops current wallet rescan triggered e.g. by an importprivkey RPC call.
+title: abortrescan  {disallowed} - Dash
+description: Example code for the abortrescan  {disallowed} json-rpc method. Сomplete guide on how to use abortrescan  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

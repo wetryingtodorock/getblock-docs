@@ -1,6 +1,6 @@
 ---
-title: theta:thetacli.Send \[POST\]
-description: This API sends the Theta/TFuel tokens. Note the API call can send eitherTheta tokens or TFuel tokens, or both in one shot.
+title: thetacli.Send - Theta Network
+description: Example code for the thetacli.Send json-rpc method. Сomplete guide on how to use thetacli.Send json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: gno:eth_getTransactionByBlockHashAndIndex \[POST\]
-description: Returns transaction information for the specified block hash andtransaction index position.
+title: eth_getTransactionByBlockHashAndIndex - Gnosis
+description: Example code for the eth_getTransactionByBlockHashAndIndex json-rpc method. Сomplete guide on how to use eth_getTransactionByBlockHashAndIndex json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

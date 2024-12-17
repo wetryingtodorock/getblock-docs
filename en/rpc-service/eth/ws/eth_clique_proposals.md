@@ -1,6 +1,6 @@
 ---
-title: eth:clique_proposals \[WebSocket\] {disallowed}
-description: Returns current proposals.
+title: clique_proposals  {disallowed} - Ethereum
+description: Example code for the clique_proposals  {disallowed} ws method. Сomplete guide on how to use clique_proposals  {disallowed} ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

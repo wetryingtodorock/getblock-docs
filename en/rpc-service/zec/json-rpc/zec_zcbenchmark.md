@@ -1,6 +1,6 @@
 ---
-title: zec:zcbenchmark \[POST\] {disallowed}
-description: Runs a benchmark of the selected type samplecount times, returning therunning times of each sample.
+title: zcbenchmark  {disallowed} - Zcash
+description: Example code for the zcbenchmark  {disallowed} json-rpc method. Сomplete guide on how to use zcbenchmark  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

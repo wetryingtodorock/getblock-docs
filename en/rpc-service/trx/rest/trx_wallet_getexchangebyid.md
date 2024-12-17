@@ -1,6 +1,6 @@
 ---
-title: trx:/wallet/getexchangebyid \[POST\] {disallowed}
-description: Query exchange pair based on id
+title: /wallet/getexchangebyid  {disallowed} - TRON
+description: Example code for the /wallet/getexchangebyid  {disallowed} rest method. Сomplete guide on how to use /wallet/getexchangebyid  {disallowed} rest in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

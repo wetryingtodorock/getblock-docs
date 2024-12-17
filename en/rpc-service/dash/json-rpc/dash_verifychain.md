@@ -1,6 +1,6 @@
 ---
-title: dash:verifychain \[POST\]
-description: Verifies each entry in the local block chain database.
+title: verifychain - Dash
+description: Example code for the verifychain json-rpc method. Сomplete guide on how to use verifychain json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

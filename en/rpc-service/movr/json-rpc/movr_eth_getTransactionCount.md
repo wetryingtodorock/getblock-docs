@@ -1,6 +1,6 @@
 ---
-title: movr:eth_getTransactionCount \[POST\] {disallowed}
-description: Returns the number of transactions sent from given address at given time(block number).
+title: eth_getTransactionCount  {disallowed} - Moonriver
+description: Example code for the eth_getTransactionCount  {disallowed} json-rpc method. Сomplete guide on how to use eth_getTransactionCount  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

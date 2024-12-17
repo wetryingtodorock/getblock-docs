@@ -1,6 +1,6 @@
 ---
-title: sol:getConfirmedBlock \[POST\] {disallowed}
-description: DEPRECATED Please use getBlock instead This method is expected to beremoved in solana-core v2.0Returns identity and transaction information about a confirmed block inthe ledger
+title: getConfirmedBlock  {disallowed} - Solana
+description: Example code for the getConfirmedBlock  {disallowed} json-rpc method. Сomplete guide on how to use getConfirmedBlock  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: trx:/wallet/updatesetting \[POST\] {disallowed}
-description: Update the consume_user_resource_percent parameter of a smart contract
+title: /wallet/updatesetting  {disallowed} - TRON
+description: Example code for the /wallet/updatesetting  {disallowed} rest method. Сomplete guide on how to use /wallet/updatesetting  {disallowed} rest in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

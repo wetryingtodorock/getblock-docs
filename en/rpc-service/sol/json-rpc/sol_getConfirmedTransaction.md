@@ -1,6 +1,6 @@
 ---
-title: sol:getConfirmedTransaction \[POST\] {disallowed}
-description: DEPRECATED Please use getTransaction instead This method is expected tobe removed in solana-core v2.0Returns transaction details for a confirmed transaction
+title: getConfirmedTransaction  {disallowed} - Solana
+description: Example code for the getConfirmedTransaction  {disallowed} json-rpc method. Сomplete guide on how to use getConfirmedTransaction  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

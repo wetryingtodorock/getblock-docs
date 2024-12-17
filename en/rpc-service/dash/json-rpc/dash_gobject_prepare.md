@@ -1,6 +1,6 @@
 ---
-title: dash:gobject_prepare \[POST\] {disallowed}
-description: prepares a governance object by signing and creating a collateraltransaction.
+title: gobject_prepare  {disallowed} - Dash
+description: Example code for the gobject_prepare  {disallowed} json-rpc method. Сomplete guide on how to use gobject_prepare  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

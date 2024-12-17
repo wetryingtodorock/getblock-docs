@@ -1,6 +1,6 @@
 ---
-title: bch:getpeerinfo \[POST\] {disallowed}
-description: Returns data about each connected network node as a json array ofobjects.
+title: getpeerinfo  {disallowed} - Bitcoin Cash
+description: Example code for the getpeerinfo  {disallowed} json-rpc method. Сomplete guide on how to use getpeerinfo  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

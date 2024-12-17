@@ -1,6 +1,6 @@
 ---
-title: btg:getblock \[POST\]
-description: If verbosity is 0, returns a string that is serialized, hex-encoded datafor block hash.If verbosity is 1, returns an Object with information about block hash.If verbosity is 2, returns an Object with information about block hashand information about each transaction. .
+title: getblock - Bitcoin Gold
+description: Example code for the getblock json-rpc method. Сomplete guide on how to use getblock json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

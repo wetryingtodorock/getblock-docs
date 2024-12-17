@@ -1,6 +1,6 @@
 ---
-title: ksm:system_resetLogFilter \[POST\] {disallowed}
-description: Resets the log filter to Substrate defaults.
+title: system_resetLogFilter  {disallowed} - Kusama
+description: Example code for the system_resetLogFilter  {disallowed} json-rpc method. Сomplete guide on how to use system_resetLogFilter  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

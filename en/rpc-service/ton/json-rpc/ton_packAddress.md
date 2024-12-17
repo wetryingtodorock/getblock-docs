@@ -1,6 +1,6 @@
 ---
-title: ton:/packAddress \[GET\]
-description: Convert an address from raw to human-readable format.
+title: /packAddress - The Open Network (TON)
+description: Example code for the /packAddress json-rpc method. Сomplete guide on how to use /packAddress json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

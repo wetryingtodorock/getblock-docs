@@ -1,6 +1,6 @@
 ---
-title: dash:backupwallet \[POST\] {disallowed}
-description: Safely copies wallet.dat to the specified file, which can be a directoryor a path with filename.
+title: backupwallet  {disallowed} - Dash
+description: Example code for the backupwallet  {disallowed} json-rpc method. Сomplete guide on how to use backupwallet  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

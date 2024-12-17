@@ -1,6 +1,6 @@
 ---
-title: btc:getfinalizedblockhash \[POST\]
-description: Returns the hash of the currently finalized block
+title: getfinalizedblockhash - Bitcoin
+description: Example code for the getfinalizedblockhash json-rpc method. Сomplete guide on how to use getfinalizedblockhash json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

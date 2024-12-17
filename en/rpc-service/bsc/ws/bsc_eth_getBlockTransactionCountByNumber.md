@@ -1,6 +1,6 @@
 ---
-title: bsc:eth_getBlockTransactionCountByNumber \[WebSocket\]
-description: Returns the number of transactions in a block matching the specifiedblock number.
+title: eth_getBlockTransactionCountByNumber - Binance Smart Chain
+description: Example code for the eth_getBlockTransactionCountByNumber ws method. Сomplete guide on how to use eth_getBlockTransactionCountByNumber ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

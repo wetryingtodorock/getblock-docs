@@ -1,6 +1,6 @@
 ---
-title: one:hmy_syncing \[POST\]
-description: Returns an object with data about the synchronization status, or falseif not synchronizing.
+title: hmy_syncing - Harmony
+description: Example code for the hmy_syncing json-rpc method. Сomplete guide on how to use hmy_syncing json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

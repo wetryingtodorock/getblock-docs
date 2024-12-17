@@ -1,6 +1,6 @@
 ---
-title: optimism:net_listening \[WebSocket\]
-description: Returns true if client is actively listening for network connections.
+title: net_listening - Optimism
+description: Example code for the net_listening ws method. Сomplete guide on how to use net_listening ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

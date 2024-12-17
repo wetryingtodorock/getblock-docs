@@ -1,6 +1,6 @@
 ---
-title: avax:admin.startCPUProfiler \[POST\] {disallowed}
-description: Starts a CPU profile.
+title: admin.startCPUProfiler  {disallowed} - Avalanche
+description: Example code for the admin.startCPUProfiler  {disallowed} json-rpc method. Сomplete guide on how to use admin.startCPUProfiler  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: xmr:relay_tx \[POST\]
-description: Relay a list of transaction IDs.
+title: relay_tx - Monero
+description: Example code for the relay_tx json-rpc method. Сomplete guide on how to use relay_tx json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: zec:decodescript \[POST\]
-description: Decode a hex-encoded script.
+title: decodescript - Zcash
+description: Example code for the decodescript json-rpc method. Сomplete guide on how to use decodescript json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

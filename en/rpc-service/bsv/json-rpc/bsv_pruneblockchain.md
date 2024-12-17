@@ -1,6 +1,6 @@
 ---
-title: bsv:pruneblockchain \[POST\] {disallowed}
-description: Pruneblockchain height
+title: pruneblockchain  {disallowed} - Bitcoin SV
+description: Example code for the pruneblockchain  {disallowed} json-rpc method. Сomplete guide on how to use pruneblockchain  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

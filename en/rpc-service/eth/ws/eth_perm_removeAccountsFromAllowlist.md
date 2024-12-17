@@ -1,6 +1,6 @@
 ---
-title: eth:perm_removeAccountsFromAllowlist \[WebSocket\] {disallowed}
-description: Removes accounts (participants) from the accounts permissions list.
+title: perm_removeAccountsFromAllowlist  {disallowed} - Ethereum
+description: Example code for the perm_removeAccountsFromAllowlist  {disallowed} ws method. Сomplete guide on how to use perm_removeAccountsFromAllowlist  {disallowed} ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

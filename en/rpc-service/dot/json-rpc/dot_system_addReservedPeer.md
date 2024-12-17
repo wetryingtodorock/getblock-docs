@@ -1,6 +1,6 @@
 ---
-title: dot:system_addReservedPeer \[POST\] {disallowed}
-description: Adds a reserved peer
+title: system_addReservedPeer  {disallowed} - Polkadot
+description: Example code for the system_addReservedPeer  {disallowed} json-rpc method. Сomplete guide on how to use system_addReservedPeer  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

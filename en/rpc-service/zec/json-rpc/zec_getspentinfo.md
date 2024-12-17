@@ -1,6 +1,6 @@
 ---
-title: zec:getspentinfo \[POST\] {disallowed}
-description: Returns the txid and index where an output is spent.WARNING getspentinfo is disabled.
+title: getspentinfo  {disallowed} - Zcash
+description: Example code for the getspentinfo  {disallowed} json-rpc method. Сomplete guide on how to use getspentinfo  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: doge:keypoolrefill \[POST\] {disallowed}
-description: Fills the keypool, requires wallet passphrase to be set.
+title: keypoolrefill  {disallowed} - Dogecoin
+description: Example code for the keypoolrefill  {disallowed} json-rpc method. Сomplete guide on how to use keypoolrefill  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

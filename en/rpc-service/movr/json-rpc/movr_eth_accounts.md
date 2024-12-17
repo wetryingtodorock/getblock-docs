@@ -1,6 +1,6 @@
 ---
-title: movr:eth_accounts \[POST\] {disallowed}
-description: Returns accounts list.
+title: eth_accounts  {disallowed} - Moonriver
+description: Example code for the eth_accounts  {disallowed} json-rpc method. Сomplete guide on how to use eth_accounts  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

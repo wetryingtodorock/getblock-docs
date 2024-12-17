@@ -1,6 +1,6 @@
 ---
-title: avax:eth_compileSolidity \[WebSocket\] {disallowed}
-description: Returns compiled solidity code.
+title: eth_compileSolidity  {disallowed} - Avalanche
+description: Example code for the eth_compileSolidity  {disallowed} ws method. Сomplete guide on how to use eth_compileSolidity  {disallowed} ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

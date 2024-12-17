@@ -1,6 +1,6 @@
 ---
-title: trx:/wallet/proposalapprove \[POST\] {disallowed}
-description: Approves proposed transaction.
+title: /wallet/proposalapprove  {disallowed} - TRON
+description: Example code for the /wallet/proposalapprove  {disallowed} rest method. Сomplete guide on how to use /wallet/proposalapprove  {disallowed} rest in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

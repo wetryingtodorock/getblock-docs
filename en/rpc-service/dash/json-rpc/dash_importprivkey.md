@@ -1,6 +1,6 @@
 ---
-title: dash:importprivkey \[POST\] {disallowed}
-description: Adds a private key to your wallet. The key should be formatted in thewallet import format created by the dumpprivkey RPC.
+title: importprivkey  {disallowed} - Dash
+description: Example code for the importprivkey  {disallowed} json-rpc method. Сomplete guide on how to use importprivkey  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

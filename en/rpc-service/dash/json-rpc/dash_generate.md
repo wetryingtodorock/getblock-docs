@@ -1,6 +1,6 @@
 ---
-title: dash:generate \[POST\] {disallowed}
-description: Since Dash Core 0.14, this RPC is not available in the officialWindows/Mac binaries. The Linux binary and binaries self-compiled (withthe appropriate options) continue to support this feature. See PR #2778for additional details.Mines blocks immediately (before the RPC call returns).
+title: generate  {disallowed} - Dash
+description: Example code for the generate  {disallowed} json-rpc method. Сomplete guide on how to use generate  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

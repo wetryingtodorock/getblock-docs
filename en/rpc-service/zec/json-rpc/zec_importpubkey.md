@@ -1,6 +1,6 @@
 ---
-title: zec:importpubkey \[POST\] {disallowed}
-description: Adds a public key (in hex) that can be watched as if it were in yourwallet but cannot be used to spend.Note This call can take minutes to complete if rescan is true.
+title: importpubkey  {disallowed} - Zcash
+description: Example code for the importpubkey  {disallowed} json-rpc method. Сomplete guide on how to use importpubkey  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: sol:getConfirmedSignaturesForAddress2 \[POST\] {disallowed}
-description: DEPRECATED Please use getSignaturesForAddress instead This method isexpected to be removed in solana-core v2.0Returns signatures for confirmed transactions that include the givenaddress in their accountKeys list. Returns signatures backwards in timefrom the provided signature or most recent confirmed block
+title: getConfirmedSignaturesForAddress2  {disallowed} - Solana
+description: Example code for the getConfirmedSignaturesForAddress2  {disallowed} json-rpc method. Сomplete guide on how to use getConfirmedSignaturesForAddress2  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

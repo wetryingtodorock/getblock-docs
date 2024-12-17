@@ -1,6 +1,6 @@
 ---
-title: avax:avax.exportAVAX \[WebSocket\] {disallowed}
-description: DEPRECATED — instead use avax.export.Send AVAX from the C-Chain to the X-Chain. After calling this method,you must call avm.import with assetID AVAX on the X-Chain to completethe transfer.
+title: avax.exportAVAX  {disallowed} - Avalanche
+description: Example code for the avax.exportAVAX  {disallowed} ws method. Сomplete guide on how to use avax.exportAVAX  {disallowed} ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: ftm:compileSerpent \[POST\] {disallowed}
-description: Returns compiled serpent code.
+title: compileSerpent  {disallowed} - Fantom
+description: Example code for the compileSerpent  {disallowed} json-rpc method. Сomplete guide on how to use compileSerpent  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

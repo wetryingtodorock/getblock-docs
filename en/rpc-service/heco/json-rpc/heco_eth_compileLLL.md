@@ -1,6 +1,6 @@
 ---
-title: heco:eth_compileLLL \[POST\] {disallowed}
-description: Returns compiled LLL code.
+title: eth_compileLLL  {disallowed} - Huobi ECO Chain
+description: Example code for the eth_compileLLL  {disallowed} json-rpc method. Сomplete guide on how to use eth_compileLLL  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: eth:priv_createPrivacyGroup \[POST\] {disallowed}
-description: Creates a group of nodes, specified by their Orion public key.
+title: priv_createPrivacyGroup  {disallowed} - Ethereum
+description: Example code for the priv_createPrivacyGroup  {disallowed} json-rpc method. Сomplete guide on how to use priv_createPrivacyGroup  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

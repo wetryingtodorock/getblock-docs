@@ -1,6 +1,6 @@
 ---
-title: eth:eth_submitHashrate \[WebSocket\]
-description: Submits the mining hashrate.Used by mining software such as Ethminer.
+title: eth_submitHashrate - Ethereum
+description: Example code for the eth_submitHashrate ws method. Сomplete guide on how to use eth_submitHashrate ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

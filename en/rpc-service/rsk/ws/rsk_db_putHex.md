@@ -1,6 +1,6 @@
 ---
-title: rsk:db_putHex \[Websocket\] {disallowed}
-description: Deprecated
+title: db_putHex  {disallowed} - Rootstock
+description: Example code for the db_putHex  {disallowed} ws method. Сomplete guide on how to use db_putHex  {disallowed} ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

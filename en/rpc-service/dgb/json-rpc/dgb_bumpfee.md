@@ -1,6 +1,6 @@
 ---
-title: dgb:bumpfee \[POST\] {disallowed}
-description: Bumps the fee of an opt-in-RBF transaction T, replacing it with a newtransaction B.An opt-in RBF transaction with the given txid must be in the wallet.The command will pay the additional fee by reducing change outputs oradding inputs when necessary.It may add a new change output if one does not already exist.All inputs in the original transaction will be included in thereplacement transaction.The command will fail if the wallet or mempool contains a transactionthat spends one of Ts outputs.It may add a new change output if one does not already exist.All inputs in the original transaction will be included in thereplacement transaction. The command will fail if the wallet or mempoolcontains a transaction that spends one of Ts outputs.By default, the new fee will be calculated automatically using theestimatesmartfee RPC.The user can specify a confirmation target for estimatesmartfee.Alternatively, the user can specify a fee rate in sat/vB for the newtransaction.At a minimum, the new fee rate must be high enough to pay an additionalnew relay fee (incrementalfee returned by getnetworkinfo) to enter thenodes mempool.\* WARNING before version 0.21, fee_rate was in BTC/kvB. As of 0.21,fee_rate is in sat/vB. \*
+title: bumpfee  {disallowed} - DigiByte
+description: Example code for the bumpfee  {disallowed} json-rpc method. Сomplete guide on how to use bumpfee  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

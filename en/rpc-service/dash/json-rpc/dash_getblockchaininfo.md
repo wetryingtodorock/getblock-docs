@@ -1,6 +1,6 @@
 ---
-title: dash:getblockchaininfo \[POST\]
-description: Provides information about the current state of the block chain.
+title: getblockchaininfo - Dash
+description: Example code for the getblockchaininfo json-rpc method. Сomplete guide on how to use getblockchaininfo json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

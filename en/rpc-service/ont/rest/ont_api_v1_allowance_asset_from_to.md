@@ -1,6 +1,6 @@
 ---
-title: ont:/api/v1/allowance/{asset}/{from}/{to} \[GET\]
-description: Fetches amount of allowance of an asset from one account to another
+title: /api/v1/allowance/{asset}/{from}/{to} - Ontology
+description: Example code for the /api/v1/allowance/{asset}/{from}/{to} rest method. Сomplete guide on how to use /api/v1/allowance/{asset}/{from}/{to} rest in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

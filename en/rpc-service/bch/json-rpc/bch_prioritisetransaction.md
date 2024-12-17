@@ -1,6 +1,6 @@
 ---
-title: bch:prioritisetransaction \[POST\] {disallowed}
-description: Accepts the transaction into mined blocks at a higher (or lower)priority
+title: prioritisetransaction  {disallowed} - Bitcoin Cash
+description: Example code for the prioritisetransaction  {disallowed} json-rpc method. Сomplete guide on how to use prioritisetransaction  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

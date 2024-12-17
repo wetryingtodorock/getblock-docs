@@ -1,6 +1,6 @@
 ---
-title: fuse:eth_hashrate \[WebSocket\]
-description: Returns the number of hashes per second that the node is mining with.
+title: eth_hashrate - Fuse Network
+description: Example code for the eth_hashrate ws method. Сomplete guide on how to use eth_hashrate ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

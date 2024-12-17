@@ -1,6 +1,6 @@
 ---
-title: dot:system_reservedPeers \[POST\] {disallowed}
-description: Returns the list of reserved peers.
+title: system_reservedPeers  {disallowed} - Polkadot
+description: Example code for the system_reservedPeers  {disallowed} json-rpc method. Сomplete guide on how to use system_reservedPeers  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: rsk:mnr_submitWork \[Websocket\] {disallowed}
-description: Used for submitting a proof-of-work solution.
+title: mnr_submitWork  {disallowed} - Rootstock
+description: Example code for the mnr_submitWork  {disallowed} ws method. Сomplete guide on how to use mnr_submitWork  {disallowed} ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

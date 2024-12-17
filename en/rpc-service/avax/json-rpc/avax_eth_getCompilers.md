@@ -1,6 +1,6 @@
 ---
-title: avax:eth_getCompilers \[POST\] {disallowed}
-description: Returns a list of available compilers in the client.
+title: eth_getCompilers  {disallowed} - Avalanche
+description: Example code for the eth_getCompilers  {disallowed} json-rpc method. Сomplete guide on how to use eth_getCompilers  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

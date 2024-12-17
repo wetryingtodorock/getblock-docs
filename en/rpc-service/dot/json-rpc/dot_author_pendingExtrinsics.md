@@ -1,6 +1,6 @@
 ---
-title: dot:author_pendingExtrinsics \[POST\] {disallowed}
-description: Returns all pending extrinsics, potentially grouped by sender.
+title: author_pendingExtrinsics  {disallowed} - Polkadot
+description: Example code for the author_pendingExtrinsics  {disallowed} json-rpc method. Сomplete guide on how to use author_pendingExtrinsics  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

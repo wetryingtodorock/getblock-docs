@@ -1,6 +1,6 @@
 ---
-title: heco:eth_getCode \[POST\]
-description: Returns code at a given address.
+title: eth_getCode - Huobi ECO Chain
+description: Example code for the eth_getCode json-rpc method. Сomplete guide on how to use eth_getCode json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

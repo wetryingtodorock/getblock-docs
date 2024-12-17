@@ -1,6 +1,6 @@
 ---
-title: ont:getblockhash \[WebSocket\]
-description: Fetch block hash for the block at given height.
+title: getblockhash - Ontology
+description: Example code for the getblockhash ws method. Сomplete guide on how to use getblockhash ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

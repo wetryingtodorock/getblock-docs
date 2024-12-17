@@ -1,6 +1,6 @@
 ---
-title: fuse:eth_submitWork \[POST\] {disallowed}
-description: Used for submitting a proof-of-work solution.
+title: eth_submitWork  {disallowed} - Fuse Network
+description: Example code for the eth_submitWork  {disallowed} json-rpc method. Сomplete guide on how to use eth_submitWork  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

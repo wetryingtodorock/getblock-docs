@@ -1,6 +1,6 @@
 ---
-title: dash:decodescript \[POST\]
-description: Decodes a hex-encoded P2SH redeem script.
+title: decodescript - Dash
+description: Example code for the decodescript json-rpc method. Сomplete guide on how to use decodescript json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

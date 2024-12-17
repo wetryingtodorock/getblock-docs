@@ -1,6 +1,6 @@
 ---
-title: trx:/wallet/getproposalbyid \[POST\]
-description: Queries proposal based on ID and returns proposal details.
+title: /wallet/getproposalbyid - TRON
+description: Example code for the /wallet/getproposalbyid rest method. Сomplete guide on how to use /wallet/getproposalbyid rest in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

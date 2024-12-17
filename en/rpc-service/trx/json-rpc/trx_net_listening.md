@@ -1,6 +1,6 @@
 ---
-title: trx:net_listening \[POST\]
-description: Returns true if the client is actively listening for networkconnections.
+title: net_listening - TRON
+description: Example code for the net_listening json-rpc method. Сomplete guide on how to use net_listening json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

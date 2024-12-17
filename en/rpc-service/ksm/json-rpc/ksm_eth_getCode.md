@@ -1,6 +1,6 @@
 ---
-title: ksm:eth_getCode \[POST\] {disallowed}
-description: Returns the code at given address at given time (block number).
+title: eth_getCode  {disallowed} - Kusama
+description: Example code for the eth_getCode  {disallowed} json-rpc method. Сomplete guide on how to use eth_getCode  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

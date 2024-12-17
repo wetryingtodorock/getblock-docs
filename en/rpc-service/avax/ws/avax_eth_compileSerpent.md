@@ -1,6 +1,6 @@
 ---
-title: avax:eth_compileSerpent \[WebSocket\] {disallowed}
-description: Returns compiled serpent code.
+title: eth_compileSerpent  {disallowed} - Avalanche
+description: Example code for the eth_compileSerpent  {disallowed} ws method. Сomplete guide on how to use eth_compileSerpent  {disallowed} ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

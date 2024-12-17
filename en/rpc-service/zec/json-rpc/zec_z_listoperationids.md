@@ -1,6 +1,6 @@
 ---
-title: zec:z_listoperationids \[POST\] {disallowed}
-description: Returns the list of operation ids currently known to the wallet.
+title: z_listoperationids  {disallowed} - Zcash
+description: Example code for the z_listoperationids  {disallowed} json-rpc method. Сomplete guide on how to use z_listoperationids  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

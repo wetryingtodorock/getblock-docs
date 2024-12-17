@@ -1,6 +1,6 @@
 ---
-title: dash:debug \[POST\] {disallowed}
-description: Changes the debug category from the console.
+title: debug  {disallowed} - Dash
+description: Example code for the debug  {disallowed} json-rpc method. Сomplete guide on how to use debug  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

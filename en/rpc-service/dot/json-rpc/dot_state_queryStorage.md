@@ -1,6 +1,6 @@
 ---
-title: dot:state_queryStorage \[POST\] {disallowed}
-description: Query historical storage entries (by key) starting from a start block.
+title: state_queryStorage  {disallowed} - Polkadot
+description: Example code for the state_queryStorage  {disallowed} json-rpc method. Сomplete guide on how to use state_queryStorage  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

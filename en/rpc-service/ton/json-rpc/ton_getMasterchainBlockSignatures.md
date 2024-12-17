@@ -1,6 +1,6 @@
 ---
-title: ton:/getMasterchainBlockSignatures \[GET\]
-description: Get up-to-date masterchain state.Get Masterchain Block Signatures
+title: /getMasterchainBlockSignatures - The Open Network (TON)
+description: Example code for the /getMasterchainBlockSignatures json-rpc method. Сomplete guide on how to use /getMasterchainBlockSignatures json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

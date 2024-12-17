@@ -1,6 +1,6 @@
 ---
-title: bch:unloadwallet \[POST\] {disallowed}
-description: Unloads the wallet referenced by the request endpoint otherwise unloadsthe wallet specified in the argument.Specifying the wallet name on a wallet endpoint is invalid.
+title: unloadwallet  {disallowed} - Bitcoin Cash
+description: Example code for the unloadwallet  {disallowed} json-rpc method. Сomplete guide on how to use unloadwallet  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

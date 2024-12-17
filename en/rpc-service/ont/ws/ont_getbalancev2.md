@@ -1,6 +1,6 @@
 ---
-title: ont:getbalancev2 \[WebSocket\]
-description: Fetch the balance of the account using an address, with ONTs decimalsbeing 9, a ONGs decimals being 18
+title: getbalancev2 - Ontology
+description: Example code for the getbalancev2 ws method. Сomplete guide on how to use getbalancev2 ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: eth:perm_removeAccountsFromAllowlist \[POST\] {disallowed}
-description: Removes accounts (participants) from the accounts permissions list.
+title: perm_removeAccountsFromAllowlist  {disallowed} - Ethereum
+description: Example code for the perm_removeAccountsFromAllowlist  {disallowed} json-rpc method. Сomplete guide on how to use perm_removeAccountsFromAllowlist  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

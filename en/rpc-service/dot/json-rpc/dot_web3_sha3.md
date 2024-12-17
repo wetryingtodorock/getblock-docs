@@ -1,6 +1,6 @@
 ---
-title: dot:web3_sha3 \[POST\] {disallowed}
-description: Returns sha3 of the given data
+title: web3_sha3  {disallowed} - Polkadot
+description: Example code for the web3_sha3  {disallowed} json-rpc method. Сomplete guide on how to use web3_sha3  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

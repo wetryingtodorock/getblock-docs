@@ -1,6 +1,6 @@
 ---
-title: cro:eth_blockNumber \[POST\]
-description: Returns the index corresponding to the block number of the current chainhead.
+title: eth_blockNumber - Cronos
+description: Example code for the eth_blockNumber json-rpc method. Сomplete guide on how to use eth_blockNumber json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

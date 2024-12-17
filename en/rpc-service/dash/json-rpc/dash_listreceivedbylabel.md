@@ -1,6 +1,6 @@
 ---
-title: dash:listreceivedbylabel \[POST\] {disallowed}
-description: Lists the total number of Dash received by each label.
+title: listreceivedbylabel  {disallowed} - Dash
+description: Example code for the listreceivedbylabel  {disallowed} json-rpc method. Сomplete guide on how to use listreceivedbylabel  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: dash:getmempoolancestors \[POST\]
-description: Returns all in-mempool ancestors for a transaction in the mempool.
+title: getmempoolancestors - Dash
+description: Example code for the getmempoolancestors json-rpc method. Сomplete guide on how to use getmempoolancestors json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

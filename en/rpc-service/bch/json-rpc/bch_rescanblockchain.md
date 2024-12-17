@@ -1,6 +1,6 @@
 ---
-title: bch:rescanblockchain \[POST\] {disallowed}
-description: Rescan the local blockchain for wallet related transactions.Note Use “getwalletinfo” to query the scanning progress.
+title: rescanblockchain  {disallowed} - Bitcoin Cash
+description: Example code for the rescanblockchain  {disallowed} json-rpc method. Сomplete guide on how to use rescanblockchain  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

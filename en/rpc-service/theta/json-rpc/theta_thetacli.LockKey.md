@@ -1,6 +1,6 @@
 ---
-title: theta:thetacli.LockKey \[POST\] {disallowed}
-description: This API locks an account. A locked account cannot send out Theta/TFueltokens.
+title: thetacli.LockKey  {disallowed} - Theta Network
+description: Example code for the thetacli.LockKey  {disallowed} json-rpc method. Сomplete guide on how to use thetacli.LockKey  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

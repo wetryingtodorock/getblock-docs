@@ -1,6 +1,6 @@
 ---
-title: ont:getbalance \[POST\]
-description: Fetch the current balance of a Base58 address.
+title: getbalance - Ontology
+description: Example code for the getbalance json-rpc method. Сomplete guide on how to use getbalance json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

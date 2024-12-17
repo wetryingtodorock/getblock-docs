@@ -1,6 +1,6 @@
 ---
-title: zec:estimatefee \[POST\]
-description: Estimates the approximate fee per kilobyte needed for a transaction tobegin confirmation within nblocks blocks.
+title: estimatefee - Zcash
+description: Example code for the estimatefee json-rpc method. Сomplete guide on how to use estimatefee json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

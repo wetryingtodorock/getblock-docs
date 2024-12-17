@@ -1,6 +1,6 @@
 ---
-title: xmr:get_block \[POST\]
-description: Full block information can be retrieved by either block height or hash, like with the above block header calls. For full block information, both lookups use the same method, but with different input parameters.
+title: get_block - Monero
+description: Example code for the get_block json-rpc method. Сomplete guide on how to use get_block json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

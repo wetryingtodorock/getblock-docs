@@ -1,6 +1,6 @@
 ---
-title: bch:getchaintxstats \[POST\]
-description: Compute statistics about the total number and rate of transactions inthe chain.
+title: getchaintxstats - Bitcoin Cash
+description: Example code for the getchaintxstats json-rpc method. Сomplete guide on how to use getchaintxstats json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

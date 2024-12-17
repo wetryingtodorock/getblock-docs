@@ -1,6 +1,6 @@
 ---
-title: kcc:eth_blockNumber \[POST\]
-description: Returns the number of most recent block.
+title: eth_blockNumber - KuCoin Community Chain
+description: Example code for the eth_blockNumber json-rpc method. Сomplete guide on how to use eth_blockNumber json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

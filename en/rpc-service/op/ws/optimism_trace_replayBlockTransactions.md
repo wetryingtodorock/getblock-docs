@@ -1,6 +1,6 @@
 ---
-title: optimism:trace_replayBlockTransactions \[WebSocket\]
-description: Provides transaction processing tracing per block.
+title: trace_replayBlockTransactions - Optimism
+description: Example code for the trace_replayBlockTransactions ws method. Сomplete guide on how to use trace_replayBlockTransactions ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

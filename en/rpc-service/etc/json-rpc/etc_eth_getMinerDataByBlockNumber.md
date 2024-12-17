@@ -1,6 +1,6 @@
 ---
-title: etc:eth_getMinerDataByBlockNumber \[POST\]
-description: Returns miner data for the specified block.
+title: eth_getMinerDataByBlockNumber - Ethereum Classic
+description: Example code for the eth_getMinerDataByBlockNumber json-rpc method. Сomplete guide on how to use eth_getMinerDataByBlockNumber json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

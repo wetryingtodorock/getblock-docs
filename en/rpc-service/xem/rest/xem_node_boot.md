@@ -1,6 +1,6 @@
 ---
-title: xem:/node/boot \[POST\] {disallowed}
-description: Boots the local node and thus assign an account (the identity) to thelocal node.
+title: /node/boot  {disallowed} - NEM
+description: Example code for the /node/boot  {disallowed} rest method. Сomplete guide on how to use /node/boot  {disallowed} rest in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

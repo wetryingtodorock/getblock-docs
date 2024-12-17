@@ -1,6 +1,6 @@
 ---
-title: doge:getblockcount \[POST\]
-description: Returns the number of blocks in the longest block chain.
+title: getblockcount - Dogecoin
+description: Example code for the getblockcount json-rpc method. Сomplete guide on how to use getblockcount json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

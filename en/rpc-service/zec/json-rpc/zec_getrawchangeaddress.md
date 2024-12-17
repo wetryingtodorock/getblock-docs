@@ -1,6 +1,6 @@
 ---
-title: zec:getrawchangeaddress \[POST\] {disallowed}
-description: Returns a new Zcash address, for receiving change. This is for use withraw transactions, NOT normal use.
+title: getrawchangeaddress  {disallowed} - Zcash
+description: Example code for the getrawchangeaddress  {disallowed} json-rpc method. Сomplete guide on how to use getrawchangeaddress  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

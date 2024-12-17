@@ -1,6 +1,6 @@
 ---
-title: zec:zcrawkeygen \[POST\] {disallowed}
-description: DEPRECATED. Generate a zcaddr which can send and receive confidentialvalues.
+title: zcrawkeygen  {disallowed} - Zcash
+description: Example code for the zcrawkeygen  {disallowed} json-rpc method. Сomplete guide on how to use zcrawkeygen  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

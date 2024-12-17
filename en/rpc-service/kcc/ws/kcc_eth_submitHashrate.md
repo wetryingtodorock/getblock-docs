@@ -1,6 +1,6 @@
 ---
-title: kcc:eth_submitHashrate \[WebSocket\] {disallowed}
-description: Submits the mining hashrate.
+title: eth_submitHashrate  {disallowed} - KuCoin Community Chain
+description: Example code for the eth_submitHashrate  {disallowed} ws method. Сomplete guide on how to use eth_submitHashrate  {disallowed} ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

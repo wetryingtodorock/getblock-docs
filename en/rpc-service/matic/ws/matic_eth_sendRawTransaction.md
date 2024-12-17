@@ -1,6 +1,6 @@
 ---
-title: matic:eth_sendRawTransaction \[WebSocket\]
-description: Creates new message call transaction or a contract creation for signedtransactions.
+title: eth_sendRawTransaction - Polygon
+description: Example code for the eth_sendRawTransaction ws method. Сomplete guide on how to use eth_sendRawTransaction ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

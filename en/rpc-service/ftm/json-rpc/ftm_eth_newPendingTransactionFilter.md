@@ -1,6 +1,6 @@
 ---
-title: ftm:eth_newPendingTransactionFilter \[POST\]
-description: Creates a filter in the node, to notify when new pending transactionsarrive. To check if the state has changed, call eth_getFilterChanges.
+title: eth_newPendingTransactionFilter - Fantom
+description: Example code for the eth_newPendingTransactionFilter json-rpc method. Сomplete guide on how to use eth_newPendingTransactionFilter json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: dash:quorum_selectquorum \[POST\] {disallowed}
-description: Returns information about the quorum that would/should sign a request.
+title: quorum_selectquorum  {disallowed} - Dash
+description: Example code for the quorum_selectquorum  {disallowed} json-rpc method. Сomplete guide on how to use quorum_selectquorum  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

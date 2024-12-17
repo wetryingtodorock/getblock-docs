@@ -1,6 +1,6 @@
 ---
-title: near:EXPERIMENTAL_changes(account_changes) \[POST\] {disallowed}
-description: Returns account changes from transactions in a given account.
+title: EXPERIMENTAL_changes(account_changes)  {disallowed} - NEAR Protocol
+description: Example code for the EXPERIMENTAL_changes(account_changes)  {disallowed} json-rpc method. Сomplete guide on how to use EXPERIMENTAL_changes(account_changes)  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

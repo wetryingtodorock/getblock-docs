@@ -1,6 +1,6 @@
 ---
-title: bsv:getbalances \[POST\] {disallowed}
-description: Returns an object with all balances in BTC.
+title: getbalances  {disallowed} - Bitcoin SV
+description: Example code for the getbalances  {disallowed} json-rpc method. Сomplete guide on how to use getbalances  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

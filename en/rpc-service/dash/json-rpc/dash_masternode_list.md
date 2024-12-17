@@ -1,6 +1,6 @@
 ---
-title: dash:masternode_list \[POST\]
-description: prints a list of all known masternodes.This RPC uses the same parameters and returns the same data asmasternodelist.
+title: masternode_list - Dash
+description: Example code for the masternode_list json-rpc method. Сomplete guide on how to use masternode_list json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

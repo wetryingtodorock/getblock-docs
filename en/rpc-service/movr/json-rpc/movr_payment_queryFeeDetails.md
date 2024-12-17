@@ -1,6 +1,6 @@
 ---
-title: movr:payment_queryFeeDetails \[POST\] {disallowed}
-description: Query the detailed fee of a given encoded extrinsic.
+title: payment_queryFeeDetails  {disallowed} - Moonriver
+description: Example code for the payment_queryFeeDetails  {disallowed} json-rpc method. Сomplete guide on how to use payment_queryFeeDetails  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

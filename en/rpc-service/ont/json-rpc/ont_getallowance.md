@@ -1,6 +1,6 @@
 ---
-title: ont:getallowance \[POST\] {disallowed}
-description: Fetch the amount of a given asset allocated as allowance to an address.
+title: getallowance  {disallowed} - Ontology
+description: Example code for the getallowance  {disallowed} json-rpc method. Сomplete guide on how to use getallowance  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

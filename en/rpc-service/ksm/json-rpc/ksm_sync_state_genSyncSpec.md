@@ -1,6 +1,6 @@
 ---
-title: ksm:sync_state_genSyncSpec \[POST\] {disallowed}
-description: Returns the json-serialized chainspec running the node, with a syncstate.
+title: sync_state_genSyncSpec  {disallowed} - Kusama
+description: Example code for the sync_state_genSyncSpec  {disallowed} json-rpc method. Сomplete guide on how to use sync_state_genSyncSpec  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

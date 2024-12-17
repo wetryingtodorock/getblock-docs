@@ -1,6 +1,6 @@
 ---
-title: rsk:shh_hasIdentity \[Websocket\] {disallowed}
-description: Whisper protocol not supported.
+title: shh_hasIdentity  {disallowed} - Rootstock
+description: Example code for the shh_hasIdentity  {disallowed} ws method. Сomplete guide on how to use shh_hasIdentity  {disallowed} ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

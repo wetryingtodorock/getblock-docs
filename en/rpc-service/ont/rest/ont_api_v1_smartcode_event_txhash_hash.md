@@ -1,6 +1,6 @@
 ---
-title: ont:/api/v1/smartcode/event/txhash/{hash} \[GET\]
-description: Fetches contract events using transaction hash
+title: /api/v1/smartcode/event/txhash/{hash} - Ontology
+description: Example code for the /api/v1/smartcode/event/txhash/{hash} rest method. Сomplete guide on how to use /api/v1/smartcode/event/txhash/{hash} rest in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

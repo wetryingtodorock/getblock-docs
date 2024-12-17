@@ -1,6 +1,6 @@
 ---
-title: dgb:verifychain \[POST\] {disallowed}
-description: Verifies blockchain database.
+title: verifychain  {disallowed} - DigiByte
+description: Example code for the verifychain  {disallowed} json-rpc method. Сomplete guide on how to use verifychain  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: apt:/v1/accounts/{account_hash}/modules \[GET\]
-description: Gets all modules for a specified account and ledger version.
+title: /v1/accounts/{account_hash}/modules - Aptos
+description: Example code for the /v1/accounts/{account_hash}/modules json-rpc method. Сomplete guide on how to use /v1/accounts/{account_hash}/modules json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

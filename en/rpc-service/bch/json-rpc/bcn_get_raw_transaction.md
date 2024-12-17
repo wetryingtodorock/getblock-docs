@@ -1,6 +1,6 @@
 ---
-title: bcn:get_raw_transaction \[POST\]
-description: Returns standard transaction object, raw transaction with inputs andoutputs and input signatures (if need_signatures is set to true).
+title: get_raw_transaction - Bitcoin Cash
+description: Example code for the get_raw_transaction json-rpc method. Сomplete guide on how to use get_raw_transaction json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

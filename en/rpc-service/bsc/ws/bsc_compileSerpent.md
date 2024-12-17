@@ -1,6 +1,6 @@
 ---
-title: bsc:compileSerpent \[WebSocket\] {disallowed}
-description: Returns compiled serpent code.
+title: compileSerpent  {disallowed} - Binance Smart Chain
+description: Example code for the compileSerpent  {disallowed} ws method. Сomplete guide on how to use compileSerpent  {disallowed} ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

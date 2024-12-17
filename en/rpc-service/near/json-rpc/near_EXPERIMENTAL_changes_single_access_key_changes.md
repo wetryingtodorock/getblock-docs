@@ -1,6 +1,6 @@
 ---
-title: near:EXPERIMENTAL_changes(single_access_key_changes) \[POST\] {disallowed}
-description: Returns individual access key changes in a specific block. You can querymultiple keys by passing an array of objects containing the account_idand public_key.
+title: EXPERIMENTAL_changes(single_access_key_changes)  {disallowed} - NEAR Protocol
+description: Example code for the EXPERIMENTAL_changes(single_access_key_changes)  {disallowed} json-rpc method. Сomplete guide on how to use EXPERIMENTAL_changes(single_access_key_changes)  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: bsc:debug_standardTraceBadBlockToFile \[POST\] {disallowed}
-description: Generates files containing the block trace of invalid blocks. A separatefile is generated for each transaction in the block.Use debug_standardTraceBlockToFile to view the trace for a valid block.
+title: debug_standardTraceBadBlockToFile  {disallowed} - Binance Smart Chain
+description: Example code for the debug_standardTraceBadBlockToFile  {disallowed} json-rpc method. Сomplete guide on how to use debug_standardTraceBadBlockToFile  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

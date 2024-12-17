@@ -1,6 +1,6 @@
 ---
-title: xem:/account/lock \[POST\] {disallowed}
-description: Locks an account (stops harvesting).
+title: /account/lock  {disallowed} - NEM
+description: Example code for the /account/lock  {disallowed} rest method. Сomplete guide on how to use /account/lock  {disallowed} rest in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

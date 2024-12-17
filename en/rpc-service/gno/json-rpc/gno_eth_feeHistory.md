@@ -1,6 +1,6 @@
 ---
-title: gno:eth_feeHistory \[POST\]
-description: Returns a list of historical gas information.
+title: eth_feeHistory - Gnosis
+description: Example code for the eth_feeHistory json-rpc method. Сomplete guide on how to use eth_feeHistory json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

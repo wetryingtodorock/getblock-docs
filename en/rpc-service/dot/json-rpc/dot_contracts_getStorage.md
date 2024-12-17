@@ -1,6 +1,6 @@
 ---
-title: dot:contracts_getStorage \[POST\] {disallowed}
-description: Returns the value under a specified storage key in a contract.
+title: contracts_getStorage  {disallowed} - Polkadot
+description: Example code for the contracts_getStorage  {disallowed} json-rpc method. Сomplete guide on how to use contracts_getStorage  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

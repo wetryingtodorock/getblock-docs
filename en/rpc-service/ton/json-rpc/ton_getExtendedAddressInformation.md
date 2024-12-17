@@ -1,6 +1,6 @@
 ---
-title: ton:/getExtendedAddressInformation \[GET\]
-description: Similar to \`/getAddressInformation\` but tries to parse additionalinformation for known contract types. This method is based on tonlibsfunction getAccountState. For detecting wallets we recommend to usegetWalletInformation.
+title: /getExtendedAddressInformation - The Open Network (TON)
+description: Example code for the /getExtendedAddressInformation json-rpc method. Сomplete guide on how to use /getExtendedAddressInformation json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

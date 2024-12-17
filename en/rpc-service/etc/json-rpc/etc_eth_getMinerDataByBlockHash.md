@@ -1,6 +1,6 @@
 ---
-title: etc:eth_getMinerDataByBlockHash \[POST\]
-description: Returns miner data for the specified block.
+title: eth_getMinerDataByBlockHash - Ethereum Classic
+description: Example code for the eth_getMinerDataByBlockHash json-rpc method. Сomplete guide on how to use eth_getMinerDataByBlockHash json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

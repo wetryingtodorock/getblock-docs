@@ -1,6 +1,6 @@
 ---
-title: zec:disconnectnode \[POST\] {disallowed}
-description: Immediately disconnects from the specified node.
+title: disconnectnode  {disallowed} - Zcash
+description: Example code for the disconnectnode  {disallowed} json-rpc method. Сomplete guide on how to use disconnectnode  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

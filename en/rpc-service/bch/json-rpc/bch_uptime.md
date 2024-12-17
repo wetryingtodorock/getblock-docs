@@ -1,6 +1,6 @@
 ---
-title: bch:uptime \[POST\]
-description: Returns the total uptime of the server.
+title: uptime - Bitcoin Cash
+description: Example code for the uptime json-rpc method. Сomplete guide on how to use uptime json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

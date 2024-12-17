@@ -1,6 +1,6 @@
 ---
-title: bsv:getreceivedbyaddress \[POST\] {disallowed}
-description: Returns the total amount received by the given address in transactionswith at least minconf confirmations.
+title: getreceivedbyaddress  {disallowed} - Bitcoin SV
+description: Example code for the getreceivedbyaddress  {disallowed} json-rpc method. Сomplete guide on how to use getreceivedbyaddress  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

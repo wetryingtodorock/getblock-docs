@@ -1,6 +1,6 @@
 ---
-title: trx:/wallet/triggersmartcontract \[POST\] {disallowed}
-description: Returns TransactionExtention, which contains the unsigned Transaction
+title: /wallet/triggersmartcontract  {disallowed} - TRON
+description: Example code for the /wallet/triggersmartcontract  {disallowed} rest method. Сomplete guide on how to use /wallet/triggersmartcontract  {disallowed} rest in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

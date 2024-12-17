@@ -1,6 +1,6 @@
 ---
-title: rsk:shh_uninstallFilter \[Websocket\] {disallowed}
-description: Whisper protocol not supported.
+title: shh_uninstallFilter  {disallowed} - Rootstock
+description: Example code for the shh_uninstallFilter  {disallowed} ws method. Сomplete guide on how to use shh_uninstallFilter  {disallowed} ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

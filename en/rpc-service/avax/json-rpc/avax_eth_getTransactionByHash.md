@@ -1,6 +1,6 @@
 ---
-title: avax:eth_getTransactionByHash \[POST\]
-description: Returns the information about a transaction requested by transactionhash.
+title: eth_getTransactionByHash - Avalanche
+description: Example code for the eth_getTransactionByHash json-rpc method. Сomplete guide on how to use eth_getTransactionByHash json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

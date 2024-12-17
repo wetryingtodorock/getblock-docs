@@ -1,6 +1,6 @@
 ---
-title: kcc:db_putString \[WebSocket\] {disallowed}
-description: Stores a string in the local database.Note this function is deprecated and will be removed in the future.
+title: db_putString  {disallowed} - KuCoin Community Chain
+description: Example code for the db_putString  {disallowed} ws method. Сomplete guide on how to use db_putString  {disallowed} ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

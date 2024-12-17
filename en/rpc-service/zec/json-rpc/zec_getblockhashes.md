@@ -1,6 +1,6 @@
 ---
-title: zec:getblockhashes \[POST\] {disallowed}
-description: Returns array of hashes of blocks within the timestamp range provided,greater or equal to low, less than high.WARNING getblockhashes is disabled.
+title: getblockhashes  {disallowed} - Zcash
+description: Example code for the getblockhashes  {disallowed} json-rpc method. Сomplete guide on how to use getblockhashes  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: ksm:chain_subscribeNewHeads \[POST\] {disallowed}
-description: Retrieves the best header via subscription.
+title: chain_subscribeNewHeads  {disallowed} - Kusama
+description: Example code for the chain_subscribeNewHeads  {disallowed} json-rpc method. Сomplete guide on how to use chain_subscribeNewHeads  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

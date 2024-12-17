@@ -1,6 +1,6 @@
 ---
-title: zec:getaddednodeinfo \[POST\] {disallowed}
-description: Returns information about the given added node, or all added nodes.If dns is false, only a list of added nodes will be provided, otherwiseconnected information will also be available.
+title: getaddednodeinfo  {disallowed} - Zcash
+description: Example code for the getaddednodeinfo  {disallowed} json-rpc method. Сomplete guide on how to use getaddednodeinfo  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

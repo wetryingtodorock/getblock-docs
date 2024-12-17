@@ -1,6 +1,6 @@
 ---
-title: rsk:net_version \[WebSocket\]
-description: Returns the current network id.
+title: net_version - Rootstock
+description: Example code for the net_version ws method. Сomplete guide on how to use net_version ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: bsc:eth_sendRawTransaction \[WebSocket\]
-description: Sends a signed transaction. A transaction can send ether, deploy acontract, or interact with a contract. Set the maximum transaction feefor transactions using the --rpc-tx-feecap CLI option.You can interact with contracts using eth_sendRawTransaction oreth_call.To avoid exposing your private key, create signed transactions offlineand send the signed transaction data using eth_sendRawTransaction.
+title: eth_sendRawTransaction - Binance Smart Chain
+description: Example code for the eth_sendRawTransaction ws method. Сomplete guide on how to use eth_sendRawTransaction ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

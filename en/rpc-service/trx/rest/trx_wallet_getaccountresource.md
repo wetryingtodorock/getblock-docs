@@ -1,6 +1,6 @@
 ---
-title: trx:/wallet/getaccountresource \[POST\] {disallowed}
-description: Query the resource information of an account (bandwidth, energy, etc)
+title: /wallet/getaccountresource  {disallowed} - TRON
+description: Example code for the /wallet/getaccountresource  {disallowed} rest method. Сomplete guide on how to use /wallet/getaccountresource  {disallowed} rest in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

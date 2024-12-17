@@ -1,6 +1,6 @@
 ---
-title: ksm:state_getRuntimeVersion \[POST\]
-description: Get the runtime version.
+title: state_getRuntimeVersion - Kusama
+description: Example code for the state_getRuntimeVersion json-rpc method. Сomplete guide on how to use state_getRuntimeVersion json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

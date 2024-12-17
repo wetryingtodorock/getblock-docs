@@ -1,6 +1,6 @@
 ---
-title: btc:getunconfirmedbalance \[POST\] {disallowed}
-description: DEPRECATED Identical to getbalances().mine.untrusted_pending
+title: getunconfirmedbalance  {disallowed} - Bitcoin
+description: Example code for the getunconfirmedbalance  {disallowed} json-rpc method. Сomplete guide on how to use getunconfirmedbalance  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

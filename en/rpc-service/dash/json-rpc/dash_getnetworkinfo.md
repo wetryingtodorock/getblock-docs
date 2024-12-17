@@ -1,6 +1,6 @@
 ---
-title: dash:getnetworkinfo \[POST\] {disallowed}
-description: Returns information about the nodes connection to the network.
+title: getnetworkinfo  {disallowed} - Dash
+description: Example code for the getnetworkinfo  {disallowed} json-rpc method. Сomplete guide on how to use getnetworkinfo  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

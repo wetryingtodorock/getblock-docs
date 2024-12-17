@@ -1,6 +1,6 @@
 ---
-title: btg:addnode \[POST\] {disallowed}
-description: Attempts to add or remove a node from the addnode list.Or try a connection to a node once.Nodes added using addnode (or -connect) are protected from DoSdisconnection and are not required to be full nodes/support SegWit asother outbound peers are (though such peers will not be synced from).
+title: addnode  {disallowed} - Bitcoin Gold
+description: Example code for the addnode  {disallowed} json-rpc method. Сomplete guide on how to use addnode  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

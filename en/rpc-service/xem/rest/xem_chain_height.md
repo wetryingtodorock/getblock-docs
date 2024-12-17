@@ -1,6 +1,6 @@
 ---
-title: xem:/chain/height \[GET\]
-description: Gets the current height of the block chain.
+title: /chain/height - NEM
+description: Example code for the /chain/height rest method. Сomplete guide on how to use /chain/height rest in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

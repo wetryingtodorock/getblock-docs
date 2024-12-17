@@ -1,6 +1,6 @@
 ---
-title: eth:priv_getLogs \[POST\] {disallowed}
-description: Returns an array of logs matching a specified filter object.For private contracts, priv_getLogs is the same as eth_getLogs forpublic contracts except there is no automatic log bloom caching forprivate contracts.
+title: priv_getLogs  {disallowed} - Ethereum
+description: Example code for the priv_getLogs  {disallowed} json-rpc method. Сomplete guide on how to use priv_getLogs  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

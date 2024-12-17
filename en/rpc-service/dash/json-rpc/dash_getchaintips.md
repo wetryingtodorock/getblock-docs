@@ -1,6 +1,6 @@
 ---
-title: dash:getchaintips \[POST\]
-description: Returns information about the highest-height block (tip) of each localblock chain.
+title: getchaintips - Dash
+description: Example code for the getchaintips json-rpc method. Сomplete guide on how to use getchaintips json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

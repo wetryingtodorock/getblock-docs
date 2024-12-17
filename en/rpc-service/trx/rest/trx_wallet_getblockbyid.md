@@ -1,6 +1,6 @@
 ---
-title: trx:/wallet/getblockbyid \[POST\]
-description: Query block by ID(block hash).
+title: /wallet/getblockbyid - TRON
+description: Example code for the /wallet/getblockbyid rest method. Сomplete guide on how to use /wallet/getblockbyid rest in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

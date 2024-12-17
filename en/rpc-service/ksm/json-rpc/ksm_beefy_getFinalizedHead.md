@@ -1,6 +1,6 @@
 ---
-title: ksm:beefy_getFinalizedHead \[POST\] {disallowed}
-description: Returns hash of the latest BEEFY finalized block as seen by this client.
+title: beefy_getFinalizedHead  {disallowed} - Kusama
+description: Example code for the beefy_getFinalizedHead  {disallowed} json-rpc method. Сomplete guide on how to use beefy_getFinalizedHead  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

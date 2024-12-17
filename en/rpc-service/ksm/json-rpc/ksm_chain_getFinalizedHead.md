@@ -1,6 +1,6 @@
 ---
-title: ksm:chain_getFinalizedHead \[POST\]
-description: Get hash of the last finalized block in the canon chain.
+title: chain_getFinalizedHead - Kusama
+description: Example code for the chain_getFinalizedHead json-rpc method. Сomplete guide on how to use chain_getFinalizedHead json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

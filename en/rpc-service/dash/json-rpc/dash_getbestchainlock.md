@@ -1,6 +1,6 @@
 ---
-title: dash:getbestchainlock \[POST\]
-description: Returns the information about the best ChainLock.Throws an error if there is no known ChainLock yet.
+title: getbestchainlock - Dash
+description: Example code for the getbestchainlock json-rpc method. Сomplete guide on how to use getbestchainlock json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

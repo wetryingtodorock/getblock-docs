@@ -1,6 +1,6 @@
 ---
-title: fuse:eth_signTransaction \[POST\]
-description: Creates new message call transaction or a contract creation, if the datafield contains code.
+title: eth_signTransaction - Fuse Network
+description: Example code for the eth_signTransaction json-rpc method. Сomplete guide on how to use eth_signTransaction json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

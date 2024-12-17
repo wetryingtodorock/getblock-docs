@@ -1,6 +1,6 @@
 ---
-title: fuse:eth_getWork \[POST\]
-description: Returns the hash of the current block, the seedHash, and the boundarycondition to be met (“target”).Currently unavailable.
+title: eth_getWork - Fuse Network
+description: Example code for the eth_getWork json-rpc method. Сomplete guide on how to use eth_getWork json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

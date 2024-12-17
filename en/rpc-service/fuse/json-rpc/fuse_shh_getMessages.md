@@ -1,6 +1,6 @@
 ---
-title: fuse:shh_getMessages \[POST\] {disallowed}
-description: Get all messages matching a filter. Unlike shh_getFilterChanges thisreturns all messages.
+title: shh_getMessages  {disallowed} - Fuse Network
+description: Example code for the shh_getMessages  {disallowed} json-rpc method. Сomplete guide on how to use shh_getMessages  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

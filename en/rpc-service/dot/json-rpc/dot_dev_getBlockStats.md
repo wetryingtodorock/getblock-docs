@@ -1,6 +1,6 @@
 ---
-title: dot:dev_getBlockStats \[POST\] {disallowed}
-description: Reexecute the specified block_hash and gather statistics while doing soThis method is only active with appropriate flags
+title: dev_getBlockStats  {disallowed} - Polkadot
+description: Example code for the dev_getBlockStats  {disallowed} json-rpc method. Сomplete guide on how to use dev_getBlockStats  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: btc:signrawtransactionwithwallet \[POST\] {disallowed}
-description: Sign inputs for raw transaction (serialized, hex-encoded).The second optional argument (may be null) is an array of previoustransaction outputs that this transaction depends on but may not yet bein the block chain.Requires wallet passphrase to be set with walletpassphrase call ifwallet is encrypted.
+title: signrawtransactionwithwallet  {disallowed} - Bitcoin
+description: Example code for the signrawtransactionwithwallet  {disallowed} json-rpc method. Сomplete guide on how to use signrawtransactionwithwallet  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

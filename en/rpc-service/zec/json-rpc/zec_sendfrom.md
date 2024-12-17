@@ -1,6 +1,6 @@
 ---
-title: zec:sendfrom \[POST\] {disallowed}
-description: DEPRECATED (use sendtoaddress). Sent an amount from an account to aZcash address. The amount is a real and is rounded to the nearest0.00000001.
+title: sendfrom  {disallowed} - Zcash
+description: Example code for the sendfrom  {disallowed} json-rpc method. Сomplete guide on how to use sendfrom  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

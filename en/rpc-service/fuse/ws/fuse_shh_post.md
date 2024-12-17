@@ -1,6 +1,6 @@
 ---
-title: fuse:shh_post \[WebSocket\] {disallowed}
-description: Sends a whisper message.
+title: shh_post  {disallowed} - Fuse Network
+description: Example code for the shh_post  {disallowed} ws method. Сomplete guide on how to use shh_post  {disallowed} ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: movr:beefy_subscribeJustifications \[POST\] {disallowed}
-description: Returns the block most recently finalized by BEEFY, alongside side itsjustification.
+title: beefy_subscribeJustifications  {disallowed} - Moonriver
+description: Example code for the beefy_subscribeJustifications  {disallowed} json-rpc method. Сomplete guide on how to use beefy_subscribeJustifications  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

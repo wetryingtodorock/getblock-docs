@@ -1,6 +1,6 @@
 ---
-title: trx:/wallet/updatewitness \[POST\] {disallowed}
-description: Edit the URL of the witnesss official website.
+title: /wallet/updatewitness  {disallowed} - TRON
+description: Example code for the /wallet/updatewitness  {disallowed} rest method. Сomplete guide on how to use /wallet/updatewitness  {disallowed} rest in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: trx:eth_estimateGas \[POST\]
-description: Get the required energy through triggerConstantContract.
+title: eth_estimateGas - TRON
+description: Example code for the eth_estimateGas json-rpc method. Сomplete guide on how to use eth_estimateGas json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

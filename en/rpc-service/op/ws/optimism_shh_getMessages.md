@@ -1,6 +1,6 @@
 ---
-title: optimism:shh_getMessages \[WebSocket\] {disallowed}
-description: Get all messages matching a filter. Unlike shh_getFilterChanges thisreturns all messages.
+title: shh_getMessages  {disallowed} - Optimism
+description: Example code for the shh_getMessages  {disallowed} ws method. Сomplete guide on how to use shh_getMessages  {disallowed} ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: zec:addmultisigaddress \[POST\] {disallowed}
-description: Add a nrequired-to-sign multisignature address to the wallet.Each key is a Zcash address or hex-encoded public key.If account is specified (DEPRECATED), assign address to that account.
+title: addmultisigaddress  {disallowed} - Zcash
+description: Example code for the addmultisigaddress  {disallowed} json-rpc method. Сomplete guide on how to use addmultisigaddress  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

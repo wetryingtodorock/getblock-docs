@@ -1,6 +1,6 @@
 ---
-title: eth:admin_nodeInfo \[WebSocket\] {disallowed}
-description: Returns networking information about the node. The information includesgeneral information about the node and specific information from eachrunning Ethereum sub-protocol (for example, eth).
+title: admin_nodeInfo  {disallowed} - Ethereum
+description: Example code for the admin_nodeInfo  {disallowed} ws method. Сomplete guide on how to use admin_nodeInfo  {disallowed} ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

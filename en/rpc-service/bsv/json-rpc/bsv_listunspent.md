@@ -1,6 +1,6 @@
 ---
-title: bsv:listunspent \[POST\] {disallowed}
-description: Returns array of unspent transaction outputs with between minconf andmaxconf (inclusive) confirmations.Optionally filter to only include txouts paid to specified addresses.
+title: listunspent  {disallowed} - Bitcoin SV
+description: Example code for the listunspent  {disallowed} json-rpc method. Сomplete guide on how to use listunspent  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: zec:listaccounts \[POST\] {disallowed}
-description: DEPRECATED. Returns Object that has account names as keys, accountbalances as values.
+title: listaccounts  {disallowed} - Zcash
+description: Example code for the listaccounts  {disallowed} json-rpc method. Сomplete guide on how to use listaccounts  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

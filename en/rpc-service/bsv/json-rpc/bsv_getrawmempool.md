@@ -1,6 +1,6 @@
 ---
-title: bsv:getrawmempool \[POST\]
-description: Returns all transaction ids in memory pool as a json array of stringtransaction ids.Hint use getmempoolentry to fetch a specific transaction from themempool.
+title: getrawmempool - Bitcoin SV
+description: Example code for the getrawmempool json-rpc method. Сomplete guide on how to use getrawmempool json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

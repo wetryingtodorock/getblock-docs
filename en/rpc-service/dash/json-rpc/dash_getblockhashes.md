@@ -1,6 +1,6 @@
 ---
-title: dash:getblockhashes \[POST\]
-description: Returns array of hashes of blocks within the timestamp range provided(requires timestampindex to be enabled).
+title: getblockhashes - Dash
+description: Example code for the getblockhashes json-rpc method. Сomplete guide on how to use getblockhashes json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

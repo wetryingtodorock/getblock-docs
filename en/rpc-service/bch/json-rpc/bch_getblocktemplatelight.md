@@ -1,6 +1,6 @@
 ---
-title: bch:getblocktemplatelight \[POST\] {disallowed}
-description: If the request parameters include a mode key, that is used toexplicitly select between the default template request or aproposal.It returns data needed to construct a block to work on.For full specification, see the getblocktemplatelight spec in the docfolder, and BIP22/BIP23.
+title: getblocktemplatelight  {disallowed} - Bitcoin Cash
+description: Example code for the getblocktemplatelight  {disallowed} json-rpc method. Сomplete guide on how to use getblocktemplatelight  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: zec:z_listunspent \[POST\] {disallowed}
-description: Returns array of unspent shielded notes with between minconf and maxconf(inclusive) confirmations.Optionally filter to only include notes sent to specified addresses.When minconf is 0, unspent notes with zero confirmations are returned,even though they are not immediately spendable.
+title: z_listunspent  {disallowed} - Zcash
+description: Example code for the z_listunspent  {disallowed} json-rpc method. Сomplete guide on how to use z_listunspent  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: dash:importpubkey \[POST\] {disallowed}
-description: Imports a public key (in hex) that can be watched as if it were in yourwallet but cannot be used to spend.
+title: importpubkey  {disallowed} - Dash
+description: Example code for the importpubkey  {disallowed} json-rpc method. Сomplete guide on how to use importpubkey  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

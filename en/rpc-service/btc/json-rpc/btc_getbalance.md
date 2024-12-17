@@ -1,6 +1,6 @@
 ---
-title: btc:getbalance \[POST\] {disallowed}
-description: Returns the total available balance.The available balance is what the wallet considers currently spendable,and is thus affected by options which limit spendability such as-spendzeroconfchange.
+title: getbalance  {disallowed} - Bitcoin
+description: Example code for the getbalance  {disallowed} json-rpc method. Сomplete guide on how to use getbalance  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

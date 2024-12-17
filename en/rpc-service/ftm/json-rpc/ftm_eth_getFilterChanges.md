@@ -1,6 +1,6 @@
 ---
-title: ftm:eth_getFilterChanges \[POST\]
-description: Polls the specified filter and returns an array of changes that haveoccurred since the last poll.
+title: eth_getFilterChanges - Fantom
+description: Example code for the eth_getFilterChanges json-rpc method. Сomplete guide on how to use eth_getFilterChanges json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

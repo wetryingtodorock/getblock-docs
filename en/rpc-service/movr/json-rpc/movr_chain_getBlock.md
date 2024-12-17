@@ -1,6 +1,6 @@
 ---
-title: movr:chain_getBlock \[POST\]
-description: Get header and body of a relay chain block.
+title: chain_getBlock - Moonriver
+description: Example code for the chain_getBlock json-rpc method. Сomplete guide on how to use chain_getBlock json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

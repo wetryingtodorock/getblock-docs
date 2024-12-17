@@ -1,6 +1,6 @@
 ---
-title: bsv:getmempooldescendants \[POST\]
-description: If txid is in the mempool, returns all in-mempool descendants.
+title: getmempooldescendants - Bitcoin SV
+description: Example code for the getmempooldescendants json-rpc method. Сomplete guide on how to use getmempooldescendants json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

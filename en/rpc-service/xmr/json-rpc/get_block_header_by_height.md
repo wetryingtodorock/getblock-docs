@@ -1,6 +1,6 @@
 ---
-title: xmr:get_block_header_by_height \[POST\]
-description: Similar to get_block_header_by_hash above, this method includes a block's height as an input parameter to retrieve basic information about the block.
+title: get_block_header_by_height - Monero
+description: Example code for the get_block_header_by_height json-rpc method. Сomplete guide on how to use get_block_header_by_height json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

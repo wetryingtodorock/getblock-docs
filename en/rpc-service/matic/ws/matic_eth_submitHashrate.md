@@ -1,6 +1,6 @@
 ---
-title: matic:eth_submitHashrate \[WebSocket\] {disallowed}
-description: Submits the mining hashrate.Used by mining software such as Ethminer.
+title: eth_submitHashrate  {disallowed} - Polygon
+description: Example code for the eth_submitHashrate  {disallowed} ws method. Сomplete guide on how to use eth_submitHashrate  {disallowed} ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

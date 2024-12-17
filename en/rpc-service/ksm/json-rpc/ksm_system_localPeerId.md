@@ -1,6 +1,6 @@
 ---
-title: ksm:system_localPeerId \[POST\] {disallowed}
-description: Returns the base58-encoded PeerId of the node.
+title: system_localPeerId  {disallowed} - Kusama
+description: Example code for the system_localPeerId  {disallowed} json-rpc method. Сomplete guide on how to use system_localPeerId  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

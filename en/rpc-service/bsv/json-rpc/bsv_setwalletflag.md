@@ -1,6 +1,6 @@
 ---
-title: bsv:setwalletflag \[POST\] {disallowed}
-description: Change the state of the given wallet flag for a wallet.
+title: setwalletflag  {disallowed} - Bitcoin SV
+description: Example code for the setwalletflag  {disallowed} json-rpc method. Сomplete guide on how to use setwalletflag  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

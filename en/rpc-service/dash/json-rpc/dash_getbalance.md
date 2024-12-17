@@ -1,6 +1,6 @@
 ---
-title: dash:getbalance \[POST\] {disallowed}
-description: Gets the total available balance in Dash. The available balance is whatthe wallet considers currently spendable, and is thus affected byoptions which limit spendability such as -spendzeroconfchange.
+title: getbalance  {disallowed} - Dash
+description: Example code for the getbalance  {disallowed} json-rpc method. Сomplete guide on how to use getbalance  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

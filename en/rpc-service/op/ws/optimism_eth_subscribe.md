@@ -1,6 +1,6 @@
 ---
-title: optimism:eth_subscribe \[WebSocket\]
-description: Subscribes to a specified event type, optionally restricted to one ormany objects. This method is available via websocket only.
+title: eth_subscribe - Optimism
+description: Example code for the eth_subscribe ws method. Сomplete guide on how to use eth_subscribe ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: doge:validateaddress \[POST\]
-description: Validate a dogecoin address and return information for it. Theinformation is represented by a AddressValidation object.
+title: validateaddress - Dogecoin
+description: Example code for the validateaddress json-rpc method. Сomplete guide on how to use validateaddress json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

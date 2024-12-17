@@ -1,6 +1,6 @@
 ---
-title: trx:/wallet/getdelegatedresource \[POST\] {disallowed}
-description: Returns all resources delegations from an account to another account.The fromAddress can be retrieved from theGetDelegatedResourceAccountIndex API.
+title: /wallet/getdelegatedresource  {disallowed} - TRON
+description: Example code for the /wallet/getdelegatedresource  {disallowed} rest method. Сomplete guide on how to use /wallet/getdelegatedresource  {disallowed} rest in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

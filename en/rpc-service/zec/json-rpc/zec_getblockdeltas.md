@@ -1,6 +1,6 @@
 ---
-title: zec:getblockdeltas \[POST\] {disallowed}
-description: Returns information about the given block and its transactions.WARNING getblockdeltas is disabled.
+title: getblockdeltas  {disallowed} - Zcash
+description: Example code for the getblockdeltas  {disallowed} json-rpc method. Сomplete guide on how to use getblockdeltas  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

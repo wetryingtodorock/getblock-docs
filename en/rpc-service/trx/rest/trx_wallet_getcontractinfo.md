@@ -1,6 +1,6 @@
 ---
-title: trx:/wallet/getcontractinfo \[POST\] {disallowed}
-description: Queries a contracts information from the blockchain. The differencefrom the wallet/getcontract interface is that this interface returns notonly the bytecode but also the runtime bytecode of the contract.Compared with bytecode, runtime bytecode does not contain constructorand constructor parameter information.
+title: /wallet/getcontractinfo  {disallowed} - TRON
+description: Example code for the /wallet/getcontractinfo  {disallowed} rest method. Сomplete guide on how to use /wallet/getcontractinfo  {disallowed} rest in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

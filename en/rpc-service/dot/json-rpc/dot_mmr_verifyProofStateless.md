@@ -1,6 +1,6 @@
 ---
-title: dot:mmr_verifyProofStateless \[POST\] {disallowed}
-description: Verify an MMR proof statelessly given an mmr_root
+title: mmr_verifyProofStateless  {disallowed} - Polkadot
+description: Example code for the mmr_verifyProofStateless  {disallowed} json-rpc method. Сomplete guide on how to use mmr_verifyProofStateless  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

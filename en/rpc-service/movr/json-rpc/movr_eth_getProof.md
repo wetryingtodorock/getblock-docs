@@ -1,6 +1,6 @@
 ---
-title: movr:eth_getProof \[POST\] {disallowed}
-description: Returns proof for account and storage.
+title: eth_getProof  {disallowed} - Moonriver
+description: Example code for the eth_getProof  {disallowed} json-rpc method. Сomplete guide on how to use eth_getProof  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

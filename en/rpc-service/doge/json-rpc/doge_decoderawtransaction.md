@@ -1,6 +1,6 @@
 ---
-title: doge:decoderawtransaction \[POST\]
-description: Produces a human-readable JSON object for a raw transaction.
+title: decoderawtransaction - Dogecoin
+description: Example code for the decoderawtransaction json-rpc method. Сomplete guide on how to use decoderawtransaction json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

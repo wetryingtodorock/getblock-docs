@@ -1,6 +1,6 @@
 ---
-title: zec:getexperimentalfeatures \[POST\]
-description: Returns enabled experimental features.
+title: getexperimentalfeatures - Zcash
+description: Example code for the getexperimentalfeatures json-rpc method. Сomplete guide on how to use getexperimentalfeatures json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

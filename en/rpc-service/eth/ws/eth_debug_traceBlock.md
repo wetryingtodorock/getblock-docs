@@ -1,6 +1,6 @@
 ---
-title: eth:debug_traceBlock \[WebSocket\] {disallowed}
-description: Returns full trace of all invoked opcodes of all transactions includedin the block.
+title: debug_traceBlock  {disallowed} - Ethereum
+description: Example code for the debug_traceBlock  {disallowed} ws method. Сomplete guide on how to use debug_traceBlock  {disallowed} ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

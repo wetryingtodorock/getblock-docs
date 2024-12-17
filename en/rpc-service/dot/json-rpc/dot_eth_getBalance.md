@@ -1,6 +1,6 @@
 ---
-title: dot:eth_getBalance \[POST\] {disallowed}
-description: Returns balance of the given account.
+title: eth_getBalance  {disallowed} - Polkadot
+description: Example code for the eth_getBalance  {disallowed} json-rpc method. Сomplete guide on how to use eth_getBalance  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

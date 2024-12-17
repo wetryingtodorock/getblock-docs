@@ -1,6 +1,6 @@
 ---
-title: ton:/shards \[GET\]
-description: Get shards information.
+title: /shards - The Open Network (TON)
+description: Example code for the /shards json-rpc method. Сomplete guide on how to use /shards json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

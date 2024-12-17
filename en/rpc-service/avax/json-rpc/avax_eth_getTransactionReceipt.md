@@ -1,6 +1,6 @@
 ---
-title: avax:eth_getTransactionReceipt \[POST\]
-description: Returns the receipt of a transaction by transaction hash.Note That the receipt is not available for pending transactions.
+title: eth_getTransactionReceipt - Avalanche
+description: Example code for the eth_getTransactionReceipt json-rpc method. Сomplete guide on how to use eth_getTransactionReceipt json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

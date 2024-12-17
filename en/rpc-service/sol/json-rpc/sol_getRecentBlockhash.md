@@ -1,6 +1,6 @@
 ---
-title: sol:getRecentBlockhash \[POST\] {disallowed}
-description: DEPRECATED Please use getLatestBlockhash instead This method isexpected to be removed in solana-core v2.0Returns a recent block hash from the ledger, and a fee schedule that canbe used to compute the cost of submitting a transaction using it.
+title: getRecentBlockhash  {disallowed} - Solana
+description: Example code for the getRecentBlockhash  {disallowed} json-rpc method. Сomplete guide on how to use getRecentBlockhash  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

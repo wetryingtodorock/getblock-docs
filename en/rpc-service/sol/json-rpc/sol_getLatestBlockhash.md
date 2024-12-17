@@ -1,6 +1,6 @@
 ---
-title: sol:getLatestBlockhash \[POST\] {disallowed}
-description: NEW This method is only available in solana-core v1.9 or newer. Pleaseuse getRecentBlockhash for solana-core v1.8Returns the latest blockhash
+title: getLatestBlockhash  {disallowed} - Solana
+description: Example code for the getLatestBlockhash  {disallowed} json-rpc method. Сomplete guide on how to use getLatestBlockhash  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

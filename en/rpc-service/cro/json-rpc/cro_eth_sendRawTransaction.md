@@ -1,6 +1,6 @@
 ---
-title: cro:eth_sendRawTransaction \[POST\] {disallowed}
-description: Sends a signed transaction. A transaction can send ether, deploy acontract, or interact with a contract. Set the maximum transaction feefor transactions using the --rpc-tx-feecap CLI option.You can interact with contracts using eth_sendRawTransaction oreth_call.To avoid exposing your private key, create signed transactions offlineand send the signed transaction data using eth_sendRawTransaction.
+title: eth_sendRawTransaction  {disallowed} - Cronos
+description: Example code for the eth_sendRawTransaction  {disallowed} json-rpc method. Сomplete guide on how to use eth_sendRawTransaction  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

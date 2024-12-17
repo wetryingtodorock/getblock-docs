@@ -1,6 +1,6 @@
 ---
-title: zec:setgenerate \[POST\] {disallowed}
-description: Set generate true or false to turn generation on or off.Generation is limited to genproclimit processors, -1 is unlimited.See the getgenerate call for the current setting.
+title: setgenerate  {disallowed} - Zcash
+description: Example code for the setgenerate  {disallowed} json-rpc method. Сomplete guide on how to use setgenerate  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

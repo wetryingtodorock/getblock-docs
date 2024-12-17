@@ -1,6 +1,6 @@
 ---
-title: dash:coinjoin \[POST\] {disallowed}
-description: controls the CoinJoin process (previously named privatesend prior toDash Core 0.17.0).
+title: coinjoin  {disallowed} - Dash
+description: Example code for the coinjoin  {disallowed} json-rpc method. Сomplete guide on how to use coinjoin  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

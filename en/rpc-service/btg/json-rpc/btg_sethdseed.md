@@ -1,6 +1,6 @@
 ---
-title: btg:sethdseed \[POST\] {disallowed}
-description: Set or generate a new HD wallet seed. Non-HD wallets will not beupgraded to being a HD wallet. Wallets that are already HD will have anew HD seed set so that new keys added to the keypool will be derivedfrom this new seed.Note that you will need to MAKE A NEW BACKUP of your wallet aftersetting the HD wallet seed.Requires wallet passphrase to be set with walletpassphrase call ifwallet is encrypted.
+title: sethdseed  {disallowed} - Bitcoin Gold
+description: Example code for the sethdseed  {disallowed} json-rpc method. Сomplete guide on how to use sethdseed  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

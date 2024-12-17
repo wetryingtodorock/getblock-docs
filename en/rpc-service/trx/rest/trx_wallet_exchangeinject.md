@@ -1,6 +1,6 @@
 ---
-title: trx:/wallet/exchangeinject \[POST\] {disallowed}
-description: Injects capital into the transaction. The purpose of injecting capitalinto the trading pair is to prevent price fluctuation from affecting thetransaction.
+title: /wallet/exchangeinject  {disallowed} - TRON
+description: Example code for the /wallet/exchangeinject  {disallowed} rest method. Сomplete guide on how to use /wallet/exchangeinject  {disallowed} rest in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: ont:getallowancev2 \[POST\] {disallowed}
-description: return the allowance from transfer-from accout to transfer-to account,ont decimals is 9,ong decimals is 18
+title: getallowancev2  {disallowed} - Ontology
+description: Example code for the getallowancev2  {disallowed} json-rpc method. Сomplete guide on how to use getallowancev2  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

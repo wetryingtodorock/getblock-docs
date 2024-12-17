@@ -1,6 +1,6 @@
 ---
-title: matic:eth_getBlockByHash \[POST\]
-description: Returns information about a block by hash.
+title: eth_getBlockByHash - Polygon
+description: Example code for the eth_getBlockByHash json-rpc method. Сomplete guide on how to use eth_getBlockByHash json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: optimism:shh_version \[POST\] {disallowed}
-description: Returns the current whisper protocol version.
+title: shh_version  {disallowed} - Optimism
+description: Example code for the shh_version  {disallowed} json-rpc method. Сomplete guide on how to use shh_version  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

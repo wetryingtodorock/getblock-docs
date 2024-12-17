@@ -1,6 +1,6 @@
 ---
-title: dash:masternodelist \[POST\]
-description: returns a list of masternodes in different modes.
+title: masternodelist - Dash
+description: Example code for the masternodelist json-rpc method. Сomplete guide on how to use masternodelist json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

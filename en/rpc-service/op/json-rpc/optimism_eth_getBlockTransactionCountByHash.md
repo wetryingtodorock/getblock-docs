@@ -1,6 +1,6 @@
 ---
-title: optimism:eth_getBlockTransactionCountByHash \[POST\]
-description: Returns the number of transactions in a block from a block matching thegiven block hash.
+title: eth_getBlockTransactionCountByHash - Optimism
+description: Example code for the eth_getBlockTransactionCountByHash json-rpc method. Сomplete guide on how to use eth_getBlockTransactionCountByHash json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

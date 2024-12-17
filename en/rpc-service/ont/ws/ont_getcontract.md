@@ -1,6 +1,6 @@
 ---
-title: ont:getcontract \[WebSocket\]
-description: Fetches the contract details for the contract using given contract hash.
+title: getcontract - Ontology
+description: Example code for the getcontract ws method. Сomplete guide on how to use getcontract ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

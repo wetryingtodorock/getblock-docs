@@ -1,6 +1,6 @@
 ---
-title: etc:txpool_besuTransactions \[POST\]
-description: Lists transactions in the node transaction pool.
+title: txpool_besuTransactions - Ethereum Classic
+description: Example code for the txpool_besuTransactions json-rpc method. Сomplete guide on how to use txpool_besuTransactions json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

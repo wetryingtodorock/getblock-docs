@@ -1,6 +1,6 @@
 ---
-title: bsc:version \[POST\] {disallowed}
-description: Returns the current whisper protocol version.
+title: version  {disallowed} - Binance Smart Chain
+description: Example code for the version  {disallowed} json-rpc method. Сomplete guide on how to use version  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

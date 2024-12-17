@@ -1,6 +1,6 @@
 ---
-title: dash:verifychainlock \[POST\] {disallowed}
-description: Tests if a quorum signature is valid for a ChainLock.
+title: verifychainlock  {disallowed} - Dash
+description: Example code for the verifychainlock  {disallowed} json-rpc method. Сomplete guide on how to use verifychainlock  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

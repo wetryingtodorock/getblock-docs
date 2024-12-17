@@ -1,6 +1,6 @@
 ---
-title: dash:listsinceblock \[POST\] {disallowed}
-description: Gets all transactions affecting the wallet which have occurred since aparticular block, plus the header hash of a block at a particular depth.
+title: listsinceblock  {disallowed} - Dash
+description: Example code for the listsinceblock  {disallowed} json-rpc method. Сomplete guide on how to use listsinceblock  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

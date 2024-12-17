@@ -1,6 +1,6 @@
 ---
-title: bsc:eth_syncing \[WebSocket\]
-description: Returns an object with data about the synchronization status, or falseif not synchronizing.
+title: eth_syncing - Binance Smart Chain
+description: Example code for the eth_syncing ws method. Сomplete guide on how to use eth_syncing ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

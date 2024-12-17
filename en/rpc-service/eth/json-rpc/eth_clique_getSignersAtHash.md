@@ -1,6 +1,6 @@
 ---
-title: eth:clique_getSignersAtHash \[POST\] {disallowed}
-description: Lists signers for the specified block.
+title: clique_getSignersAtHash  {disallowed} - Ethereum
+description: Example code for the clique_getSignersAtHash  {disallowed} json-rpc method. Сomplete guide on how to use clique_getSignersAtHash  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

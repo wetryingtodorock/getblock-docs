@@ -1,6 +1,6 @@
 ---
-title: ont:getbestblockhash \[POST\]
-description: Fetch block hash for the highest block for the current node.
+title: getbestblockhash - Ontology
+description: Example code for the getbestblockhash json-rpc method. Сomplete guide on how to use getbestblockhash json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

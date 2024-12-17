@@ -1,7 +1,6 @@
 ---
-title: bsc:newGroup \[WebSocket\] {disallowed}
-description: 
----
+title: newGroup  {disallowed} - Binance Smart Chain
+description: Example code for the newGroup  {disallowed} ws method. Сomplete guide on how to use newGroup  {disallowed} ws in GetBlock.io Web3 documentation.
 
 ### Parameters
 

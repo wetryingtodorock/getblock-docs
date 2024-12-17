@@ -1,6 +1,6 @@
 ---
-title: ont:getsmartcodeeventbyhash \[WebSocket\]
-description: Fetch contract event details using given transaction hash.
+title: getsmartcodeeventbyhash - Ontology
+description: Example code for the getsmartcodeeventbyhash ws method. Сomplete guide on how to use getsmartcodeeventbyhash ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

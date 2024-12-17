@@ -1,6 +1,6 @@
 ---
-title: bch:stop \[POST\] {disallowed}
-description: Stop Bitcoin server.
+title: stop  {disallowed} - Bitcoin Cash
+description: Example code for the stop  {disallowed} json-rpc method. Сomplete guide on how to use stop  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

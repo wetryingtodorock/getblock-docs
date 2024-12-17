@@ -1,6 +1,6 @@
 ---
-title: sol:getBlocksWithLimit \[POST\]
-description: Returns a list of confirmed blocks starting at the given slot
+title: getBlocksWithLimit - Solana
+description: Example code for the getBlocksWithLimit json-rpc method. Сomplete guide on how to use getBlocksWithLimit json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

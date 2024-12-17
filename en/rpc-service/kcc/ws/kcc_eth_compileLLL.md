@@ -1,6 +1,6 @@
 ---
-title: kcc:eth_compileLLL \[WebSocket\] {disallowed}
-description: Returns compiled LLL code.
+title: eth_compileLLL  {disallowed} - KuCoin Community Chain
+description: Example code for the eth_compileLLL  {disallowed} ws method. Сomplete guide on how to use eth_compileLLL  {disallowed} ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

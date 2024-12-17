@@ -1,6 +1,6 @@
 ---
-title: xmr:on_get_block_hash \[POST\]
-description: Look up a block's hash by its height.
+title: on_get_block_hash - Monero
+description: Example code for the on_get_block_hash json-rpc method. Сomplete guide on how to use on_get_block_hash json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

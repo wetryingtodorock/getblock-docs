@@ -1,6 +1,6 @@
 ---
-title: zec:getnetworksolps \[POST\]
-description: Returns the estimated network solutions per second based on the last nblocks.Pass in \[blocks\] to override number of blocks, -1 specifies overdifficulty averaging window.Pass in \[height\] to estimate the network speed at the time when acertain block was found.
+title: getnetworksolps - Zcash
+description: Example code for the getnetworksolps json-rpc method. Сomplete guide on how to use getnetworksolps json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

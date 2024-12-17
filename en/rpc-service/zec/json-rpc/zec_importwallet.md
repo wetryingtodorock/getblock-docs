@@ -1,6 +1,6 @@
 ---
-title: zec:importwallet \[POST\] {disallowed}
-description: Imports taddr keys from a wallet dump file (see dumpwallet).
+title: importwallet  {disallowed} - Zcash
+description: Example code for the importwallet  {disallowed} json-rpc method. Сomplete guide on how to use importwallet  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

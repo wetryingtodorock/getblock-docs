@@ -1,6 +1,6 @@
 ---
-title: trx:/wallet/getincomingviewingkey \[POST\] {disallowed}
-description: get incoming viewing key
+title: /wallet/getincomingviewingkey  {disallowed} - TRON
+description: Example code for the /wallet/getincomingviewingkey  {disallowed} rest method. Сomplete guide on how to use /wallet/getincomingviewingkey  {disallowed} rest in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

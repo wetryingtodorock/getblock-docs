@@ -1,6 +1,6 @@
 ---
-title: avax:avax.getUTXOs \[WebSocket\] {disallowed}
-description: Gets the UTXOs that reference a given address.
+title: avax.getUTXOs  {disallowed} - Avalanche
+description: Example code for the avax.getUTXOs  {disallowed} ws method. Сomplete guide on how to use avax.getUTXOs  {disallowed} ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

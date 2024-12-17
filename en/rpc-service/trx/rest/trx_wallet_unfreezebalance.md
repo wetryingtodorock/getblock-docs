@@ -1,6 +1,6 @@
 ---
-title: trx:/wallet/unfreezebalance \[POST\] {disallowed}
-description: Unstake TRX that has passed the minimum stake duration to releasebandwidth and energy and at the same time TRON Power will reduce and allvotes will be canceled.
+title: /wallet/unfreezebalance  {disallowed} - TRON
+description: Example code for the /wallet/unfreezebalance  {disallowed} rest method. Сomplete guide on how to use /wallet/unfreezebalance  {disallowed} rest in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

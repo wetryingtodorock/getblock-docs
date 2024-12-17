@@ -1,6 +1,6 @@
 ---
-title: ton:/getBlockHeader \[GET\]
-description: Get metadata of a given block.
+title: /getBlockHeader - The Open Network (TON)
+description: Example code for the /getBlockHeader json-rpc method. Сomplete guide on how to use /getBlockHeader json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

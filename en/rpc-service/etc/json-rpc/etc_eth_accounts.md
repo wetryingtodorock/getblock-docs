@@ -1,6 +1,6 @@
 ---
-title: etc:eth_accounts \[POST\]
-description: Returns a list of account addresses a client owns.
+title: eth_accounts - Ethereum Classic
+description: Example code for the eth_accounts json-rpc method. Сomplete guide on how to use eth_accounts json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

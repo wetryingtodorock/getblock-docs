@@ -1,6 +1,6 @@
 ---
-title: ton:/getAddressState \[GET\]
-description: Get state of a given address. State can be either unitialized, active orfrozen.
+title: /getAddressState - The Open Network (TON)
+description: Example code for the /getAddressState json-rpc method. Сomplete guide on how to use /getAddressState json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

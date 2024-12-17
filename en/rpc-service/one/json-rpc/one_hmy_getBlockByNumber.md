@@ -1,6 +1,6 @@
 ---
-title: one:hmy_getBlockByNumber \[POST\]
-description: Returns information about a block by block number.
+title: hmy_getBlockByNumber - Harmony
+description: Example code for the hmy_getBlockByNumber json-rpc method. Сomplete guide on how to use hmy_getBlockByNumber json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

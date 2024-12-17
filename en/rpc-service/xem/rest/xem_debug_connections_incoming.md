@@ -1,6 +1,6 @@
 ---
-title: xem:/debug/connections/incoming \[GET\]
-description: Gets an audit collection of incoming calls. You can monitor theoutstanding and recent incoming requests with this information.
+title: /debug/connections/incoming - NEM
+description: Example code for the /debug/connections/incoming rest method. Сomplete guide on how to use /debug/connections/incoming rest in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

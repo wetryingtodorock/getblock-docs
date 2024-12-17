@@ -1,6 +1,6 @@
 ---
-title: gno:eth_getTransactionReceipt \[WebSocket\]
-description: Returns the receipt of a transaction by transaction hash. Receipts forpending transactions are not available.If you enabled revert reason, the receipt includes available revertreasons in the response.
+title: eth_getTransactionReceipt - Gnosis
+description: Example code for the eth_getTransactionReceipt ws method. Сomplete guide on how to use eth_getTransactionReceipt ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

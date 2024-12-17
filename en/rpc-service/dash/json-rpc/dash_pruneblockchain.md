@@ -1,6 +1,6 @@
 ---
-title: dash:pruneblockchain \[POST\] {disallowed}
-description: Prunes the blockchain up to a specified height or timestamp. The -pruneoption needs to be enabled (disabled by default).
+title: pruneblockchain  {disallowed} - Dash
+description: Example code for the pruneblockchain  {disallowed} json-rpc method. Сomplete guide on how to use pruneblockchain  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

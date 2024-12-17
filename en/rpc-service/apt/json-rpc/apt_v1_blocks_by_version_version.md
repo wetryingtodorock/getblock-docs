@@ -1,6 +1,6 @@
 ---
-title: apt:/v1/blocks/by_version/{version} \[GET\]
-description: Gets a block at the specified version (integer).
+title: /v1/blocks/by_version/{version} - Aptos
+description: Example code for the /v1/blocks/by_version/{version} json-rpc method. Сomplete guide on how to use /v1/blocks/by_version/{version} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

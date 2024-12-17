@@ -1,6 +1,6 @@
 ---
-title: near:block \[POST\]
-description: Queries network and returns block for given height or hash. You can alsouse finality param to return latest block details.
+title: block - NEAR Protocol
+description: Example code for the block json-rpc method. Сomplete guide on how to use block json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

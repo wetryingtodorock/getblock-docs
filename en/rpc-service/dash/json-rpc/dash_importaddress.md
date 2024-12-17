@@ -1,6 +1,6 @@
 ---
-title: dash:importaddress \[POST\] {disallowed}
-description: Adds an address or pubkey script to the wallet without the associatedprivate key, allowing you to watch for transactions affecting thataddress or pubkey script without being able to spend any of its outputs.
+title: importaddress  {disallowed} - Dash
+description: Example code for the importaddress  {disallowed} json-rpc method. Сomplete guide on how to use importaddress  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

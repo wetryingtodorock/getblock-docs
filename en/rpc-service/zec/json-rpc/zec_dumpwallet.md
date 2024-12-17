@@ -1,6 +1,6 @@
 ---
-title: zec:dumpwallet \[POST\] {disallowed}
-description: Dumps taddr wallet keys in a human-readable format. Overwriting anexisting file is not permitted.
+title: dumpwallet  {disallowed} - Zcash
+description: Example code for the dumpwallet  {disallowed} json-rpc method. Сomplete guide on how to use dumpwallet  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

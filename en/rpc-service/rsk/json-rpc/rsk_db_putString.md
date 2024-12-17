@@ -1,6 +1,6 @@
 ---
-title: rsk:db_putString \[POST\] {disallowed}
-description: Deprecated
+title: db_putString  {disallowed} - Rootstock
+description: Example code for the db_putString  {disallowed} json-rpc method. Сomplete guide on how to use db_putString  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

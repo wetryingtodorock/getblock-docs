@@ -1,6 +1,6 @@
 ---
-title: dash:sendrawtransaction \[POST\]
-description: Validates a transaction and broadcasts it to the peer-to-peer network.
+title: sendrawtransaction - Dash
+description: Example code for the sendrawtransaction json-rpc method. Сomplete guide on how to use sendrawtransaction json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: doge:gethashespersec \[POST\]
-description: Returns a recent hashes per second performance measurement whilegenerating.
+title: gethashespersec - Dogecoin
+description: Example code for the gethashespersec json-rpc method. Сomplete guide on how to use gethashespersec json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

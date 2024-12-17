@@ -1,6 +1,6 @@
 ---
-title: gno:eth_unsubscribe \[POST\]
-description: Cancels specified subscription. Returns true if canceled successfully orfalse otherwise.
+title: eth_unsubscribe - Gnosis
+description: Example code for the eth_unsubscribe json-rpc method. Сomplete guide on how to use eth_unsubscribe json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: zec:z_getnewaddress \[POST\] {disallowed}
-description: Returns a new shielded address for receiving payments. With noarguments, returns a Sapling address.
+title: z_getnewaddress  {disallowed} - Zcash
+description: Example code for the z_getnewaddress  {disallowed} json-rpc method. Сomplete guide on how to use z_getnewaddress  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: near:EXPERIMENTAL_protocol_config \[POST\] {disallowed}
-description: Returns most recent protocol configuration or a specific queried block.Useful for finding current storage and transaction costs.
+title: EXPERIMENTAL_protocol_config  {disallowed} - NEAR Protocol
+description: Example code for the EXPERIMENTAL_protocol_config  {disallowed} json-rpc method. Сomplete guide on how to use EXPERIMENTAL_protocol_config  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

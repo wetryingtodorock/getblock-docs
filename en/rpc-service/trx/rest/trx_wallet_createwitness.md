@@ -1,6 +1,6 @@
 ---
-title: trx:/wallet/createwitness \[POST\] {disallowed}
-description: Apply to become a witness.
+title: /wallet/createwitness  {disallowed} - TRON
+description: Example code for the /wallet/createwitness  {disallowed} rest method. Сomplete guide on how to use /wallet/createwitness  {disallowed} rest in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

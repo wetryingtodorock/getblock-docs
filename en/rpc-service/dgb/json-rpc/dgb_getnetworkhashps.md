@@ -1,6 +1,6 @@
 ---
-title: dgb:getnetworkhashps \[POST\]
-description: Returns the estimated network hashes per second based on the last nblocks.Pass in \[blocks\] to override of blocks, -1 specifies since lastdifficulty change.Pass in \[height\] to estimate the network speed at the time when acertain block was found.
+title: getnetworkhashps - DigiByte
+description: Example code for the getnetworkhashps json-rpc method. Сomplete guide on how to use getnetworkhashps json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

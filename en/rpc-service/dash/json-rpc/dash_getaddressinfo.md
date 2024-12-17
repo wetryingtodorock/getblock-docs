@@ -1,6 +1,6 @@
 ---
-title: dash:getaddressinfo \[POST\] {disallowed}
-description: Returns information about the given Dash address. Note Some informationrequires the address to be in the wallet.
+title: getaddressinfo  {disallowed} - Dash
+description: Example code for the getaddressinfo  {disallowed} json-rpc method. Сomplete guide on how to use getaddressinfo  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

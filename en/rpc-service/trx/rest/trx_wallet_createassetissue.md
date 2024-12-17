@@ -1,6 +1,6 @@
 ---
-title: trx:/wallet/createassetissue \[POST\] {disallowed}
-description: Issue a TRC10 token.
+title: /wallet/createassetissue  {disallowed} - TRON
+description: Example code for the /wallet/createassetissue  {disallowed} rest method. Сomplete guide on how to use /wallet/createassetissue  {disallowed} rest in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

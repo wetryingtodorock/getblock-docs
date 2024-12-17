@@ -1,6 +1,6 @@
 ---
-title: bsc:hasIdentity \[WebSocket\] {disallowed}
-description: Checks if the client hold the private keys for a given identity.
+title: hasIdentity  {disallowed} - Binance Smart Chain
+description: Example code for the hasIdentity  {disallowed} ws method. Сomplete guide on how to use hasIdentity  {disallowed} ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

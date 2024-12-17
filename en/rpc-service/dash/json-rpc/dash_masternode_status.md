@@ -1,6 +1,6 @@
 ---
-title: dash:masternode_status \[POST\]
-description: prints masternode status information.
+title: masternode_status - Dash
+description: Example code for the masternode_status json-rpc method. Сomplete guide on how to use masternode_status json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: sol:getFeeCalculatorForBlockhash \[POST\] {disallowed}
-description: DEPRECATED Please use isBlockhashValid or getFeeForMessage instead Thismethod is expected to be removed in solana-core v2.0Returns the fee calculator associated with the query blockhash, or nullif the blockhash has expired
+title: getFeeCalculatorForBlockhash  {disallowed} - Solana
+description: Example code for the getFeeCalculatorForBlockhash  {disallowed} json-rpc method. Сomplete guide on how to use getFeeCalculatorForBlockhash  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

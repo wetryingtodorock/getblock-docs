@@ -1,6 +1,6 @@
 ---
-title: dash:keypoolrefill \[POST\] {disallowed}
-description: Fills the cache of unused pre-generated keys (the keypool).
+title: keypoolrefill  {disallowed} - Dash
+description: Example code for the keypoolrefill  {disallowed} json-rpc method. Сomplete guide on how to use keypoolrefill  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

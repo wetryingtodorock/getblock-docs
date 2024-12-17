@@ -1,6 +1,6 @@
 ---
-title: dot:offchain_localStorageSet \[POST\] {disallowed}
-description: Set offchain local storage under given key and prefix.
+title: offchain_localStorageSet  {disallowed} - Polkadot
+description: Example code for the offchain_localStorageSet  {disallowed} json-rpc method. Сomplete guide on how to use offchain_localStorageSet  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: bsv:reconsiderblock \[POST\] {disallowed}
-description: Removes invalidity status of a block and its descendants, reconsiderthem for activation.This can be used to undo the effects of invalidateblock.
+title: reconsiderblock  {disallowed} - Bitcoin SV
+description: Example code for the reconsiderblock  {disallowed} json-rpc method. Сomplete guide on how to use reconsiderblock  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

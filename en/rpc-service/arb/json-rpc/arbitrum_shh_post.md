@@ -1,6 +1,6 @@
 ---
-title: arbitrum:shh_post \[POST\] {disallowed}
-description: Sends a whisper message.Note this method is deprecated.
+title: shh_post  {disallowed} - Arbitrum
+description: Example code for the shh_post  {disallowed} json-rpc method. Сomplete guide on how to use shh_post  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

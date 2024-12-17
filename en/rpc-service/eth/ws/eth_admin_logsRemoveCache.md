@@ -1,6 +1,6 @@
 ---
-title: eth:admin_logsRemoveCache \[WebSocket\] {disallowed}
-description: Removes cache files for the specified range of blocks.
+title: admin_logsRemoveCache  {disallowed} - Ethereum
+description: Example code for the admin_logsRemoveCache  {disallowed} ws method. Сomplete guide on how to use admin_logsRemoveCache  {disallowed} ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

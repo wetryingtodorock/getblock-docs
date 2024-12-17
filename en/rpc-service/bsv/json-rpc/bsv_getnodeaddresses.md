@@ -1,6 +1,6 @@
 ---
-title: bsv:getnodeaddresses \[POST\] {disallowed}
-description: Return known addresses which can potentially be used to find new nodesin the network
+title: getnodeaddresses  {disallowed} - Bitcoin SV
+description: Example code for the getnodeaddresses  {disallowed} json-rpc method. Сomplete guide on how to use getnodeaddresses  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

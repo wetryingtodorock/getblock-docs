@@ -1,6 +1,6 @@
 ---
-title: doge:stop \[POST\] {disallowed}
-description: Stop dogecoin server.
+title: stop  {disallowed} - Dogecoin
+description: Example code for the stop  {disallowed} json-rpc method. Сomplete guide on how to use stop  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

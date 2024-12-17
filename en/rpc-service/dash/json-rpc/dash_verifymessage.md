@@ -1,6 +1,6 @@
 ---
-title: dash:verifymessage \[POST\]
-description: Verifies a signed message.
+title: verifymessage - Dash
+description: Example code for the verifymessage json-rpc method. Сomplete guide on how to use verifymessage json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

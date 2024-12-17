@@ -1,6 +1,6 @@
 ---
-title: rsk:shh_addToGroup \[POST\] {disallowed}
-description: Whisper protocol not supported.
+title: shh_addToGroup  {disallowed} - Rootstock
+description: Example code for the shh_addToGroup  {disallowed} json-rpc method. Сomplete guide on how to use shh_addToGroup  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters
