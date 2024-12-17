@@ -1,6 +1,6 @@
 ---
-title: zec:z_listaddresses \[POST\] {disallowed}
-description: Returns the list of Sprout and Sapling shielded addresses belonging tothe wallet.
+title: zec:z_listaddresses  {disallowed} - Zcash
+description: Example code for the zec:z_listaddresses  {disallowed} json-rpc method. Сomplete guide on how to use zec:z_listaddresses  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

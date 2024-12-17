@@ -1,6 +1,6 @@
 ---
-title: bsv:importdescriptors \[POST\] {disallowed}
-description: Import descriptors. This will trigger a rescan of the blockchain basedon the earliest timestamp of all descriptors being imported. Requires anew wallet backup.Note This call can take over an hour to complete if using an earlytimestamp during that time, other rpc calls may report that theimported keys, addresses or scripts exist but related transactions arestill missing.
+title: bsv:importdescriptors  {disallowed} - Bitcoin SV
+description: Example code for the bsv:importdescriptors  {disallowed} json-rpc method. Сomplete guide on how to use bsv:importdescriptors  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

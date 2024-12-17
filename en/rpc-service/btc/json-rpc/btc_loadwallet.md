@@ -1,6 +1,6 @@
 ---
-title: btc:loadwallet \[POST\] {disallowed}
-description: Loads a wallet from a wallet file or directory.Note that all wallet command-line options used when starting bitcoindwill be applied to the new wallet (eg -rescan, etc).
+title: btc:loadwallet  {disallowed} - Bitcoin
+description: Example code for the btc:loadwallet  {disallowed} json-rpc method. Сomplete guide on how to use btc:loadwallet  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

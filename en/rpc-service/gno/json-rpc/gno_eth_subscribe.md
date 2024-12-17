@@ -1,6 +1,6 @@
 ---
-title: gno:eth_subscribe \[POST\]
-description: Subscribes to a specified event type, optionally restricted to one ormany objects. This method is available via websocket only.
+title: gno:eth_subscribe - Gnosis
+description: Example code for the gno:eth_subscribe json-rpc method. Сomplete guide on how to use gno:eth_subscribe json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: kcc:eth_hashrate \[POST\]
-description: Returns the number of hashes per second that the node is mining with.
+title: kcc:eth_hashrate - KuCoin Community Chain
+description: Example code for the kcc:eth_hashrate json-rpc method. Сomplete guide on how to use kcc:eth_hashrate json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

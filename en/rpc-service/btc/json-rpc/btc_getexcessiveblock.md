@@ -1,6 +1,6 @@
 ---
-title: btc:getexcessiveblock \[POST\] {disallowed}
-description: Return the excessive block size.
+title: btc:getexcessiveblock  {disallowed} - Bitcoin
+description: Example code for the btc:getexcessiveblock  {disallowed} json-rpc method. Сomplete guide on how to use btc:getexcessiveblock  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

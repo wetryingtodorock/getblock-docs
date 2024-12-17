@@ -1,6 +1,6 @@
 ---
-title: kcc:eth_getTransactionByBlockNumberAndIndex \[POST\]
-description: Returns information about a transaction by block number and transactionindex position.
+title: kcc:eth_getTransactionByBlockNumberAndIndex - KuCoin Community Chain
+description: Example code for the kcc:eth_getTransactionByBlockNumberAndIndex json-rpc method. Сomplete guide on how to use kcc:eth_getTransactionByBlockNumberAndIndex json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

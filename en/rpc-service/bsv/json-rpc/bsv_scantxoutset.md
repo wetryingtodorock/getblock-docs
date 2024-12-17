@@ -1,6 +1,6 @@
 ---
-title: bsv:scantxoutset \[POST\] {disallowed}
-description: EXPERIMENTAL warning this call may be removed or changed in futurereleases.
+title: bsv:scantxoutset  {disallowed} - Bitcoin SV
+description: Example code for the bsv:scantxoutset  {disallowed} json-rpc method. Сomplete guide on how to use bsv:scantxoutset  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

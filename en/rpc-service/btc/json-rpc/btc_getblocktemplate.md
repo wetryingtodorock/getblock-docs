@@ -1,6 +1,6 @@
 ---
-title: btc:getblocktemplate \[POST\]
-description: If the request parameters include a ‘mode’ key, that is used toexplicitly select between the default ‘template’ request or a‘proposal’.It returns data needed to construct a block to work on.
+title: btc:getblocktemplate - Bitcoin
+description: Example code for the btc:getblocktemplate json-rpc method. Сomplete guide on how to use btc:getblocktemplate json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

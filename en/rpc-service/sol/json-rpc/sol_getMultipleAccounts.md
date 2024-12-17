@@ -1,6 +1,6 @@
 ---
-title: sol:getMultipleAccounts \[POST\]
-description: Returns the account information for a list of Pubkeys
+title: sol:getMultipleAccounts - Solana
+description: Example code for the sol:getMultipleAccounts json-rpc method. Сomplete guide on how to use sol:getMultipleAccounts json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

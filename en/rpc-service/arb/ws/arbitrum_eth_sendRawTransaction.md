@@ -1,6 +1,6 @@
 ---
-title: arbitrum:eth_sendRawTransaction \[WebSocket\]
-description: Creates new message call transaction or a contract creation for signedtransactions.
+title: arbitrum:eth_sendRawTransaction - Arbitrum
+description: Example code for the arbitrum:eth_sendRawTransaction ws method. Сomplete guide on how to use arbitrum:eth_sendRawTransaction ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

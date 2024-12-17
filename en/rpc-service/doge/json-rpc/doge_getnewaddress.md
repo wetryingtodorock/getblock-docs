@@ -1,6 +1,6 @@
 ---
-title: doge:getnewaddress \[POST\] {disallowed}
-description: Returns a new dogecoin address for receiving payments.
+title: doge:getnewaddress  {disallowed} - Dogecoin
+description: Example code for the doge:getnewaddress  {disallowed} json-rpc method. Сomplete guide on how to use doge:getnewaddress  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

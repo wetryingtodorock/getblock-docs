@@ -1,6 +1,6 @@
 ---
-title: btc:getdifficulty \[POST\]
-description: Returns the proof-of-work difficulty as a multiple of the minimumdifficulty.
+title: btc:getdifficulty - Bitcoin
+description: Example code for the btc:getdifficulty json-rpc method. Сomplete guide on how to use btc:getdifficulty json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

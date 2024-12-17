@@ -1,6 +1,6 @@
 ---
-title: movr:eth_mining \[POST\] {disallowed}
-description: Returns false if client is actively mining new blocks.
+title: movr:eth_mining  {disallowed} - Moonriver
+description: Example code for the movr:eth_mining  {disallowed} json-rpc method. Сomplete guide on how to use movr:eth_mining  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

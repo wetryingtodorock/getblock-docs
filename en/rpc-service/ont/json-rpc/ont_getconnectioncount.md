@@ -1,6 +1,6 @@
 ---
-title: ont:getconnectioncount \[POST\]
-description: The number of nodes connected to the current network.
+title: ont:getconnectioncount - Ontology
+description: Example code for the ont:getconnectioncount json-rpc method. Сomplete guide on how to use ont:getconnectioncount json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

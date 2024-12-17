@@ -1,6 +1,6 @@
 ---
-title: fuse:eth_getTransactionByBlockHashAndIndex \[POST\]
-description: Returns information about a transaction by block hash and transactionindex position.
+title: fuse:eth_getTransactionByBlockHashAndIndex - Fuse Network
+description: Example code for the fuse:eth_getTransactionByBlockHashAndIndex json-rpc method. Сomplete guide on how to use fuse:eth_getTransactionByBlockHashAndIndex json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

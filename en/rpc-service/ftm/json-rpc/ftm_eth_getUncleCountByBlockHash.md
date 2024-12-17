@@ -1,6 +1,6 @@
 ---
-title: ftm:eth_getUncleCountByBlockHash \[POST\]
-description: Returns the number of uncles in a block from a block matching the givenblock hash.
+title: ftm:eth_getUncleCountByBlockHash - Fantom
+description: Example code for the ftm:eth_getUncleCountByBlockHash json-rpc method. Сomplete guide on how to use ftm:eth_getUncleCountByBlockHash json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

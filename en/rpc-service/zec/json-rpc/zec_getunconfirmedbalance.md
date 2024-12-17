@@ -1,6 +1,6 @@
 ---
-title: zec:getunconfirmedbalance \[POST\] {disallowed}
-description: Returns the servers total unconfirmed balance
+title: zec:getunconfirmedbalance  {disallowed} - Zcash
+description: Example code for the zec:getunconfirmedbalance  {disallowed} json-rpc method. Сomplete guide on how to use zec:getunconfirmedbalance  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

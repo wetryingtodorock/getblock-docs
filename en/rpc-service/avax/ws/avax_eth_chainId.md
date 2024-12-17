@@ -1,6 +1,6 @@
 ---
-title: avax:eth_chainId \[WebSocket\]
-description: Returns the currently configured chain id, a value used inreplay-protected transaction signing as introduced by EIP-155.
+title: avax:eth_chainId - Avalanche
+description: Example code for the avax:eth_chainId ws method. Сomplete guide on how to use avax:eth_chainId ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

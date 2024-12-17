@@ -1,6 +1,6 @@
 ---
-title: ton:/tryLocateResultTx \[GET\]
-description: Same as /tryLocateTx. Locate outcoming transaction of destinationaddress by incoming message
+title: ton:/tryLocateResultTx - The Open Network (TON)
+description: Example code for the ton:/tryLocateResultTx json-rpc method. Сomplete guide on how to use ton:/tryLocateResultTx json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: bsv:dumpprivkey \[POST\] {disallowed}
-description: Reveals the private key corresponding to ‘address’.Then the importprivkey can be used with this output
+title: bsv:dumpprivkey  {disallowed} - Bitcoin SV
+description: Example code for the bsv:dumpprivkey  {disallowed} json-rpc method. Сomplete guide on how to use bsv:dumpprivkey  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

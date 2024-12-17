@@ -1,6 +1,6 @@
 ---
-title: dot:childstate_getStorageEntries \[POST\] {disallowed}
-description: Returns child storage entries for multiple keys at a specific blockstate
+title: dot:childstate_getStorageEntries  {disallowed} - Polkadot
+description: Example code for the dot:childstate_getStorageEntries  {disallowed} json-rpc method. Сomplete guide on how to use dot:childstate_getStorageEntries  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

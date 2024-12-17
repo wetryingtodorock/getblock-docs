@@ -1,6 +1,6 @@
 ---
-title: trx:/wallet/proposalcreate \[POST\] {disallowed}
-description: Creates a proposal transaction.
+title: trx:/wallet/proposalcreate  {disallowed} - TRON
+description: Example code for the trx:/wallet/proposalcreate  {disallowed} rest method. Сomplete guide on how to use trx:/wallet/proposalcreate  {disallowed} rest in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

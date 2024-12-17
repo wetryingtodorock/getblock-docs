@@ -1,6 +1,6 @@
 ---
-title: movr:chain_getHeader \[POST\]
-description: Retrieves the header for a specific block.
+title: movr:chain_getHeader - Moonriver
+description: Example code for the movr:chain_getHeader json-rpc method. Сomplete guide on how to use movr:chain_getHeader json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

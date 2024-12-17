@@ -1,6 +1,6 @@
 ---
-title: movr:mmr_root \[POST\] {disallowed}
-description: Get the MMR root hash for the current best block.
+title: movr:mmr_root  {disallowed} - Moonriver
+description: Example code for the movr:mmr_root  {disallowed} json-rpc method. Сomplete guide on how to use movr:mmr_root  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

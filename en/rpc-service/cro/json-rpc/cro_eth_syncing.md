@@ -1,6 +1,6 @@
 ---
-title: cro:eth_syncing \[POST\]
-description: Returns an object with data about the synchronization status, or falseif not synchronizing.
+title: cro:eth_syncing - Cronos
+description: Example code for the cro:eth_syncing json-rpc method. Сomplete guide on how to use cro:eth_syncing json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

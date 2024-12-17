@@ -1,6 +1,6 @@
 ---
-title: optimism:eth_getUncleByBlockHashAndIndex \[POST\]
-description: Returns information about a uncle of a block by hash and uncle indexposition.
+title: optimism:eth_getUncleByBlockHashAndIndex - Optimism
+description: Example code for the optimism:eth_getUncleByBlockHashAndIndex json-rpc method. Сomplete guide on how to use optimism:eth_getUncleByBlockHashAndIndex json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

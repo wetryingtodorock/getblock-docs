@@ -1,6 +1,6 @@
 ---
-title: dgb:getconnectioncount \[POST\] {disallowed}
-description: Returns the number of connections to other nodes.
+title: dgb:getconnectioncount  {disallowed} - DigiByte
+description: Example code for the dgb:getconnectioncount  {disallowed} json-rpc method. Сomplete guide on how to use dgb:getconnectioncount  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

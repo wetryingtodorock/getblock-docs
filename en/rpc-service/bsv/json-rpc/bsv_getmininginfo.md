@@ -1,6 +1,6 @@
 ---
-title: bsv:getmininginfo \[POST\]
-description: Returns a json object containing mining-related information.
+title: bsv:getmininginfo - Bitcoin SV
+description: Example code for the bsv:getmininginfo json-rpc method. Сomplete guide on how to use bsv:getmininginfo json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

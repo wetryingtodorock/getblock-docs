@@ -1,6 +1,6 @@
 ---
-title: etc:txpool_besuStatistics \[POST\]
-description: Lists statistics about the node transaction pool.
+title: etc:txpool_besuStatistics - Ethereum Classic
+description: Example code for the etc:txpool_besuStatistics json-rpc method. Сomplete guide on how to use etc:txpool_besuStatistics json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

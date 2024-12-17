@@ -1,6 +1,6 @@
 ---
-title: optimism:eth_compileLLL \[WebSocket\] {disallowed}
-description: Returns compiled LLL code.
+title: optimism:eth_compileLLL  {disallowed} - Optimism
+description: Example code for the optimism:eth_compileLLL  {disallowed} ws method. Сomplete guide on how to use optimism:eth_compileLLL  {disallowed} ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

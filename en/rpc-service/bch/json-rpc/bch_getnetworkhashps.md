@@ -1,6 +1,6 @@
 ---
-title: bch:getnetworkhashps \[POST\]
-description: Returns the estimated network hashes per second based on the last nblocks.Pass in \[blocks\] to override \# of blocks, -1 specifies since lastdifficulty change.Pass in \[height\] to estimate the network speed at the time when acertain block was found.
+title: bch:getnetworkhashps - Bitcoin Cash
+description: Example code for the bch:getnetworkhashps json-rpc method. Сomplete guide on how to use bch:getnetworkhashps json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

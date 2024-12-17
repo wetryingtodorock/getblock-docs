@@ -1,6 +1,6 @@
 ---
-title: rsk:net_peerList \[POST\] {disallowed}
-description: Returns list of peers known to the client.
+title: rsk:net_peerList  {disallowed} - Rootstock
+description: Example code for the rsk:net_peerList  {disallowed} json-rpc method. Сomplete guide on how to use rsk:net_peerList  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

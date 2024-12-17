@@ -1,6 +1,6 @@
 ---
-title: dash:uptime \[POST\]
-description: returns the total uptime of the server.
+title: dash:uptime - Dash
+description: Example code for the dash:uptime json-rpc method. Сomplete guide on how to use dash:uptime json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

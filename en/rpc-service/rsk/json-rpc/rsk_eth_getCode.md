@@ -1,6 +1,6 @@
 ---
-title: rsk:eth_getCode \[POST\]
-description: Returns code at a given address.
+title: rsk:eth_getCode - Rootstock
+description: Example code for the rsk:eth_getCode json-rpc method. Сomplete guide on how to use rsk:eth_getCode json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

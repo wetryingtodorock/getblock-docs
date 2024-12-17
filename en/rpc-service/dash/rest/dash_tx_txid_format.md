@@ -1,6 +1,6 @@
 ---
-title: dash:/tx/{txid}{format} \[GET\]
-description: The GET tx operation gets a hex-encoded serialized transaction or a JSONobject describing the transaction. By default, Dash Core only storescomplete transaction data for UTXOs and your own transactions, so thismethod may fail on historic transactions unless you use the non-defaulttxindex=1 in your Dash Core startup settings.If you begin using txindex=1 after downloading the block chain, you mustrebuild your indexes by starting Dash Core with the option -reindex.This may take several hours to complete, during which time your nodewill not process new blocks or transactions. This reindex only needs tobe done once.
+title: dash:/tx/{txid}{format} - Dash
+description: Example code for the dash:/tx/{txid}{format} rest method. Сomplete guide on how to use dash:/tx/{txid}{format} rest in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

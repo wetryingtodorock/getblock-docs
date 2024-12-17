@@ -1,6 +1,6 @@
 ---
-title: kcc:eth_call \[POST\]
-description: Executes a new message call immediately without creating a transactionon the block chain.
+title: kcc:eth_call - KuCoin Community Chain
+description: Example code for the kcc:eth_call json-rpc method. Сomplete guide on how to use kcc:eth_call json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

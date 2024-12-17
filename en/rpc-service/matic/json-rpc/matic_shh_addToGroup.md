@@ -1,6 +1,6 @@
 ---
-title: matic:shh_addToGroup \[POST\] {disallowed}
-description: Adds given address to a group
+title: matic:shh_addToGroup  {disallowed} - Polygon
+description: Example code for the matic:shh_addToGroup  {disallowed} json-rpc method. Сomplete guide on how to use matic:shh_addToGroup  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

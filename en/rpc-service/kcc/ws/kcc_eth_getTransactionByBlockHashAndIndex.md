@@ -1,6 +1,6 @@
 ---
-title: kcc:eth_getTransactionByBlockHashAndIndex \[WebSocket\]
-description: Returns information about a transaction by block hash and transactionindex position.
+title: kcc:eth_getTransactionByBlockHashAndIndex - KuCoin Community Chain
+description: Example code for the kcc:eth_getTransactionByBlockHashAndIndex ws method. Сomplete guide on how to use kcc:eth_getTransactionByBlockHashAndIndex ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: theta:thetacli.IsKeyUnlocked \[POST\] {disallowed}
-description: This API returns whether an account is currently unlocked.
+title: theta:thetacli.IsKeyUnlocked  {disallowed} - Theta Network
+description: Example code for the theta:thetacli.IsKeyUnlocked  {disallowed} json-rpc method. Сomplete guide on how to use theta:thetacli.IsKeyUnlocked  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

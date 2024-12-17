@@ -1,6 +1,6 @@
 ---
-title: movr:eth_blockNumber \[POST\] {disallowed}
-description: Returns the blockNumber.
+title: movr:eth_blockNumber  {disallowed} - Moonriver
+description: Example code for the movr:eth_blockNumber  {disallowed} json-rpc method. Сomplete guide on how to use movr:eth_blockNumber  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: dot:chain_getFinalizedHead \[POST\]
-description: Get hash of the last finalized block in the canon chain.
+title: dot:chain_getFinalizedHead - Polkadot
+description: Example code for the dot:chain_getFinalizedHead json-rpc method. Сomplete guide on how to use dot:chain_getFinalizedHead json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

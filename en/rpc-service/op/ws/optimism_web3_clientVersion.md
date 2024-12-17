@@ -1,6 +1,6 @@
 ---
-title: optimism:web3_clientVersion \[WebSocket\]
-description: Returns the current client version.
+title: optimism:web3_clientVersion - Optimism
+description: Example code for the optimism:web3_clientVersion ws method. Сomplete guide on how to use optimism:web3_clientVersion ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

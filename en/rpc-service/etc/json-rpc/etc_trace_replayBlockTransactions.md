@@ -1,6 +1,6 @@
 ---
-title: etc:trace_replayBlockTransactions \[POST\]
-description: Provides transaction processing tracing per block.
+title: etc:trace_replayBlockTransactions - Ethereum Classic
+description: Example code for the etc:trace_replayBlockTransactions json-rpc method. Сomplete guide on how to use etc:trace_replayBlockTransactions json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

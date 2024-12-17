@@ -1,6 +1,6 @@
 ---
-title: rsk:eth_getTransactionCount \[WebSocket\]
-description: Returns the number of transactions sent from an address.
+title: rsk:eth_getTransactionCount - Rootstock
+description: Example code for the rsk:eth_getTransactionCount ws method. Сomplete guide on how to use rsk:eth_getTransactionCount ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

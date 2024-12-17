@@ -1,6 +1,6 @@
 ---
-title: zec:getaddressutxos \[POST\] {disallowed}
-description: Returns all unspent outputs for an address.WARNING getaddressutxos is disabled.
+title: zec:getaddressutxos  {disallowed} - Zcash
+description: Example code for the zec:getaddressutxos  {disallowed} json-rpc method. Сomplete guide on how to use zec:getaddressutxos  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

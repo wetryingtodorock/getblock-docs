@@ -1,6 +1,6 @@
 ---
-title: trx:/wallet/updateenergylimit \[POST\] {disallowed}
-description: Update the origin_energy_limit parameter of a smart contractStarting with Java-Tron Odyssey 3.2 release, this parameter is requiredfor deploying new contracts, and the value should be larger than 0. Forcontracts already deployed on the Mainnet prior to Odyssey 3.2, thevalue is stored as 0, but treated as maximum = 10,000,000.
+title: trx:/wallet/updateenergylimit  {disallowed} - TRON
+description: Example code for the trx:/wallet/updateenergylimit  {disallowed} rest method. Сomplete guide on how to use trx:/wallet/updateenergylimit  {disallowed} rest in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

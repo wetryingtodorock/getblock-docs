@@ -1,6 +1,6 @@
 ---
-title: rsk:eth_compileSerpent \[Websocket\] {disallowed}
-description: For security reasons, we’ve decided not to include compilers in node.
+title: rsk:eth_compileSerpent  {disallowed} - Rootstock
+description: Example code for the rsk:eth_compileSerpent  {disallowed} ws method. Сomplete guide on how to use rsk:eth_compileSerpent  {disallowed} ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

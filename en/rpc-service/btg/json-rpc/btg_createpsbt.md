@@ -1,6 +1,6 @@
 ---
-title: btg:createpsbt \[POST\]
-description: Creates a transaction in the Partially Signed Transaction format.Implements the Creator role.
+title: btg:createpsbt - Bitcoin Gold
+description: Example code for the btg:createpsbt json-rpc method. Сomplete guide on how to use btg:createpsbt json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

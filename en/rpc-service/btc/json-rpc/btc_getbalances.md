@@ -1,6 +1,6 @@
 ---
-title: btc:getbalances \[POST\] {disallowed}
-description: Returns an object with all balances in BTC.
+title: btc:getbalances  {disallowed} - Bitcoin
+description: Example code for the btc:getbalances  {disallowed} json-rpc method. Сomplete guide on how to use btc:getbalances  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

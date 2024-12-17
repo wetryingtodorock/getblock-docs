@@ -1,6 +1,6 @@
 ---
-title: bcn:get_statistics \[POST\]
-description: Returns misc statistics about bytecoind being queried.
+title: bcn:get_statistics - Bitcoin Cash
+description: Example code for the bcn:get_statistics json-rpc method. Сomplete guide on how to use bcn:get_statistics json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: ftm:eth_getBlockReceipts \[POST\] {disallowed}
-description: Returns all transaction receipts for a given block.
+title: ftm:eth_getBlockReceipts  {disallowed} - Fantom
+description: Example code for the ftm:eth_getBlockReceipts  {disallowed} json-rpc method. Сomplete guide on how to use ftm:eth_getBlockReceipts  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

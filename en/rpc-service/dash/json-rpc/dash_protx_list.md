@@ -1,6 +1,6 @@
 ---
-title: dash:protx_list \[POST\] {disallowed}
-description: The protx list RPC returns a list of provider transactions.Lists all ProTxs in your wallet or on-chain, depending on the giventype.If type is not specified, it defaults to registered. All types have theoptional argument detailed which if set to true will result in adetailed list being returned. If set to false, only the hashes of theProTx will be returned.
+title: dash:protx_list  {disallowed} - Dash
+description: Example code for the dash:protx_list  {disallowed} json-rpc method. Сomplete guide on how to use dash:protx_list  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

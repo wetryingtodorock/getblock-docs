@@ -1,6 +1,6 @@
 ---
-title: optimism:shh_addToGroup \[POST\] {disallowed}
-description: Adds given address to a group
+title: optimism:shh_addToGroup  {disallowed} - Optimism
+description: Example code for the optimism:shh_addToGroup  {disallowed} json-rpc method. Сomplete guide on how to use optimism:shh_addToGroup  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

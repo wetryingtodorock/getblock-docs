@@ -1,6 +1,6 @@
 ---
-title: ksm:engine_finalizeBlock \[POST\] {disallowed}
-description: Instructs the manual-seal authorship task to finalize a block.
+title: ksm:engine_finalizeBlock  {disallowed} - Kusama
+description: Example code for the ksm:engine_finalizeBlock  {disallowed} json-rpc method. Сomplete guide on how to use ksm:engine_finalizeBlock  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

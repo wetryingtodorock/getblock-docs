@@ -1,6 +1,6 @@
 ---
-title: xem:/account/get/forwarded \[GET\]
-description: Given a delegate (formerly known as remote) accounts address, gets theAccountMetaDataPair for the account for which the given account is thedelegate account. If the given account address is not a delegate accountfor any account, the request returns the AccountMetaDataPair for thegiven address.
+title: xem:/account/get/forwarded - NEM
+description: Example code for the xem:/account/get/forwarded rest method. Сomplete guide on how to use xem:/account/get/forwarded rest in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

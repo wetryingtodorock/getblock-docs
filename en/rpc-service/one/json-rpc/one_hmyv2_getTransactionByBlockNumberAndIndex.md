@@ -1,6 +1,6 @@
 ---
-title: one:hmyv2_getTransactionByBlockNumberAndIndex \[POST\]
-description: Returns transaction information for the specified block number andtransaction index position.
+title: one:hmyv2_getTransactionByBlockNumberAndIndex - Harmony
+description: Example code for the one:hmyv2_getTransactionByBlockNumberAndIndex json-rpc method. Сomplete guide on how to use one:hmyv2_getTransactionByBlockNumberAndIndex json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

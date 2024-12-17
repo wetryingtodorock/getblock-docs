@@ -1,6 +1,6 @@
 ---
-title: zec:getconnectioncount \[POST\] {disallowed}
-description: Returns the number of connections to other nodes.
+title: zec:getconnectioncount  {disallowed} - Zcash
+description: Example code for the zec:getconnectioncount  {disallowed} json-rpc method. Сomplete guide on how to use zec:getconnectioncount  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

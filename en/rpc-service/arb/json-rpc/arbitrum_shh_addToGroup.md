@@ -1,6 +1,6 @@
 ---
-title: arbitrum:shh_addToGroup \[POST\] {disallowed}
-description: Adds given address to a group
+title: arbitrum:shh_addToGroup  {disallowed} - Arbitrum
+description: Example code for the arbitrum:shh_addToGroup  {disallowed} json-rpc method. Сomplete guide on how to use arbitrum:shh_addToGroup  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

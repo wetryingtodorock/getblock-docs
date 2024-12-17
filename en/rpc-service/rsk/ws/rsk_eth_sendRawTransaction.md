@@ -1,6 +1,6 @@
 ---
-title: rsk:eth_sendRawTransaction \[WebSocket\]
-description: Creates new message call transaction or a contract creation for signedtransactions.
+title: rsk:eth_sendRawTransaction - Rootstock
+description: Example code for the rsk:eth_sendRawTransaction ws method. Сomplete guide on how to use rsk:eth_sendRawTransaction ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

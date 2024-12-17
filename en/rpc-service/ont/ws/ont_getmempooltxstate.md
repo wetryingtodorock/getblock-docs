@@ -1,6 +1,6 @@
 ---
-title: ont:getmempooltxstate \[WebSocket\]
-description: Fetches state of transactions in the memory pool.
+title: ont:getmempooltxstate - Ontology
+description: Example code for the ont:getmempooltxstate ws method. Сomplete guide on how to use ont:getmempooltxstate ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

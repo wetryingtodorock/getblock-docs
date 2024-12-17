@@ -1,6 +1,6 @@
 ---
-title: heco:net_version \[WebSocket\]
-description: Returns the current network id.
+title: heco:net_version - Huobi ECO Chain
+description: Example code for the heco:net_version ws method. Сomplete guide on how to use heco:net_version ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

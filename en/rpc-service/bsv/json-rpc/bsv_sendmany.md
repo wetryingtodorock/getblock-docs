@@ -1,6 +1,6 @@
 ---
-title: bsv:sendmany \[POST\] {disallowed}
-description: Send multiple times. Amounts are double-precision floating pointnumbers.Requires wallet passphrase to be set with walletpassphrase call ifwallet is encrypted.
+title: bsv:sendmany  {disallowed} - Bitcoin SV
+description: Example code for the bsv:sendmany  {disallowed} json-rpc method. Сomplete guide on how to use bsv:sendmany  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: dgb:listsinceblock \[POST\] {disallowed}
-description: Get all transactions in blocks since block \[blockhash\], or alltransactions if omitted.If “blockhash” is no longer a part of the main chain, transactions fromthe fork point onward are included.Additionally, if include_removed is set, transactions affecting thewallet which were removed are returned in the “removed” array.
+title: dgb:listsinceblock  {disallowed} - DigiByte
+description: Example code for the dgb:listsinceblock  {disallowed} json-rpc method. Сomplete guide on how to use dgb:listsinceblock  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

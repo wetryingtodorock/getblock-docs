@@ -1,6 +1,6 @@
 ---
-title: sol:sendTransaction \[POST\]
-description: Submits a signed transaction to the cluster for processing.This method does not alter the transaction in any way it relays thetransaction created by clients to the node as-is.If the nodes rpc service receives the transaction, this methodimmediately succeeds, without waiting for any confirmations. Asuccessful response from this method does not guarantee the transactionis processed or confirmed by the cluster.While the rpc service will reasonably retry to submit it, thetransaction could be rejected if transactions recent_blockhash expiresbefore it lands.Use getSignatureStatuses to ensure a transaction is processed andconfirmed.Before submitting, the following preflight checks are performed - Thetransaction signatures are verified - The transaction is simulatedagainst the bank slot specified by the preflight commitment. On failurean error will be returned. Preflight checks may be disabled if desired.It is recommended to specify the same commitment and preflightcommitment to avoid confusing behavior.The returned signature is the first signature in the transaction, whichis used to identify the transaction (transaction id). This identifiercan be easily extracted from the transaction data before submission.
+title: sol:sendTransaction - Solana
+description: Example code for the sol:sendTransaction json-rpc method. Сomplete guide on how to use sol:sendTransaction json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

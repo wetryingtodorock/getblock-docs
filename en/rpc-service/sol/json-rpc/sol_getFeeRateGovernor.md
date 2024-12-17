@@ -1,6 +1,6 @@
 ---
-title: sol:getFeeRateGovernor \[POST\] {disallowed}
-description: Returns the fee rate governor information from the root bank
+title: sol:getFeeRateGovernor  {disallowed} - Solana
+description: Example code for the sol:getFeeRateGovernor  {disallowed} json-rpc method. Сomplete guide on how to use sol:getFeeRateGovernor  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

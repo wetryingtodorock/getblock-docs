@@ -1,6 +1,6 @@
 ---
-title: ksm:eth_getWork \[POST\] {disallowed}
-description: Returns the hash of the current block, the seedHash, and the boundarycondition to be met.
+title: ksm:eth_getWork  {disallowed} - Kusama
+description: Example code for the ksm:eth_getWork  {disallowed} json-rpc method. Сomplete guide on how to use ksm:eth_getWork  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

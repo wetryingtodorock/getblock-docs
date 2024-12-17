@@ -1,6 +1,6 @@
 ---
-title: dot:eth_getCode \[POST\] {disallowed}
-description: Returns the code at given address at given time (block number).
+title: dot:eth_getCode  {disallowed} - Polkadot
+description: Example code for the dot:eth_getCode  {disallowed} json-rpc method. Сomplete guide on how to use dot:eth_getCode  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

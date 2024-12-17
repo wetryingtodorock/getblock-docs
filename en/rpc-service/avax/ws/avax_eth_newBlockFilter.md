@@ -1,6 +1,6 @@
 ---
-title: avax:eth_newBlockFilter \[WebSocket\]
-description: Creates a filter in the node, to notify when a new block arrives. Tocheck if the state has changed, call eth_getFilterChanges.
+title: avax:eth_newBlockFilter - Avalanche
+description: Example code for the avax:eth_newBlockFilter ws method. Сomplete guide on how to use avax:eth_newBlockFilter ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

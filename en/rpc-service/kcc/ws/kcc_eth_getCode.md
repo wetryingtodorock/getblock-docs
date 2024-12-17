@@ -1,6 +1,6 @@
 ---
-title: kcc:eth_getCode \[WebSocket\]
-description: Returns code at a given address.
+title: kcc:eth_getCode - KuCoin Community Chain
+description: Example code for the kcc:eth_getCode ws method. Сomplete guide on how to use kcc:eth_getCode ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

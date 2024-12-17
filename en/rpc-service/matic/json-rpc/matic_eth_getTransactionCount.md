@@ -1,6 +1,6 @@
 ---
-title: matic:eth_getTransactionCount \[POST\]
-description: Returns the number of transactions sent from an address.
+title: matic:eth_getTransactionCount - Polygon
+description: Example code for the matic:eth_getTransactionCount json-rpc method. Сomplete guide on how to use matic:eth_getTransactionCount json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

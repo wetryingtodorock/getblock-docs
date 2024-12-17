@@ -1,6 +1,6 @@
 ---
-title: avax:eth_baseFee \[WebSocket\] {disallowed}
-description: Get the base fee for the next block.
+title: avax:eth_baseFee  {disallowed} - Avalanche
+description: Example code for the avax:eth_baseFee  {disallowed} ws method. Сomplete guide on how to use avax:eth_baseFee  {disallowed} ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

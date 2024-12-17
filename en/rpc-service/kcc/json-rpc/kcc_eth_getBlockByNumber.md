@@ -1,6 +1,6 @@
 ---
-title: kcc:eth_getBlockByNumber \[POST\]
-description: Returns information about a block by block number.
+title: kcc:eth_getBlockByNumber - KuCoin Community Chain
+description: Example code for the kcc:eth_getBlockByNumber json-rpc method. Сomplete guide on how to use kcc:eth_getBlockByNumber json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

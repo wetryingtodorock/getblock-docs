@@ -1,6 +1,6 @@
 ---
-title: bsc:eth_unsubscribe \[POST\]
-description: Cancels specified subscription. Returns true if canceled successfully orfalse otherwise.
+title: bsc:eth_unsubscribe - Binance Smart Chain
+description: Example code for the bsc:eth_unsubscribe json-rpc method. Сomplete guide on how to use bsc:eth_unsubscribe json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: dash:sendmany \[POST\] {disallowed}
-description: Creates and broadcasts a transaction which sends outputs to multipleaddresses.Note that this parameter has been removed in v0.17. To use this RPC witha fromaccount parameter, restart dashd with -deprecatedrpc=accounts.
+title: dash:sendmany  {disallowed} - Dash
+description: Example code for the dash:sendmany  {disallowed} json-rpc method. Сomplete guide on how to use dash:sendmany  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

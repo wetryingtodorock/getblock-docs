@@ -1,6 +1,6 @@
 ---
-title: ksm:state_getPairs \[POST\] {disallowed}
-description: Returns the keys with prefix, leave empty to get all the keys(deprecated Use getKeysPaged.
+title: ksm:state_getPairs  {disallowed} - Kusama
+description: Example code for the ksm:state_getPairs  {disallowed} json-rpc method. Сomplete guide on how to use ksm:state_getPairs  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: matic:web3_sha3 \[POST\]
-description: Returns Keccak-256 (not the standardized SHA3-256) of the given data.
+title: matic:web3_sha3 - Polygon
+description: Example code for the matic:web3_sha3 json-rpc method. Сomplete guide on how to use matic:web3_sha3 json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

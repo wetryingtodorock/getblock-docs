@@ -1,6 +1,6 @@
 ---
-title: rsk:shh_addToGroup \[Websocket\] {disallowed}
-description: Whisper protocol not supported.
+title: rsk:shh_addToGroup  {disallowed} - Rootstock
+description: Example code for the rsk:shh_addToGroup  {disallowed} ws method. Сomplete guide on how to use rsk:shh_addToGroup  {disallowed} ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

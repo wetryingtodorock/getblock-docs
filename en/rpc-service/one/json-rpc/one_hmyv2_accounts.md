@@ -1,6 +1,6 @@
 ---
-title: one:hmyv2_accounts \[POST\]
-description: Returns a list of account addresses a client owns.
+title: one:hmyv2_accounts - Harmony
+description: Example code for the one:hmyv2_accounts json-rpc method. Сomplete guide on how to use one:hmyv2_accounts json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: rsk:eth_blockNumber \[POST\]
-description: Returns the number of most recent block.
+title: rsk:eth_blockNumber - Rootstock
+description: Example code for the rsk:eth_blockNumber json-rpc method. Сomplete guide on how to use rsk:eth_blockNumber json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

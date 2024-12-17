@@ -1,6 +1,6 @@
 ---
-title: arbitrum:db_putHex \[POST\] {disallowed}
-description: Stores binary data in the local database.Note this function is deprecated and will be removed in the future.
+title: arbitrum:db_putHex  {disallowed} - Arbitrum
+description: Example code for the arbitrum:db_putHex  {disallowed} json-rpc method. Сomplete guide on how to use arbitrum:db_putHex  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

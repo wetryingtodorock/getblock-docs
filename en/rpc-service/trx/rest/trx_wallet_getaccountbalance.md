@@ -1,6 +1,6 @@
 ---
-title: trx:/wallet/getaccountbalance \[POST\] {disallowed}
-description: Get the account balance in a specific block. (Note At present, theinterface data can only be queried through the following official nodes47.241.20.47, 161.117.85.97, 161.117.224.116, 161.117.83.38)
+title: trx:/wallet/getaccountbalance  {disallowed} - TRON
+description: Example code for the trx:/wallet/getaccountbalance  {disallowed} rest method. Сomplete guide on how to use trx:/wallet/getaccountbalance  {disallowed} rest in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

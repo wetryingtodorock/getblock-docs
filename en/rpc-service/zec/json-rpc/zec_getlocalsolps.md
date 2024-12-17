@@ -1,6 +1,6 @@
 ---
-title: zec:getlocalsolps \[POST\]
-description: Returns the average local solutions per second since this node wasstarted.This is the same information shown on the metrics screen (if enabled).
+title: zec:getlocalsolps - Zcash
+description: Example code for the zec:getlocalsolps json-rpc method. Сomplete guide on how to use zec:getlocalsolps json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

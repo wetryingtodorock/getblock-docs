@@ -1,6 +1,6 @@
 ---
-title: btg:rescanblockchain \[POST\] {disallowed}
-description: Rescan the local blockchain for wallet related transactions.Note Use “getwalletinfo” to query the scanning progress.
+title: btg:rescanblockchain  {disallowed} - Bitcoin Gold
+description: Example code for the btg:rescanblockchain  {disallowed} json-rpc method. Сomplete guide on how to use btg:rescanblockchain  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

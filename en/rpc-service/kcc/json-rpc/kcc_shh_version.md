@@ -1,6 +1,6 @@
 ---
-title: kcc:shh_version \[POST\] {disallowed}
-description: Returns the current whisper protocol version.
+title: kcc:shh_version  {disallowed} - KuCoin Community Chain
+description: Example code for the kcc:shh_version  {disallowed} json-rpc method. Сomplete guide on how to use kcc:shh_version  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

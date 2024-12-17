@@ -1,6 +1,6 @@
 ---
-title: rsk:eth_getTransactionByBlockHashAndIndex \[POST\]
-description: Returns information about a transaction by block hash and transactionindex position.
+title: rsk:eth_getTransactionByBlockHashAndIndex - Rootstock
+description: Example code for the rsk:eth_getTransactionByBlockHashAndIndex json-rpc method. Сomplete guide on how to use rsk:eth_getTransactionByBlockHashAndIndex json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

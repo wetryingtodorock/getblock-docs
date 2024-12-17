@@ -1,6 +1,6 @@
 ---
-title: doge:listreceivedbyaddress \[POST\] {disallowed}
-description: Returns a list of addresses. Each address is represented with aAddressInfo object.
+title: doge:listreceivedbyaddress  {disallowed} - Dogecoin
+description: Example code for the doge:listreceivedbyaddress  {disallowed} json-rpc method. Сomplete guide on how to use doge:listreceivedbyaddress  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

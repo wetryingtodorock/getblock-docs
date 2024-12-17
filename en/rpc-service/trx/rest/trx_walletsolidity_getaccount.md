@@ -1,6 +1,6 @@
 ---
-title: trx:/walletsolidity/getaccount \[POST\] {disallowed}
-description: get solidity account
+title: trx:/walletsolidity/getaccount  {disallowed} - TRON
+description: Example code for the trx:/walletsolidity/getaccount  {disallowed} rest method. Сomplete guide on how to use trx:/walletsolidity/getaccount  {disallowed} rest in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

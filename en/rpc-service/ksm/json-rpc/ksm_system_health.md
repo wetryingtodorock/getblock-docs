@@ -1,6 +1,6 @@
 ---
-title: ksm:system_health \[POST\]
-description: Return health status of the node
+title: ksm:system_health - Kusama
+description: Example code for the ksm:system_health json-rpc method. Сomplete guide on how to use ksm:system_health json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: kcc:eth_newPendingTransactionFilter \[POST\]
-description: Creates a filter in the node, to notify when new pending transactionsarrive. To check if the state has changed, call eth_getFilterChanges.
+title: kcc:eth_newPendingTransactionFilter - KuCoin Community Chain
+description: Example code for the kcc:eth_newPendingTransactionFilter json-rpc method. Сomplete guide on how to use kcc:eth_newPendingTransactionFilter json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

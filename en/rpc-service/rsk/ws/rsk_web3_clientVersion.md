@@ -1,6 +1,6 @@
 ---
-title: rsk:web3_clientVersion \[WebSocket\]
-description: Returns the current client version.
+title: rsk:web3_clientVersion - Rootstock
+description: Example code for the rsk:web3_clientVersion ws method. Сomplete guide on how to use rsk:web3_clientVersion ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

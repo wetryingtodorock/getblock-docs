@@ -1,6 +1,6 @@
 ---
-title: heco:eth_getTransactionByBlockHashAndIndex \[POST\]
-description: Returns information about a transaction by block hash and transactionindex position.
+title: heco:eth_getTransactionByBlockHashAndIndex - Huobi ECO Chain
+description: Example code for the heco:eth_getTransactionByBlockHashAndIndex json-rpc method. Сomplete guide on how to use heco:eth_getTransactionByBlockHashAndIndex json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: etc:perm_getNodesAllowlist \[POST\] {disallowed}
-description: Lists nodes in the nodes allowlist.
+title: etc:perm_getNodesAllowlist  {disallowed} - Ethereum Classic
+description: Example code for the etc:perm_getNodesAllowlist  {disallowed} json-rpc method. Сomplete guide on how to use etc:perm_getNodesAllowlist  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: bch:keypoolrefill \[POST\] {disallowed}
-description: Fills the keypool.Requires wallet passphrase to be set with walletpassphrase call ifwallet is encrypted.
+title: bch:keypoolrefill  {disallowed} - Bitcoin Cash
+description: Example code for the bch:keypoolrefill  {disallowed} json-rpc method. Сomplete guide on how to use bch:keypoolrefill  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

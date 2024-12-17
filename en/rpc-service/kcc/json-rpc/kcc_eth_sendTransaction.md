@@ -1,6 +1,6 @@
 ---
-title: kcc:eth_sendTransaction \[POST\] {disallowed}
-description: Not supported by kcc.Creates new message call transaction or a contract creation, if the datafield contains code.
+title: kcc:eth_sendTransaction  {disallowed} - KuCoin Community Chain
+description: Example code for the kcc:eth_sendTransaction  {disallowed} json-rpc method. Сomplete guide on how to use kcc:eth_sendTransaction  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: trx:eth_getWork \[POST\]
-description: Returns the hash of the current block
+title: trx:eth_getWork - TRON
+description: Example code for the trx:eth_getWork json-rpc method. Сomplete guide on how to use trx:eth_getWork json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

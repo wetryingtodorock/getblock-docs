@@ -1,6 +1,6 @@
 ---
-title: ont:getblockheightbytxhash \[WebSocket\]
-description: Fetch block height using given transaction hash.
+title: ont:getblockheightbytxhash - Ontology
+description: Example code for the ont:getblockheightbytxhash ws method. Сomplete guide on how to use ont:getblockheightbytxhash ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

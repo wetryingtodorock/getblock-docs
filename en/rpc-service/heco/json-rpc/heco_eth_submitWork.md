@@ -1,6 +1,6 @@
 ---
-title: heco:eth_submitWork \[POST\] {disallowed}
-description: Used for submitting a proof-of-work solution.
+title: heco:eth_submitWork  {disallowed} - Huobi ECO Chain
+description: Example code for the heco:eth_submitWork  {disallowed} json-rpc method. Сomplete guide on how to use heco:eth_submitWork  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

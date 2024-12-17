@@ -1,6 +1,6 @@
 ---
-title: dgb:generatetodescriptor \[POST\] {disallowed}
-description: Mine blocks immediately to a specified descriptor (before the RPC callreturns)
+title: dgb:generatetodescriptor  {disallowed} - DigiByte
+description: Example code for the dgb:generatetodescriptor  {disallowed} json-rpc method. Сomplete guide on how to use dgb:generatetodescriptor  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

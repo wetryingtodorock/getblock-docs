@@ -1,6 +1,6 @@
 ---
-title: optimism:net_version \[WebSocket\]
-description: Returns the current network id.
+title: optimism:net_version - Optimism
+description: Example code for the optimism:net_version ws method. Сomplete guide on how to use optimism:net_version ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

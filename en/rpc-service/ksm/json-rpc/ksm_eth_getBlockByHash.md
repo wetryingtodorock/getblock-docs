@@ -1,6 +1,6 @@
 ---
-title: ksm:eth_getBlockByHash \[POST\] {disallowed}
-description: Returns block with given hash.
+title: ksm:eth_getBlockByHash  {disallowed} - Kusama
+description: Example code for the ksm:eth_getBlockByHash  {disallowed} json-rpc method. Сomplete guide on how to use ksm:eth_getBlockByHash  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

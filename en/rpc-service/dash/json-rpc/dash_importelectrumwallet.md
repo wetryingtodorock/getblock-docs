@@ -1,6 +1,6 @@
 ---
-title: dash:importelectrumwallet \[POST\] {disallowed}
-description: Imports keys from an Electrum wallet export file (.csv or .json)
+title: dash:importelectrumwallet  {disallowed} - Dash
+description: Example code for the dash:importelectrumwallet  {disallowed} json-rpc method. Сomplete guide on how to use dash:importelectrumwallet  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: dash:getaddressesbylabel \[POST\] {disallowed}
-description: Returns a list of every address assigned to a particular label.
+title: dash:getaddressesbylabel  {disallowed} - Dash
+description: Example code for the dash:getaddressesbylabel  {disallowed} json-rpc method. Сomplete guide on how to use dash:getaddressesbylabel  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

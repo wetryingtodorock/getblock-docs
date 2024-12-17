@@ -1,6 +1,6 @@
 ---
-title: zec:z_exportkey \[POST\] {disallowed}
-description: Reveals the zkey corresponding to zaddr. Then the z_importkey can beused with this output.
+title: zec:z_exportkey  {disallowed} - Zcash
+description: Example code for the zec:z_exportkey  {disallowed} json-rpc method. Сomplete guide on how to use zec:z_exportkey  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

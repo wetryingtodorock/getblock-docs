@@ -1,6 +1,6 @@
 ---
-title: avax:eth_getBalance \[WebSocket\]
-description: Returns the balance of the account of given address.
+title: avax:eth_getBalance - Avalanche
+description: Example code for the avax:eth_getBalance ws method. Сomplete guide on how to use avax:eth_getBalance ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: arbitrum:eth_blockNumber \[WebSocket\]
-description: Returns the number of most recent block.
+title: arbitrum:eth_blockNumber - Arbitrum
+description: Example code for the arbitrum:eth_blockNumber ws method. Сomplete guide on how to use arbitrum:eth_blockNumber ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

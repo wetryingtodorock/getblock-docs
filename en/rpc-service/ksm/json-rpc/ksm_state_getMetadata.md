@@ -1,6 +1,6 @@
 ---
-title: ksm:state_getMetadata \[POST\]
-description: Returns the runtime metadata.
+title: ksm:state_getMetadata - Kusama
+description: Example code for the ksm:state_getMetadata json-rpc method. Сomplete guide on how to use ksm:state_getMetadata json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

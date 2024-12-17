@@ -1,6 +1,6 @@
 ---
-title: btg:loadwallet \[POST\] {disallowed}
-description: Loads a wallet from a wallet file or directory.Note that all wallet command-line options used when starting bitcoindwill be applied to the new wallet (eg -rescan, etc).
+title: btg:loadwallet  {disallowed} - Bitcoin Gold
+description: Example code for the btg:loadwallet  {disallowed} json-rpc method. Сomplete guide on how to use btg:loadwallet  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

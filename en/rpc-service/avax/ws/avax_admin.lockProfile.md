@@ -1,6 +1,6 @@
 ---
-title: avax:admin.lockProfile \[WebSocket\] {disallowed}
-description: Runs a mutex profile writing to the coreth_performance_c directory.
+title: avax:admin.lockProfile  {disallowed} - Avalanche
+description: Example code for the avax:admin.lockProfile  {disallowed} ws method. Сomplete guide on how to use avax:admin.lockProfile  {disallowed} ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

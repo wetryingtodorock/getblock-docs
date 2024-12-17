@@ -1,6 +1,6 @@
 ---
-title: heco:eth_blockNumber \[WebSocket\]
-description: Returns the number of most recent block.
+title: heco:eth_blockNumber - Huobi ECO Chain
+description: Example code for the heco:eth_blockNumber ws method. Сomplete guide on how to use heco:eth_blockNumber ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

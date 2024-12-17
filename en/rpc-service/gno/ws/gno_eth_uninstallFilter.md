@@ -1,6 +1,6 @@
 ---
-title: gno:eth_uninstallFilter \[WebSocket\]
-description: Uninstalls a filter with the specified ID. When a filter is no longerrequired, call this method.Filters time out when not requested by eth_getFilterChanges oreth_getFilterLogs for 10 minutes.
+title: gno:eth_uninstallFilter - Gnosis
+description: Example code for the gno:eth_uninstallFilter ws method. Сomplete guide on how to use gno:eth_uninstallFilter ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

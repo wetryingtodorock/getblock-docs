@@ -1,6 +1,6 @@
 ---
-title: trx:eth_chainId \[POST\]
-description: Returns the hash of the genesis block.
+title: trx:eth_chainId - TRON
+description: Example code for the trx:eth_chainId json-rpc method. Сomplete guide on how to use trx:eth_chainId json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

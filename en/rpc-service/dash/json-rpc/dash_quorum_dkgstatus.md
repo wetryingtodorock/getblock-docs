@@ -1,6 +1,6 @@
 ---
-title: dash:quorum_dkgstatus \[POST\] {disallowed}
-description: displays the status of the current DKG process.
+title: dash:quorum_dkgstatus  {disallowed} - Dash
+description: Example code for the dash:quorum_dkgstatus  {disallowed} json-rpc method. Сomplete guide on how to use dash:quorum_dkgstatus  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

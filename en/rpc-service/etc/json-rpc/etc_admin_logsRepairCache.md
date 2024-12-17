@@ -1,6 +1,6 @@
 ---
-title: etc:admin_logsRepairCache \[POST\] {disallowed}
-description: Repairs cached logs by fixing all segments starting with the specifiedblock number.
+title: etc:admin_logsRepairCache  {disallowed} - Ethereum Classic
+description: Example code for the etc:admin_logsRepairCache  {disallowed} json-rpc method. Сomplete guide on how to use etc:admin_logsRepairCache  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

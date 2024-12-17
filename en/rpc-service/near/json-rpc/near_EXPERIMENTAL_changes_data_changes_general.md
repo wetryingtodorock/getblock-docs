@@ -1,6 +1,6 @@
 ---
-title: near:EXPERIMENTAL_changes(data_changes_general) \[POST\] {disallowed}
-description: Returns the state change details of a contract based on the key prefix(encoded to base64). Pass an empty string for this param if you wouldlike to return all state changes.
+title: near:EXPERIMENTAL_changes(data_changes_general)  {disallowed} - NEAR Protocol
+description: Example code for the near:EXPERIMENTAL_changes(data_changes_general)  {disallowed} json-rpc method. Сomplete guide on how to use near:EXPERIMENTAL_changes(data_changes_general)  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

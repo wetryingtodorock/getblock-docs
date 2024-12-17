@@ -1,6 +1,6 @@
 ---
-title: kcc:eth_accounts \[POST\]
-description: Returns a list of addresses owned by client.
+title: kcc:eth_accounts - KuCoin Community Chain
+description: Example code for the kcc:eth_accounts json-rpc method. Сomplete guide on how to use kcc:eth_accounts json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

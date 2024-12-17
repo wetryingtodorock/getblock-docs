@@ -1,6 +1,6 @@
 ---
-title: cro:web3_clientVersion \[POST\]
-description: Returns the current client version.
+title: cro:web3_clientVersion - Cronos
+description: Example code for the cro:web3_clientVersion json-rpc method. Сomplete guide on how to use cro:web3_clientVersion json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

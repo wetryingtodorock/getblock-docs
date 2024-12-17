@@ -1,6 +1,6 @@
 ---
-title: btc:submitblock \[POST\] {disallowed}
-description: Attempts to submit new block to network.
+title: btc:submitblock  {disallowed} - Bitcoin
+description: Example code for the btc:submitblock  {disallowed} json-rpc method. Сomplete guide on how to use btc:submitblock  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

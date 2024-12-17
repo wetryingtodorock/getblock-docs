@@ -1,6 +1,6 @@
 ---
-title: ksm:eth_submitWork \[POST\] {disallowed}
-description: Used for submitting a proof-of-work solution.
+title: ksm:eth_submitWork  {disallowed} - Kusama
+description: Example code for the ksm:eth_submitWork  {disallowed} json-rpc method. Сomplete guide on how to use ksm:eth_submitWork  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

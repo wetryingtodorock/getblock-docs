@@ -1,6 +1,6 @@
 ---
-title: etc:admin_addPeer \[POST\] {disallowed}
-description: Adds a static node.
+title: etc:admin_addPeer  {disallowed} - Ethereum Classic
+description: Example code for the etc:admin_addPeer  {disallowed} json-rpc method. Сomplete guide on how to use etc:admin_addPeer  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

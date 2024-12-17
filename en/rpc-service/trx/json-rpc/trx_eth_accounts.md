@@ -1,6 +1,6 @@
 ---
-title: trx:eth_accounts \[POST\] {disallowed}
-description: Returns a list of addresses owned by the client.
+title: trx:eth_accounts  {disallowed} - TRON
+description: Example code for the trx:eth_accounts  {disallowed} json-rpc method. Сomplete guide on how to use trx:eth_accounts  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

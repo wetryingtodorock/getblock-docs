@@ -1,6 +1,6 @@
 ---
-title: kcc:eth_getWork \[WebSocket\] {disallowed}
-description: Returns the hash of the current block, the seedHash, and the boundarycondition to be met (“target”).Currently unavailable.
+title: kcc:eth_getWork  {disallowed} - KuCoin Community Chain
+description: Example code for the kcc:eth_getWork  {disallowed} ws method. Сomplete guide on how to use kcc:eth_getWork  {disallowed} ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: heco:eth_getStorageAt \[POST\]
-description: Returns the value from a storage position at a given address.
+title: heco:eth_getStorageAt - Huobi ECO Chain
+description: Example code for the heco:eth_getStorageAt json-rpc method. Сomplete guide on how to use heco:eth_getStorageAt json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

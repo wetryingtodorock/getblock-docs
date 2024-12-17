@@ -1,6 +1,6 @@
 ---
-title: dgb:clearbanned \[POST\] {disallowed}
-description: Clear all banned IPs.
+title: dgb:clearbanned  {disallowed} - DigiByte
+description: Example code for the dgb:clearbanned  {disallowed} json-rpc method. Сomplete guide on how to use dgb:clearbanned  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

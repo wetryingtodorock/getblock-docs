@@ -1,6 +1,6 @@
 ---
-title: dash:listbanned \[POST\] {disallowed}
-description: Lists all banned IPs/Subnets.
+title: dash:listbanned  {disallowed} - Dash
+description: Example code for the dash:listbanned  {disallowed} json-rpc method. Сomplete guide on how to use dash:listbanned  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

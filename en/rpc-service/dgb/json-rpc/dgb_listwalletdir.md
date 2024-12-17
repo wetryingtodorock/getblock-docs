@@ -1,6 +1,6 @@
 ---
-title: dgb:listwalletdir \[POST\] {disallowed}
-description: Returns a list of wallets in the wallet directory.
+title: dgb:listwalletdir  {disallowed} - DigiByte
+description: Example code for the dgb:listwalletdir  {disallowed} json-rpc method. Сomplete guide on how to use dgb:listwalletdir  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

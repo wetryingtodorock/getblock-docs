@@ -1,6 +1,6 @@
 ---
-title: optimism:net_listening \[POST\]
-description: Returns true if client is actively listening for network connections.
+title: optimism:net_listening - Optimism
+description: Example code for the optimism:net_listening json-rpc method. Сomplete guide on how to use optimism:net_listening json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

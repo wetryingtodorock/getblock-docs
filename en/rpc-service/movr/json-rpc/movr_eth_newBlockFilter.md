@@ -1,6 +1,6 @@
 ---
-title: movr:eth_newBlockFilter \[POST\] {disallowed}
-description: Returns id of new block filter.
+title: movr:eth_newBlockFilter  {disallowed} - Moonriver
+description: Example code for the movr:eth_newBlockFilter  {disallowed} json-rpc method. Сomplete guide on how to use movr:eth_newBlockFilter  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

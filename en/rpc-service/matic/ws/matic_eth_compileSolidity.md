@@ -1,6 +1,6 @@
 ---
-title: matic:eth_compileSolidity \[WebSocket\] {disallowed}
-description: For security reasons, we’ve decided not to include compilers in node.
+title: matic:eth_compileSolidity  {disallowed} - Polygon
+description: Example code for the matic:eth_compileSolidity  {disallowed} ws method. Сomplete guide on how to use matic:eth_compileSolidity  {disallowed} ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: trx:/wallet/gettransactionsign \[POST\] {disallowed}
-description: Sign the transaction, the api has the risk of leaking the private key,please make sure to call the api in a secure environment
+title: trx:/wallet/gettransactionsign  {disallowed} - TRON
+description: Example code for the trx:/wallet/gettransactionsign  {disallowed} rest method. Сomplete guide on how to use trx:/wallet/gettransactionsign  {disallowed} rest in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

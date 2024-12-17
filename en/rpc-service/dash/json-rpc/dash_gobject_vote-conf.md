@@ -1,6 +1,6 @@
 ---
-title: dash:gobject_vote-conf \[POST\] {disallowed}
-description: RPC votes on a governance object by masternode configured in dash.conf.
+title: dash:gobject_vote-conf  {disallowed} - Dash
+description: Example code for the dash:gobject_vote-conf  {disallowed} json-rpc method. Сomplete guide on how to use dash:gobject_vote-conf  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

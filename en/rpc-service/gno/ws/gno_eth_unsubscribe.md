@@ -1,6 +1,6 @@
 ---
-title: gno:eth_unsubscribe \[WebSocket\]
-description: Cancels specified subscription. Returns true if canceled successfully orfalse otherwise.
+title: gno:eth_unsubscribe - Gnosis
+description: Example code for the gno:eth_unsubscribe ws method. Сomplete guide on how to use gno:eth_unsubscribe ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

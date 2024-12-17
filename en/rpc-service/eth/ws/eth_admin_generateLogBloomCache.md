@@ -1,6 +1,6 @@
 ---
-title: eth:admin_generateLogBloomCache \[WebSocket\] {disallowed}
-description: Generates cached log bloom indexes for blocks. APIs such as eth_getLogsand eth_getFilterLogs use the cache for improved performance.
+title: eth:admin_generateLogBloomCache  {disallowed} - Ethereum
+description: Example code for the eth:admin_generateLogBloomCache  {disallowed} ws method. Сomplete guide on how to use eth:admin_generateLogBloomCache  {disallowed} ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

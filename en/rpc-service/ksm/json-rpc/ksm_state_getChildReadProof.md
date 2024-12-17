@@ -1,6 +1,6 @@
 ---
-title: ksm:state_getChildReadProof \[POST\] {disallowed}
-description: Returns proof of storage for child key entries at a specific blockstate.
+title: ksm:state_getChildReadProof  {disallowed} - Kusama
+description: Example code for the ksm:state_getChildReadProof  {disallowed} json-rpc method. Сomplete guide on how to use ksm:state_getChildReadProof  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

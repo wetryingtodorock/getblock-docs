@@ -1,6 +1,6 @@
 ---
-title: eth:eth_syncing \[WebSocket\]
-description: Returns an object with data about the synchronization status, or falseif not synchronizing.
+title: eth:eth_syncing - Ethereum
+description: Example code for the eth:eth_syncing ws method. Сomplete guide on how to use eth:eth_syncing ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

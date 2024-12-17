@@ -1,6 +1,6 @@
 ---
-title: trx:/wallet/gettriggerinputforshieldedtrc20contract \[POST\] {disallowed}
-description: Get Trigger Input For Shielded Trc20 Contract
+title: trx:/wallet/gettriggerinputforshieldedtrc20contract  {disallowed} - TRON
+description: Example code for the trx:/wallet/gettriggerinputforshieldedtrc20contract  {disallowed} rest method. Сomplete guide on how to use trx:/wallet/gettriggerinputforshieldedtrc20contract  {disallowed} rest in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

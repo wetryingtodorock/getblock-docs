@@ -1,6 +1,6 @@
 ---
-title: avax:eth_blockNumber \[POST\]
-description: Returns the number of most recent block.
+title: avax:eth_blockNumber - Avalanche
+description: Example code for the avax:eth_blockNumber json-rpc method. Сomplete guide on how to use avax:eth_blockNumber json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

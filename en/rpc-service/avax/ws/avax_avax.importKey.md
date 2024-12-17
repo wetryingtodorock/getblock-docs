@@ -1,6 +1,6 @@
 ---
-title: avax:avax.importKey \[WebSocket\] {disallowed}
-description: Give a user control over an address by providing the private key thatcontrols the address.
+title: avax:avax.importKey  {disallowed} - Avalanche
+description: Example code for the avax:avax.importKey  {disallowed} ws method. Сomplete guide on how to use avax:avax.importKey  {disallowed} ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

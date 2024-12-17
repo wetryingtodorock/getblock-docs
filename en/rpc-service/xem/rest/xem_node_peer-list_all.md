@@ -1,6 +1,6 @@
 ---
-title: xem:/node/peer-list/all \[GET\]
-description: Gets an array of all known nodes in the neighborhood.
+title: xem:/node/peer-list/all - NEM
+description: Example code for the xem:/node/peer-list/all rest method. Сomplete guide on how to use xem:/node/peer-list/all rest in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

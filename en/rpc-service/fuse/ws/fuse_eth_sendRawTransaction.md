@@ -1,6 +1,6 @@
 ---
-title: fuse:eth_sendRawTransaction \[WebSocket\]
-description: Creates new message call transaction or a contract creation for signedtransactions.
+title: fuse:eth_sendRawTransaction - Fuse Network
+description: Example code for the fuse:eth_sendRawTransaction ws method. Сomplete guide on how to use fuse:eth_sendRawTransaction ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

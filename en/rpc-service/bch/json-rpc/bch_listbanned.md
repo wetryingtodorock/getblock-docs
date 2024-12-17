@@ -1,6 +1,6 @@
 ---
-title: bch:listbanned \[POST\] {disallowed}
-description: List all banned IPs/Subnets.
+title: bch:listbanned  {disallowed} - Bitcoin Cash
+description: Example code for the bch:listbanned  {disallowed} json-rpc method. Сomplete guide on how to use bch:listbanned  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

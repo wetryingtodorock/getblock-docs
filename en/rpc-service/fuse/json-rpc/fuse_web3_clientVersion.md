@@ -1,6 +1,6 @@
 ---
-title: fuse:web3_clientVersion \[POST\]
-description: Returns the current client version.
+title: fuse:web3_clientVersion - Fuse Network
+description: Example code for the fuse:web3_clientVersion json-rpc method. Сomplete guide on how to use fuse:web3_clientVersion json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

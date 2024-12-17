@@ -1,6 +1,6 @@
 ---
-title: bsc:eth_chainId \[WebSocket\]
-description: Returns the chain ID.
+title: bsc:eth_chainId - Binance Smart Chain
+description: Example code for the bsc:eth_chainId ws method. Сomplete guide on how to use bsc:eth_chainId ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

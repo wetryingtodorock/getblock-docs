@@ -1,6 +1,6 @@
 ---
-title: glmr:net_listening \[POST\]
-description: Returns true if client is actively listening for network connections.
+title: glmr:net_listening - Moonbeam
+description: Example code for the glmr:net_listening json-rpc method. Сomplete guide on how to use glmr:net_listening json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

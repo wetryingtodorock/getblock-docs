@@ -1,6 +1,6 @@
 ---
-title: bsv:getblock \[POST\]
-description: If verbosity is 0, returns a string that is serialized, hex-encoded datafor block hash.If verbosity is 1, returns an Object with information about block hash.If verbosity is 2, returns an Object with information about block hashand information about each transaction.
+title: bsv:getblock - Bitcoin SV
+description: Example code for the bsv:getblock json-rpc method. Сomplete guide on how to use bsv:getblock json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: avax:admin.startCPUProfiler \[WebSocket\] {disallowed}
-description: Starts a CPU profile.
+title: avax:admin.startCPUProfiler  {disallowed} - Avalanche
+description: Example code for the avax:admin.startCPUProfiler  {disallowed} ws method. Сomplete guide on how to use avax:admin.startCPUProfiler  {disallowed} ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

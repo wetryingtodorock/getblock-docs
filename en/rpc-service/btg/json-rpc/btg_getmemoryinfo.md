@@ -1,6 +1,6 @@
 ---
-title: btg:getmemoryinfo \[POST\]
-description: Returns an object containing information about memory usage.
+title: btg:getmemoryinfo - Bitcoin Gold
+description: Example code for the btg:getmemoryinfo json-rpc method. Сomplete guide on how to use btg:getmemoryinfo json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

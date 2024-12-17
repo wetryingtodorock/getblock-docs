@@ -1,6 +1,6 @@
 ---
-title: eth:debug_traceTransaction \[WebSocket\] {disallowed}
-description: Remix uses debug_traceTransaction to implement debugging. Use theDebugger tab in Remix instead of calling debug_traceTransactiondirectly.Reruns the transaction with the same state as when the transactionexecuted.
+title: eth:debug_traceTransaction  {disallowed} - Ethereum
+description: Example code for the eth:debug_traceTransaction  {disallowed} ws method. Сomplete guide on how to use eth:debug_traceTransaction  {disallowed} ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

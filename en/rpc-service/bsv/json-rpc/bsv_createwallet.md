@@ -1,6 +1,6 @@
 ---
-title: bsv:createwallet \[POST\] {disallowed}
-description: Creates and loads a new wallet.
+title: bsv:createwallet  {disallowed} - Bitcoin SV
+description: Example code for the bsv:createwallet  {disallowed} json-rpc method. Сomplete guide on how to use bsv:createwallet  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: rsk:eth_submitHashrate \[POST\] {disallowed}
-description: Submits the mining hashrate.Used by mining software such as Ethminer.
+title: rsk:eth_submitHashrate  {disallowed} - Rootstock
+description: Example code for the rsk:eth_submitHashrate  {disallowed} json-rpc method. Сomplete guide on how to use rsk:eth_submitHashrate  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

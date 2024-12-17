@@ -1,6 +1,6 @@
 ---
-title: eth:miner_changeTargetGasLimit \[POST\] {disallowed}
-description: Updates the target gas limit set using the --target-gas-limit commandline option.
+title: eth:miner_changeTargetGasLimit  {disallowed} - Ethereum
+description: Example code for the eth:miner_changeTargetGasLimit  {disallowed} json-rpc method. Сomplete guide on how to use eth:miner_changeTargetGasLimit  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

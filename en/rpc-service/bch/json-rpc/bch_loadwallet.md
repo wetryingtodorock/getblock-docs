@@ -1,6 +1,6 @@
 ---
-title: bch:loadwallet \[POST\] {disallowed}
-description: Loads a wallet from a wallet file or directory.Note that all wallet command-line options used when starting bitcoindwill be applied to the new wallet (eg -rescan, etc).
+title: bch:loadwallet  {disallowed} - Bitcoin Cash
+description: Example code for the bch:loadwallet  {disallowed} json-rpc method. Сomplete guide on how to use bch:loadwallet  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

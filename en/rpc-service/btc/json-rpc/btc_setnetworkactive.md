@@ -1,6 +1,6 @@
 ---
-title: btc:setnetworkactive \[POST\] {disallowed}
-description: Disable/enable all p2p network activity.
+title: btc:setnetworkactive  {disallowed} - Bitcoin
+description: Example code for the btc:setnetworkactive  {disallowed} json-rpc method. Сomplete guide on how to use btc:setnetworkactive  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

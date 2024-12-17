@@ -1,6 +1,6 @@
 ---
-title: dash:bls_fromsecret \[POST\] {disallowed}
-description: RPC parses a BLS secret key and returns the secret/public key pair.
+title: dash:bls_fromsecret  {disallowed} - Dash
+description: Example code for the dash:bls_fromsecret  {disallowed} json-rpc method. Сomplete guide on how to use dash:bls_fromsecret  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

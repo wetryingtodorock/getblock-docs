@@ -1,6 +1,6 @@
 ---
-title: avax:eth_getTransactionReceipt \[WebSocket\]
-description: Returns the receipt of a transaction by transaction hash.Note That the receipt is not available for pending transactions.
+title: avax:eth_getTransactionReceipt - Avalanche
+description: Example code for the avax:eth_getTransactionReceipt ws method. Сomplete guide on how to use avax:eth_getTransactionReceipt ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

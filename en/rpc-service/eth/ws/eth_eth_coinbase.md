@@ -1,6 +1,6 @@
 ---
-title: eth:eth_coinbase \[WebSocket\]
-description: Returns the client coinbase address. The coinbase address is the accountto pay mining rewards to.To set a coinbase address, start Besu with the --miner-coinbase optionset to a valid Ethereum account address. You can get the Ethereumaccount address from a client such as MetaMask or Etherscan.
+title: eth:eth_coinbase - Ethereum
+description: Example code for the eth:eth_coinbase ws method. Сomplete guide on how to use eth:eth_coinbase ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

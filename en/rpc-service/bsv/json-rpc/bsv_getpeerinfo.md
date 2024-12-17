@@ -1,6 +1,6 @@
 ---
-title: bsv:getpeerinfo \[POST\] {disallowed}
-description: Returns data about each connected network node as a json array ofobjects.
+title: bsv:getpeerinfo  {disallowed} - Bitcoin SV
+description: Example code for the bsv:getpeerinfo  {disallowed} json-rpc method. Сomplete guide on how to use bsv:getpeerinfo  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

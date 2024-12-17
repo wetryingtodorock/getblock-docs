@@ -1,6 +1,6 @@
 ---
-title: xem:/debug/connections/outgoing \[GET\]
-description: Gets an audit collection of outgoing calls. You can monitor theoutstanding and recent outgoing requests with this information.
+title: xem:/debug/connections/outgoing - NEM
+description: Example code for the xem:/debug/connections/outgoing rest method. Сomplete guide on how to use xem:/debug/connections/outgoing rest in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: bsc:eth_getUncleByBlockHashAndIndex \[WebSocket\]
-description: Returns uncle specified by block hash and index.
+title: bsc:eth_getUncleByBlockHashAndIndex - Binance Smart Chain
+description: Example code for the bsc:eth_getUncleByBlockHashAndIndex ws method. Сomplete guide on how to use bsc:eth_getUncleByBlockHashAndIndex ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

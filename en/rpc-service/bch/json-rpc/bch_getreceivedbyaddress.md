@@ -1,6 +1,6 @@
 ---
-title: bch:getreceivedbyaddress \[POST\] {disallowed}
-description: Returns the total amount received by the given address in transactionswith at least minconf confirmations.
+title: bch:getreceivedbyaddress  {disallowed} - Bitcoin Cash
+description: Example code for the bch:getreceivedbyaddress  {disallowed} json-rpc method. Сomplete guide on how to use bch:getreceivedbyaddress  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

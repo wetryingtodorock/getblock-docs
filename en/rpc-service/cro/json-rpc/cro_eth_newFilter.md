@@ -1,6 +1,6 @@
 ---
-title: cro:eth_newFilter \[POST\]
-description: Creates a filter object, based on filter options, to notify when thestate changes (logs). To check if the state has changed, calleth_getFilterChanges.A note on specifying topic filtersTopics are order-dependent. A transaction with a log with topics \[A,B\] will be matched by the following topic filters\[\] “anything”\[A\] “A in first position (and anything after)”\[null, B\] “anything in first position AND B in second position (andanything after)”\[A, B\] “A in first position AND B in second position (and anythingafter)”\[\[A, B\], \[A, B\]\] “(A OR B) in first position AND (A OR B) insecond position (and anything after)”
+title: cro:eth_newFilter - Cronos
+description: Example code for the cro:eth_newFilter json-rpc method. Сomplete guide on how to use cro:eth_newFilter json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

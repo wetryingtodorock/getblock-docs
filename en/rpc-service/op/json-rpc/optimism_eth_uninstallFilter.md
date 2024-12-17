@@ -1,6 +1,6 @@
 ---
-title: optimism:eth_uninstallFilter \[POST\]
-description: Uninstalls a filter with given id. Should always be called when watch isno longer needed. Additonally Filters timeout when they aren’t requestedwith eth_getFilterChanges for a period of time.
+title: optimism:eth_uninstallFilter - Optimism
+description: Example code for the optimism:eth_uninstallFilter json-rpc method. Сomplete guide on how to use optimism:eth_uninstallFilter json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

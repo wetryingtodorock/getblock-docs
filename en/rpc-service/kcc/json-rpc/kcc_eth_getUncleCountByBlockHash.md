@@ -1,6 +1,6 @@
 ---
-title: kcc:eth_getUncleCountByBlockHash \[POST\]
-description: Returns the number of uncles in a block from a block matching the givenblock hash.
+title: kcc:eth_getUncleCountByBlockHash - KuCoin Community Chain
+description: Example code for the kcc:eth_getUncleCountByBlockHash json-rpc method. Сomplete guide on how to use kcc:eth_getUncleCountByBlockHash json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

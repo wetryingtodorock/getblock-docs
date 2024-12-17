@@ -1,6 +1,6 @@
 ---
-title: dash:protx_register_prepare \[POST\] {disallowed}
-description: RPC creates an unsigned ProTx and a message that must be signedexternally with the private key that corresponds to collateralAddress toprove collateral ownership. The prepared transaction will also containinputs and outputs to cover fees. The ProTx must be passed to protxregister_submit.
+title: dash:protx_register_prepare  {disallowed} - Dash
+description: Example code for the dash:protx_register_prepare  {disallowed} json-rpc method. Сomplete guide on how to use dash:protx_register_prepare  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

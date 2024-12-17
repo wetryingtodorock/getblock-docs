@@ -1,6 +1,6 @@
 ---
-title: fuse:eth_getUncleByBlockHashAndIndex \[WebSocket\]
-description: Returns information about a uncle of a block by hash and uncle indexposition.
+title: fuse:eth_getUncleByBlockHashAndIndex - Fuse Network
+description: Example code for the fuse:eth_getUncleByBlockHashAndIndex ws method. Сomplete guide on how to use fuse:eth_getUncleByBlockHashAndIndex ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

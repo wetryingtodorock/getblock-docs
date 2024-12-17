@@ -1,6 +1,6 @@
 ---
-title: fuse:eth_getBalance \[WebSocket\]
-description: Returns the balance of the account of given address.
+title: fuse:eth_getBalance - Fuse Network
+description: Example code for the fuse:eth_getBalance ws method. Сomplete guide on how to use fuse:eth_getBalance ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

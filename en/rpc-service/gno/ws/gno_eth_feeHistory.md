@@ -1,6 +1,6 @@
 ---
-title: gno:eth_feeHistory \[WebSocket\]
-description: Returns a list of historical gas information.
+title: gno:eth_feeHistory - Gnosis
+description: Example code for the gno:eth_feeHistory ws method. Сomplete guide on how to use gno:eth_feeHistory ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: fuse:eth_accounts \[POST\]
-description: Returns a list of addresses owned by client.
+title: fuse:eth_accounts - Fuse Network
+description: Example code for the fuse:eth_accounts json-rpc method. Сomplete guide on how to use fuse:eth_accounts json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

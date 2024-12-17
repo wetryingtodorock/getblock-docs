@@ -1,6 +1,6 @@
 ---
-title: trx:/wallet/getnodeinfo \[GET\] {disallowed}
-description: Query Node Information. Returns information about current state of node.
+title: trx:/wallet/getnodeinfo  {disallowed} - TRON
+description: Example code for the trx:/wallet/getnodeinfo  {disallowed} rest method. Сomplete guide on how to use trx:/wallet/getnodeinfo  {disallowed} rest in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: matic:rpc_modules \[WebSocket\]
-description: Lists enabled APIs and the version of each.
+title: matic:rpc_modules - Polygon
+description: Example code for the matic:rpc_modules ws method. Сomplete guide on how to use matic:rpc_modules ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: rsk:db_putHex \[POST\] {disallowed}
-description: Deprecated
+title: rsk:db_putHex  {disallowed} - Rootstock
+description: Example code for the rsk:db_putHex  {disallowed} json-rpc method. Сomplete guide on how to use rsk:db_putHex  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

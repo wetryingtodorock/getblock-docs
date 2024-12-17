@@ -1,6 +1,6 @@
 ---
-title: fuse:shh_version \[WebSocket\] {disallowed}
-description: Returns the current whisper protocol version.
+title: fuse:shh_version  {disallowed} - Fuse Network
+description: Example code for the fuse:shh_version  {disallowed} ws method. Сomplete guide on how to use fuse:shh_version  {disallowed} ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

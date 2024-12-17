@@ -1,6 +1,6 @@
 ---
-title: zec:z_getbalance \[POST\] {disallowed}
-description: Returns the balance of a taddr or zaddr belonging to the nodes wallet.CAUTION If the wallet has only an incoming viewing key for thisaddress, then spends cannot be detected, and so the returned balance maybe larger than the actual balance.
+title: zec:z_getbalance  {disallowed} - Zcash
+description: Example code for the zec:z_getbalance  {disallowed} json-rpc method. Сomplete guide on how to use zec:z_getbalance  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

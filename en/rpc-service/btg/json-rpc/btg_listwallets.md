@@ -1,6 +1,6 @@
 ---
-title: btg:listwallets \[POST\] {disallowed}
-description: Returns a list of currently loaded wallets.For full information on the wallet, use “getwalletinfo”
+title: btg:listwallets  {disallowed} - Bitcoin Gold
+description: Example code for the btg:listwallets  {disallowed} json-rpc method. Сomplete guide on how to use btg:listwallets  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

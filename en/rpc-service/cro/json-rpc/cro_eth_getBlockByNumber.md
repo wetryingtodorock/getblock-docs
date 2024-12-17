@@ -1,6 +1,6 @@
 ---
-title: cro:eth_getBlockByNumber \[POST\]
-description: Returns information about a block by block number.
+title: cro:eth_getBlockByNumber - Cronos
+description: Example code for the cro:eth_getBlockByNumber json-rpc method. Сomplete guide on how to use cro:eth_getBlockByNumber json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: xmr:get_block_count \[POST\]
-description: Look up how many blocks are in the longest chain known to the node.
+title: xmr:get_block_count - Monero
+description: Example code for the xmr:get_block_count json-rpc method. Сomplete guide on how to use xmr:get_block_count json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

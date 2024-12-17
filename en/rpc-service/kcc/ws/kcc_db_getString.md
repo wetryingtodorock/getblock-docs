@@ -1,6 +1,6 @@
 ---
-title: kcc:db_getString \[WebSocket\] {disallowed}
-description: Returns string from the local database.Note this function is deprecated and will be removed in the future.
+title: kcc:db_getString  {disallowed} - KuCoin Community Chain
+description: Example code for the kcc:db_getString  {disallowed} ws method. Сomplete guide on how to use kcc:db_getString  {disallowed} ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

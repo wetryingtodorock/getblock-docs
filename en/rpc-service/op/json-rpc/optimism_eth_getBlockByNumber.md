@@ -1,6 +1,6 @@
 ---
-title: optimism:eth_getBlockByNumber \[POST\]
-description: Returns information about a block by block number.
+title: optimism:eth_getBlockByNumber - Optimism
+description: Example code for the optimism:eth_getBlockByNumber json-rpc method. Сomplete guide on how to use optimism:eth_getBlockByNumber json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

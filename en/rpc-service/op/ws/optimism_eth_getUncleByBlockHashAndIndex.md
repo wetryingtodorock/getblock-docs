@@ -1,6 +1,6 @@
 ---
-title: optimism:eth_getUncleByBlockHashAndIndex \[WebSocket\]
-description: Returns information about a uncle of a block by hash and uncle indexposition.
+title: optimism:eth_getUncleByBlockHashAndIndex - Optimism
+description: Example code for the optimism:eth_getUncleByBlockHashAndIndex ws method. Сomplete guide on how to use optimism:eth_getUncleByBlockHashAndIndex ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

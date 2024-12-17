@@ -1,6 +1,6 @@
 ---
-title: movr:eth_getTransactionReceipt \[POST\] {disallowed}
-description: Returns transaction receipt by transaction hash.
+title: movr:eth_getTransactionReceipt  {disallowed} - Moonriver
+description: Example code for the movr:eth_getTransactionReceipt  {disallowed} json-rpc method. Сomplete guide on how to use movr:eth_getTransactionReceipt  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

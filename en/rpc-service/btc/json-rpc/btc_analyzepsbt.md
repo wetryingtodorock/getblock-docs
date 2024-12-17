@@ -1,6 +1,6 @@
 ---
-title: btc:analyzepsbt \[POST\]
-description: Analyzes and provides information about the current status of a PSBT andits inputs
+title: btc:analyzepsbt - Bitcoin
+description: Example code for the btc:analyzepsbt json-rpc method. Сomplete guide on how to use btc:analyzepsbt json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

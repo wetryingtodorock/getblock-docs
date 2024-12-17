@@ -1,6 +1,6 @@
 ---
-title: one:eth_getStorageAt \[POST\]
-description: Returns the value of a storage position at a specified address.
+title: one:eth_getStorageAt - Harmony
+description: Example code for the one:eth_getStorageAt json-rpc method. Сomplete guide on how to use one:eth_getStorageAt json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

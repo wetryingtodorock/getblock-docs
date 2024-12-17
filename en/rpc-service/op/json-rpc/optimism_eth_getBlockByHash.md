@@ -1,6 +1,6 @@
 ---
-title: optimism:eth_getBlockByHash \[POST\]
-description: Returns information about a block by hash.
+title: optimism:eth_getBlockByHash - Optimism
+description: Example code for the optimism:eth_getBlockByHash json-rpc method. Сomplete guide on how to use optimism:eth_getBlockByHash json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

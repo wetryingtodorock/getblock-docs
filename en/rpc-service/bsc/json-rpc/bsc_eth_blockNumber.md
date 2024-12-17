@@ -1,6 +1,6 @@
 ---
-title: bsc:eth_blockNumber \[POST\]
-description: Returns the index corresponding to the block number of the current chainhead.
+title: bsc:eth_blockNumber - Binance Smart Chain
+description: Example code for the bsc:eth_blockNumber json-rpc method. Сomplete guide on how to use bsc:eth_blockNumber json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: dash:listwallets \[POST\] {disallowed}
-description: Returns a list of currently loaded wallets.
+title: dash:listwallets  {disallowed} - Dash
+description: Example code for the dash:listwallets  {disallowed} json-rpc method. Сomplete guide on how to use dash:listwallets  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

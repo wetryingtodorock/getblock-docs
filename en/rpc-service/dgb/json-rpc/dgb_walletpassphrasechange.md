@@ -1,6 +1,6 @@
 ---
-title: dgb:walletpassphrasechange \[POST\] {disallowed}
-description: Changes the wallet passphrase from ‘oldpassphrase’ to ‘newpassphrase’.
+title: dgb:walletpassphrasechange  {disallowed} - DigiByte
+description: Example code for the dgb:walletpassphrasechange  {disallowed} json-rpc method. Сomplete guide on how to use dgb:walletpassphrasechange  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

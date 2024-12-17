@@ -1,6 +1,6 @@
 ---
-title: sol:getLargestAccounts \[POST\]
-description: Returns the 20 largest accounts, by lamport balance (results may becached up to two hours)
+title: sol:getLargestAccounts - Solana
+description: Example code for the sol:getLargestAccounts json-rpc method. Сomplete guide on how to use sol:getLargestAccounts json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: btc:settxfee \[POST\] {disallowed}
-description: Set the transaction fee per kB for this wallet. Overrides the global-paytxfee command line parameter.Can be deactivated by passing 0 as the fee. In that case automatic feeselection will be used by default.
+title: btc:settxfee  {disallowed} - Bitcoin
+description: Example code for the btc:settxfee  {disallowed} json-rpc method. Сomplete guide on how to use btc:settxfee  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

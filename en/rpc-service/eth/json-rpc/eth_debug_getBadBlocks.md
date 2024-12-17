@@ -1,6 +1,6 @@
 ---
-title: eth:debug_getBadBlocks \[POST\] {disallowed}
-description: Returns a list of invalid blocks. This is used to detect and analyzeconsensus flaws.
+title: eth:debug_getBadBlocks  {disallowed} - Ethereum
+description: Example code for the eth:debug_getBadBlocks  {disallowed} json-rpc method. Сomplete guide on how to use eth:debug_getBadBlocks  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

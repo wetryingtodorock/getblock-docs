@@ -1,6 +1,6 @@
 ---
-title: zec:listbanned \[POST\] {disallowed}
-description: List all banned IPs/Subnets.
+title: zec:listbanned  {disallowed} - Zcash
+description: Example code for the zec:listbanned  {disallowed} json-rpc method. Сomplete guide on how to use zec:listbanned  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

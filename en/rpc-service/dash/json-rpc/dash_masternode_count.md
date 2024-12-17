@@ -1,6 +1,6 @@
 ---
-title: dash:masternode_count \[POST\]
-description: prints the number of all known masternodes.
+title: dash:masternode_count - Dash
+description: Example code for the dash:masternode_count json-rpc method. Сomplete guide on how to use dash:masternode_count json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

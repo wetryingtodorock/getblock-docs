@@ -1,6 +1,6 @@
 ---
-title: movr:eth_sendTransaction \[POST\] {disallowed}
-description: Sends transaction will block waiting for signer to return thetransaction hash
+title: movr:eth_sendTransaction  {disallowed} - Moonriver
+description: Example code for the movr:eth_sendTransaction  {disallowed} json-rpc method. Сomplete guide on how to use movr:eth_sendTransaction  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

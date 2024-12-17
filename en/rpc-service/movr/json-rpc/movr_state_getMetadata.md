@@ -1,6 +1,6 @@
 ---
-title: movr:state_getMetadata \[POST\]
-description: Returns the runtime metadata.
+title: movr:state_getMetadata - Moonriver
+description: Example code for the movr:state_getMetadata json-rpc method. Сomplete guide on how to use movr:state_getMetadata json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

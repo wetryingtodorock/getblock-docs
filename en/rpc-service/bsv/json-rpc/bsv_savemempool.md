@@ -1,6 +1,6 @@
 ---
-title: bsv:savemempool \[POST\] {disallowed}
-description: Dumps the mempool to disk. It will fail until the previous dump is fullyloaded.
+title: bsv:savemempool  {disallowed} - Bitcoin SV
+description: Example code for the bsv:savemempool  {disallowed} json-rpc method. Сomplete guide on how to use bsv:savemempool  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

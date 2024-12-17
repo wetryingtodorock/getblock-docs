@@ -1,6 +1,6 @@
 ---
-title: ksm:author_pendingExtrinsics \[POST\] {disallowed}
-description: Returns all pending extrinsics, potentially grouped by sender.
+title: ksm:author_pendingExtrinsics  {disallowed} - Kusama
+description: Example code for the ksm:author_pendingExtrinsics  {disallowed} json-rpc method. Сomplete guide on how to use ksm:author_pendingExtrinsics  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

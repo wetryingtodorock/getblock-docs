@@ -1,6 +1,6 @@
 ---
-title: ton:/sendQuery \[POST\]
-description: Send query - unpacked external message. This method takes address, bodyand init-params (if any), packs it to external message and sends tonetwork. All params should be boc-serialized.
+title: ton:/sendQuery - The Open Network (TON)
+description: Example code for the ton:/sendQuery json-rpc method. Сomplete guide on how to use ton:/sendQuery json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

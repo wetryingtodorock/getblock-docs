@@ -1,6 +1,6 @@
 ---
-title: movr:offchain_localStorageSet \[POST\] {disallowed}
-description: Set offchain local storage under given key and prefix.
+title: movr:offchain_localStorageSet  {disallowed} - Moonriver
+description: Example code for the movr:offchain_localStorageSet  {disallowed} json-rpc method. Сomplete guide on how to use movr:offchain_localStorageSet  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

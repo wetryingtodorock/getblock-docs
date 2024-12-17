@@ -1,6 +1,6 @@
 ---
-title: ksm:eth_getBalance \[POST\] {disallowed}
-description: Returns balance of the given account.
+title: ksm:eth_getBalance  {disallowed} - Kusama
+description: Example code for the ksm:eth_getBalance  {disallowed} json-rpc method. Сomplete guide on how to use ksm:eth_getBalance  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

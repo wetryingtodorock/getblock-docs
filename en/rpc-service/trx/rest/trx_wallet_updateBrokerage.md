@@ -1,6 +1,6 @@
 ---
-title: trx:/wallet/updateBrokerage \[POST\] {disallowed}
-description: Update the witnesss brokerage setting.
+title: trx:/wallet/updateBrokerage  {disallowed} - TRON
+description: Example code for the trx:/wallet/updateBrokerage  {disallowed} rest method. Сomplete guide on how to use trx:/wallet/updateBrokerage  {disallowed} rest in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: dash:getblockheaders \[POST\]
-description: Returns an array of items with information about the requested number ofblockheaders starting from the requested hash.
+title: dash:getblockheaders - Dash
+description: Example code for the dash:getblockheaders json-rpc method. Сomplete guide on how to use dash:getblockheaders json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: bsc:eth_getStorageAt \[WebSocket\]
-description: Returns the value of a storage position at a specified address.
+title: bsc:eth_getStorageAt - Binance Smart Chain
+description: Example code for the bsc:eth_getStorageAt ws method. Сomplete guide on how to use bsc:eth_getStorageAt ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

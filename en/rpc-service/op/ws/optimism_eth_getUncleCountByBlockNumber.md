@@ -1,6 +1,6 @@
 ---
-title: optimism:eth_getUncleCountByBlockNumber \[WebSocket\]
-description: Returns the number of uncles in a block from a block matching the givenblock number.
+title: optimism:eth_getUncleCountByBlockNumber - Optimism
+description: Example code for the optimism:eth_getUncleCountByBlockNumber ws method. Сomplete guide on how to use optimism:eth_getUncleCountByBlockNumber ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

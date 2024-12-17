@@ -1,6 +1,6 @@
 ---
-title: heco:eth_call \[POST\]
-description: Executes a new message call immediately without creating a transactionon the block chain.
+title: heco:eth_call - Huobi ECO Chain
+description: Example code for the heco:eth_call json-rpc method. Сomplete guide on how to use heco:eth_call json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

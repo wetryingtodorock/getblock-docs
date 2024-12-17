@@ -1,6 +1,6 @@
 ---
-title: arbitrum:eth_getUncleCountByBlockHash \[WebSocket\]
-description: Returns the number of uncles in a block from a block matching the givenblock hash.
+title: arbitrum:eth_getUncleCountByBlockHash - Arbitrum
+description: Example code for the arbitrum:eth_getUncleCountByBlockHash ws method. Сomplete guide on how to use arbitrum:eth_getUncleCountByBlockHash ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

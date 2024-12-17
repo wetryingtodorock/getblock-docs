@@ -1,6 +1,6 @@
 ---
-title: apt:/v1/blocks/by_height/{block_height} \[GET\]
-description: Gets a block at the specified height (integer, starts at 0).
+title: apt:/v1/blocks/by_height/{block_height} - Aptos
+description: Example code for the apt:/v1/blocks/by_height/{block_height} json-rpc method. Сomplete guide on how to use apt:/v1/blocks/by_height/{block_height} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

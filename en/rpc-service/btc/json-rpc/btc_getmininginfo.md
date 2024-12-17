@@ -1,6 +1,6 @@
 ---
-title: btc:getmininginfo \[POST\]
-description: Returns a json object containing mining-related information.
+title: btc:getmininginfo - Bitcoin
+description: Example code for the btc:getmininginfo json-rpc method. Сomplete guide on how to use btc:getmininginfo json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

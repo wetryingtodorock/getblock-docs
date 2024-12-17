@@ -1,6 +1,6 @@
 ---
-title: zec:getbalance \[POST\] {disallowed}
-description: Returns the servers total available balance.
+title: zec:getbalance  {disallowed} - Zcash
+description: Example code for the zec:getbalance  {disallowed} json-rpc method. Сomplete guide on how to use zec:getbalance  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

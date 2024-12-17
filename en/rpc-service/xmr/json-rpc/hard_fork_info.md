@@ -1,6 +1,6 @@
 ---
-title: xmr:hard_fork_info \[POST\]
-description: Look up information regarding hard fork voting and readiness.
+title: xmr:hard_fork_info - Monero
+description: Example code for the xmr:hard_fork_info json-rpc method. Сomplete guide on how to use xmr:hard_fork_info json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

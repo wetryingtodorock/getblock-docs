@@ -1,6 +1,6 @@
 ---
-title: trx:eth_getStorageAt \[POST\]
-description: Returns the value from a storage position at a given address. It can beused to get the value of a variable in a contract.
+title: trx:eth_getStorageAt - TRON
+description: Example code for the trx:eth_getStorageAt json-rpc method. Сomplete guide on how to use trx:eth_getStorageAt json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

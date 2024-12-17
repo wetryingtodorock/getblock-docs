@@ -1,6 +1,6 @@
 ---
-title: ksm:eth_getTransactionReceipt \[POST\] {disallowed}
-description: Returns transaction receipt by transaction hash.
+title: ksm:eth_getTransactionReceipt  {disallowed} - Kusama
+description: Example code for the ksm:eth_getTransactionReceipt  {disallowed} json-rpc method. Сomplete guide on how to use ksm:eth_getTransactionReceipt  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

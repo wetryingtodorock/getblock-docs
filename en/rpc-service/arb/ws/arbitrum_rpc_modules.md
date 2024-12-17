@@ -1,6 +1,6 @@
 ---
-title: arbitrum:rpc_modules \[WebSocket\]
-description: Lists enabled APIs and the version of each.
+title: arbitrum:rpc_modules - Arbitrum
+description: Example code for the arbitrum:rpc_modules ws method. Сomplete guide on how to use arbitrum:rpc_modules ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

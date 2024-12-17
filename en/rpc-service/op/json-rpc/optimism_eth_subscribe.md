@@ -1,6 +1,6 @@
 ---
-title: optimism:eth_subscribe \[POST\]
-description: Subscribes to a specified event type, optionally restricted to one ormany objects. This method is available via websocket only.
+title: optimism:eth_subscribe - Optimism
+description: Example code for the optimism:eth_subscribe json-rpc method. Сomplete guide on how to use optimism:eth_subscribe json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

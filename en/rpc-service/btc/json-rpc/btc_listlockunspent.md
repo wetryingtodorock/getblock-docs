@@ -1,6 +1,6 @@
 ---
-title: btc:listlockunspent \[POST\] {disallowed}
-description: Returns list of temporarily unspendable outputs.See the lockunspent call to lock and unlock transactions for spending.
+title: btc:listlockunspent  {disallowed} - Bitcoin
+description: Example code for the btc:listlockunspent  {disallowed} json-rpc method. Сomplete guide on how to use btc:listlockunspent  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

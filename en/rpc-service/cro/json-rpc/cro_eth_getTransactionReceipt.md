@@ -1,6 +1,6 @@
 ---
-title: cro:eth_getTransactionReceipt \[POST\]
-description: Returns the receipt of a transaction by transaction hash. Receipts forpending transactions are not available.If you enabled revert reason, the receipt includes available revertreasons in the response.
+title: cro:eth_getTransactionReceipt - Cronos
+description: Example code for the cro:eth_getTransactionReceipt json-rpc method. Сomplete guide on how to use cro:eth_getTransactionReceipt json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

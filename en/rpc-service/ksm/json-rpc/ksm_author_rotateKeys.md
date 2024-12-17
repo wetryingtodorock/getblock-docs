@@ -1,6 +1,6 @@
 ---
-title: ksm:author_rotateKeys \[POST\] {disallowed}
-description: Generate new session keys and returns the corresponding public keys
+title: ksm:author_rotateKeys  {disallowed} - Kusama
+description: Example code for the ksm:author_rotateKeys  {disallowed} json-rpc method. Сomplete guide on how to use ksm:author_rotateKeys  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

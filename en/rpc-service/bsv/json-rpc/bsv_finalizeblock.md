@@ -1,6 +1,6 @@
 ---
-title: bsv:finalizeblock \[POST\] {disallowed}
-description: Treats a block as final. It cannot be reorged.Any chain that does not contain this block is invalid.Used on a less work chain, it can effectively PUTS YOU OUT OF CONSENSUS.USE WITH CAUTION!
+title: bsv:finalizeblock  {disallowed} - Bitcoin SV
+description: Example code for the bsv:finalizeblock  {disallowed} json-rpc method. Сomplete guide on how to use bsv:finalizeblock  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: trx:/wallet/gettransactionlistfrompending \[GET\]
-description: Get transaction list information from pending pool
+title: trx:/wallet/gettransactionlistfrompending - TRON
+description: Example code for the trx:/wallet/gettransactionlistfrompending rest method. Сomplete guide on how to use trx:/wallet/gettransactionlistfrompending rest in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

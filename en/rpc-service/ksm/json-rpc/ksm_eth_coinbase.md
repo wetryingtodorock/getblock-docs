@@ -1,6 +1,6 @@
 ---
-title: ksm:eth_coinbase \[POST\] {disallowed}
-description: Returns block author.
+title: ksm:eth_coinbase  {disallowed} - Kusama
+description: Example code for the ksm:eth_coinbase  {disallowed} json-rpc method. Сomplete guide on how to use ksm:eth_coinbase  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

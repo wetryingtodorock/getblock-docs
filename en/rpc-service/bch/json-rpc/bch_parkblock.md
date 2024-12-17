@@ -1,6 +1,6 @@
 ---
-title: bch:parkblock \[POST\] {disallowed}
-description: Marks a block as parked.
+title: bch:parkblock  {disallowed} - Bitcoin Cash
+description: Example code for the bch:parkblock  {disallowed} json-rpc method. Сomplete guide on how to use bch:parkblock  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

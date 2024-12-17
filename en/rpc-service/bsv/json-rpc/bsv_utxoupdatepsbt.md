@@ -1,6 +1,6 @@
 ---
-title: bsv:utxoupdatepsbt \[POST\]
-description: Updates all segwit inputs and outputs in a PSBT with data from outputdescriptors, the UTXO set or the mempool.
+title: bsv:utxoupdatepsbt - Bitcoin SV
+description: Example code for the bsv:utxoupdatepsbt json-rpc method. Сomplete guide on how to use bsv:utxoupdatepsbt json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

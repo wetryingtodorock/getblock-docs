@@ -1,6 +1,6 @@
 ---
-title: rsk:eth_getTransactionByBlockNumberAndIndex \[WebSocket\]
-description: Returns information about a transaction by block number and transactionindex position.
+title: rsk:eth_getTransactionByBlockNumberAndIndex - Rootstock
+description: Example code for the rsk:eth_getTransactionByBlockNumberAndIndex ws method. Сomplete guide on how to use rsk:eth_getTransactionByBlockNumberAndIndex ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

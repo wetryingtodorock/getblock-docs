@@ -1,6 +1,6 @@
 ---
-title: movr:state_call \[POST\] {disallowed}
-description: Perform a call to a builtin on the chain.
+title: movr:state_call  {disallowed} - Moonriver
+description: Example code for the movr:state_call  {disallowed} json-rpc method. Сomplete guide on how to use movr:state_call  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: bsc:debug_metrics \[WebSocket\] {disallowed}
-description: Returns metrics providing information on the internal operation of Besu.The available metrics might change over time. The JVM metrics might varybased on the JVM implementation used.
+title: bsc:debug_metrics  {disallowed} - Binance Smart Chain
+description: Example code for the bsc:debug_metrics  {disallowed} ws method. Сomplete guide on how to use bsc:debug_metrics  {disallowed} ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

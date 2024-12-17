@@ -1,6 +1,6 @@
 ---
-title: optimism:eth_getBlockTransactionCountByNumber \[WebSocket\]
-description: Returns the number of transactions in a block matching the given blocknumber.
+title: optimism:eth_getBlockTransactionCountByNumber - Optimism
+description: Example code for the optimism:eth_getBlockTransactionCountByNumber ws method. Сomplete guide on how to use optimism:eth_getBlockTransactionCountByNumber ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

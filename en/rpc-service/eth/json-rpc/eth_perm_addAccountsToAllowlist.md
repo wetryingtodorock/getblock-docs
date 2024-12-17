@@ -1,6 +1,6 @@
 ---
-title: eth:perm_addAccountsToAllowlist \[POST\] {disallowed}
-description: Adds accounts (participants) to the accounts permission list.
+title: eth:perm_addAccountsToAllowlist  {disallowed} - Ethereum
+description: Example code for the eth:perm_addAccountsToAllowlist  {disallowed} json-rpc method. Сomplete guide on how to use eth:perm_addAccountsToAllowlist  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

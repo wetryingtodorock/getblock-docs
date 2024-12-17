@@ -1,6 +1,6 @@
 ---
-title: zec:decoderawtransaction \[POST\]
-description: Return a JSON object representing the serialized, hex-encodedtransaction.
+title: zec:decoderawtransaction - Zcash
+description: Example code for the zec:decoderawtransaction json-rpc method. Сomplete guide on how to use zec:decoderawtransaction json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

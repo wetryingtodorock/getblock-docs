@@ -1,6 +1,6 @@
 ---
-title: eth:debug_traceCall \[WebSocket\] {disallowed}
-description: Returns a transaction trace object.
+title: eth:debug_traceCall  {disallowed} - Ethereum
+description: Example code for the eth:debug_traceCall  {disallowed} ws method. Сomplete guide on how to use eth:debug_traceCall  {disallowed} ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

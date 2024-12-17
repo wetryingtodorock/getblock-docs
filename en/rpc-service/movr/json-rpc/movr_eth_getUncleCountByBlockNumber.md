@@ -1,6 +1,6 @@
 ---
-title: movr:eth_getUncleCountByBlockNumber \[POST\] {disallowed}
-description: Returns the number of uncles in a block with given block number.
+title: movr:eth_getUncleCountByBlockNumber  {disallowed} - Moonriver
+description: Example code for the movr:eth_getUncleCountByBlockNumber  {disallowed} json-rpc method. Сomplete guide on how to use movr:eth_getUncleCountByBlockNumber  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: trx:/walletsolidity/gettransactionbyid \[POST\] {disallowed}
-description: Get solidity transaction by its ID
+title: trx:/walletsolidity/gettransactionbyid  {disallowed} - TRON
+description: Example code for the trx:/walletsolidity/gettransactionbyid  {disallowed} rest method. Сomplete guide on how to use trx:/walletsolidity/gettransactionbyid  {disallowed} rest in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

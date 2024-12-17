@@ -1,6 +1,6 @@
 ---
-title: cro:eth_getBlockReceipts \[POST\] {disallowed}
-description: Returns all transaction receipts for a given block.
+title: cro:eth_getBlockReceipts  {disallowed} - Cronos
+description: Example code for the cro:eth_getBlockReceipts  {disallowed} json-rpc method. Сomplete guide on how to use cro:eth_getBlockReceipts  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

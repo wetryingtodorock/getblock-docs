@@ -1,6 +1,6 @@
 ---
-title: zec:sendrawtransaction \[POST\]
-description: Submits raw transaction (serialized, hex-encoded) to local node andnetwork.
+title: zec:sendrawtransaction - Zcash
+description: Example code for the zec:sendrawtransaction json-rpc method. Сomplete guide on how to use zec:sendrawtransaction json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: arbitrum:eth_coinbase \[WebSocket\] {disallowed}
-description: Returns the client coinbase address.
+title: arbitrum:eth_coinbase  {disallowed} - Arbitrum
+description: Example code for the arbitrum:eth_coinbase  {disallowed} ws method. Сomplete guide on how to use arbitrum:eth_coinbase  {disallowed} ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

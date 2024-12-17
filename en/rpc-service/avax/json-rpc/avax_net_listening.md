@@ -1,6 +1,6 @@
 ---
-title: avax:net_listening \[POST\]
-description: Returns true if client is actively listening for network connections.
+title: avax:net_listening - Avalanche
+description: Example code for the avax:net_listening json-rpc method. Сomplete guide on how to use avax:net_listening json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

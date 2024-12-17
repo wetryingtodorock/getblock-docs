@@ -1,6 +1,6 @@
 ---
-title: zec:verifymessage \[POST\]
-description: Verify a signed message.
+title: zec:verifymessage - Zcash
+description: Example code for the zec:verifymessage json-rpc method. Сomplete guide on how to use zec:verifymessage json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

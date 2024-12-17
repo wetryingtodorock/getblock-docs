@@ -1,6 +1,6 @@
 ---
-title: bsv:getchaintxstats \[POST\]
-description: Compute statistics about the total number and rate of transactions inthe chain.
+title: bsv:getchaintxstats - Bitcoin SV
+description: Example code for the bsv:getchaintxstats json-rpc method. Сomplete guide on how to use bsv:getchaintxstats json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

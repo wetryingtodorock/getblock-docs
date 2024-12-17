@@ -1,6 +1,6 @@
 ---
-title: sol:getSnapshotSlot \[POST\] {disallowed}
-description: DEPRECATED Please use getHighestSnapshotSlot instead This method isexpected to be removed in solana-core v2.0Returns the highest slot that the node has a snapshot for
+title: sol:getSnapshotSlot  {disallowed} - Solana
+description: Example code for the sol:getSnapshotSlot  {disallowed} json-rpc method. Сomplete guide on how to use sol:getSnapshotSlot  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

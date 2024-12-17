@@ -1,6 +1,6 @@
 ---
-title: glmr:eth_mining \[POST\]
-description: Returns true if client is actively mining new blocks.
+title: glmr:eth_mining - Moonbeam
+description: Example code for the glmr:eth_mining json-rpc method. Сomplete guide on how to use glmr:eth_mining json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

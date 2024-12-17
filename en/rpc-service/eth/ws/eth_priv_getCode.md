@@ -1,6 +1,6 @@
 ---
-title: eth:priv_getCode \[WebSocket\] {disallowed}
-description: Returns the code of the private smart contract at the specified address.Compiled smart contract code is stored as a hexadecimal value.
+title: eth:priv_getCode  {disallowed} - Ethereum
+description: Example code for the eth:priv_getCode  {disallowed} ws method. Сomplete guide on how to use eth:priv_getCode  {disallowed} ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

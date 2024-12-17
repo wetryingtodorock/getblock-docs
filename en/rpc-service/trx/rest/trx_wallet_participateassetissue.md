@@ -1,6 +1,6 @@
 ---
-title: trx:/wallet/participateassetissue \[POST\] {disallowed}
-description: Participate in an asset issue.
+title: trx:/wallet/participateassetissue  {disallowed} - TRON
+description: Example code for the trx:/wallet/participateassetissue  {disallowed} rest method. Сomplete guide on how to use trx:/wallet/participateassetissue  {disallowed} rest in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: glmr:eth_getBlockTransactionCountByNumber \[POST\]
-description: Returns the number of transactions in a block matching the given blocknumber.
+title: glmr:eth_getBlockTransactionCountByNumber - Moonbeam
+description: Example code for the glmr:eth_getBlockTransactionCountByNumber json-rpc method. Сomplete guide on how to use glmr:eth_getBlockTransactionCountByNumber json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

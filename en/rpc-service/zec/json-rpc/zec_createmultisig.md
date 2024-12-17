@@ -1,6 +1,6 @@
 ---
-title: zec:createmultisig \[POST\] {disallowed}
-description: Creates a multi-signature address with n signature of m keys required.It returns a json object with the address and redeemScript.
+title: zec:createmultisig  {disallowed} - Zcash
+description: Example code for the zec:createmultisig  {disallowed} json-rpc method. Сomplete guide on how to use zec:createmultisig  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

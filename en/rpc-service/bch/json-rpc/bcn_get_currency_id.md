@@ -1,6 +1,6 @@
 ---
-title: bcn:get_currency_id \[POST\] {disallowed}
-description: Get currency id.
+title: bcn:get_currency_id  {disallowed} - Bitcoin Cash
+description: Example code for the bcn:get_currency_id  {disallowed} json-rpc method. Сomplete guide on how to use bcn:get_currency_id  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

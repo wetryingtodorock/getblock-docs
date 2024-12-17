@@ -1,6 +1,6 @@
 ---
-title: etc:eth_getBalance \[POST\]
-description: Returns the account balance of the specified address.
+title: etc:eth_getBalance - Ethereum Classic
+description: Example code for the etc:eth_getBalance json-rpc method. Сomplete guide on how to use etc:eth_getBalance json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: btc:addmultisigaddress \[POST\] {disallowed}
-description: Add an nrequired-to-sign multisignature address to the wallet. Requiresa new wallet backup.Each key is a Bitcoin address or hex-encoded public key.This functionality is only intended for use with non-watchonly addressesSee \`importaddress\` for watchonly p2sh address support.If label is specified, assign address to that label.
+title: btc:addmultisigaddress  {disallowed} - Bitcoin
+description: Example code for the btc:addmultisigaddress  {disallowed} json-rpc method. Сomplete guide on how to use btc:addmultisigaddress  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

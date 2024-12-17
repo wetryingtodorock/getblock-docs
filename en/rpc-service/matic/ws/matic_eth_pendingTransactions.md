@@ -1,6 +1,6 @@
 ---
-title: matic:eth_pendingTransactions \[WebSocket\]
-description: Returns the pending transactions list.
+title: matic:eth_pendingTransactions - Polygon
+description: Example code for the matic:eth_pendingTransactions ws method. Сomplete guide on how to use matic:eth_pendingTransactions ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

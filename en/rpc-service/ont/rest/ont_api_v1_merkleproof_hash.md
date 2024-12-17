@@ -1,6 +1,6 @@
 ---
-title: ont:/api/v1/merkleproof/{hash} \[GET\]
-description: Fetch merkle proof using transaction hash
+title: ont:/api/v1/merkleproof/{hash} - Ontology
+description: Example code for the ont:/api/v1/merkleproof/{hash} rest method. Сomplete guide on how to use ont:/api/v1/merkleproof/{hash} rest in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

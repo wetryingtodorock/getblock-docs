@@ -1,6 +1,6 @@
 ---
-title: fuse:net_version \[POST\]
-description: Returns the current network id.
+title: fuse:net_version - Fuse Network
+description: Example code for the fuse:net_version json-rpc method. Сomplete guide on how to use fuse:net_version json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

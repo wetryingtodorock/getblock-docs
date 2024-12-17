@@ -1,6 +1,6 @@
 ---
-title: ftm:eth_call \[POST\]
-description: Invokes a contract function locally and does not change the state of theblockchain.You can interact with contracts using eth_sendRawTransaction oreth_call.If revert reason is enabled with --revert-reason-enabled, the eth_callerror response will include the revert reason.
+title: ftm:eth_call - Fantom
+description: Example code for the ftm:eth_call json-rpc method. Сomplete guide on how to use ftm:eth_call json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

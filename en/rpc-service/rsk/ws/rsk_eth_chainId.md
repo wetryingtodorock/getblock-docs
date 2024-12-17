@@ -1,6 +1,6 @@
 ---
-title: rsk:eth_chainId \[WebSocket\]
-description: Returns the currently configured chain id, a value used inreplay-protected transaction signing as introduced by EIP-155.
+title: rsk:eth_chainId - Rootstock
+description: Example code for the rsk:eth_chainId ws method. Сomplete guide on how to use rsk:eth_chainId ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

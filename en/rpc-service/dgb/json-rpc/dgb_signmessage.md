@@ -1,6 +1,6 @@
 ---
-title: dgb:signmessage \[POST\] {disallowed}
-description: Sign a message with the private key of an address Requires walletpassphrase to be set with walletpassphrase call if wallet is encrypted.
+title: dgb:signmessage  {disallowed} - DigiByte
+description: Example code for the dgb:signmessage  {disallowed} json-rpc method. Сomplete guide on how to use dgb:signmessage  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

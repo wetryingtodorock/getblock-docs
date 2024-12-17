@@ -1,6 +1,6 @@
 ---
-title: zec:getblocktemplate \[POST\]
-description: If the request parameters include a mode key, that is used toexplicitly select between the default template request or aproposal.
+title: zec:getblocktemplate - Zcash
+description: Example code for the zec:getblocktemplate json-rpc method. Сomplete guide on how to use zec:getblocktemplate json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

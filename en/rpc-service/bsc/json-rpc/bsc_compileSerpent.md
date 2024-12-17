@@ -1,6 +1,6 @@
 ---
-title: bsc:compileSerpent \[POST\] {disallowed}
-description: Returns compiled serpent code.
+title: bsc:compileSerpent  {disallowed} - Binance Smart Chain
+description: Example code for the bsc:compileSerpent  {disallowed} json-rpc method. Сomplete guide on how to use bsc:compileSerpent  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

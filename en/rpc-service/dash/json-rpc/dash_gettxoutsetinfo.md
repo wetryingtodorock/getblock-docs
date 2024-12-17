@@ -1,6 +1,6 @@
 ---
-title: dash:gettxoutsetinfo \[POST\]
-description: Returns statistics about the confirmed unspent transaction output (UTXO)set. Note that this call may take some time and that it only countsoutputs from confirmed transactions - it does not count outputs from thememory pool.
+title: dash:gettxoutsetinfo - Dash
+description: Example code for the dash:gettxoutsetinfo json-rpc method. Сomplete guide on how to use dash:gettxoutsetinfo json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: zec:gettxoutsetinfo \[POST\]
-description: Returns statistics about the unspent transaction output set.Note this call may take some time.
+title: zec:gettxoutsetinfo - Zcash
+description: Example code for the zec:gettxoutsetinfo json-rpc method. Сomplete guide on how to use zec:gettxoutsetinfo json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

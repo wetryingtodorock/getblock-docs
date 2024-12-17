@@ -1,6 +1,6 @@
 ---
-title: dash:addnode \[POST\] {disallowed}
-description: Attempts to add or remove a node from the addnode list, or to try aconnection to a node once.
+title: dash:addnode  {disallowed} - Dash
+description: Example code for the dash:addnode  {disallowed} json-rpc method. Сomplete guide on how to use dash:addnode  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

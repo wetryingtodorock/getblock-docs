@@ -1,6 +1,6 @@
 ---
-title: matic:net_peerCount \[WebSocket\]
-description: Returns number of peers currently connected to the client.
+title: matic:net_peerCount - Polygon
+description: Example code for the matic:net_peerCount ws method. Сomplete guide on how to use matic:net_peerCount ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

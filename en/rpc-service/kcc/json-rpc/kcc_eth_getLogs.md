@@ -1,6 +1,6 @@
 ---
-title: kcc:eth_getLogs \[POST\]
-description: Returns an array of all logs matching a given filter object.
+title: kcc:eth_getLogs - KuCoin Community Chain
+description: Example code for the kcc:eth_getLogs json-rpc method. Сomplete guide on how to use kcc:eth_getLogs json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

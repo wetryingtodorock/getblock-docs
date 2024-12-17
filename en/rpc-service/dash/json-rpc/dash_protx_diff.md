@@ -1,6 +1,6 @@
 ---
-title: dash:protx_diff \[POST\] {disallowed}
-description: RPC calculates a diff and a proof between two masternode list.
+title: dash:protx_diff  {disallowed} - Dash
+description: Example code for the dash:protx_diff  {disallowed} json-rpc method. Сomplete guide on how to use dash:protx_diff  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

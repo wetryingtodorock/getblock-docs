@@ -1,6 +1,6 @@
 ---
-title: heco:eth_coinbase \[POST\]
-description: Returns the client coinbase address.
+title: heco:eth_coinbase - Huobi ECO Chain
+description: Example code for the heco:eth_coinbase json-rpc method. Сomplete guide on how to use heco:eth_coinbase json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

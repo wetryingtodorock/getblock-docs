@@ -1,6 +1,6 @@
 ---
-title: one:eth_chainId \[POST\]
-description: Returns the chain ID.
+title: one:eth_chainId - Harmony
+description: Example code for the one:eth_chainId json-rpc method. Сomplete guide on how to use one:eth_chainId json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

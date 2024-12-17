@@ -1,6 +1,6 @@
 ---
-title: etc:perm_reloadPermissionsFromFile \[POST\] {disallowed}
-description: Reloads the accounts and nodes allowlists from the permissionsconfiguration file.
+title: etc:perm_reloadPermissionsFromFile  {disallowed} - Ethereum Classic
+description: Example code for the etc:perm_reloadPermissionsFromFile  {disallowed} json-rpc method. Сomplete guide on how to use etc:perm_reloadPermissionsFromFile  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

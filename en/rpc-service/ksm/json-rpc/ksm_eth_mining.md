@@ -1,6 +1,6 @@
 ---
-title: ksm:eth_mining \[POST\] {disallowed}
-description: Returns false if client is actively mining new blocks.
+title: ksm:eth_mining  {disallowed} - Kusama
+description: Example code for the ksm:eth_mining  {disallowed} json-rpc method. Сomplete guide on how to use ksm:eth_mining  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

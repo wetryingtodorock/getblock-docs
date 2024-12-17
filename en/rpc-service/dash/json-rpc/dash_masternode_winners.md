@@ -1,6 +1,6 @@
 ---
-title: dash:masternode_winners \[POST\]
-description: prints the list of masternode winners.By default, the 10 previous block winners, the current block winner, andthe next 20 block winners are displayed. More past block winners can berequested via the optional count parameter.
+title: dash:masternode_winners - Dash
+description: Example code for the dash:masternode_winners json-rpc method. Сomplete guide on how to use dash:masternode_winners json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

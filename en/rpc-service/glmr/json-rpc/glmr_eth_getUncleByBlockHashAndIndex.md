@@ -1,6 +1,6 @@
 ---
-title: glmr:eth_getUncleByBlockHashAndIndex \[POST\]
-description: Returns information about a uncle of a block by hash and uncle indexposition.
+title: glmr:eth_getUncleByBlockHashAndIndex - Moonbeam
+description: Example code for the glmr:eth_getUncleByBlockHashAndIndex json-rpc method. Сomplete guide on how to use glmr:eth_getUncleByBlockHashAndIndex json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

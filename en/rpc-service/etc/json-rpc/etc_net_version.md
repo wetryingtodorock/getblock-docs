@@ -1,6 +1,6 @@
 ---
-title: etc:net_version \[POST\]
-description: Returns the network ID.
+title: etc:net_version - Ethereum Classic
+description: Example code for the etc:net_version json-rpc method. Сomplete guide on how to use etc:net_version json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: fuse:eth_getBlockTransactionCountByNumber \[WebSocket\]
-description: Returns the number of transactions in a block matching the given blocknumber.
+title: fuse:eth_getBlockTransactionCountByNumber - Fuse Network
+description: Example code for the fuse:eth_getBlockTransactionCountByNumber ws method. Сomplete guide on how to use fuse:eth_getBlockTransactionCountByNumber ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

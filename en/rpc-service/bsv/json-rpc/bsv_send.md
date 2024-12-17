@@ -1,6 +1,6 @@
 ---
-title: bsv:send \[POST\] {disallowed}
-description: EXPERIMENTAL warning this call may be changed in future releases.Send a transaction.
+title: bsv:send  {disallowed} - Bitcoin SV
+description: Example code for the bsv:send  {disallowed} json-rpc method. Сomplete guide on how to use bsv:send  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

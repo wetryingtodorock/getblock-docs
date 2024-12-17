@@ -1,6 +1,6 @@
 ---
-title: fuse:shh_addToGroup \[WebSocket\] {disallowed}
-description: Adds given address to a group
+title: fuse:shh_addToGroup  {disallowed} - Fuse Network
+description: Example code for the fuse:shh_addToGroup  {disallowed} ws method. Сomplete guide on how to use fuse:shh_addToGroup  {disallowed} ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

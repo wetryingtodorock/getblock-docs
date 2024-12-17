@@ -1,6 +1,6 @@
 ---
-title: dgb:getrawchangeaddress \[POST\] {disallowed}
-description: Returns a new Bitcoin address, for receiving change.This is for use with raw transactions, NOT normal use.
+title: dgb:getrawchangeaddress  {disallowed} - DigiByte
+description: Example code for the dgb:getrawchangeaddress  {disallowed} json-rpc method. Сomplete guide on how to use dgb:getrawchangeaddress  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

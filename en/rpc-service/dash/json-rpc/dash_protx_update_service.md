@@ -1,6 +1,6 @@
 ---
-title: dash:protx_update_service \[POST\] {disallowed}
-description: creates and sends a ProUpServTx to the network.
+title: dash:protx_update_service  {disallowed} - Dash
+description: Example code for the dash:protx_update_service  {disallowed} json-rpc method. Сomplete guide on how to use dash:protx_update_service  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

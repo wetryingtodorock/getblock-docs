@@ -1,6 +1,6 @@
 ---
-title: cro:web3_sha3 \[POST\]
-description: Returns a SHA3 hash of the specified data. The result value is aKeccak-256 hash, not the standardized SHA3-256.
+title: cro:web3_sha3 - Cronos
+description: Example code for the cro:web3_sha3 json-rpc method. Сomplete guide on how to use cro:web3_sha3 json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

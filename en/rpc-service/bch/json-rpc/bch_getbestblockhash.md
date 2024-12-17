@@ -1,6 +1,6 @@
 ---
-title: bch:getbestblockhash \[POST\]
-description: Returns the hash of the best (tip) block in the most-workfully-validated chain.
+title: bch:getbestblockhash - Bitcoin Cash
+description: Example code for the bch:getbestblockhash json-rpc method. Сomplete guide on how to use bch:getbestblockhash json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

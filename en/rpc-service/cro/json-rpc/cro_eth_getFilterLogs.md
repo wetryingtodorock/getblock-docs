@@ -1,6 +1,6 @@
 ---
-title: cro:eth_getFilterLogs \[POST\]
-description: Returns an array of logs for the specified filter.Leave the --auto-log-bloom-caching-enabled command line option at thedefault value of true to improve log retrieval performance.
+title: cro:eth_getFilterLogs - Cronos
+description: Example code for the cro:eth_getFilterLogs json-rpc method. Сomplete guide on how to use cro:eth_getFilterLogs json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

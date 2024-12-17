@@ -1,6 +1,6 @@
 ---
-title: trx:/wallet/createaddress \[POST\] {disallowed}
-description: Create address from a specified password string (NOT PRIVATE KEY). Thereis a security risk. This interface service has been shutdown by theTrongrid. Please use the offline mode or the node deployed by yourself.
+title: trx:/wallet/createaddress  {disallowed} - TRON
+description: Example code for the trx:/wallet/createaddress  {disallowed} rest method. Сomplete guide on how to use trx:/wallet/createaddress  {disallowed} rest in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

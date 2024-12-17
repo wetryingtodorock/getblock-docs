@@ -1,6 +1,6 @@
 ---
-title: xem:/debug/connections/timers \[GET\]
-description: Gets an array of task monitor structures. You can monitor the statisticsfor periodic tasks with this information.
+title: xem:/debug/connections/timers - NEM
+description: Example code for the xem:/debug/connections/timers rest method. Сomplete guide on how to use xem:/debug/connections/timers rest in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

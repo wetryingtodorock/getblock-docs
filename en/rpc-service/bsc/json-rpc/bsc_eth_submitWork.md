@@ -1,6 +1,6 @@
 ---
-title: bsc:eth_submitWork \[POST\] {disallowed}
-description: Submits a Proof of Work (Ethash) solution.Used by mining software such as Ethminer.
+title: bsc:eth_submitWork  {disallowed} - Binance Smart Chain
+description: Example code for the bsc:eth_submitWork  {disallowed} json-rpc method. Сomplete guide on how to use bsc:eth_submitWork  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

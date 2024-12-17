@@ -1,6 +1,6 @@
 ---
-title: avax:eth_submitHashrate \[WebSocket\] {disallowed}
-description: Submits the mining hashrate.
+title: avax:eth_submitHashrate  {disallowed} - Avalanche
+description: Example code for the avax:eth_submitHashrate  {disallowed} ws method. Сomplete guide on how to use avax:eth_submitHashrate  {disallowed} ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

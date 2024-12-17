@@ -1,6 +1,6 @@
 ---
-title: etc:priv_newFilter \[POST\] {disallowed}
-description: Creates a log filter for a private contract. To poll for logs associatedwith the created filter, use priv_getFilterChanges. To get all logsassociated with the filter, use priv_getFilterLogs.For private contracts, priv_newFilter is the same as eth_newFilter forpublic contracts.
+title: etc:priv_newFilter  {disallowed} - Ethereum Classic
+description: Example code for the etc:priv_newFilter  {disallowed} json-rpc method. Сomplete guide on how to use etc:priv_newFilter  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

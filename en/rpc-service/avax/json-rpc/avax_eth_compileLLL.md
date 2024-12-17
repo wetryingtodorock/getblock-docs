@@ -1,6 +1,6 @@
 ---
-title: avax:eth_compileLLL \[POST\] {disallowed}
-description: Returns compiled LLL code.
+title: avax:eth_compileLLL  {disallowed} - Avalanche
+description: Example code for the avax:eth_compileLLL  {disallowed} json-rpc method. Сomplete guide on how to use avax:eth_compileLLL  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

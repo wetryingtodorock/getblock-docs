@@ -1,6 +1,6 @@
 ---
-title: rsk:shh_version \[Websocket\] {disallowed}
-description: Whisper protocol not supported.
+title: rsk:shh_version  {disallowed} - Rootstock
+description: Example code for the rsk:shh_version  {disallowed} ws method. Сomplete guide on how to use rsk:shh_version  {disallowed} ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

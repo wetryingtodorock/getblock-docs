@@ -1,6 +1,6 @@
 ---
-title: dot:childstate_getKeysPaged \[POST\] {disallowed}
-description: Returns the keys with prefix from a child storage with paginationsupport.
+title: dot:childstate_getKeysPaged  {disallowed} - Polkadot
+description: Example code for the dot:childstate_getKeysPaged  {disallowed} json-rpc method. Сomplete guide on how to use dot:childstate_getKeysPaged  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

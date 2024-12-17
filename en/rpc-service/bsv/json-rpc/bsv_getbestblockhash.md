@@ -1,6 +1,6 @@
 ---
-title: bsv:getbestblockhash \[POST\]
-description: Returns the hash of the best (tip) block in the most-workfully-validated chain.
+title: bsv:getbestblockhash - Bitcoin SV
+description: Example code for the bsv:getbestblockhash json-rpc method. Сomplete guide on how to use bsv:getbestblockhash json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

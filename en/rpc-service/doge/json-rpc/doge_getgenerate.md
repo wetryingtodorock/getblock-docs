@@ -1,6 +1,6 @@
 ---
-title: doge:getgenerate \[POST\] {disallowed}
-description: Returns True or False, depending on whether generation is enabled.
+title: doge:getgenerate  {disallowed} - Dogecoin
+description: Example code for the doge:getgenerate  {disallowed} json-rpc method. Сomplete guide on how to use doge:getgenerate  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

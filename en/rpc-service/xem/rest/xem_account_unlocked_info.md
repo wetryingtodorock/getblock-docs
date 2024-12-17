@@ -1,6 +1,6 @@
 ---
-title: xem:/account/unlocked/info \[POST\] {disallowed}
-description: Each node can allow users to harvest with their delegated key on thatnode. The NIS configuration has entries for configuring the maximumnumber of allowed harvesters and optionally allow harvesting only forcertain account addresses. The unlock info gives information about themaximum number of allowed harvesters and how many harvesters are alreadyusing the node.
+title: xem:/account/unlocked/info  {disallowed} - NEM
+description: Example code for the xem:/account/unlocked/info  {disallowed} rest method. Сomplete guide on how to use xem:/account/unlocked/info  {disallowed} rest in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

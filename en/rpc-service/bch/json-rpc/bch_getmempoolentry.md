@@ -1,6 +1,6 @@
 ---
-title: bch:getmempoolentry \[POST\]
-description: Returns mempool data for given transaction
+title: bch:getmempoolentry - Bitcoin Cash
+description: Example code for the bch:getmempoolentry json-rpc method. Сomplete guide on how to use bch:getmempoolentry json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

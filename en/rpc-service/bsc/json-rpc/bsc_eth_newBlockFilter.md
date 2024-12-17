@@ -1,6 +1,6 @@
 ---
-title: bsc:eth_newBlockFilter \[POST\]
-description: Creates a filter in the node, to notify when a new block arrives. Tocheck if the state has changed, call eth_getFilterChanges.
+title: bsc:eth_newBlockFilter - Binance Smart Chain
+description: Example code for the bsc:eth_newBlockFilter json-rpc method. Сomplete guide on how to use bsc:eth_newBlockFilter json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

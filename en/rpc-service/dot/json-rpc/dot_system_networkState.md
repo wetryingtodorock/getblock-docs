@@ -1,6 +1,6 @@
 ---
-title: dot:system_networkState \[POST\] {disallowed}
-description: Returns current state of the network.
+title: dot:system_networkState  {disallowed} - Polkadot
+description: Example code for the dot:system_networkState  {disallowed} json-rpc method. Сomplete guide on how to use dot:system_networkState  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

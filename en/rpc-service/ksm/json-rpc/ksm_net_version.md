@@ -1,6 +1,6 @@
 ---
-title: ksm:net_version \[POST\] {disallowed}
-description: Returns protocol version.
+title: ksm:net_version  {disallowed} - Kusama
+description: Example code for the ksm:net_version  {disallowed} json-rpc method. Сomplete guide on how to use ksm:net_version  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

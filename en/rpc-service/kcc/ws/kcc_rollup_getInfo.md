@@ -1,6 +1,6 @@
 ---
-title: kcc:rollup_getInfo \[WebSocket\]
-description: Returns useful L2-specific information about the current node.
+title: kcc:rollup_getInfo - KuCoin Community Chain
+description: Example code for the kcc:rollup_getInfo ws method. Сomplete guide on how to use kcc:rollup_getInfo ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: dot:eth_sendRawTransaction \[POST\] {disallowed}
-description: Sends signed transaction, returning its hash.
+title: dot:eth_sendRawTransaction  {disallowed} - Polkadot
+description: Example code for the dot:eth_sendRawTransaction  {disallowed} json-rpc method. Сomplete guide on how to use dot:eth_sendRawTransaction  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

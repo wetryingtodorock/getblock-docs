@@ -1,6 +1,6 @@
 ---
-title: zec:verifychain \[POST\] {disallowed}
-description: Verifies blockchain database.
+title: zec:verifychain  {disallowed} - Zcash
+description: Example code for the zec:verifychain  {disallowed} json-rpc method. Сomplete guide on how to use zec:verifychain  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

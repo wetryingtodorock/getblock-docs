@@ -1,6 +1,6 @@
 ---
-title: eth:eth_getTransactionByBlockHashAndIndex \[WebSocket\]
-description: Returns transaction information for the specified block hash andtransaction index position.
+title: eth:eth_getTransactionByBlockHashAndIndex - Ethereum
+description: Example code for the eth:eth_getTransactionByBlockHashAndIndex ws method. Сomplete guide on how to use eth:eth_getTransactionByBlockHashAndIndex ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

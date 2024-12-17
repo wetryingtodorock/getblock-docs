@@ -1,6 +1,6 @@
 ---
-title: dot:state_getChildStorage \[POST\] {disallowed}
-description: Retrieves the child storage for a key.
+title: dot:state_getChildStorage  {disallowed} - Polkadot
+description: Example code for the dot:state_getChildStorage  {disallowed} json-rpc method. Сomplete guide on how to use dot:state_getChildStorage  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: fuse:eth_call \[POST\]
-description: Executes a new message call immediately without creating a transactionon the block chain.
+title: fuse:eth_call - Fuse Network
+description: Example code for the fuse:eth_call json-rpc method. Сomplete guide on how to use fuse:eth_call json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

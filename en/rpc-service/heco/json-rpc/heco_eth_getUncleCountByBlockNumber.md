@@ -1,6 +1,6 @@
 ---
-title: heco:eth_getUncleCountByBlockNumber \[POST\]
-description: Returns the number of uncles in a block from a block matching the givenblock number.
+title: heco:eth_getUncleCountByBlockNumber - Huobi ECO Chain
+description: Example code for the heco:eth_getUncleCountByBlockNumber json-rpc method. Сomplete guide on how to use heco:eth_getUncleCountByBlockNumber json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

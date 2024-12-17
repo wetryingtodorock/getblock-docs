@@ -1,6 +1,6 @@
 ---
-title: kcc:db_putHex \[WebSocket\] {disallowed}
-description: Stores binary data in the local database.Note this function is deprecated and will be removed in the future.
+title: kcc:db_putHex  {disallowed} - KuCoin Community Chain
+description: Example code for the kcc:db_putHex  {disallowed} ws method. Сomplete guide on how to use kcc:db_putHex  {disallowed} ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

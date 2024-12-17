@@ -1,6 +1,6 @@
 ---
-title: gno:eth_sendTransaction \[POST\] {disallowed}
-description: Creates new message call transaction or a contract creation, if the datafield contains code.
+title: gno:eth_sendTransaction  {disallowed} - Gnosis
+description: Example code for the gno:eth_sendTransaction  {disallowed} json-rpc method. Сomplete guide on how to use gno:eth_sendTransaction  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

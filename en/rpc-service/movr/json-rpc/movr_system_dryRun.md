@@ -1,6 +1,6 @@
 ---
-title: movr:system_dryRun \[POST\] {disallowed}
-description: Dry run an extrinsic at a given block.
+title: movr:system_dryRun  {disallowed} - Moonriver
+description: Example code for the movr:system_dryRun  {disallowed} json-rpc method. Сomplete guide on how to use movr:system_dryRun  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

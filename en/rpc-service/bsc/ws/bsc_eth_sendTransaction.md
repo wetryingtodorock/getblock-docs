@@ -1,6 +1,6 @@
 ---
-title: bsc:eth_sendTransaction \[WebSocket\] {disallowed}
-description: Creates new message call transaction or a contract creation, if the datafield contains code.
+title: bsc:eth_sendTransaction  {disallowed} - Binance Smart Chain
+description: Example code for the bsc:eth_sendTransaction  {disallowed} ws method. Сomplete guide on how to use bsc:eth_sendTransaction  {disallowed} ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

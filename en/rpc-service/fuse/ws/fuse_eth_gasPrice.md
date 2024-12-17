@@ -1,6 +1,6 @@
 ---
-title: fuse:eth_gasPrice \[WebSocket\]
-description: Returns the current price per gas in wei.
+title: fuse:eth_gasPrice - Fuse Network
+description: Example code for the fuse:eth_gasPrice ws method. Сomplete guide on how to use fuse:eth_gasPrice ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

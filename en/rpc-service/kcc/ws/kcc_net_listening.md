@@ -1,6 +1,6 @@
 ---
-title: kcc:net_listening \[WebSocket\]
-description: Returns true if client is actively listening for network connections.
+title: kcc:net_listening - KuCoin Community Chain
+description: Example code for the kcc:net_listening ws method. Сomplete guide on how to use kcc:net_listening ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

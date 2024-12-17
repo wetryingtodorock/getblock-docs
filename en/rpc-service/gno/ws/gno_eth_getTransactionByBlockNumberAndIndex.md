@@ -1,6 +1,6 @@
 ---
-title: gno:eth_getTransactionByBlockNumberAndIndex \[WebSocket\]
-description: Returns transaction information for the specified block number andtransaction index position.
+title: gno:eth_getTransactionByBlockNumberAndIndex - Gnosis
+description: Example code for the gno:eth_getTransactionByBlockNumberAndIndex ws method. Сomplete guide on how to use gno:eth_getTransactionByBlockNumberAndIndex ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

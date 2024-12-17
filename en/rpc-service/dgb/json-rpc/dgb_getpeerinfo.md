@@ -1,6 +1,6 @@
 ---
-title: dgb:getpeerinfo \[POST\] {disallowed}
-description: Returns data about each connected network node as a json array ofobjects.
+title: dgb:getpeerinfo  {disallowed} - DigiByte
+description: Example code for the dgb:getpeerinfo  {disallowed} json-rpc method. Сomplete guide on how to use dgb:getpeerinfo  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

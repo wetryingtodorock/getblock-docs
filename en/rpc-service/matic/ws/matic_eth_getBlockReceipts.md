@@ -1,6 +1,6 @@
 ---
-title: matic:eth_getBlockReceipts \[WebSocket\] {disallowed}
-description: Returns all transaction receipts for a given block.
+title: matic:eth_getBlockReceipts  {disallowed} - Polygon
+description: Example code for the matic:eth_getBlockReceipts  {disallowed} ws method. Сomplete guide on how to use matic:eth_getBlockReceipts  {disallowed} ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

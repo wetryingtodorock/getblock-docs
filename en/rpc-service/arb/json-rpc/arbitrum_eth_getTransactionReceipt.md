@@ -1,6 +1,6 @@
 ---
-title: arbitrum:eth_getTransactionReceipt \[POST\]
-description: Returns the receipt of a transaction by transaction hash.Note That the receipt is not available for pending transactions.
+title: arbitrum:eth_getTransactionReceipt - Arbitrum
+description: Example code for the arbitrum:eth_getTransactionReceipt json-rpc method. Сomplete guide on how to use arbitrum:eth_getTransactionReceipt json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

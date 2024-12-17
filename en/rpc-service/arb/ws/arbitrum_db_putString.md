@@ -1,6 +1,6 @@
 ---
-title: arbitrum:db_putString \[WebSocket\] {disallowed}
-description: Stores a string in the local database.Note this function is deprecated and will be removed in the future.
+title: arbitrum:db_putString  {disallowed} - Arbitrum
+description: Example code for the arbitrum:db_putString  {disallowed} ws method. Сomplete guide on how to use arbitrum:db_putString  {disallowed} ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: xem:/debug/time-synchronization \[GET\]
-description: Gets an array of time synchronization results. You can monitor thechange in network time with this information.A time synchronization result is the outcome of the network timesynchronization of a node with other remote nodes. To agree upon acommon time nodes need to synchronize time every hour.
+title: xem:/debug/time-synchronization - NEM
+description: Example code for the xem:/debug/time-synchronization rest method. Сomplete guide on how to use xem:/debug/time-synchronization rest in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

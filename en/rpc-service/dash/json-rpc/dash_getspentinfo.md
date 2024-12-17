@@ -1,6 +1,6 @@
 ---
-title: dash:getspentinfo \[POST\]
-description: Returns the txid and index where an output is spent (requires spentindexto be enabled).
+title: dash:getspentinfo - Dash
+description: Example code for the dash:getspentinfo json-rpc method. Сomplete guide on how to use dash:getspentinfo json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

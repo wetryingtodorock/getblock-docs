@@ -1,6 +1,6 @@
 ---
-title: eth:rpc_modules \[WebSocket\]
-description: Lists enabled APIs and the version of each.
+title: eth:rpc_modules - Ethereum
+description: Example code for the eth:rpc_modules ws method. Сomplete guide on how to use eth:rpc_modules ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

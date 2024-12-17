@@ -1,6 +1,6 @@
 ---
-title: xem:/account/harvests \[GET\]
-description: Gets an array of harvest info objects for an account.
+title: xem:/account/harvests - NEM
+description: Example code for the xem:/account/harvests rest method. Сomplete guide on how to use xem:/account/harvests rest in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

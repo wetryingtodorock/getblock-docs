@@ -1,6 +1,6 @@
 ---
-title: bch:signmessage \[POST\] {disallowed}
-description: Sign a message with the private key of an address Requires walletpassphrase to be set with walletpassphrase call if wallet is encrypted.
+title: bch:signmessage  {disallowed} - Bitcoin Cash
+description: Example code for the bch:signmessage  {disallowed} json-rpc method. Сomplete guide on how to use bch:signmessage  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

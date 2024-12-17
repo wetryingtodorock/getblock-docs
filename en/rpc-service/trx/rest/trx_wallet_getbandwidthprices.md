@@ -1,6 +1,6 @@
 ---
-title: trx:/wallet/getbandwidthprices \[GET\]
-description: Query historical bandwidth unit price
+title: trx:/wallet/getbandwidthprices - TRON
+description: Example code for the trx:/wallet/getbandwidthprices rest method. Сomplete guide on how to use trx:/wallet/getbandwidthprices rest in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

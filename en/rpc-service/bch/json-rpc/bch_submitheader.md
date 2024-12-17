@@ -1,6 +1,6 @@
 ---
-title: bch:submitheader \[POST\] {disallowed}
-description: Decode the given hexdata as a header and submit it as a candidate chaintip if valid.Throws when the header is invalid.
+title: bch:submitheader  {disallowed} - Bitcoin Cash
+description: Example code for the bch:submitheader  {disallowed} json-rpc method. Сomplete guide on how to use bch:submitheader  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

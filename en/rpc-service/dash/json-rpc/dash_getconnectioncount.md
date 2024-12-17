@@ -1,6 +1,6 @@
 ---
-title: dash:getconnectioncount \[POST\] {disallowed}
-description: Returns the number of connections to other nodes.
+title: dash:getconnectioncount  {disallowed} - Dash
+description: Example code for the dash:getconnectioncount  {disallowed} json-rpc method. Сomplete guide on how to use dash:getconnectioncount  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

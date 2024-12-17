@@ -1,6 +1,6 @@
 ---
-title: glmr:net_version \[POST\]
-description: Returns the current network id.
+title: glmr:net_version - Moonbeam
+description: Example code for the glmr:net_version json-rpc method. Сomplete guide on how to use glmr:net_version json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

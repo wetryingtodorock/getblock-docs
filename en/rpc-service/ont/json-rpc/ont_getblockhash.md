@@ -1,6 +1,6 @@
 ---
-title: ont:getblockhash \[POST\]
-description: Fetch the block hash for the block at given block height.
+title: ont:getblockhash - Ontology
+description: Example code for the ont:getblockhash json-rpc method. Сomplete guide on how to use ont:getblockhash json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

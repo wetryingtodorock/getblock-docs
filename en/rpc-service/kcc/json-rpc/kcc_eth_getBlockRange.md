@@ -1,6 +1,6 @@
 ---
-title: kcc:eth_getBlockRange \[POST\] {disallowed}
-description: Deprecated.Returns information about array of blocks by block numbers.
+title: kcc:eth_getBlockRange  {disallowed} - KuCoin Community Chain
+description: Example code for the kcc:eth_getBlockRange  {disallowed} json-rpc method. Сomplete guide on how to use kcc:eth_getBlockRange  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: gno:eth_newPendingTransactionFilter \[WebSocket\]
-description: Creates a filter in the node, to notify when new pending transactionsarrive. To check if the state has changed, call eth_getFilterChanges.
+title: gno:eth_newPendingTransactionFilter - Gnosis
+description: Example code for the gno:eth_newPendingTransactionFilter ws method. Сomplete guide on how to use gno:eth_newPendingTransactionFilter ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

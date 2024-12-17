@@ -1,6 +1,6 @@
 ---
-title: matic:eth_chainId \[WebSocket\]
-description: Returns the currently configured chain id, a value used inreplay-protected transaction signing as introduced by EIP-155.
+title: matic:eth_chainId - Polygon
+description: Example code for the matic:eth_chainId ws method. Сomplete guide on how to use matic:eth_chainId ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

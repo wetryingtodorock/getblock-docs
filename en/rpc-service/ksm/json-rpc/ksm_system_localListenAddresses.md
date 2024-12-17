@@ -1,6 +1,6 @@
 ---
-title: ksm:system_localListenAddresses \[POST\] {disallowed}
-description: The addresses include a trailing /p2p/ with the local PeerId, and arethus suitable to be passed to addReservedPeer or as a bootnode addressfor example
+title: ksm:system_localListenAddresses  {disallowed} - Kusama
+description: Example code for the ksm:system_localListenAddresses  {disallowed} json-rpc method. Сomplete guide on how to use ksm:system_localListenAddresses  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: ont:/api/v1/allowancev2 \[GET\]
-description: Return the allowance from the from account to the to account, with ONTdecimals being 9, and ONG decimals being 18
+title: ont:/api/v1/allowancev2 - Ontology
+description: Example code for the ont:/api/v1/allowancev2 rest method. Сomplete guide on how to use ont:/api/v1/allowancev2 rest in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

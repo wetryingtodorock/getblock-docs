@@ -1,6 +1,6 @@
 ---
-title: optimism:rollup_gasPrices \[POST\]
-description: Returns the L1 and L2 gas prices that are being used by the Sequencer tocalculate fees.
+title: optimism:rollup_gasPrices - Optimism
+description: Example code for the optimism:rollup_gasPrices json-rpc method. Сomplete guide on how to use optimism:rollup_gasPrices json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

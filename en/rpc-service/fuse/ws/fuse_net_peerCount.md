@@ -1,6 +1,6 @@
 ---
-title: fuse:net_peerCount \[WebSocket\]
-description: Returns number of peers currently connected to the client.
+title: fuse:net_peerCount - Fuse Network
+description: Example code for the fuse:net_peerCount ws method. Сomplete guide on how to use fuse:net_peerCount ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: arbitrum:eth_getCode \[WebSocket\]
-description: Returns code at a given address.
+title: arbitrum:eth_getCode - Arbitrum
+description: Example code for the arbitrum:eth_getCode ws method. Сomplete guide on how to use arbitrum:eth_getCode ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

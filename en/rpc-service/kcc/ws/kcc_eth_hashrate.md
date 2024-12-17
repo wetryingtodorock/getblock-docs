@@ -1,6 +1,6 @@
 ---
-title: kcc:eth_hashrate \[WebSocket\]
-description: Returns the number of hashes per second that the node is mining with.
+title: kcc:eth_hashrate - KuCoin Community Chain
+description: Example code for the kcc:eth_hashrate ws method. Сomplete guide on how to use kcc:eth_hashrate ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: optimism:eth_accounts \[POST\]
-description: Returns a list of addresses owned by client.
+title: optimism:eth_accounts - Optimism
+description: Example code for the optimism:eth_accounts json-rpc method. Сomplete guide on how to use optimism:eth_accounts json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

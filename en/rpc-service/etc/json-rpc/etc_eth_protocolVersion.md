@@ -1,6 +1,6 @@
 ---
-title: etc:eth_protocolVersion \[POST\]
-description: Returns current Ethereum protocol version.
+title: etc:eth_protocolVersion - Ethereum Classic
+description: Example code for the etc:eth_protocolVersion json-rpc method. Сomplete guide on how to use etc:eth_protocolVersion json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

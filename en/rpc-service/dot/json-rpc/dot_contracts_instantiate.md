@@ -1,6 +1,6 @@
 ---
-title: dot:contracts_instantiate \[POST\] {disallowed}
-description: Instantiate a new contract.
+title: dot:contracts_instantiate  {disallowed} - Polkadot
+description: Example code for the dot:contracts_instantiate  {disallowed} json-rpc method. Сomplete guide on how to use dot:contracts_instantiate  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

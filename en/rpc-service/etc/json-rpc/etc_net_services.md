@@ -1,6 +1,6 @@
 ---
-title: etc:net_services \[POST\]
-description: Returns enabled services (for example, jsonrpc) and the host and portfor each service.
+title: etc:net_services - Ethereum Classic
+description: Example code for the etc:net_services json-rpc method. Сomplete guide on how to use etc:net_services json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

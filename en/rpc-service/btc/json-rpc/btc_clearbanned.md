@@ -1,6 +1,6 @@
 ---
-title: btc:clearbanned \[POST\] {disallowed}
-description: Clear all banned IPs.
+title: btc:clearbanned  {disallowed} - Bitcoin
+description: Example code for the btc:clearbanned  {disallowed} json-rpc method. Сomplete guide on how to use btc:clearbanned  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

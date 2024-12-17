@@ -1,6 +1,6 @@
 ---
-title: zec:encryptwallet \[POST\] {disallowed}
-description: WARNING encryptwallet is disabled.Encrypts the wallet with passphrase. This is for first timeencryption.After this, any calls that interact with private keys such as sending orsigningwill require the passphrase to be set prior the making these calls.Use the walletpassphrase call for this, and then walletlock call.If the wallet is already encrypted, use the walletpassphrasechange call.Note that this will shutdown the server.
+title: zec:encryptwallet  {disallowed} - Zcash
+description: Example code for the zec:encryptwallet  {disallowed} json-rpc method. Сomplete guide on how to use zec:encryptwallet  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

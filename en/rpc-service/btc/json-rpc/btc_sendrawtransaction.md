@@ -1,6 +1,6 @@
 ---
-title: btc:sendrawtransaction \[POST\]
-description: Submit a raw transaction (serialized, hex-encoded) to local node andnetwork.Note that the transaction will be sent unconditionally to all peers, sousing this for manual rebroadcast may degrade privacy by leaking thetransactions origin, as nodes will normally not rebroadcast non-wallettransactions already in their mempool.
+title: btc:sendrawtransaction - Bitcoin
+description: Example code for the btc:sendrawtransaction json-rpc method. Сomplete guide on how to use btc:sendrawtransaction json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

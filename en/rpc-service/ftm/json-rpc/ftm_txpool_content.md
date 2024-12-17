@@ -1,6 +1,6 @@
 ---
-title: ftm:txpool_content \[POST\]
-description: Returns a list of pending and queued transactions.
+title: ftm:txpool_content - Fantom
+description: Example code for the ftm:txpool_content json-rpc method. Сomplete guide on how to use ftm:txpool_content json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

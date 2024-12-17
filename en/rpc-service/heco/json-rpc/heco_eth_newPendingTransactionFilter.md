@@ -1,6 +1,6 @@
 ---
-title: heco:eth_newPendingTransactionFilter \[POST\]
-description: Creates a filter in the node, to notify when new pending transactionsarrive. To check if the state has changed, call eth_getFilterChanges.
+title: heco:eth_newPendingTransactionFilter - Huobi ECO Chain
+description: Example code for the heco:eth_newPendingTransactionFilter json-rpc method. Сomplete guide on how to use heco:eth_newPendingTransactionFilter json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

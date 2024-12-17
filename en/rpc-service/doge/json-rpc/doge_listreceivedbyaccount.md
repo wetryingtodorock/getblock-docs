@@ -1,6 +1,6 @@
 ---
-title: doge:listreceivedbyaccount \[POST\] {disallowed}
-description: \-Returnsalistofaccounts.EachaccountisrepresentedwithaAccountInfoobject.
+title: doge:listreceivedbyaccount  {disallowed} - Dogecoin
+description: Example code for the doge:listreceivedbyaccount  {disallowed} json-rpc method. Сomplete guide on how to use doge:listreceivedbyaccount  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

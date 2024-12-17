@@ -1,6 +1,6 @@
 ---
-title: zec:zcrawreceive \[POST\] {disallowed}
-description: DEPRECATED. Decrypts encryptednote and checks if the coin commitmentsare in the blockchain as indicated by the exists result.
+title: zec:zcrawreceive  {disallowed} - Zcash
+description: Example code for the zec:zcrawreceive  {disallowed} json-rpc method. Сomplete guide on how to use zec:zcrawreceive  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

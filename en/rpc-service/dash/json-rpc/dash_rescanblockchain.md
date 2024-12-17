@@ -1,6 +1,6 @@
 ---
-title: dash:rescanblockchain \[POST\] {disallowed}
-description: Rescans the local blockchain for wallet related transactions.
+title: dash:rescanblockchain  {disallowed} - Dash
+description: Example code for the dash:rescanblockchain  {disallowed} json-rpc method. Сomplete guide on how to use dash:rescanblockchain  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

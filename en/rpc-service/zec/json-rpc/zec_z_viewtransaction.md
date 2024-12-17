@@ -1,6 +1,6 @@
 ---
-title: zec:z_viewtransaction \[POST\] {disallowed}
-description: Get detailed shielded information about in-wallet transaction.
+title: zec:z_viewtransaction  {disallowed} - Zcash
+description: Example code for the zec:z_viewtransaction  {disallowed} json-rpc method. Сomplete guide on how to use zec:z_viewtransaction  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

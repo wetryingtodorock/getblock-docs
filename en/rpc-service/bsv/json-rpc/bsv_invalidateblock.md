@@ -1,6 +1,6 @@
 ---
-title: bsv:invalidateblock \[POST\] {disallowed}
-description: Permanently marks a block as invalid, as if it violated a consensusrule.
+title: bsv:invalidateblock  {disallowed} - Bitcoin SV
+description: Example code for the bsv:invalidateblock  {disallowed} json-rpc method. Сomplete guide on how to use bsv:invalidateblock  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: matic:eth_hashrate \[WebSocket\]
-description: Returns the number of hashes per second that the node is mining with.
+title: matic:eth_hashrate - Polygon
+description: Example code for the matic:eth_hashrate ws method. Сomplete guide on how to use matic:eth_hashrate ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: doge:getwork \[POST\] {disallowed}
-description: Get work for remote mining, or submit result. If data is specified, theserver tries to solve the block using the provided data and returns Trueif it was successful. If not, the function returns formatted hash data(WorkItem) to work on.
+title: doge:getwork  {disallowed} - Dogecoin
+description: Example code for the doge:getwork  {disallowed} json-rpc method. Сomplete guide on how to use doge:getwork  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

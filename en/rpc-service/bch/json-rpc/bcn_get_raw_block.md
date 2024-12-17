@@ -1,6 +1,6 @@
 ---
-title: bcn:get_raw_block \[POST\]
-description: Returns a block object (header, raw header, raw transactions,signatures, transactions and global indices).Can be used with either hash or height_or_depth parameters.
+title: bcn:get_raw_block - Bitcoin Cash
+description: Example code for the bcn:get_raw_block json-rpc method. Сomplete guide on how to use bcn:get_raw_block json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

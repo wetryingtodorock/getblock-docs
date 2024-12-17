@@ -1,6 +1,6 @@
 ---
-title: rsk:eth_coinbase \[WebSocket\]
-description: Returns the client coinbase address.
+title: rsk:eth_coinbase - Rootstock
+description: Example code for the rsk:eth_coinbase ws method. Сomplete guide on how to use rsk:eth_coinbase ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

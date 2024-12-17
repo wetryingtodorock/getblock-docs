@@ -1,6 +1,6 @@
 ---
-title: trx:/wallet/unfreezeasset \[POST\] {disallowed}
-description: Unstake a token that has passed the minimum freeze duration.
+title: trx:/wallet/unfreezeasset  {disallowed} - TRON
+description: Example code for the trx:/wallet/unfreezeasset  {disallowed} rest method. Сomplete guide on how to use trx:/wallet/unfreezeasset  {disallowed} rest in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

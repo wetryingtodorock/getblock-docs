@@ -1,6 +1,6 @@
 ---
-title: etc:eth_mining \[POST\]
-description: Whether the client is actively mining new blocks. Besu pauses miningwhile the client synchronizes with the network regardless of commandsettings or methods called.
+title: etc:eth_mining - Ethereum Classic
+description: Example code for the etc:eth_mining json-rpc method. Сomplete guide on how to use etc:eth_mining json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: dot:chain_getBlockHash \[POST\]
-description: Get the block hash for a specific block.
+title: dot:chain_getBlockHash - Polkadot
+description: Example code for the dot:chain_getBlockHash json-rpc method. Сomplete guide on how to use dot:chain_getBlockHash json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

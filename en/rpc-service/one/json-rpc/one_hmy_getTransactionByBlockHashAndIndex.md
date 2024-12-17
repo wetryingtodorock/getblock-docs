@@ -1,6 +1,6 @@
 ---
-title: one:hmy_getTransactionByBlockHashAndIndex \[POST\]
-description: Returns transaction information for the specified block hash andtransaction index position.
+title: one:hmy_getTransactionByBlockHashAndIndex - Harmony
+description: Example code for the one:hmy_getTransactionByBlockHashAndIndex json-rpc method. Сomplete guide on how to use one:hmy_getTransactionByBlockHashAndIndex json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

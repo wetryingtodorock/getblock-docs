@@ -1,6 +1,6 @@
 ---
-title: btg:dumpprivkey \[POST\] {disallowed}
-description: Reveals the private key corresponding to ‘address’.Then the importprivkey can be used with this output
+title: btg:dumpprivkey  {disallowed} - Bitcoin Gold
+description: Example code for the btg:dumpprivkey  {disallowed} json-rpc method. Сomplete guide on how to use btg:dumpprivkey  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

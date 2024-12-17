@@ -1,6 +1,6 @@
 ---
-title: xem:/node/peer-list/active \[GET\]
-description: Gets an array of active nodes in the neighborhood that are selected forbroadcasts.
+title: xem:/node/peer-list/active - NEM
+description: Example code for the xem:/node/peer-list/active rest method. Сomplete guide on how to use xem:/node/peer-list/active rest in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

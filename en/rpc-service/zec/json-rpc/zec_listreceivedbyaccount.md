@@ -1,6 +1,6 @@
 ---
-title: zec:listreceivedbyaccount \[POST\] {disallowed}
-description: DEPRECATED. List balances by account.
+title: zec:listreceivedbyaccount  {disallowed} - Zcash
+description: Example code for the zec:listreceivedbyaccount  {disallowed} json-rpc method. Сomplete guide on how to use zec:listreceivedbyaccount  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

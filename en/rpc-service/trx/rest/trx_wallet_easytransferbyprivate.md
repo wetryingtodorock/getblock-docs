@@ -1,6 +1,6 @@
 ---
-title: trx:/wallet/easytransferbyprivate \[POST\] {disallowed}
-description: Easily transfer from an address using the private key. There is asecurity risk. This interface service has been shutdown by the Trongrid.Please use the offline mode or the node deployed by yourself.
+title: trx:/wallet/easytransferbyprivate  {disallowed} - TRON
+description: Example code for the trx:/wallet/easytransferbyprivate  {disallowed} rest method. Сomplete guide on how to use trx:/wallet/easytransferbyprivate  {disallowed} rest in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

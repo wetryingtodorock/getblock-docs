@@ -1,6 +1,6 @@
 ---
-title: one:hmy_getBalance \[POST\]
-description: Returns the account balance of the specified address.
+title: one:hmy_getBalance - Harmony
+description: Example code for the one:hmy_getBalance json-rpc method. Сomplete guide on how to use one:hmy_getBalance json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: zec:z_getoperationresult \[POST\] {disallowed}
-description: Retrieve the result and status of an operation which has finished, andthen remove the operation from memory.
+title: zec:z_getoperationresult  {disallowed} - Zcash
+description: Example code for the zec:z_getoperationresult  {disallowed} json-rpc method. Сomplete guide on how to use zec:z_getoperationresult  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

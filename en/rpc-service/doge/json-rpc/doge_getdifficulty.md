@@ -1,6 +1,6 @@
 ---
-title: doge:getdifficulty \[POST\]
-description: Returns the proof-of-work difficulty as a multiple of the minimumdifficulty.
+title: doge:getdifficulty - Dogecoin
+description: Example code for the doge:getdifficulty json-rpc method. Сomplete guide on how to use doge:getdifficulty json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

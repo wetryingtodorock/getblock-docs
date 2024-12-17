@@ -1,6 +1,6 @@
 ---
-title: eth:rpc_modules \[POST\]
-description: Lists enabled APIs and the version of each.
+title: eth:rpc_modules - Ethereum
+description: Example code for the eth:rpc_modules json-rpc method. Сomplete guide on how to use eth:rpc_modules json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

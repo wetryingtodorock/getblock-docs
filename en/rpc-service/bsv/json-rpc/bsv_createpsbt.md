@@ -1,6 +1,6 @@
 ---
-title: bsv:createpsbt \[POST\]
-description: Creates a transaction in the Partially Signed Transaction format.Implements the Creator role.
+title: bsv:createpsbt - Bitcoin SV
+description: Example code for the bsv:createpsbt json-rpc method. Сomplete guide on how to use bsv:createpsbt json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

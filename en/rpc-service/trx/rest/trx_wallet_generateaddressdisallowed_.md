@@ -1,6 +1,6 @@
 ---
-title: trx:/wallet/generateaddress \[GET\] {disallowed}
-description: Generates a random private key and address pair. Returns a private key,the corresponding address in hex, and base58. There is a security risk.This interface service has been shutdown by the Trongrid. Please use theoffline mode or the node deployed by yourself.
+title: trx:/wallet/generateaddress  {disallowed} - TRON
+description: Example code for the trx:/wallet/generateaddress  {disallowed} rest method. Сomplete guide on how to use trx:/wallet/generateaddress  {disallowed} rest in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

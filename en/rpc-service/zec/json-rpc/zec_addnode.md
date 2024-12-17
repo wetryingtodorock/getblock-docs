@@ -1,6 +1,6 @@
 ---
-title: zec:addnode \[POST\] {disallowed}
-description: Attempts to add or remove a node from the addnode list. Or try aconnection to a node once.
+title: zec:addnode  {disallowed} - Zcash
+description: Example code for the zec:addnode  {disallowed} json-rpc method. Сomplete guide on how to use zec:addnode  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

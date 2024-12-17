@@ -1,6 +1,6 @@
 ---
-title: ont:getmempooltxcount \[WebSocket\]
-description: Fetch the transaction count in the memory pool.
+title: ont:getmempooltxcount - Ontology
+description: Example code for the ont:getmempooltxcount ws method. Сomplete guide on how to use ont:getmempooltxcount ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

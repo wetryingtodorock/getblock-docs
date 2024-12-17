@@ -1,6 +1,6 @@
 ---
-title: zec:setban \[POST\] {disallowed}
-description: Attempts to add or remove an IP/Subnet from the banned list.
+title: zec:setban  {disallowed} - Zcash
+description: Example code for the zec:setban  {disallowed} json-rpc method. Сomplete guide on how to use zec:setban  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

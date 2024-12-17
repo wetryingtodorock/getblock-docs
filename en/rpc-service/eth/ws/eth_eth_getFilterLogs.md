@@ -1,6 +1,6 @@
 ---
-title: eth:eth_getFilterLogs \[WebSocket\]
-description: Returns an array of logs for the specified filter.Leave the --auto-log-bloom-caching-enabled command line option at thedefault value of true to improve log retrieval performance.
+title: eth:eth_getFilterLogs - Ethereum
+description: Example code for the eth:eth_getFilterLogs ws method. Сomplete guide on how to use eth:eth_getFilterLogs ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

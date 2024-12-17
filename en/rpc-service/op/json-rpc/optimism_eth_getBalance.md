@@ -1,6 +1,6 @@
 ---
-title: optimism:eth_getBalance \[POST\]
-description: Returns the balance of the account of given address.
+title: optimism:eth_getBalance - Optimism
+description: Example code for the optimism:eth_getBalance json-rpc method. Сomplete guide on how to use optimism:eth_getBalance json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

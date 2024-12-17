@@ -1,6 +1,6 @@
 ---
-title: optimism:db_getString \[WebSocket\] {disallowed}
-description: Returns string from the local database.Note this function is deprecated and will be removed in the future.
+title: optimism:db_getString  {disallowed} - Optimism
+description: Example code for the optimism:db_getString  {disallowed} ws method. Сomplete guide on how to use optimism:db_getString  {disallowed} ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

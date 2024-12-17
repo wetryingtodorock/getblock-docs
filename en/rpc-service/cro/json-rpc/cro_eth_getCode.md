@@ -1,6 +1,6 @@
 ---
-title: cro:eth_getCode \[POST\]
-description: Returns the code of the smart contract at the specified address. Besustores compiled smart contract code as a hexadecimal value.
+title: cro:eth_getCode - Cronos
+description: Example code for the cro:eth_getCode json-rpc method. Сomplete guide on how to use cro:eth_getCode json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

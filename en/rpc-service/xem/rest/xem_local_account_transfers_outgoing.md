@@ -1,6 +1,6 @@
 ---
-title: xem:/local/account/transfers/outgoing \[POST\] {disallowed}
-description: The request returns outgoing transactions. If a transaction contains anencoded message, this message will be decoded before it is sent to therequester.
+title: xem:/local/account/transfers/outgoing  {disallowed} - NEM
+description: Example code for the xem:/local/account/transfers/outgoing  {disallowed} rest method. Сomplete guide on how to use xem:/local/account/transfers/outgoing  {disallowed} rest in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

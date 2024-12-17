@@ -1,6 +1,6 @@
 ---
-title: matic:eth_getTransactionByBlockNumberAndIndex \[POST\]
-description: Returns information about a transaction by block number and transactionindex position.
+title: matic:eth_getTransactionByBlockNumberAndIndex - Polygon
+description: Example code for the matic:eth_getTransactionByBlockNumberAndIndex json-rpc method. Сomplete guide on how to use matic:eth_getTransactionByBlockNumberAndIndex json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

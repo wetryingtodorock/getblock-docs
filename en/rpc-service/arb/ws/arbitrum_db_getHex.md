@@ -1,6 +1,6 @@
 ---
-title: arbitrum:db_getHex \[WebSocket\] {disallowed}
-description: Returns binary data from the local database.Note this function is deprecated and will be removed in the future.
+title: arbitrum:db_getHex  {disallowed} - Arbitrum
+description: Example code for the arbitrum:db_getHex  {disallowed} ws method. Сomplete guide on how to use arbitrum:db_getHex  {disallowed} ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

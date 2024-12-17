@@ -1,6 +1,6 @@
 ---
-title: gno:eth_getFilterChanges \[WebSocket\]
-description: Polls the specified filter and returns an array of changes that haveoccurred since the last poll.
+title: gno:eth_getFilterChanges - Gnosis
+description: Example code for the gno:eth_getFilterChanges ws method. Сomplete guide on how to use gno:eth_getFilterChanges ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

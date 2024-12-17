@@ -1,6 +1,6 @@
 ---
-title: bch:getdifficulty \[POST\]
-description: Returns the proof-of-work difficulty as a multiple of the minimumdifficulty.
+title: bch:getdifficulty - Bitcoin Cash
+description: Example code for the bch:getdifficulty json-rpc method. Сomplete guide on how to use bch:getdifficulty json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

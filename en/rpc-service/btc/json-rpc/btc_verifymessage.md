@@ -1,6 +1,6 @@
 ---
-title: btc:verifymessage \[POST\]
-description: Verify a signed message
+title: btc:verifymessage - Bitcoin
+description: Example code for the btc:verifymessage json-rpc method. Сomplete guide on how to use btc:verifymessage json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

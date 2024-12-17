@@ -1,6 +1,6 @@
 ---
-title: optimism:eth_getLogs \[WebSocket\]
-description: Returns an array of all logs matching a given filter object.
+title: optimism:eth_getLogs - Optimism
+description: Example code for the optimism:eth_getLogs ws method. Сomplete guide on how to use optimism:eth_getLogs ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

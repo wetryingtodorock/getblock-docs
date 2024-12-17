@@ -1,6 +1,6 @@
 ---
-title: heco:rpc_modules \[WebSocket\]
-description: Lists enabled APIs and the version of each.
+title: heco:rpc_modules - Huobi ECO Chain
+description: Example code for the heco:rpc_modules ws method. Сomplete guide on how to use heco:rpc_modules ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

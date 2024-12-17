@@ -1,6 +1,6 @@
 ---
-title: matic:eth_submitWork \[WebSocket\] {disallowed}
-description: Used for submitting a proof-of-work solution.
+title: matic:eth_submitWork  {disallowed} - Polygon
+description: Example code for the matic:eth_submitWork  {disallowed} ws method. Сomplete guide on how to use matic:eth_submitWork  {disallowed} ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

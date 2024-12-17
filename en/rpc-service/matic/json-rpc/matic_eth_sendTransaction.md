@@ -1,6 +1,6 @@
 ---
-title: matic:eth_sendTransaction \[POST\]
-description: Creates new message call transaction or a contract creation, if the datafield contains code.
+title: matic:eth_sendTransaction - Polygon
+description: Example code for the matic:eth_sendTransaction json-rpc method. Сomplete guide on how to use matic:eth_sendTransaction json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

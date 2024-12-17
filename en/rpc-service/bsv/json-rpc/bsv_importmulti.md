@@ -1,6 +1,6 @@
 ---
-title: bsv:importmulti \[POST\] {disallowed}
-description: Import addresses/scripts (with private or public keys, redeem script(P2SH)), optionally rescanning the blockchain from the earliest creationtime of the imported scripts. Requires a new wallet backup.If an address/script is imported without all of the private keysrequired to spend from that address, it will be watchonly. The‘watchonly’ option must be set to true in this case or a warning will bereturned.Conversely, if all the private keys are provided and the address/scriptis spendable, the watchonly option must be set to false, or a warningwill be returned.Note This call can take over an hour to complete if rescan is true,during that time, other rpc calls may report that the imported keys,addresses or scripts exist but related transactions are still missing.Note Use “getwalletinfo” to query the scanning progress.
+title: bsv:importmulti  {disallowed} - Bitcoin SV
+description: Example code for the bsv:importmulti  {disallowed} json-rpc method. Сomplete guide on how to use bsv:importmulti  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

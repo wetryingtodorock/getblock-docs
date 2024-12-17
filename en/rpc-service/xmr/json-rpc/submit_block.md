@@ -1,6 +1,6 @@
 ---
-title: xmr:submit_block \[POST\]
-description: Submit a mined block to the network.
+title: xmr:submit_block - Monero
+description: Example code for the xmr:submit_block json-rpc method. Сomplete guide on how to use xmr:submit_block json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

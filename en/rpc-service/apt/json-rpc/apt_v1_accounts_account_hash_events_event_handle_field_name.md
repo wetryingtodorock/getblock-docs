@@ -1,6 +1,6 @@
 ---
-title: apt:/v1/accounts/{account_hash}/events/{event_handle}/{field_name} \[GET\]
-description: Gets all events for a specified account, event_handle and field_name.
+title: apt:/v1/accounts/{account_hash}/events/{event_handle}/{field_name} - Aptos
+description: Example code for the apt:/v1/accounts/{account_hash}/events/{event_handle}/{field_name} json-rpc method. Сomplete guide on how to use apt:/v1/accounts/{account_hash}/events/{event_handle}/{field_name} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

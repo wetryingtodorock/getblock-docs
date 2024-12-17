@@ -1,6 +1,6 @@
 ---
-title: kcc:shh_getMessages \[POST\] {disallowed}
-description: Get all messages matching a filter. Unlike shh_getFilterChanges thisreturns all messages.
+title: kcc:shh_getMessages  {disallowed} - KuCoin Community Chain
+description: Example code for the kcc:shh_getMessages  {disallowed} json-rpc method. Сomplete guide on how to use kcc:shh_getMessages  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

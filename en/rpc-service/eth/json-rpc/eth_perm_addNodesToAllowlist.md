@@ -1,6 +1,6 @@
 ---
-title: eth:perm_addNodesToAllowlist \[POST\] {disallowed}
-description: Adds nodes to the nodes allowlist.
+title: eth:perm_addNodesToAllowlist  {disallowed} - Ethereum
+description: Example code for the eth:perm_addNodesToAllowlist  {disallowed} json-rpc method. Сomplete guide on how to use eth:perm_addNodesToAllowlist  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

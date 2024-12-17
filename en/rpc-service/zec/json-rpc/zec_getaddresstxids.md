@@ -1,6 +1,6 @@
 ---
-title: zec:getaddresstxids \[POST\] {disallowed}
-description: Returns the txids for given transparent addresses within the given(inclusive) block height range, default is the full blockchain.WARNING getaddresstxids is disabled.
+title: zec:getaddresstxids  {disallowed} - Zcash
+description: Example code for the zec:getaddresstxids  {disallowed} json-rpc method. Сomplete guide on how to use zec:getaddresstxids  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

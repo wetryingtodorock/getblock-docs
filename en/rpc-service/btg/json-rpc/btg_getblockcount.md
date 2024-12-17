@@ -1,6 +1,6 @@
 ---
-title: btg:getblockcount \[POST\]
-description: Returns the height of the most-work fully-validated chain.The genesis block has height 0.
+title: btg:getblockcount - Bitcoin Gold
+description: Example code for the btg:getblockcount json-rpc method. Сomplete guide on how to use btg:getblockcount json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

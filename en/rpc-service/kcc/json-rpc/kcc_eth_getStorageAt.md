@@ -1,6 +1,6 @@
 ---
-title: kcc:eth_getStorageAt \[POST\]
-description: Returns the value from a storage position at a given address.
+title: kcc:eth_getStorageAt - KuCoin Community Chain
+description: Example code for the kcc:eth_getStorageAt json-rpc method. Сomplete guide on how to use kcc:eth_getStorageAt json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

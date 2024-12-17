@@ -1,6 +1,6 @@
 ---
-title: zec:gettxout \[POST\]
-description: Returns details about an unspent transaction output.
+title: zec:gettxout - Zcash
+description: Example code for the zec:gettxout json-rpc method. Сomplete guide on how to use zec:gettxout json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

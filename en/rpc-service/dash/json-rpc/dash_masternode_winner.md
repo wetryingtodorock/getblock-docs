@@ -1,6 +1,6 @@
 ---
-title: dash:masternode_winner \[POST\] {disallowed}
-description: Deprecated in Dash Core 0.17.0This RPC has been deprecated and will be removed in a future version ofDash CorePrints info on the next masternode winner to vote for.
+title: dash:masternode_winner  {disallowed} - Dash
+description: Example code for the dash:masternode_winner  {disallowed} json-rpc method. Сomplete guide on how to use dash:masternode_winner  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

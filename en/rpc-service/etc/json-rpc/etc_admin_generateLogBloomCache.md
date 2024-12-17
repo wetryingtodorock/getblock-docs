@@ -1,6 +1,6 @@
 ---
-title: etc:admin_generateLogBloomCache \[POST\] {disallowed}
-description: Generates cached log bloom indexes for blocks. APIs such as eth_getLogsand eth_getFilterLogs use the cache for improved performance.
+title: etc:admin_generateLogBloomCache  {disallowed} - Ethereum Classic
+description: Example code for the etc:admin_generateLogBloomCache  {disallowed} json-rpc method. Сomplete guide on how to use etc:admin_generateLogBloomCache  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

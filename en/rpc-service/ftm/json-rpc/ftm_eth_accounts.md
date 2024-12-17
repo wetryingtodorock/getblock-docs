@@ -1,6 +1,6 @@
 ---
-title: ftm:eth_accounts \[POST\]
-description: Returns a list of account addresses a client owns.
+title: ftm:eth_accounts - Fantom
+description: Example code for the ftm:eth_accounts json-rpc method. Сomplete guide on how to use ftm:eth_accounts json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

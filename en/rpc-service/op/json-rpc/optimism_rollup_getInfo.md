@@ -1,6 +1,6 @@
 ---
-title: optimism:rollup_getInfo \[POST\]
-description: Returns useful L2-specific information about the current node.
+title: optimism:rollup_getInfo - Optimism
+description: Example code for the optimism:rollup_getInfo json-rpc method. Сomplete guide on how to use optimism:rollup_getInfo json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

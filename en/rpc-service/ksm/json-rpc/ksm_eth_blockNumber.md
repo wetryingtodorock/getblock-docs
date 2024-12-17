@@ -1,6 +1,6 @@
 ---
-title: ksm:eth_blockNumber \[POST\] {disallowed}
-description: Returns the blockNumber.
+title: ksm:eth_blockNumber  {disallowed} - Kusama
+description: Example code for the ksm:eth_blockNumber  {disallowed} json-rpc method. Сomplete guide on how to use ksm:eth_blockNumber  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

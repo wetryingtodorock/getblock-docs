@@ -1,6 +1,6 @@
 ---
-title: heco:eth_hashrate \[WebSocket\]
-description: Returns the number of hashes per second that the node is mining with.
+title: heco:eth_hashrate - Huobi ECO Chain
+description: Example code for the heco:eth_hashrate ws method. Сomplete guide on how to use heco:eth_hashrate ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

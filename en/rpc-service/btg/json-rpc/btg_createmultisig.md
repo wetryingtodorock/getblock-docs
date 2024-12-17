@@ -1,6 +1,6 @@
 ---
-title: btg:createmultisig \[POST\] {disallowed}
-description: Creates a multi-signature address with n signature of m keys required.It returns a json object with the address and redeemScript.
+title: btg:createmultisig  {disallowed} - Bitcoin Gold
+description: Example code for the btg:createmultisig  {disallowed} json-rpc method. Сomplete guide on how to use btg:createmultisig  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

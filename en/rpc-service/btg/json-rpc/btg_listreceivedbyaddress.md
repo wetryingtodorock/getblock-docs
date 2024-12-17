@@ -1,6 +1,6 @@
 ---
-title: btg:listreceivedbyaddress \[POST\] {disallowed}
-description: List balances by receiving address.
+title: btg:listreceivedbyaddress  {disallowed} - Bitcoin Gold
+description: Example code for the btg:listreceivedbyaddress  {disallowed} json-rpc method. Сomplete guide on how to use btg:listreceivedbyaddress  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

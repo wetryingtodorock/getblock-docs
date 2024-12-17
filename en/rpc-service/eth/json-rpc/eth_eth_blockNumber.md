@@ -1,6 +1,6 @@
 ---
-title: eth:eth_blockNumber \[POST\]
-description: Returns the index corresponding to the block number of the current chainhead.
+title: eth:eth_blockNumber - Ethereum
+description: Example code for the eth:eth_blockNumber json-rpc method. Сomplete guide on how to use eth:eth_blockNumber json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

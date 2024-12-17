@@ -1,6 +1,6 @@
 ---
-title: near:status \[POST\]
-description: Returns general status of a given node (sync status, nearcore nodeversion, protocol version, etc), and the current set of validators.
+title: near:status - NEAR Protocol
+description: Example code for the near:status json-rpc method. Сomplete guide on how to use near:status json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

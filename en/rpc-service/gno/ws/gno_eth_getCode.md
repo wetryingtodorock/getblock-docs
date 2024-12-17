@@ -1,6 +1,6 @@
 ---
-title: gno:eth_getCode \[WebSocket\]
-description: Returns the code of the smart contract at the specified address. Besustores compiled smart contract code as a hexadecimal value.
+title: gno:eth_getCode - Gnosis
+description: Example code for the gno:eth_getCode ws method. Сomplete guide on how to use gno:eth_getCode ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: rsk:shh_newIdentity \[POST\] {disallowed}
-description: Whisper protocol not supported.
+title: rsk:shh_newIdentity  {disallowed} - Rootstock
+description: Example code for the rsk:shh_newIdentity  {disallowed} json-rpc method. Сomplete guide on how to use rsk:shh_newIdentity  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

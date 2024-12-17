@@ -1,6 +1,6 @@
 ---
-title: rsk:eth_accounts \[WebSocket\]
-description: Returns a list of addresses owned by client.
+title: rsk:eth_accounts - Rootstock
+description: Example code for the rsk:eth_accounts ws method. Сomplete guide on how to use rsk:eth_accounts ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

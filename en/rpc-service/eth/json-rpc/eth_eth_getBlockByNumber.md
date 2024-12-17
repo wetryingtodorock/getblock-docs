@@ -1,6 +1,6 @@
 ---
-title: eth:eth_getBlockByNumber \[POST\]
-description: Returns information about a block by block number.
+title: eth:eth_getBlockByNumber - Ethereum
+description: Example code for the eth:eth_getBlockByNumber json-rpc method. Сomplete guide on how to use eth:eth_getBlockByNumber json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

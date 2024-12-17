@@ -1,6 +1,6 @@
 ---
-title: dash:quorum_info \[POST\] {disallowed}
-description: returns information about a specific quorum.
+title: dash:quorum_info  {disallowed} - Dash
+description: Example code for the dash:quorum_info  {disallowed} json-rpc method. Сomplete guide on how to use dash:quorum_info  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

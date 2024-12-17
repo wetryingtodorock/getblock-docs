@@ -1,6 +1,6 @@
 ---
-title: bch:getrpcinfo \[POST\]
-description: Returns details of the RPC server.
+title: bch:getrpcinfo - Bitcoin Cash
+description: Example code for the bch:getrpcinfo json-rpc method. Сomplete guide on how to use bch:getrpcinfo json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

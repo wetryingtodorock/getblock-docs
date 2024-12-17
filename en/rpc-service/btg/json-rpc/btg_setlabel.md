@@ -1,6 +1,6 @@
 ---
-title: btg:setlabel \[POST\] {disallowed}
-description: Sets the label associated with the given address.
+title: btg:setlabel  {disallowed} - Bitcoin Gold
+description: Example code for the btg:setlabel  {disallowed} json-rpc method. Сomplete guide on how to use btg:setlabel  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

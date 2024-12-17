@@ -1,6 +1,6 @@
 ---
-title: heco:eth_getBlockTransactionCountByHash \[POST\]
-description: Returns the number of transactions in a block from a block matching thegiven block hash.
+title: heco:eth_getBlockTransactionCountByHash - Huobi ECO Chain
+description: Example code for the heco:eth_getBlockTransactionCountByHash json-rpc method. Сomplete guide on how to use heco:eth_getBlockTransactionCountByHash json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

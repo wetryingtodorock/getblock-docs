@@ -1,6 +1,6 @@
 ---
-title: avax:eth_getUncleByBlockNumberAndIndex \[WebSocket\]
-description: Returns information about a uncle of a block by number and uncle indexposition.
+title: avax:eth_getUncleByBlockNumberAndIndex - Avalanche
+description: Example code for the avax:eth_getUncleByBlockNumberAndIndex ws method. Сomplete guide on how to use avax:eth_getUncleByBlockNumberAndIndex ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: bsc:trace_transaction \[WebSocket\]
-description: Provides transaction processing of type trace for the specifiedtransaction.
+title: bsc:trace_transaction - Binance Smart Chain
+description: Example code for the bsc:trace_transaction ws method. Сomplete guide on how to use bsc:trace_transaction ws in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

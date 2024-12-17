@@ -1,6 +1,6 @@
 ---
-title: btc:listbanned \[POST\] {disallowed}
-description: List all banned IPs/Subnets.
+title: btc:listbanned  {disallowed} - Bitcoin
+description: Example code for the btc:listbanned  {disallowed} json-rpc method. Сomplete guide on how to use btc:listbanned  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: bch:verifymessage \[POST\]
-description: Verify a signed message
+title: bch:verifymessage - Bitcoin Cash
+description: Example code for the bch:verifymessage json-rpc method. Сomplete guide on how to use bch:verifymessage json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

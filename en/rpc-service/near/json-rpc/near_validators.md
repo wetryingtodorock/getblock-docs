@@ -1,6 +1,6 @@
 ---
-title: near:validators \[POST\]
-description: Queries active validators on the network returning details and the stateof validation on the blockchain.Note For \[block hash\] and \[block number\] you will need to queryrecent blocks as they become garbage collected after five epochs.
+title: near:validators - NEAR Protocol
+description: Example code for the near:validators json-rpc method. Сomplete guide on how to use near:validators json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: bsv:unparkblock \[POST\] {disallowed}
-description: Removes parked status of a block and its descendants, reconsider themfor activation.This can be used to undo the effects of parkblock.
+title: bsv:unparkblock  {disallowed} - Bitcoin SV
+description: Example code for the bsv:unparkblock  {disallowed} json-rpc method. Сomplete guide on how to use bsv:unparkblock  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

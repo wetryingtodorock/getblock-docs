@@ -1,6 +1,6 @@
 ---
-title: optimism:eth_mining \[POST\]
-description: Returns true if client is actively mining new blocks.
+title: optimism:eth_mining - Optimism
+description: Example code for the optimism:eth_mining json-rpc method. Сomplete guide on how to use optimism:eth_mining json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

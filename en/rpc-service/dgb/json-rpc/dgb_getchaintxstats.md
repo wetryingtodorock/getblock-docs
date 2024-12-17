@@ -1,6 +1,6 @@
 ---
-title: dgb:getchaintxstats \[POST\]
-description: Compute statistics about the total number and rate of transactions inthe chain.
+title: dgb:getchaintxstats - DigiByte
+description: Example code for the dgb:getchaintxstats json-rpc method. Сomplete guide on how to use dgb:getchaintxstats json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

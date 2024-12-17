@@ -1,6 +1,6 @@
 ---
-title: sol:getFees \[POST\] {disallowed}
-description: DEPRECATED Please use getFeeForMessage instead This method is expectedto be removed in solana-core v2.0Returns a recent block hash from the ledger, a fee schedule that can beused to compute the cost of submitting a transaction using it, and thelast slot in which the blockhash will be valid.
+title: sol:getFees  {disallowed} - Solana
+description: Example code for the sol:getFees  {disallowed} json-rpc method. Сomplete guide on how to use sol:getFees  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

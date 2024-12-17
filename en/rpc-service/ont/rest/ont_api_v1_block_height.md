@@ -1,6 +1,6 @@
 ---
-title: ont:/api/v1/block/height \[GET\]
-description: Fetch the current block height
+title: ont:/api/v1/block/height - Ontology
+description: Example code for the ont:/api/v1/block/height rest method. Сomplete guide on how to use ont:/api/v1/block/height rest in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

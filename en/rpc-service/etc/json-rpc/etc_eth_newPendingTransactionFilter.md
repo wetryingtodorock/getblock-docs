@@ -1,6 +1,6 @@
 ---
-title: etc:eth_newPendingTransactionFilter \[POST\]
-description: Creates a filter to retrieve new pending transactions hashes. To pollfor new pending transactions, use eth_getFilterChanges.
+title: etc:eth_newPendingTransactionFilter - Ethereum Classic
+description: Example code for the etc:eth_newPendingTransactionFilter json-rpc method. Сomplete guide on how to use etc:eth_newPendingTransactionFilter json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

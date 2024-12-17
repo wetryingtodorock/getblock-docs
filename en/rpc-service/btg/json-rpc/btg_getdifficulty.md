@@ -1,6 +1,6 @@
 ---
-title: btg:getdifficulty \[POST\]
-description: Returns the proof-of-work difficulty as a multiple of the minimumdifficulty.
+title: btg:getdifficulty - Bitcoin Gold
+description: Example code for the btg:getdifficulty json-rpc method. Сomplete guide on how to use btg:getdifficulty json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: avax:eth_getCode \[POST\]
-description: Returns code at a given address.
+title: avax:eth_getCode - Avalanche
+description: Example code for the avax:eth_getCode json-rpc method. Сomplete guide on how to use avax:eth_getCode json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

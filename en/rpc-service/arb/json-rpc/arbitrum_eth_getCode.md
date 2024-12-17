@@ -1,6 +1,6 @@
 ---
-title: arbitrum:eth_getCode \[POST\]
-description: Returns code at a given address.
+title: arbitrum:eth_getCode - Arbitrum
+description: Example code for the arbitrum:eth_getCode json-rpc method. Сomplete guide on how to use arbitrum:eth_getCode json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

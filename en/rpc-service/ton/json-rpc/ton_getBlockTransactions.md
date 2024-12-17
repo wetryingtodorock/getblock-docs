@@ -1,6 +1,6 @@
 ---
-title: ton:/getBlockTransactions \[GET\]
-description: Get transactions of the given block.
+title: ton:/getBlockTransactions - The Open Network (TON)
+description: Example code for the ton:/getBlockTransactions json-rpc method. Сomplete guide on how to use ton:/getBlockTransactions json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: bch:importwallet \[POST\] {disallowed}
-description: Imports keys from a wallet dump file (see dumpwallet). Requires a newwallet backup to include imported keys.Note Use “getwalletinfo” to query the scanning progress.
+title: bch:importwallet  {disallowed} - Bitcoin Cash
+description: Example code for the bch:importwallet  {disallowed} json-rpc method. Сomplete guide on how to use bch:importwallet  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

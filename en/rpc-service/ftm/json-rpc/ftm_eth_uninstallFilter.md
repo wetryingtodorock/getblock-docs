@@ -1,6 +1,6 @@
 ---
-title: ftm:eth_uninstallFilter \[POST\]
-description: Uninstalls a filter with the specified ID. When a filter is no longerrequired, call this method.Filters time out when not requested by eth_getFilterChanges oreth_getFilterLogs for 10 minutes.
+title: ftm:eth_uninstallFilter - Fantom
+description: Example code for the ftm:eth_uninstallFilter json-rpc method. Сomplete guide on how to use ftm:eth_uninstallFilter json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

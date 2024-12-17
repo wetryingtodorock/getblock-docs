@@ -1,6 +1,6 @@
 ---
-title: ont:/api/v1/unboundong/{addr} \[GET\]
-description: Fetch unbound ONG for an account
+title: ont:/api/v1/unboundong/{addr} - Ontology
+description: Example code for the ont:/api/v1/unboundong/{addr} rest method. Сomplete guide on how to use ont:/api/v1/unboundong/{addr} rest in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

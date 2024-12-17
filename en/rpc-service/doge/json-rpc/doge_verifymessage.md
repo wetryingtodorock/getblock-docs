@@ -1,6 +1,6 @@
 ---
-title: doge:verifymessage \[POST\]
-description: Verify a signed message
+title: doge:verifymessage - Dogecoin
+description: Example code for the doge:verifymessage json-rpc method. Сomplete guide on how to use doge:verifymessage json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

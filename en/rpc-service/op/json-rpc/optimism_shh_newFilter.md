@@ -1,6 +1,6 @@
 ---
-title: optimism:shh_newFilter \[POST\] {disallowed}
-description: Creates filter to notify, when client receives whisper message matchingthe filter options.
+title: optimism:shh_newFilter  {disallowed} - Optimism
+description: Example code for the optimism:shh_newFilter  {disallowed} json-rpc method. Сomplete guide on how to use optimism:shh_newFilter  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

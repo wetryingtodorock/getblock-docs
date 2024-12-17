@@ -1,6 +1,6 @@
 ---
-title: ksm:system_addReservedPeer \[POST\] {disallowed}
-description: Adds a reserved peer
+title: ksm:system_addReservedPeer  {disallowed} - Kusama
+description: Example code for the ksm:system_addReservedPeer  {disallowed} json-rpc method. Сomplete guide on how to use ksm:system_addReservedPeer  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

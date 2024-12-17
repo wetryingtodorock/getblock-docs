@@ -1,6 +1,6 @@
 ---
-title: movr:author_submitExtrinsic \[POST\] {disallowed}
-description: Submit a fully formatted extrinsic for block inclusion
+title: movr:author_submitExtrinsic  {disallowed} - Moonriver
+description: Example code for the movr:author_submitExtrinsic  {disallowed} json-rpc method. Сomplete guide on how to use movr:author_submitExtrinsic  {disallowed} json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters

@@ -1,6 +1,6 @@
 ---
-title: ftm:eth_getTransactionByBlockNumberAndIndex \[POST\]
-description: Returns transaction information for the specified block number andtransaction index position.
+title: ftm:eth_getTransactionByBlockNumberAndIndex - Fantom
+description: Example code for the ftm:eth_getTransactionByBlockNumberAndIndex json-rpc method. Сomplete guide on how to use ftm:eth_getTransactionByBlockNumberAndIndex json-rpc in GetBlock.io Web3 documentation.
 ---
 
 ### Parameters
