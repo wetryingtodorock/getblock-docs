@@ -1,6 +1,0 @@
----
-icon: compass
----
-
-# Overview
-

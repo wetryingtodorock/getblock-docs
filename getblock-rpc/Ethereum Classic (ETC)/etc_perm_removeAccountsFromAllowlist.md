@@ -1,18 +1,22 @@
 ---
 title: perm_removeAccountsFromAllowlist  {disallowed} - Ethereum Classic
-description: Example code for the perm_removeAccountsFromAllowlist  {disallowed} json-rpc method. Сomplete guide on how to use perm_removeAccountsFromAllowlist  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+description: >-
+  Example code for the perm_removeAccountsFromAllowlist  {disallowed} json-rpc
+  method. Сomplete guide on how to use perm_removeAccountsFromAllowlist 
+  {disallowed} json-rpc in GetBlock.io Web3 documentat
 ---
 
-### Parameters
+# perm\_removeAccountsFromAllowlist  {disallowed} - Ethereum Classic
 
+#### Parameters
 
 `list of strings` - None
 
 List of account addresses.
 
-### Request
+#### Request
 
-``` java
+```java
 curl --location --request POST 'https://etc.getblock.io/mainnet/' 
 --header 'x-api-key: YOUR-API-KEY' 
 --header 'Content-Type: application/json' 
@@ -22,9 +26,9 @@ curl --location --request POST 'https://etc.getblock.io/mainnet/'
 "id": "getblock.io"}'
 ```
 
-###  Response
+#### Response
 
-``` java
+```java
 {
     "result": "null",
     "id": "getblock.io",
@@ -32,4 +36,3 @@ curl --location --request POST 'https://etc.getblock.io/mainnet/'
     "message": "Method not allowed"
 }
 ```
-

@@ -1,18 +1,22 @@
 ---
 title: eth_getBlockTransactionCountByHash  {disallowed} - Kusama
-description: Example code for the eth_getBlockTransactionCountByHash  {disallowed} json-rpc method. Сomplete guide on how to use eth_getBlockTransactionCountByHash  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+description: >-
+  Example code for the eth_getBlockTransactionCountByHash  {disallowed} json-rpc
+  method. Сomplete guide on how to use eth_getBlockTransactionCountByHash 
+  {disallowed} json-rpc in GetBlock.io Web3 docume
 ---
 
-### Parameters
+# eth\_getBlockTransactionCountByHash  {disallowed} - Kusama
 
+#### Parameters
 
 `hash` - H256
 
 None
 
-### Request
+#### Request
 
-``` java
+```java
 curl --location --request POST 'https://ksm.getblock.io/mainnet/' 
 --header 'x-api-key: YOUR-API-KEY' 
 --header 'Content-Type: application/json' 
@@ -22,9 +26,9 @@ curl --location --request POST 'https://ksm.getblock.io/mainnet/'
 "id": "getblock.io"}'
 ```
 
-###  Response
+#### Response
 
-``` java
+```java
 {
     "result": "null",
     "id": "getblock.io",
@@ -32,4 +36,3 @@ curl --location --request POST 'https://ksm.getblock.io/mainnet/'
     "message": "Method not allowed"
 }
 ```
-

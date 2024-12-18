@@ -1,10 +1,15 @@
 ---
 title: buildTransaction(CreateSmartContract)  {disallowed} - TRON
-description: Example code for the buildTransaction(CreateSmartContract)  {disallowed} json-rpc method. Сomplete guide on how to use buildTransaction(CreateSmartContract)  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+description: >-
+  Example code for the buildTransaction(CreateSmartContract)  {disallowed}
+  json-rpc method. Сomplete guide on how to use
+  buildTransaction(CreateSmartContract)  {disallowed} json-rpc in GetBlock.io
+  Web3
 ---
 
-### Parameters
+# buildTransaction(CreateSmartContract)  {disallowed} - TRON
 
+#### Parameters
 
 `from` - data, 20 bytes
 
@@ -36,7 +41,7 @@ The origin energy limit.
 
 `value` - DATA
 
-The data passed through call_value.
+The data passed through call\_value.
 
 `tokenId` - QUANTITY
 
@@ -46,9 +51,9 @@ Token ID
 
 The transfer amount of TRC10
 
-### Request
+#### Request
 
-``` java
+```java
 curl --location --request POST 'https://trx.getblock.io/mainnet/jsonrpc' \
 --header 'x-api-key: YOUR-API-KEY' \
 --header 'Content-Type: application/json' \
@@ -58,9 +63,9 @@ curl --location --request POST 'https://trx.getblock.io/mainnet/jsonrpc' \
 "id": "getblock.io"}'
 ```
 
-###  Response
+#### Response
 
-``` java
+```java
 {
     "result": "null",
     "id": "getblock.io",
@@ -68,4 +73,3 @@ curl --location --request POST 'https://trx.getblock.io/mainnet/jsonrpc' \
     "message": "Method not allowed"
 }
 ```
-

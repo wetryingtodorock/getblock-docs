@@ -1,9 +1,9 @@
 ---
+icon: hand-wave
 description: >-
   GitBook is a platform for capturing and documenting technical knowledge — from
   product docs, to internal knowledge bases and APIs. We want to help teams to
   work more efficiently with a simple.
-icon: hand-wave
 cover: .gitbook/assets/cover.png
 coverY: 0
 ---
@@ -25,7 +25,7 @@ coverY: 0
 
 ## Discover GetBlock
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><mark style="color:blue;"><strong>Get Started</strong></mark></td><td>Subtitle</td><td></td><td><a href=".gitbook/assets/Get started.png">Get started.png</a></td><td><a href="get-started/overview.md">overview.md</a></td></tr><tr><td><mark style="color:blue;"><strong>Guides</strong></mark></td><td>Subtitle</td><td></td><td><a href=".gitbook/assets/Guides.png">Guides.png</a></td><td><a href="guides/overview.md">overview.md</a></td></tr><tr><td><mark style="color:blue;"><strong>GetBlock RPC</strong></mark></td><td>Subtitle</td><td></td><td><a href=".gitbook/assets/Guides-1.png">Guides-1.png</a></td><td><a href="getblock-rpc/overview.md">overview.md</a></td></tr><tr><td><mark style="color:blue;"><strong>Explorer</strong></mark></td><td>Subtitle</td><td></td><td><a href=".gitbook/assets/Guides-2.png">Guides-2.png</a></td><td></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><mark style="color:blue;"><strong>Get Started</strong></mark></td><td>Subtitle</td><td></td><td></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td><mark style="color:blue;"><strong>Guides</strong></mark></td><td>Subtitle</td><td></td><td></td><td><a href="getblock-rpc/overview.md">overview.md</a></td></tr><tr><td><mark style="color:blue;"><strong>GetBlock RPC</strong></mark></td><td>Subtitle</td><td></td><td></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td><mark style="color:blue;"><strong>Explorer</strong></mark></td><td>Subtitle</td><td></td><td></td><td></td></tr></tbody></table>
 
 ***
 

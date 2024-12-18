@@ -1,21 +1,21 @@
 ---
+icon: circle
 description: >-
   To start using GetBlock's services, you need to register an account. You’ll be
   ready to go in just a few clicks!
-icon: circle
 ---
 
 # How to set up an account
 
 {% stepper %}
 {% step %}
-### Go to GetBlock
+#### Go to GetBlock
 
 Visit the [homepage](https://getblock.io/) and click on the 'Dashboard' button in the upper-right corner, or use [this direct link](https://account.getblock.io/sign-up).
 {% endstep %}
 
 {% step %}
-### Choose the sign-up method
+#### Choose the sign-up method
 
 *   **Register with Email**
 
@@ -23,7 +23,7 @@ Visit the [homepage](https://getblock.io/) and click on the 'Dashboard' button i
 *   **Sign in via Google**
 
     Google will share your name, email, language preferences, and profile picture with GetBlock.
-*   **Connect with MetaMask**&#x20;
+*   **Connect with MetaMask**
 
     Use a MetaMask wallet browser extension to sign up – no email or password required. If you don’t have a wallet extension installed, you’ll be prompted to add one.
 *   **Sign up with GitHub**
@@ -32,7 +32,7 @@ Visit the [homepage](https://getblock.io/) and click on the 'Dashboard' button i
 {% endstep %}
 
 {% step %}
-### Review and accept policies
+#### Review and accept policies
 
 During registration, you will be asked to accept our [Terms of Service](https://getblock.io/terms-of-service/) and [Privacy Policy](https://getblock.io/privacy-policy/).
 {% endstep %}
@@ -44,10 +44,10 @@ During registration, you will be asked to accept our [Terms of Service](https://
 
 Once you've created an account and signed in, you'll be directed to the GetBlock **Dashboard**. Here, you can create endpoints, monitor your usage plan, and access statistics.
 
-<figure><img src="../.gitbook/assets/Docs_dashboard_bl.jpg" alt="GetBlock user dashboard for managing blockchain node access"><figcaption><p>GetBlock user Dashboard </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Docs_dashboard_bl.jpg" alt="GetBlock user dashboard for managing blockchain node access"><figcaption><p>GetBlock user Dashboard</p></figcaption></figure>
 
 ### Check your User ID
 
 Find your user ID located in the ‘Account Settings’ section. Please use it when contacting GetBlock’s team so we can identify your account and help you faster.
 
-<figure><img src="../.gitbook/assets/Docs_UserID_bl (1).jpg" alt="How to find GetBlock user ID"><figcaption><p>Find the user ID</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Docs_UserID_bl%20(1).jpg" alt="How to find GetBlock user ID"><figcaption><p>Find the user ID</p></figcaption></figure>

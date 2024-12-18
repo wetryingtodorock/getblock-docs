@@ -1,10 +1,14 @@
 ---
 title: getConfirmedSignaturesForAddress2  {disallowed} - Solana
-description: Example code for the getConfirmedSignaturesForAddress2  {disallowed} json-rpc method. Сomplete guide on how to use getConfirmedSignaturesForAddress2  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+description: >-
+  Example code for the getConfirmedSignaturesForAddress2  {disallowed} json-rpc
+  method. Сomplete guide on how to use getConfirmedSignaturesForAddress2 
+  {disallowed} json-rpc in GetBlock.io Web3 document
 ---
 
-### Parameters
+# getConfirmedSignaturesForAddress2  {disallowed} - Solana
 
+#### Parameters
 
 `address` - string
 
@@ -14,18 +18,11 @@ account address as base-58 encoded string
 
 Optional
 
-Configuration object containing the following fields: - limit: number
-(optional) - maximum transaction signatures to return (between 1 and
-1,000, default: 1,000). - before: string (optional) - start searching
-backwards from this transaction signature. If not provided the search
-starts from the top of the highest max confirmed block. - until: string
-(optional) - search until this transaction signature, if found before
-limit reached. - commitment (optional) - "processed" is not supported.
-If parameter not provided, the default is "finalized".
+Configuration object containing the following fields: - limit: number (optional) - maximum transaction signatures to return (between 1 and 1,000, default: 1,000). - before: string (optional) - start searching backwards from this transaction signature. If not provided the search starts from the top of the highest max confirmed block. - until: string (optional) - search until this transaction signature, if found before limit reached. - commitment (optional) - "processed" is not supported. If parameter not provided, the default is "finalized".
 
-### Request
+#### Request
 
-``` java
+```java
 curl --location --request POST 'https://sol.getblock.io/mainnet' \ 
 --header 'x-api-key: YOUR-API-KEY' \ 
 --header 'Content-Type: application/json' \ 
@@ -35,9 +32,9 @@ curl --location --request POST 'https://sol.getblock.io/mainnet' \
 "id": "getblock.io"}'
 ```
 
-###  Response
+#### Response
 
-``` java
+```java
 {
     "result": "null",
     "id": "getblock.io",
@@ -45,4 +42,3 @@ curl --location --request POST 'https://sol.getblock.io/mainnet' \
     "message": "Method not allowed"
 }
 ```
-

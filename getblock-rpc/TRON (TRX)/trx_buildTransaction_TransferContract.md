@@ -1,10 +1,14 @@
 ---
 title: buildTransaction(TransferContract)  {disallowed} - TRON
-description: Example code for the buildTransaction(TransferContract)  {disallowed} json-rpc method. Сomplete guide on how to use buildTransaction(TransferContract)  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+description: >-
+  Example code for the buildTransaction(TransferContract)  {disallowed} json-rpc
+  method. Сomplete guide on how to use buildTransaction(TransferContract) 
+  {disallowed} json-rpc in GetBlock.io Web3 docume
 ---
 
-### Parameters
+# buildTransaction(TransferContract)  {disallowed} - TRON
 
+#### Parameters
 
 `from` - data, 20 bytes
 
@@ -18,9 +22,9 @@ The address the transaction is directed to.
 
 the transfer amount
 
-### Request
+#### Request
 
-``` java
+```java
 curl --location --request POST 'https://trx.getblock.io/mainnet/jsonrpc' \
 --header 'x-api-key: YOUR-API-KEY' \
 --header 'Content-Type: application/json' \
@@ -30,9 +34,9 @@ curl --location --request POST 'https://trx.getblock.io/mainnet/jsonrpc' \
 "id": "getblock.io"}'
 ```
 
-###  Response
+#### Response
 
-``` java
+```java
 {
     "result": "null",
     "id": "getblock.io",
@@ -40,4 +44,3 @@ curl --location --request POST 'https://trx.getblock.io/mainnet/jsonrpc' \
     "message": "Method not allowed"
 }
 ```
-

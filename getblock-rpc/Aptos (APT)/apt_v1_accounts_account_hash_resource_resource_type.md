@@ -1,10 +1,15 @@
 ---
 title: /v1/accounts/{account_hash}/resource/{resource_type} - Aptos
-description: Example code for the /v1/accounts/{account_hash}/resource/{resource_type} json-rpc method. Сomplete guide on how to use /v1/accounts/{account_hash}/resource/{resource_type} json-rpc in GetBlock.io Web3 documentation.
+description: >-
+  Example code for the /v1/accounts/{account_hash}/resource/{resource_type}
+  json-rpc method. Сomplete guide on how to use
+  /v1/accounts/{account_hash}/resource/{resource_type} json-rpc in GetBlock.io
+  Web
 ---
 
-### Parameters
+# /v1/accounts/{account\_hash}/resource/{resource\_type} - Aptos
 
+#### Parameters
 
 `resource_type` -
 
@@ -14,17 +19,17 @@ A type of struct to retrieve.
 
 Ledger version. Defaults to latest if not provided.
 
-### Request
+#### Request
 
-``` java
+```java
 curl --location --request GET 'https://apt.getblock.io/v1/accounts/0xc20ea5a196c81d8d7aff814aa37f8a5823acffbc4193efd3b2aafc9ef2803255/resource/0x1::coin::CoinStore<0x1::aptos_coin::AptosCoin>?resource_type=0x1::coin::CoinStore<0x1::aptos_coin::AptosCoin>' 
 --header 'x-api-key: YOUR-API-KEY' 
 --header 'Content-Type: application/json' 
 ```
 
-###  Response
+#### Response
 
-``` java
+```java
 {
     "data": {
         "coin": {
@@ -53,4 +58,3 @@ curl --location --request GET 'https://apt.getblock.io/v1/accounts/0xc20ea5a196c
     "type": "0x1::coin::CoinStore<0x1::aptos_coin::AptosCoin>"
 }
 ```
-

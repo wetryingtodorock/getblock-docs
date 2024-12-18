@@ -1,10 +1,15 @@
 ---
 title: EXPERIMENTAL_changes(account_changes)  {disallowed} - NEAR Protocol
-description: Example code for the EXPERIMENTAL_changes(account_changes)  {disallowed} json-rpc method. Сomplete guide on how to use EXPERIMENTAL_changes(account_changes)  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+description: >-
+  Example code for the EXPERIMENTAL_changes(account_changes)  {disallowed}
+  json-rpc method. Сomplete guide on how to use
+  EXPERIMENTAL_changes(account_changes)  {disallowed} json-rpc in GetBlock.io
+  Web3
 ---
 
-### Parameters
+# EXPERIMENTAL\_changes(account\_changes)  {disallowed} - NEAR Protocol
 
+#### Parameters
 
 `changes_type` - string
 
@@ -16,7 +21,7 @@ an array of account ids
 
 `finality` - string
 
-You should pick either that or block_id.
+You should pick either that or block\_id.
 
 Can be either "optimistic" or "final"
 
@@ -24,12 +29,11 @@ Can be either "optimistic" or "final"
 
 You should pick either that or finality.
 
-The block_id param can take either the block number OR the block hash as
-an argument.
+The block\_id param can take either the block number OR the block hash as an argument.
 
-### Request
+#### Request
 
-``` java
+```java
 curl --location --request POST 'https://near.getblock.io/mainnet' \ 
 --header 'x-api-key: YOUR-API-KEY' \ 
 --header 'Content-Type: application/json' \ 
@@ -39,9 +43,9 @@ curl --location --request POST 'https://near.getblock.io/mainnet' \
 "id": "getblock.io"}'
 ```
 
-###  Response
+#### Response
 
-``` java
+```java
 {
     "result": "null",
     "id": "getblock.io",
@@ -49,4 +53,3 @@ curl --location --request POST 'https://near.getblock.io/mainnet' \
     "message": "Method not allowed"
 }
 ```
-

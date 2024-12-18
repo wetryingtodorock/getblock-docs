@@ -1,19 +1,22 @@
 ---
 title: ibft_getValidatorsByBlockNumber  {disallowed} - Ethereum Classic
-description: Example code for the ibft_getValidatorsByBlockNumber  {disallowed} json-rpc method. Сomplete guide on how to use ibft_getValidatorsByBlockNumber  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+description: >-
+  Example code for the ibft_getValidatorsByBlockNumber  {disallowed} json-rpc
+  method. Сomplete guide on how to use ibft_getValidatorsByBlockNumber 
+  {disallowed} json-rpc in GetBlock.io Web3 documentatio
 ---
 
-### Parameters
+# ibft\_getValidatorsByBlockNumber  {disallowed} - Ethereum Classic
 
+#### Parameters
 
 `quantity|tag` - None
 
-Integer representing a block number or one of the string tags latest,
-earliest, or pending, as described in Block Parameter.
+Integer representing a block number or one of the string tags latest, earliest, or pending, as described in Block Parameter.
 
-### Request
+#### Request
 
-``` java
+```java
 curl --location --request POST 'https://etc.getblock.io/mainnet/' 
 --header 'x-api-key: YOUR-API-KEY' 
 --header 'Content-Type: application/json' 
@@ -23,9 +26,9 @@ curl --location --request POST 'https://etc.getblock.io/mainnet/'
 "id": "getblock.io"}'
 ```
 
-###  Response
+#### Response
 
-``` java
+```java
 {
     "result": "null",
     "id": "getblock.io",
@@ -33,4 +36,3 @@ curl --location --request POST 'https://etc.getblock.io/mainnet/'
     "message": "Method not allowed"
 }
 ```
-

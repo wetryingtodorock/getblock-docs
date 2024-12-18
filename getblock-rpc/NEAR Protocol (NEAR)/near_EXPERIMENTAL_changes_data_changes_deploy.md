@@ -1,10 +1,14 @@
 ---
 title: EXPERIMENTAL_changes(data_changes_deploy)  {disallowed} - NEAR Protocol
-description: Example code for the EXPERIMENTAL_changes(data_changes_deploy)  {disallowed} json-rpc method. Сomplete guide on how to use EXPERIMENTAL_changes(data_changes_deploy)  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+description: >-
+  Example code for the EXPERIMENTAL_changes(data_changes_deploy)  {disallowed}
+  json-rpc method. Сomplete guide on how to use
+  EXPERIMENTAL_changes(data_changes_deploy)  {disallowed} json-rpc in GetBlock.
 ---
 
-### Parameters
+# EXPERIMENTAL\_changes(data\_changes\_deploy)  {disallowed} - NEAR Protocol
 
+#### Parameters
 
 `changes_type` - string
 
@@ -18,9 +22,9 @@ an array of account ids
 
 block id
 
-### Request
+#### Request
 
-``` java
+```java
 curl --location --request POST 'https://near.getblock.io/mainnet' \ 
 --header 'x-api-key: YOUR-API-KEY' \ 
 --header 'Content-Type: application/json' \ 
@@ -30,9 +34,9 @@ curl --location --request POST 'https://near.getblock.io/mainnet' \
 "id": "getblock.io"}'
 ```
 
-###  Response
+#### Response
 
-``` java
+```java
 {
     "result": "null",
     "id": "getblock.io",
@@ -40,4 +44,3 @@ curl --location --request POST 'https://near.getblock.io/mainnet' \
     "message": "Method not allowed"
 }
 ```
-
