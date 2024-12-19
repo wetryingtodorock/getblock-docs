@@ -12,7 +12,6 @@ Import the collection into your Postman workspace: [https://documenter.getpostma
 2. Select the desired network from the drop-down list on the sidebar.
 3. Paste the access token copied from your account instead of `{YOUR_ACCESS_TOKEN}`.
 
-<figure><img src="../../.gitbook/assets/Docs_postman_light.svg" alt="Postman setup for Ethereum JSON-RPC request via GetBlock&#x27;s blockchain node"><figcaption><p>Using Postman to send a JSON-RPC request to an Ethereum node via GetBlock</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Docs_postman_light.svg" alt="Using Postman Collection for Ethereum JSON-RPC request "><figcaption><p>Using Postman to send a JSON-RPC request to an Ethereum node via GetBlock</p></figcaption></figure>
 
 This token will grant you the necessary permissions to explore our node functionalities.
-

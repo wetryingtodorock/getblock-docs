@@ -1,7 +1,7 @@
 ---
 description: >-
-  Follow this guide to set up GetBlock as a provider using Ethers.js library to
-  interact with the blockchain and streamline your dApp development process.
+  Set up GetBlock as a provider using Ethers.js library to interact with the
+  blockchain and streamline your dApp development process.
 ---
 
 # Ethers.js integration
@@ -23,8 +23,6 @@ npm install ethers
 ```bash
 yarn add ethers
 ```
-
-
 
 ### Set GetBlock as a provider
 

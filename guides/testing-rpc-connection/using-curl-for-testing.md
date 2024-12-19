@@ -78,7 +78,7 @@ curl --location --request POST 'https://go.getblock.io/<ACCESS_TOKEN>/' \
 }'
 ```
 
-Example response:&#x20;
+Example response:
 
 ```json
 {
@@ -91,5 +91,5 @@ Example response:&#x20;
 The result field shows the account balance in wei (1 ether = 10¹⁸ wei).
 
 {% hint style="info" %}
-For a list of supported RPC methods with examples, navigate to the [GetBlock RPC](broken-reference) section.
+For a list of supported RPC methods with examples, navigate to [API Reference](broken-reference).
 {% endhint %}

@@ -12,9 +12,4 @@ description: >-
 
 ### JSON-RPC errors
 
-
-
-<table><thead><tr><th width="205">Code</th><th width="158">Error message</th><th>Solution</th></tr></thead><tbody><tr><td>32601</td><td>The method does not exist/is not available</td><td>Verify the method name (<code>eth_blockNumber</code>, <code>eth_getBalance</code>, etc.) against the blockchain's JSON-RPC specification.</td></tr><tr><td>32602</td><td>Invalid argument</td><td>Ensure the parameters in the <code>params</code> array match the expected format for the method.</td></tr><tr><td>32700</td><td>Parse error</td><td>Double-check your JSON syntax. Ensure your request is properly formatted.</td></tr></tbody></table>
-
-
-
+<table><thead><tr><th width="205">Code</th><th width="158">Error message</th><th>Solution</th></tr></thead><tbody><tr><td>32601</td><td>The method does not exist/is not available</td><td>Verify the method name (<code>eth_blockNumber</code>, <code>eth_getBalance</code>, etc.) against the blockchain's JSON-RPC <a href="broken-reference">specifications</a>.</td></tr><tr><td>32602</td><td>Invalid argument</td><td>Ensure the parameters in the <code>params</code> array match the expected format for the method.</td></tr><tr><td>32700</td><td>Parse error</td><td>Double-check your JSON syntax. Ensure your request is properly formatted.</td></tr></tbody></table>

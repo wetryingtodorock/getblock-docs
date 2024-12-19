@@ -1,10 +1,11 @@
 ---
 icon: circle
+hidden: true
 ---
 
 # Querying Web3 data using Covalent API
 
-Covalent is pleased to partner with industry-leading service providers such as GetBlock. Covalent provides a unified API to unlock one billion possibilities and bring full transparency and visibility to assets across all blockchain networks.&#x20;
+Covalent is pleased to partner with industry-leading service providers such as GetBlock. Covalent provides a unified API to unlock one billion possibilities and bring full transparency and visibility to assets across all blockchain networks.
 
 Simply put, the API allows you to pull detailed, granular and historical blockchain transaction data from multiple blockchains with no code. The Covalent API allows you to create entirely new applications or augment existing ones without configuring or maintaining infrastructure.
 
