@@ -1,5 +1,5 @@
 ---
-icon: circle
+icon: flag
 ---
 
 # Endpoint setup

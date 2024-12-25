@@ -1,11 +1,11 @@
 ---
-icon: circle
+icon: file-lines
 description: >-
   To start using GetBlock's services, you need to register an account. You’ll be
   ready to go in just a few clicks!
 ---
 
-# 📝 How to set up an account
+# How to set up an account
 
 {% stepper %}
 {% step %}

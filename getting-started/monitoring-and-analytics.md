@@ -1,9 +1,9 @@
 ---
-icon: circle
+icon: chart-pie
 description: Track and manage your usage and node service subscriptions with GetBlock.
 ---
 
-# 📈 Monitoring and analytics
+# Monitoring and analytics
 
 These tools help ensure optimal use of GetBlock’s services and keep you informed of key metrics and events related to your account.
 

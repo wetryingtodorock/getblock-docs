@@ -1,35 +1,35 @@
 # Table of contents
 
-* [👋 Welcome](README.md)
+* [Welcome](README.md)
 
 ## GETTING STARTED
 
-* [📝 How to set up an account](getting-started/how-to-set-up-an-account.md)
-* [🔑 Access Token management](getting-started/authentication-with-access-tokens.md)
-* [📦 Plans and limits](getting-started/plans-and-limits/README.md)
+* [How to set up an account](getting-started/how-to-set-up-an-account.md)
+* [Access Token management](getting-started/authentication-with-access-tokens.md)
+* [Plans and limits](getting-started/plans-and-limits/README.md)
   * [Choosing your plan](getting-started/plans-and-limits/choosing-your-plan.md)
   * [Payment methods](getting-started/plans-and-limits/payment-methods.md)
   * [Request and rate limits](getting-started/plans-and-limits/request-and-rate-limits.md)
   * [Top up requests and boost RPS](getting-started/plans-and-limits/top-up-requests-and-boost-rps.md)
   * [What counts as a request](getting-started/plans-and-limits/what-counts-as-a-request.md)
-* [📈 Monitoring and analytics](getting-started/monitoring-and-analytics.md)
+* [Monitoring and analytics](getting-started/monitoring-and-analytics.md)
 
 ## GUIDES
 
-* [🛠️ Endpoint setup](guides/endpoint-setup/README.md)
+* [Endpoint setup](guides/endpoint-setup/README.md)
   * [Creating node endpoints](guides/endpoint-setup/creating-node-endpoints.md)
   * [Configuring dedicated nodes](guides/endpoint-setup/configuring-dedicated-nodes.md)
   * [Using GetBlock configuration files](guides/endpoint-setup/using-getblock-configuration-files.md)
-* [⚡ Testing RPC connection](guides/testing-rpc-connection/README.md)
+* [Testing RPC connection](guides/testing-rpc-connection/README.md)
   * [Using cURL for testing](guides/testing-rpc-connection/using-curl-for-testing.md)
   * [Postman Collection](guides/testing-rpc-connection/postman-collection.md)
   * [Errors and troubleshooting](guides/testing-rpc-connection/errors-and-troubleshooting.md)
-* [📚 Using Web3 libraries](guides/using-web3-libraries/README.md)
+* [Using Web3 libraries](guides/using-web3-libraries/README.md)
   * [Web3.js integration](guides/using-web3-libraries/web3.js-integration/README.md)
     * [How to generate accounts and send transactions](guides/using-web3-libraries/web3.js-integration/how-to-generate-accounts-and-send-transactions.md)
   * [Ethers.js integration](guides/using-web3-libraries/ethers.js-integration.md)
   * [TronWeb integration](guides/using-web3-libraries/connect-to-getblock-with-tronweb.md)
-* [🦊 Connect to GetBlock with MetaMask](guides/connect-to-getblock-with-metamask.md)
+* [Connect to GetBlock with MetaMask](guides/connect-to-getblock-with-metamask.md)
 * [Querying Web3 data using Covalent API](guides/querying-web3-data-using-covalent-api.md)
 
 ## API REFERENCE

@@ -7,7 +7,7 @@ cover: .gitbook/assets/cover.png
 coverY: 0
 ---
 
-# 👋 Welcome
+# Welcome
 
 With our tools and services, you can focus on building your Web3 project without worrying about the technical details of setting up and managing blockchain nodes.
 
@@ -37,7 +37,7 @@ From DeFi apps and NFT platforms to analytics tools, AppChains, and more, GetBlo
 
 ***
 
-<figure><picture><source srcset=".gitbook/assets/img_name_dark.jpg" media="(prefers-color-scheme: dark)"><img src=".gitbook/assets/img_name_light (1).jpg" alt="GetBlock RPC node service"></picture><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/img_name.png" alt=""><figcaption></figcaption></figure>
 
 ***
 

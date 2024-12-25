@@ -1,5 +1,5 @@
 ---
-icon: circle
+icon: bolt-lightning
 ---
 
 # Testing RPC connection

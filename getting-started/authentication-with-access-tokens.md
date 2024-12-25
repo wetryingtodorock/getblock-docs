@@ -1,11 +1,11 @@
 ---
-icon: circle
+icon: key
 description: >-
   GetBlock uses a secure authentication method based on access tokens to ensure
   that only authorized users can interact with blockchain nodes.
 ---
 
-# 🔑 Access Token management
+# Access Token management
 
 Every endpoint you create is assigned a unique access token:
 
