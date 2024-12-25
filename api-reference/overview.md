@@ -1,5 +1,5 @@
 ---
-icon: compass
+icon: hammer
 ---
 
 # Overview
