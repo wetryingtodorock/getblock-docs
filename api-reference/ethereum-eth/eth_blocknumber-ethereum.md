@@ -1,3 +1,10 @@
+---
+description: >-
+  Retrieve the latest Ethereum block number using eth_blockNumber. Ideal for
+  tracking blockchain progress and keeping dApps synchronized with the current
+  chain height via JSON-RPC.
+---
+
 # eth\_blockNumber - Ethereum
 
 {% hint style="success" %}

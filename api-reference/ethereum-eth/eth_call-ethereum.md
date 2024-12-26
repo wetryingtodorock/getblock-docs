@@ -1,3 +1,10 @@
+---
+description: >-
+  Invoke smart contract functions locally using eth_call for read-only queries
+  without altering blockchain state. Essential for dApps to fetch data like
+  balances or contract states via JSON-RPC.
+---
+
 # eth\_call - Ethereum
 
 {% hint style="success" %}

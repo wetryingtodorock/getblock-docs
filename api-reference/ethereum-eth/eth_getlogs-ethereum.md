@@ -1,3 +1,10 @@
+---
+description: >-
+  Retrieve logs matching a specified filter using eth_getLogs. Essential for
+  monitoring blockchain events, smart contract interactions, and building
+  event-driven functionality in Ethereum dApps.
+---
+
 # eth\_getLogs - Ethereum
 
 {% hint style="success" %}

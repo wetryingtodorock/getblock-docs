@@ -1,3 +1,9 @@
+---
+description: >-
+  The eth_newPendingTransactionFilter method creates a filter in the node to
+  notify when new pending transactions arrive.
+---
+
 # eth\_newPendingTransactionFilter-Ethereum
 
 {% hint style="success" %}

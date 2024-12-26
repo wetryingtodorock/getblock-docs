@@ -1,3 +1,10 @@
+---
+description: >-
+  Retrieve the number of transactions in a specific Ethereum block by its block
+  hash using eth_getBlockTransactionCountByHash.Essential for tracking
+  transaction data and building blockchain explorers.
+---
+
 # eth\_getBlockTransactionCountByHash - Ethereum
 
 {% hint style="success" %}

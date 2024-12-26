@@ -1,3 +1,10 @@
+---
+description: >-
+  Retrieve the number of transactions in a specific Ethereum block by its block
+  number using eth_getBlockTransactionCountByNumber. Useful for real-time data
+  and historical block activity analysis.
+---
+
 # eth\_getBlockTransactionCountByNumber - Ethereum
 
 {% hint style="success" %}
@@ -38,7 +45,7 @@ https://go.getblock.io/<ACCESS-TOKEN>/
 Here is an example request using JSON RPC to fetch the number of transactions in a specific block
 
 {% tabs %}
-{% tab title="JSON" %}
+{% tab title="curl" %}
 ```json
 curl --location --request POST 'https://go.getblock.io/<ACCESS-TOKEN>/' 
 --header 'Content-Type: application/json' 
@@ -53,7 +60,7 @@ curl --location --request POST 'https://go.getblock.io/<ACCESS-TOKEN>/'
 ```
 {% endtab %}
 
-{% tab title="WS" %}
+{% tab title="ws" %}
 ```json
 wscat -c wss://eth.getblock.io/YOUR-API-KEY/ 
 # wait for connection and send the request body 

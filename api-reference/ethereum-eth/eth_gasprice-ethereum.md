@@ -1,3 +1,10 @@
+---
+description: >-
+  Retrieve the current gas price using eth_gasPrice. Provides the median gas
+  price based on the last 100 blocks, optimizing transaction fees and user
+  experience on the Ethereum network
+---
+
 # eth\_gasPrice- Ethereum
 
 {% hint style="success" %}

@@ -1,3 +1,10 @@
+---
+description: >-
+  The eth_newBlockFilter method is part of the Ethereum JSON RPC API and is used
+  to create a filter in the node that notifies when a new block is added to the
+  blockchain.
+---
+
 # eth\_newBlockFilter-Ethereum
 
 {% hint style="success" %}

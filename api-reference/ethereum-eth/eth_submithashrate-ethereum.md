@@ -1,3 +1,10 @@
+---
+description: >-
+  The eth_submitHashrate method is part of the Ethereum JSON-RPC API and is used
+  to submit the mining hashrate. It is commonly used by mining software, such as
+  Ethminer, to report hash rates.
+---
+
 # eth\_submitHashrate Ethereum
 
 {% hint style="success" %}
@@ -31,7 +38,7 @@ https://go.getblock.io/<ACCESS-TOKEN>/
 To interact with the Ethereum eth\_submitHashrate endpoint using JSON-RPC, use the following examples:
 
 {% tabs %}
-{% tab title="JSON" %}
+{% tab title="curl" %}
 ```json
 curl --location --request POST 'https://go.getblock.io/<ACCESS-TOKEN>/' \
 --header 'Content-Type: application/json' \
@@ -47,7 +54,7 @@ curl --location --request POST 'https://go.getblock.io/<ACCESS-TOKEN>/' \
 ```
 {% endtab %}
 
-{% tab title="WS" %}
+{% tab title="ws" %}
 ```json
 wscat -c wss://eth.getblock.io/YOUR-API-KEY/ 
 # wait for connection and send the request body 

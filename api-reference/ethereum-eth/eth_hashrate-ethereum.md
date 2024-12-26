@@ -1,3 +1,10 @@
+---
+description: >-
+  The eth_hashrate method returns the mining hashrate in hashes per second,
+  reflecting the mining performance of the node. It is part of Ethereum's
+  JSON-RPC Core API and helps monitor network security
+---
+
 # eth\_hashrate - Ethereum
 
 {% hint style="success" %}
@@ -30,7 +37,7 @@ https://go.getblock.io/<ACCESS-TOKEN>/
 To make a request, send a JSON object with the jsonrpc, method, and params fields. Below is an example of how to make a request using curl:
 
 {% tabs %}
-{% tab title="JSON" %}
+{% tab title="curl" %}
 ```json
 curl --location --request POST 'https://go.getblock.io/<ACCESS-TOKEN>/' \
 --header 'Content-Type: application/json' \
@@ -44,7 +51,7 @@ curl --location --request POST 'https://go.getblock.io/<ACCESS-TOKEN>/' \
 ```
 {% endtab %}
 
-{% tab title="WS" %}
+{% tab title="ws" %}
 ```json
 wscat -c wss://eth.getblock.io/YOUR-API-KEY/ 
 # wait for connection and send the request body 

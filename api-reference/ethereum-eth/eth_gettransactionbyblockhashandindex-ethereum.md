@@ -1,3 +1,10 @@
+---
+description: >-
+  Retrieve transaction information by block hash and index using
+  eth_getTransactionByBlockHashAndIndex. Essential for tracking transactions
+  within specific blocks on the Ethereum blockchain.
+---
+
 # eth\_getTransactionByBlockHashAndIndex - Ethereum
 
 {% hint style="success" %}
@@ -29,7 +36,7 @@ https://go.getblock.io/<ACCESS-TOKEN>/
 To make a request, send a JSON object with the jsonrpc, method, and params fields. Below is an example of how to make a request using curl:
 
 {% tabs %}
-{% tab title="JSON" %}
+{% tab title="curl" %}
 ```json
 curl --location --request POST 'https://go.getblock.io/<ACCESS-TOKEN>/' \
 --header 'Content-Type: application/json' \
@@ -45,7 +52,7 @@ curl --location --request POST 'https://go.getblock.io/<ACCESS-TOKEN>/' \
 ```
 {% endtab %}
 
-{% tab title="WS" %}
+{% tab title="ws" %}
 ```json
 wscat -c wss://eth.getblock.io/YOUR-API-KEY/ 
 # wait for connection and send the request body 

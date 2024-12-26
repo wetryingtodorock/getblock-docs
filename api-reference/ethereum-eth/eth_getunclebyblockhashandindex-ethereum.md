@@ -1,3 +1,10 @@
+---
+description: >-
+  Access Ethereum block, transaction, and event data via JSON-RPC methods.Easily
+  retrieve block details, transaction information, and gas prices for efficient
+  dApp development and blockchain interaction
+---
+
 # eth\_getUncleByBlockHashAndIndex - Ethereum
 
 {% hint style="success" %}
@@ -29,7 +36,7 @@ https://go.getblock.io/<ACCESS-TOKEN>/
 To make a request, send a JSON object with the jsonrpc, method, and params fields. Below is an example of how to make a request using curl:
 
 {% tabs %}
-{% tab title="JSON" %}
+{% tab title="curl" %}
 ```json
 curl --location --request POST 'https://go.getblock.io/<ACCESS-TOKEN>/' \
 --header 'Content-Type: application/json' \
@@ -45,7 +52,7 @@ curl --location --request POST 'https://go.getblock.io/<ACCESS-TOKEN>/' \
 ```
 {% endtab %}
 
-{% tab title="WS" %}
+{% tab title="ws" %}
 ```json
 wscat -c wss://eth.getblock.io/YOUR-API-KEY/ 
 # wait for connection and send the request body 

@@ -1,3 +1,10 @@
+---
+description: >-
+  The eth_syncing method is part of the Ethereum JSON-RPC API and is used to
+  check the synchronization status of an Ethereum node. It returns detailed
+  synchronization data if the node is syncing
+---
+
 # eth\_syncing-Ethereum
 
 {% hint style="success" %}
@@ -30,7 +37,7 @@ https://go.getblock.io/<ACCESS-TOKEN>/
 To interact with the Ethereum eth\_syncing endpoint using JSON-RPC, use the following examples:
 
 {% tabs %}
-{% tab title="JSON" %}
+{% tab title="curl" %}
 ```json
 curl --location --request POST 'https://go.getblock.io/<ACCESS-TOKEN>/' \
 --header 'Content-Type: application/json' \
@@ -43,7 +50,7 @@ curl --location --request POST 'https://go.getblock.io/<ACCESS-TOKEN>/' \
 ```
 {% endtab %}
 
-{% tab title="WS" %}
+{% tab title="ws" %}
 ```json
 wscat -c wss://eth.getblock.io/YOUR-API-KEY/ 
 # wait for connection and send the request body 

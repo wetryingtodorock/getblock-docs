@@ -1,3 +1,10 @@
+---
+description: >-
+  Retrieve the primary Ethereum client address using eth_coinbase. Useful for
+  verifying the main configured account on the node for tasks like fee
+  management or administrative purposes.
+---
+
 # eth\_coinbase - Ethereum
 
 {% hint style="success" %}

@@ -1,3 +1,9 @@
+---
+description: >-
+  Estimate the gas required for a transaction using eth_estimateGas. Crucial for
+  predicting gas costs and preventing out-of-gas errors in Web3 applications.
+---
+
 # eth\_estimateGas - Ethereum
 
 {% hint style="success" %}

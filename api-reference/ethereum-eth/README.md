@@ -1,6 +1,2 @@
----
-icon: circle
----
-
-# Ethereum
+# Ethereum (ETH)
 

@@ -1,4 +1,8 @@
 ---
+description: >-
+  Retrieve the unique chain ID of the connected Ethereum network using
+  eth_chainId. Essential for signing transactions and identifying Mainnet or
+  test networks like Sepolia or Holesky
 layout:
   title:
     visible: true

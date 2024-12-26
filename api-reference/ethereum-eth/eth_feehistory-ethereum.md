@@ -1,3 +1,10 @@
+---
+description: >-
+  Retrieve historical gas fee data using eth_feeHistory. Useful for transaction
+  analysis, optimization, and planning by providing gas fees and usage ratios
+  for a specified block range.
+---
+
 # eth\_feeHistory - Ethereum
 
 {% hint style="success" %}

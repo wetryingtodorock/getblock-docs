@@ -1,3 +1,10 @@
+---
+description: >-
+  Retrieve logs for a specified filter using eth_getFilterLogs. Essential for
+  tracking block events, transaction logs, or smart contract interactions in
+  real-time within Ethereum dApps.
+---
+
 # eth\_getFilterLogs - Ethereum
 
 {% hint style="success" %}
@@ -23,7 +30,7 @@ https://go.getblock.io/<ACCESS-TOKEN>/
 ```
 
 {% tabs %}
-{% tab title="JSON" %}
+{% tab title="curl" %}
 ```json
 curl --location --request POST 'https://go.getblock.io/<ACCESS-TOKEN>/' \  
 --header 'Content-Type: application/json' \  
@@ -38,7 +45,7 @@ curl --location --request POST 'https://go.getblock.io/<ACCESS-TOKEN>/' \
 ```
 {% endtab %}
 
-{% tab title="WS" %}
+{% tab title="ws" %}
 ```json
 wscat -c wss://eth.getblock.io/YOUR-API-KEY/ 
 # wait for connection and send the request body 

@@ -1,3 +1,10 @@
+---
+description: >-
+  The eth_newFilter method creates a filter object based on specified options to
+  notify the client when the state changes, such as new logs. It is part of the
+  Ethereum JSON RPC API
+---
+
 # eth\_newFilter-Ethereum
 
 {% hint style="success" %}
@@ -43,7 +50,7 @@ https://go.getblock.io/<ACCESS-TOKEN>/
 To interact with the Ethereum eth\_newFilter endpoint using JSON-RPC, use the following examples:
 
 {% tabs %}
-{% tab title="JSON" %}
+{% tab title="curl" %}
 ```json
 curl --location --request POST 'https://go.getblock.io/<ACCESS-TOKEN>/' \
 --header 'Content-Type: application/json' \
@@ -63,7 +70,7 @@ curl --location --request POST 'https://go.getblock.io/<ACCESS-TOKEN>/' \
 ```
 {% endtab %}
 
-{% tab title="WS" %}
+{% tab title="ws" %}
 ```json
 wscat -c wss://eth.getblock.io/YOUR-API-KEY/ 
 # wait for connection and send the request body 

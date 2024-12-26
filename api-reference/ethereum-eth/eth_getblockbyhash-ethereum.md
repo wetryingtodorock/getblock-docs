@@ -1,10 +1,17 @@
+---
+description: >-
+  Retrieve detailed or basic block information using a block hash. Fetch full
+  block data or key details like transaction hashes, ideal for blockchain
+  analysis or lightweight data retrieval.
+---
+
 # eth\_getBlockByHash - Ethereum
 
 {% hint style="success" %}
 The eth\_getBlockByHash method is part of the Core API in the Ethereum JSON-RPC retrieves information about a specific block using its block hash.
 {% endhint %}
 
-This method allows users to fetch either the full block data, including detailed transaction details, or just the basic block information with transaction hashes. This flexibility is beneficial for applications that require either comprehensive blockchain analysis or a lighter response focused on key block data
+This method allows users to fetch either the full block data, including detailed transaction details, or just the basic block information with transaction hashes. This flexibility is beneficial for applications that require either comprehensive blockchain analysis or a lighter response focused on key block data.
 
 ### Supported Networks
 

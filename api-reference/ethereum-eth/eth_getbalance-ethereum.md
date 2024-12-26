@@ -1,3 +1,10 @@
+---
+description: >-
+  Check the balance of a specified Ethereum address with the balance method.
+  Query account balance at specific blocks or transaction states, supporting
+  various time points like latest or pending
+---
+
 # eth\_getBalance - Ethereum
 
 {% hint style="success" %}

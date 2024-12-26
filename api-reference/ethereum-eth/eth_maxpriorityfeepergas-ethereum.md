@@ -1,6 +1,13 @@
+---
+description: >-
+  The eth_maxPriorityFeePerGas method returns the hex value of the priority fee
+  needed for a transaction to be included in a block. It helps estimate
+  transaction costs in Ethereum-based applications
+---
+
 # eth\_maxPriorityFeePerGas - Ethereum
 
-{% hint style="info" %}
+{% hint style="success" %}
 Returns the hex value of the priority fee necessary to be included in ablock.
 {% endhint %}
 
@@ -30,7 +37,7 @@ https://go.getblock.io/<ACCESS-TOKEN>/
 To interact with the Ethereum eth\_maxPriorityFeePerGas endpoint using JSON-RPC, use the following examples
 
 {% tabs %}
-{% tab title="JSON" %}
+{% tab title="curl" %}
 ```json
 curl --location --request POST 'https://go.getblock.io/<ACCESS-TOKEN>/' 
 --header 'Content-Type: application/json' 
@@ -44,7 +51,7 @@ curl --location --request POST 'https://go.getblock.io/<ACCESS-TOKEN>/'
 ```
 {% endtab %}
 
-{% tab title="WS" %}
+{% tab title="ws" %}
 ```json
 wscat -c wss://eth.getblock.io/YOUR-API-KEY/ 
 # wait for connection and send the request body 

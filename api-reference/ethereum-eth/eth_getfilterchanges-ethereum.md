@@ -1,3 +1,10 @@
+---
+description: >-
+  Poll a specific filter for changes since the last check using
+  eth_getFilterChanges. Vital for real-time monitoring of logs, transactions,
+  and blocks in dApps and Ethereum applications.
+---
+
 # eth\_getFilterChanges - Ethereum
 
 {% hint style="success" %}
@@ -32,7 +39,7 @@ https://go.getblock.io/<ACCESS-TOKEN>/
 Here is an eth\_getFilterChanges example of how to use the method in a JSON-RPC request
 
 {% tabs %}
-{% tab title="JSON" %}
+{% tab title="curl" %}
 ```json
 curl --location --request POST 'https://go.getblock.io/<ACCESS-TOKEN>/' \
 --header 'Content-Type: application/json' \
@@ -47,7 +54,7 @@ curl --location --request POST 'https://go.getblock.io/<ACCESS-TOKEN>/' \
 ```
 {% endtab %}
 
-{% tab title="WS" %}
+{% tab title="ws" %}
 ```json
 wscat -c wss://eth.getblock.io/YOUR-API-KEY/ 
 # wait for connection and send the request body 

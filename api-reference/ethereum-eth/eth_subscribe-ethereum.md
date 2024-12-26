@@ -1,3 +1,9 @@
+---
+description: >-
+  The eth_subscribe method is part of the Ethereum JSON-RPC API and is used to
+  subscribe to specified event types. Available only via WebSocket
+---
+
 # eth\_subscribe-Ethereum
 
 {% hint style="success" %}
@@ -36,7 +42,7 @@ https://go.getblock.io/<ACCESS-TOKEN>/
 To interact with the Ethereum eth\_subscribe endpoint using WebSocket, use the following example:
 
 {% tabs %}
-{% tab title="WS" %}
+{% tab title="ws" %}
 ```json
 wscat -c wss://eth.getblock.io/YOUR-API-KEY/ 
 # wait for connection and send the request body 

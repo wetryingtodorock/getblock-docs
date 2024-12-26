@@ -1,3 +1,10 @@
+---
+description: >-
+  Retrieve detailed information about a specific Ethereum block by its block
+  number using eth_getBlockByNumber. Essential for interacting with the Ethereum
+  blockchain via JSON-RPC.
+---
+
 # eth\_getBlockByNumber - Ethereum
 
 {% hint style="success" %}

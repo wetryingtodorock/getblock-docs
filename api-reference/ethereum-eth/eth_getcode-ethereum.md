@@ -1,3 +1,10 @@
+---
+description: >-
+  Retrieve the compiled bytecode of a smart contract at a specific address using
+  eth_getCode. Essential for verifying contract deployment and analyzing
+  bytecode in Web3 development.
+---
+
 # eth\_getCode - Ethereum
 
 {% hint style="success" %}
@@ -34,7 +41,7 @@ https://go.getblock.io/<ACCESS-TOKEN>/
 Here is an eth\_getCode example of how to use the method in a JSON-RPC request
 
 {% tabs %}
-{% tab title="JSON" %}
+{% tab title="curl" %}
 ```json
 curl --location --request POST 'https://go.getblock.io/<ACCESS-TOKEN>/' \
 --header 'Content-Type: application/json' \
@@ -51,7 +58,7 @@ curl --location --request POST 'https://go.getblock.io/<ACCESS-TOKEN>/' \
 ```
 {% endtab %}
 
-{% tab title="WS" %}
+{% tab title="ws" %}
 ```json
 wscat -c wss://eth.getblock.io/YOUR-API-KEY/ 
 # wait for connection and send the request body 

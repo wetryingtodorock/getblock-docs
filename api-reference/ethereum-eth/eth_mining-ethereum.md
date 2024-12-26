@@ -1,3 +1,10 @@
+---
+description: >-
+  The eth_mining method checks if the client is actively mining new blocks. It
+  is useful for monitoring mining status in Ethereum systems and indicates that
+  Besu pauses mining during synchronization
+---
+
 # eth\_mining Ethereum
 
 {% hint style="success" %}
@@ -30,7 +37,7 @@ https://go.getblock.io/<ACCESS-TOKEN>/
 To interact with the Ethereum eth\_mining endpoint using JSON-RPC, use the following examples
 
 {% tabs %}
-{% tab title="JSON" %}
+{% tab title="curl" %}
 ```json
 curl --location --request POST 'https://go.getblock.io/<ACCESS-TOKEN>/' \
 --header 'Content-Type: application/json' \
@@ -43,7 +50,7 @@ curl --location --request POST 'https://go.getblock.io/<ACCESS-TOKEN>/' \
 ```
 {% endtab %}
 
-{% tab title="WS" %}
+{% tab title="ws" %}
 ```json
 wscat -c wss://eth.getblock.io/YOUR-API-KEY/ 
 # wait for connection and send the request body 

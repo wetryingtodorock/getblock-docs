@@ -1,3 +1,10 @@
+---
+description: >-
+  Retrieve a list of Ethereum account addresses owned by the client using
+  eth_accounts. Useful for displaying available accounts in dApps without
+  requesting wallet access.
+---
+
 # eth\_accounts - Ethereum
 
 {% hint style="success" %}
