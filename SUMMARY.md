@@ -34,7 +34,7 @@
 
 ## API REFERENCE
 
-* [GetBlock API Reference Overview](api-reference/overview.md)
+* [Overview](api-reference/overview.md)
 * [Aptos (APT)](api-reference/aptos-apt/README.md)
   * [/v1 - Aptos](api-reference/aptos-apt/apt_v1.md)
   * [/v1/accounts/{account\_hash} - Aptos](api-reference/aptos-apt/apt_v1_accounts_account_hash.md)
