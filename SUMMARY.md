@@ -1241,7 +1241,6 @@
   * [walletpassphrase {disallowed} - Dogecoin](api-reference/dogecoin-doge/doge_walletpassphrase.md)
   * [walletpassphrasechange {disallowed} - Dogecoin](api-reference/dogecoin-doge/doge_walletpassphrasechange.md)
 * [Ethereum (ETH)](api-reference/ethereum-eth/README.md)
-  * [Ethereum API Reference Overview](api-reference/ethereum-eth/ethereum-api-reference-overview.md)
   * [eth\_call - Ethereum](api-reference/ethereum-eth/eth_call-ethereum.md)
   * [eth\_blockNumber - Ethereum](api-reference/ethereum-eth/eth_blocknumber-ethereum.md)
   * [eth\_accounts - Ethereum](api-reference/ethereum-eth/eth_accounts-ethereum.md)
