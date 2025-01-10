@@ -2591,7 +2591,7 @@
   * [getFees {disallowed} - Solana](api-reference/solana-sol/sol_getfees.md)
   * [getFirstAvailableBlock - Solana](api-reference/solana-sol/sol_getfirstavailableblock.md)
   * [getLargestAccounts - Solana](api-reference/solana-sol/sol_getlargestaccounts.md)
-  * [getLatestBlockhash {disallowed} - Solana](api-reference/solana-sol/sol_getlatestblockhash.md)
+  * [getLatestBlockhash - Solana](api-reference/solana-sol/sol_getlatestblockhash.md)
   * [getMultipleAccounts - Solana](api-reference/solana-sol/sol_getmultipleaccounts.md)
   * [getProgramAccounts - Solana](api-reference/solana-sol/sol_getprogramaccounts.md)
   * [getRecentBlockhash {disallowed} - Solana](api-reference/solana-sol/sol_getrecentblockhash.md)

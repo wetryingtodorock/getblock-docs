@@ -1,10 +1,13 @@
 ---
 title: getLatestBlockhash  {disallowed} - Solana
-description: Example code for the getLatestBlockhash  {disallowed} json-rpc method. Сomplete guide on how to use getLatestBlockhash  {disallowed} json-rpc in GetBlock.io Web3 documentation.
+description: >-
+  Example code for the getLatestBlockhash json-rpc method. Сomplete guide on how
+  to use getLatestBlockhash json-rpc in GetBlock.io Web3 documentation.
 ---
 
-### Parameters
+# getLatestBlockhash - Solana
 
+#### Parameters
 
 `commitment` - object
 
@@ -12,9 +15,9 @@ Optional.
 
 Used for retrieving blockhash.
 
-### Request
+#### Request
 
-``` java
+```java
 curl --location --request POST 'https://sol.getblock.io/mainnet' \ 
 --header 'x-api-key: YOUR-API-KEY' \ 
 --header 'Content-Type: application/json' \ 
@@ -24,9 +27,9 @@ curl --location --request POST 'https://sol.getblock.io/mainnet' \
 "id": "getblock.io"}'
 ```
 
-###  Response
+#### Response
 
-``` java
+```java
 {
     "result": "null",
     "id": "getblock.io",
@@ -34,4 +37,3 @@ curl --location --request POST 'https://sol.getblock.io/mainnet' \
     "message": "Method not allowed"
 }
 ```
-
