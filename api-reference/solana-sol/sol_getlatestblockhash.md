@@ -1,5 +1,5 @@
 ---
-title: getLatestBlockhash  {disallowed} - Solana
+title: getLatestBlockhash - Solana
 description: >-
   Example code for the getLatestBlockhash json-rpc method. Сomplete guide on how
   to use getLatestBlockhash json-rpc in GetBlock.io Web3 documentation.
