@@ -1,11 +1,15 @@
 # Ethereum (ETH)
 
-This Ethereum API Reference provides everything you need to interact with Ethereum nodes using GetBlock’s infrastructure.GetBlock provides RPC endpoints that implement the Ethereum JSON-RPC API standard. These methods are core functionalities for interacting with Ethereum nodes.Many Ethereum-compatible blockchains (EVM chains) – such as BNB Chain, Polygon, Linea, Base, Optimism, and Arbitrum – also adopt this standard, making it applicable across various ecosystems.Comment
+This Ethereum API Reference provides everything you need to interact with Ethereum nodes using GetBlock’s infrastructure.GetBlock provides RPC endpoints that implement the Ethereum JSON-RPC API standard. These methods are core functionalities for interacting with Ethereum nodes.Many Ethereum-compatible blockchains (EVM chains) – such as BNB Chain, Polygon, Linea, Base, Optimism, and Arbitrum – also adopt this standard, making it applicable across various ecosystems.
 
-#### What you can expect to find in this documentation <a href="#what-you-can-expect-to-find-in-this-documentation" id="what-you-can-expect-to-find-in-this-documentation"></a>
+**Overview of Ethereum Network Methods**
 
-* Purpose, functionality, and use cases of each Ethereum method
+The Ethereum network offers a comprehensive suite of methods that enable developers to interact seamlessly with its blockchain infrastructure. This overview provides an in-depth examination of these methods, categorizing them into key functional areas for better understanding and implementation.
+
+### What you can expect to find in this documentation
+
 * Compatibility with the Ethereum mainnet and testnets
+* Purpose, functionality, and use cases of each Ethereum method
 * Required input parameters
 * Sample requests and responses
 * Code examples in multiple programming languages (Python, JavaScript)
@@ -20,6 +24,161 @@ This Ethereum API Reference provides everything you need to interact with Ethere
 
 ***
 
+To effectively use the Ethereum methods listed above, you'll need a reliable tool to send requests to the network. One such tool is Axios, a lightweight and widely used HTTP client. With Axios, you can easily interact with Ethereum's JSON-RPC API to execute transactions, retrieve blockchain data, and much more.
+
+#### Quickstart with Axios
+
+Axios is a powerful HTTP client that streamlines communication with APIs, including Ethereum's JSON-RPC interface. By using Axios, developers can effortlessly send requests and process responses, making blockchain integration straightforward and efficient. Below, we provide a detailed guide to help you get started:
+
+Developers new to Ethereum can efficiently interact with the Ethereum API by leveraging Axios, a well-regarded HTTP client. It simplifies API integration, making it user-friendly and effective. Here’s how you can get started:
+
+**1. Set Up Your Project**
+
+Choose a package manager and initialize your project:
+
+```
+mkdir ethereum-api-quickstart
+cd ethereum-api-quickstart
+npm init --yes
+```
+
+Or, using Yarn:
+
+```
+mkdir ethereum-api-quickstart
+cd ethereum-api-quickstart
+yarn init -y
+```
+
+**2. Install Axios**
+
+Install Axios to make API requests:
+
+```
+npm install axios
+```
+
+Or, using Yarn:
+
+```
+yarn add axios
+```
+
+**3. Make Your First Request**
+
+Set up a new file named index.js and insert the code snippet provided below:
+
+```javascript
+import axios from "axios";
+
+
+const url = `https://go.getblock.io/<ACCESS-TOKEN>/`;
+
+
+const payload = {
+  jsonrpc: '2.0',
+  id: 1,
+  method: 'eth_blockNumber',
+  params: []
+};
+
+
+axios.post(url, payload)
+  .then(response => {
+    console.log('Latest block number', parseInt(response.data.result, 16));
+  })
+  .catch(error => {
+    console.error(error);
+  });
+```
+
+Replace \<ACCESS-TOKEN> with your actual API key from the GetBlock. You can also use other networks by replacing the URL with those of Sepolia or Holesky testnets.
+
+**4. Run Your Script**
+
+Execute your script with:
+
+node index.js
+
+You should see the latest block number logged to your console.\
+
+
+#### Quickstart with Python and requests
+
+requests is a powerful and easy-to-use HTTP library for Python that simplifies API interactions, including Ethereum’s JSON-RPC API. With requests, developers can send requests, handle responses, and easily integrate blockchain functionality into their projects. Here’s a step-by-step guide to get started:
+
+**1. Set Up Your Project**
+
+Create a new directory for your project and navigate into it:
+
+```bash
+mkdir ethereum-api-quickstart
+cd ethereum-api-quickstart
+```
+
+Set up a virtual environment to isolate dependencies:
+
+```bash
+python -m venv venv
+source venv/bin/activate  # On Windows, use venv\Scripts\activate
+```
+
+Install the requests library:
+
+```bash
+ pip install requests
+```
+
+**2. Write Your First Script**
+
+Create a new file called main.py and insert the following code:
+
+```python
+python import requests
+
+# Replace <ACCESS-TOKEN> with your actual API key from GetBlock
+url = "https://go.getblock.io/<ACCESS-TOKEN>/"
+
+# Create a JSON-RPC payload
+payload = {
+    "jsonrpc": "2.0",
+    "id": 1,
+    "method": "eth_blockNumber",
+    "params": []
+}
+
+headers = {
+    "Content-Type": "application/json"
+}
+
+try:
+    # Send the POST request
+    response = requests.post(url, json=payload, headers=headers)
+    response.raise_for_status()  # Check for HTTP errors
+    data = response.json()
+
+    # Convert the result to a decimal number and print it
+    latest_block = int(data["result"], 16)
+    print(f"Latest block number: {latest_block}")
+except requests.exceptions.RequestException as e:
+    print(f"An error occurred: {e}")
+except KeyError:
+    print("Unexpected response format:", response.text)
+```
+
+**3. Run Your Script**
+
+Execute the script with:
+
+```bash
+ python main.py
+```
+
+You should see the latest block number retrieved from the Ethereum network printed to your console.
+
+***
+
+\
 **1. Account and Balance Management**
 
 These methods allow users to retrieve information about Ethereum accounts and their balances.
@@ -206,90 +365,6 @@ These methods provide various utilities to aid Ethereum developers.
 * eth\_unsubscribe: Unsubscribes from a previously created subscription.
   * Parameters: Subscription ID
   * Response: Boolean
-
-***
-
-To effectively use the Ethereum methods listed above, you'll need a reliable tool to send requests to the network. One such tool is Axios, a lightweight and widely used HTTP client. With Axios, you can easily interact with Ethereum's JSON-RPC API to execute transactions, retrieve blockchain data, and much more.
-
-#### Overview of Ethereum Network Methods
-
-The Ethereum network offers a comprehensive suite of methods that enable developers to interact seamlessly with its blockchain infrastructure. This overview provides an in-depth examination of these methods, categorizing them into key functional areas for better understanding and implementation.
-
-#### Quickstart with Axios
-
-Axios is a powerful HTTP client that streamlines communication with APIs, including Ethereum's JSON-RPC interface. By using Axios, developers can effortlessly send requests and process responses, making blockchain integration straightforward and efficient. Below, we provide a detailed guide to help you get started:
-
-Developers new to Ethereum can efficiently interact with the Ethereum API by leveraging Axios, a well-regarded HTTP client. It simplifies API integration, making it user-friendly and effective. Here’s how you can get started:
-
-**1. Set Up Your Project**
-
-Choose a package manager and initialize your project:
-
-```
-mkdir ethereum-api-quickstart
-cd ethereum-api-quickstart
-npm init --yes
-```
-
-Or, using Yarn:
-
-```
-mkdir ethereum-api-quickstart
-cd ethereum-api-quickstart
-yarn init -y
-```
-
-**2. Install Axios**
-
-Install Axios to make API requests:
-
-```
-npm install axios
-```
-
-Or, using Yarn:
-
-```
-yarn add axios
-```
-
-**3. Make Your First Request**
-
-Set up a new file named index.js and insert the code snippet provided below:
-
-```javascript
-import axios from "axios";
-
-
-const url = `https://go.getblock.io/<ACCESS-TOKEN>/`;
-
-
-const payload = {
-  jsonrpc: '2.0',
-  id: 1,
-  method: 'eth_blockNumber',
-  params: []
-};
-
-
-axios.post(url, payload)
-  .then(response => {
-    console.log('Latest block number', parseInt(response.data.result, 16));
-  })
-  .catch(error => {
-    console.error(error);
-  });
-```
-
-Replace \<ACCESS-TOKEN> with your actual API key from the GetBlock. You can also use other networks by replacing the URL with those of Sepolia or Holesky testnets.
-
-**4. Run Your Script**
-
-Execute your script with:
-
-node index.js
-
-You should see the latest block number logged to your console.
 
 ***
 
