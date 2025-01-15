@@ -12,7 +12,7 @@ The current request balance for shared node users is displayed on the Dashboard.
 
 The Top Up balance feature allows you to add more requests to your account or upgrade to higher monthly request limits.
 
-<figure><img src="../../.gitbook/assets/Docs_TopUp(free plan).jpg" alt="managing GetBlock RPC node plans"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Docs_TopUp_Free.svg" alt="managing GetBlock RPC node plans"><figcaption></figcaption></figure>
 
 * **Free Plan users**: Can upgrade to paid services, starting with the ‘Start’ package for one month.
 * **Start plan users**: Can refill the balance of requests or upgrade to a higher-tier plan with increased limits.
@@ -24,7 +24,7 @@ How to add requests:
 3. Confirm and finalize your purchase.
 4. Your request balance is updated immediately after a successful top-up.
 
-<figure><img src="../../.gitbook/assets/Docs_how_to_top_up(free plan).svg" alt="How to add requests to your RPC node package"><figcaption><p>Top up requests in one click</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Docs_how_to_top_up(New_free plan).svg" alt="How to add requests to your RPC node package"><figcaption><p>Top up requests in one click</p></figcaption></figure>
 
 With that, you can quickly adjust your plan on demand.
 

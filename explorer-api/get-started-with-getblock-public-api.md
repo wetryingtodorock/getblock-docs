@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Get started with GetBlock public API
 
 > If you are on this page - congratulations, you are only a few minutes away from diving in our developer API with 40,000 free requests every day. All you need to do is set up an account.

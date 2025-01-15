@@ -6,20 +6,20 @@ description: >-
 
 # Request and rate limits
 
-<figure><img src="../../.gitbook/assets/Docs_pricing.jpg" alt="Comparison table of GetBlock&#x27;s shared vs dedicated nodes"><figcaption><p>Feature comparison of shared nodes vs dedicated nodes</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Docs_Plan_Comparison.svg" alt="Comparison table of GetBlock&#x27;s shared vs dedicated nodes"><figcaption><p>Feature comparison of shared nodes vs dedicated nodes</p></figcaption></figure>
 
-Please, navigate to [https://getblock.io/pricing/ ](https://getblock.io/pricing/)to see the full comparison table.
+To see the full comparison table, navigate to [https://getblock.io/pricing/](https://getblock.io/pricing/).
 
 ***
 
 ### Shared node limits
 
-<figure><img src="../../.gitbook/assets/Docs_shared_limits.jpg" alt="Shared RPC node plans and options"><figcaption><p>Shared node plans</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Docs_shared_limits(new).svg" alt="Shared RPC node plans and options"><figcaption><p>Shared node plans</p></figcaption></figure>
 
 #### 1) Free plan
 
-* Requests: 40,000 per day per account.
-* Rate: 60 requests per second (RPS).
+* Requests: 5,000 per day per account.
+* Rate: 5 requests per second (RPS).
 
 {% hint style="info" %}
 Requests are renewed daily, but unused requests cannot be transferred to the next day.
