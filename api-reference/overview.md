@@ -2,74 +2,41 @@
 icon: hammer
 ---
 
-# GetBlock API Reference Overview
+# Overview
 
-Here's an example of requesting the latest block number using the GetBlock API and cURL:
+## Getting Started with GetBlock
 
-```json
-curl --location --request POST 'https://go.getblock.io/<ACCESS-TOKEN>/' 
---header 'Content-Type: application/json' 
---data-raw {
-    "jsonrpc": "2.0",
-    "method": "eth_blockNumber",
-    "params": [],
-    "id": "getblock.io"
+To get started, follow these steps:
 
+1. **Sign up:** Create an account to access your Access Token.
+2. **Generate access token:** Navigate to the dashboard, and generate your first access token for API authentication.
+3. **Choose the blockchain name and type:** Select the blockchain network you want to interact with, set up testnet/mainnet, and choose the interface you’re going to use.
+4. **Send your first request:**
 
+```python
+import requests
+url = "https://go.getblock.io/<ACCESS-TOKEN>/"
+headers = { "Content-Type": "application/json" }
+payload = { "jsonrpc": "2.0", "method": "eth_blockNumber", "params": [], "id": "getblock.io" }
+response = requests.post(url, headers=headers, json=payload)
+print(response.json())
 ```
 
-This guide will help you get started with our API, understand its capabilities, and integrate it into your projects.\
-Making Console REST API Requests
-
-In this section, we demonstrate how to make requests using cURL and various programming languages, providing examples for every supported Console API method.
-
-#### cURL
-
-Most \*nix-based systems come with cURL pre-installed. cURL is a command-line tool and library for transferring data with URLs. To check if cURL is installed, run the following command:
-
-```
-curl -h
-```
-
-#### Python
-
-To run our Python examples, ensure Python is installed along with the requests package. You can install the package using the following command:
-
-```
-python -m pip install requests
-```
-
-#### JavaScript
-
-For JavaScript examples, you'll need Node.js version 18 or later. Follow the official documentation to install the latest stable version globally. Verify your installation by running:
-
-```
-node -v
-```
-
-#### Ruby
-
-To execute Ruby examples, install Ruby on your machine. Refer to the official installation guide for details. Confirm installation by running
-
-```
-ruby -v
-```
-
-### GetBlock RPC key features
+### Key Features of GetBlock
 
 GetBlock is offering one of the most comprehensive APIs toolkits in the segment supporting hundreds of dApps with fast and reliable connection to blockchain nodes.
 
 #### 50+ blockchains in store
 
 * Seamless connection to full and archive nodes
-* Shared and dedicated nodes for your dApp
+* **Shared and dedicated nodes:** Tailored for your dApp’s needs.
 * Programmable and non-programmable blockchains
-* L1 and L2 protocols
+* **L1 and L2 protocols:** Extensive coverage for EVM and non-EVM networks.
 * EVM and non-EVM networks
 
-See full list: [https://getblock.io/nodes/](https://getblock.io/nodes/)
-
-#### All mainstream RPC interfaces
+See full list: [https://getblock.io/nodes/](https://getblock.io/nodes/)\
+\
+All mainstream RPC interfaces
 
 * WebSockets,&#x20;
 * JSON RPC,
@@ -92,35 +59,71 @@ Add them in Lego-like manner: [https://account.getblock.io/](https://account.get
 
 Need more? Don’t hesitate to contact sales: [https://getblock.io/contact/](https://getblock.io/contact/)&#x20;
 
-#### Extra services by GetBlock
+## Extra services by GetBlock
 
 * [AppChain Launcher](https://getblock.io/appchain/): Deploy your modular AppChain on Tendermint
 * [Block Explorers](https://getblock.io/explorers/): Browse through NEAR, BSC, Ethereum
 * [Crypto Faucets](https://getblock.io/faucet/): Get your free ETH on all major EVM testnets
 
-### Getting started with GetBlock
+### Examples for Console REST API Requests
 
-To get started, follow these steps:
+#### cURL
 
-1. Sign up: Create an account to access your Access Token.
-2. Generate access token: Navigate to the dashboard, and generate your first access token for API authentication;
-3. Choose the blockchain name and type: Select the blockchain network you want to interact with, set up testnet/mainnet and choose the interface you’re going to use.
-4. Send your first request:
+Most \*nix-based systems come with cURL pre-installed. cURL is a command-line tool and library for transferring data with URLs. To check if cURL is installed, run the following command:
+
+```json
+curl -h
+```
+
+Example of requesting the latest block number using the GetBlock API and cURL:
+
+```json
+curl --location --request POST 'https://go.getblock.io/<ACCESS-TOKEN>/' \
+--header 'Content-Type: application/json' \
+--data-raw '{
+    "jsonrpc": "2.0",
+    "method": "eth_blockNumber",
+    "params": [],
+    "id": "getblock.io"
+}'
+```
+
+#### Python
+
+To run Python examples, ensure Python is installed along with the `requests` package. You can install the package using the following command:
+
+```json
+python -m pip install requests
+```
+
+Example:
 
 ```python
 import requests
-
 url = "https://go.getblock.io/<ACCESS-TOKEN>/"
-
 headers = { "Content-Type": "application/json" }
 payload = { "jsonrpc": "2.0", "method": "eth_blockNumber", "params": [], "id": "getblock.io" }
-
 response = requests.post(url, headers=headers, json=payload)
-
 print(response.json())
 ```
 
-### Supported networks
+#### JavaScript
+
+For JavaScript examples, you'll need Node.js version 18 or later. Follow the official documentation to install the latest stable version globally. Verify your installation by running:
+
+```
+node -v
+```
+
+#### Ruby
+
+To execute Ruby examples, install Ruby on your machine. Refer to the official installation guide for details. Confirm installation by running:
+
+```
+ruby -v
+```
+
+## Supported networks
 
 We provide APIs for a wide range of networks, including:
 
