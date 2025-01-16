@@ -8,10 +8,10 @@ icon: hammer
 
 To get started, follow these steps:
 
-1. **Sign up:** Create an account to access your Access Token.
-2. **Generate access token:** Navigate to the dashboard, and generate your first access token for API authentication.
-3. **Choose the blockchain name and type:** Select the blockchain network you want to interact with, set up testnet/mainnet, and choose the interface you’re going to use.
-4. **Send your first request:**
+1. Sign up: Create an account to access your Access Token.
+2. Generate access token: Navigate to the dashboard, and generate your first access token for API authentication.
+3. Choose the blockchain name and type: Select the blockchain network you want to interact with, set up testnet/mainnet, and choose the interface you’re going to use.
+4. Send your first request:
 
 ```python
 import requests
@@ -29,9 +29,9 @@ GetBlock is offering one of the most comprehensive APIs toolkits in the segment 
 #### 50+ blockchains in store
 
 * Seamless connection to full and archive nodes
-* **Shared and dedicated nodes:** Tailored for your dApp’s needs.
+* Shared and dedicated nodes: Tailored for your dApp’s needs.
 * Programmable and non-programmable blockchains
-* **L1 and L2 protocols:** Extensive coverage for EVM and non-EVM networks.
+* L1 and L2 protocols
 * EVM and non-EVM networks
 
 See full list: [https://getblock.io/nodes/](https://getblock.io/nodes/)\
@@ -49,23 +49,16 @@ Add them in Lego-like manner: [https://account.getblock.io/](https://account.get
 
 #### Industry-leading suite of add-ons and ready-made APIs
 
-* Jito
 * DAS API
 * Firehose
 * Blockbook
 * Yellowstone Geyser
-* Raydium API
-* Jupiter API
+
+
 
 Need more? Don’t hesitate to contact sales: [https://getblock.io/contact/](https://getblock.io/contact/)&#x20;
 
-## Extra services by GetBlock
-
-* [AppChain Launcher](https://getblock.io/appchain/): Deploy your modular AppChain on Tendermint
-* [Block Explorers](https://getblock.io/explorers/): Browse through NEAR, BSC, Ethereum
-* [Crypto Faucets](https://getblock.io/faucet/): Get your free ETH on all major EVM testnets
-
-### Examples for Console REST API Requests
+## Examples for Console REST API Requests
 
 #### cURL
 
@@ -90,7 +83,7 @@ curl --location --request POST 'https://go.getblock.io/<ACCESS-TOKEN>/' \
 
 #### Python
 
-To run Python examples, ensure Python is installed along with the `requests` package. You can install the package using the following command:
+To run Python examples, ensure Python is installed along with the requests package. You can install the package using the following command:
 
 ```json
 python -m pip install requests
