@@ -38,12 +38,11 @@ See full list: [https://getblock.io/nodes/](https://getblock.io/nodes/)\
 \
 All mainstream RPC interfaces
 
-* WebSockets,&#x20;
-* JSON RPC,
-* gRPC,&#x20;
-* GraphQL,
-* REST API,
-* And more to come.
+* WebSockets
+* JSON RPC
+* GraphQL
+* REST API
+* And more to come
 
 Add them in Lego-like manner: [https://account.getblock.io/](https://account.getblock.io/)&#x20;
 
@@ -53,8 +52,6 @@ Add them in Lego-like manner: [https://account.getblock.io/](https://account.get
 * Firehose
 * Blockbook
 * Yellowstone Geyser
-
-
 
 Need more? Don’t hesitate to contact sales: [https://getblock.io/contact/](https://getblock.io/contact/)&#x20;
 
