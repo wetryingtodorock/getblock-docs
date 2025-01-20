@@ -1,25 +1,27 @@
 ---
 title: eth_getTransactionByBlockNumberAndIndex - Cronos
-description: Example code for the eth_getTransactionByBlockNumberAndIndex json-rpc method. Сomplete guide on how to use eth_getTransactionByBlockNumberAndIndex json-rpc in GetBlock.io Web3 documentation.
+description: >-
+  Example code for the eth_getTransactionByBlockNumberAndIndex json-rpc method.
+  Сomplete guide on how to use eth_getTransactionByBlockNumberAndIndex json-rpc
+  in GetBlock.io Web3 documentation.
 ---
 
-### Parameters
+# eth\_getTransactionByBlockNumberAndIndex - Cronos
 
+#### Parameters
 
 `QUANTITY|TAG` - hex string
 
-Integer representing a block number or one of the string tags latest,
-earliest, or pending, as described in Block Parameter.
+Integer representing a block number or one of the string tags latest, earliest, or pending, as described in Block Parameter.
 
 `QUANTITY` - hex string
 
 The transaction index position.
 
-### Request
+#### Request
 
-``` java
-curl --location --request POST 'https://cro.getblock.io/mainnet/' 
---header 'x-api-key: YOUR-API-KEY' 
+```java
+curl --location --request POST 'https://go.getblock.io/<ACCESS-TOKEN>/'  
 --header 'Content-Type: application/json' 
 --data-raw '{"jsonrpc": "2.0",
 "method": "eth_getTransactionByBlockNumberAndIndex",
@@ -27,9 +29,9 @@ curl --location --request POST 'https://cro.getblock.io/mainnet/'
 "id": "getblock.io"}'
 ```
 
-###  Response
+#### Response
 
-``` java
+```java
 {
     "id": "getblock.io",
     "jsonrpc": "2.0",
@@ -56,4 +58,3 @@ curl --location --request POST 'https://cro.getblock.io/mainnet/'
     }
 }
 ```
-

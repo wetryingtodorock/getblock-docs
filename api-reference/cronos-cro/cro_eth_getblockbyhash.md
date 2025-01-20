@@ -1,10 +1,13 @@
 ---
 title: eth_getBlockByHash - Cronos
-description: Example code for the eth_getBlockByHash json-rpc method. Сomplete guide on how to use eth_getBlockByHash json-rpc in GetBlock.io Web3 documentation.
+description: >-
+  Example code for the eth_getBlockByHash json-rpc method. Сomplete guide on how
+  to use eth_getBlockByHash json-rpc in GetBlock.io Web3 documentation.
 ---
 
-### Parameters
+# eth\_getBlockByHash - Cronos
 
+#### Parameters
 
 `DATA` - hex string
 
@@ -12,14 +15,12 @@ description: Example code for the eth_getBlockByHash json-rpc method. Сomplete 
 
 `Boolean` - boolean
 
-If true, returns the full transaction objects; if false, returns the
-transaction hashes.
+If true, returns the full transaction objects; if false, returns the transaction hashes.
 
-### Request
+#### Request
 
-``` java
-curl --location --request POST 'https://cro.getblock.io/mainnet/' 
---header 'x-api-key: YOUR-API-KEY' 
+```java
+curl --location --request POST 'https://go.getblock.io/<ACCESS-TOKEN>/' 
 --header 'Content-Type: application/json' 
 --data-raw '{"jsonrpc": "2.0",
 "method": "eth_getBlockByHash",
@@ -27,9 +28,9 @@ curl --location --request POST 'https://cro.getblock.io/mainnet/'
 "id": "getblock.io"}'
 ```
 
-###  Response
+#### Response
 
-``` java
+```java
 {
     "id": "getblock.io",
     "jsonrpc": "2.0",
@@ -62,4 +63,3 @@ curl --location --request POST 'https://cro.getblock.io/mainnet/'
     }
 }
 ```
-

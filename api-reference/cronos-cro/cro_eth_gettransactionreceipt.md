@@ -1,20 +1,23 @@
 ---
 title: eth_getTransactionReceipt - Cronos
-description: Example code for the eth_getTransactionReceipt json-rpc method. Сomplete guide on how to use eth_getTransactionReceipt json-rpc in GetBlock.io Web3 documentation.
+description: >-
+  Example code for the eth_getTransactionReceipt json-rpc method. Сomplete guide
+  on how to use eth_getTransactionReceipt json-rpc in GetBlock.io Web3
+  documentation.
 ---
 
-### Parameters
+# eth\_getTransactionReceipt - Cronos
 
+#### Parameters
 
 `DATA` - hex string
 
 32-byte hash of a transaction.
 
-### Request
+#### Request
 
-``` java
-curl --location --request POST 'https://cro.getblock.io/mainnet/' 
---header 'x-api-key: YOUR-API-KEY' 
+```java
+curl --location --request POST 'https://go.getblock.io/<ACCESS-TOKEN>/' 
 --header 'Content-Type: application/json' 
 --data-raw '{"jsonrpc": "2.0",
 "method": "eth_getTransactionReceipt",
@@ -22,9 +25,9 @@ curl --location --request POST 'https://cro.getblock.io/mainnet/'
 "id": "getblock.io"}'
 ```
 
-###  Response
+#### Response
 
-``` java
+```java
 {
     "id": "getblock.io",
     "jsonrpc": "2.0",
@@ -146,4 +149,3 @@ curl --location --request POST 'https://cro.getblock.io/mainnet/'
     }
 }
 ```
-

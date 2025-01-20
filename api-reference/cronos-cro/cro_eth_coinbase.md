@@ -1,18 +1,20 @@
 ---
 title: eth_coinbase - Cronos
-description: Example code for the eth_coinbase json-rpc method. Сomplete guide on how to use eth_coinbase json-rpc in GetBlock.io Web3 documentation.
+description: >-
+  Example code for the eth_coinbase json-rpc method. Сomplete guide on how to
+  use eth_coinbase json-rpc in GetBlock.io Web3 documentation.
 ---
 
-### Parameters
+# eth\_coinbase - Cronos
 
+#### Parameters
 
 \-
 
-### Request
+#### Request
 
-``` java
-curl --location --request POST 'https://cro.getblock.io/mainnet/' 
---header 'x-api-key: YOUR-API-KEY' 
+```java
+curl --location --request POST 'https://go.getblock.io/<ACCESS-TOKEN>/' 
 --header 'Content-Type: application/json' 
 --data-raw '{"jsonrpc": "2.0",
 "method": "eth_coinbase",
@@ -20,9 +22,9 @@ curl --location --request POST 'https://cro.getblock.io/mainnet/'
 "id": "getblock.io"}'
 ```
 
-###  Response
+#### Response
 
-``` java
+```java
 {
     "error": {
         "code": -32000,
@@ -32,4 +34,3 @@ curl --location --request POST 'https://cro.getblock.io/mainnet/'
     "jsonrpc": "2.0"
 }
 ```
-
