@@ -1,55 +1,74 @@
 ---
 title: getBlock - Solana
-description: Example code for the getBlock json-rpc method. Сomplete guide on how to use getBlock json-rpc in GetBlock.io Web3 documentation.
+description: >-
+  The getBlock method retrieves detailed information about a specific block on
+  the Solana blockchain, including its height, timestamp, hash, rewards, and
+  transactions.
 ---
+
+# getBlock - Solana
+
+{% hint style="success" %}
+The getBlock method allows developers to query a specific block in the Solana blockchain by providing the block’s slot number.
+{% endhint %}
+
+It returns detailed information about the block, including its height, timestamp, hash, parent slot, previous block hash, rewards, and transactions contained within the block. This method is particularly useful for obtaining a snapshot of a specific block, helping developers analyze and verify blockchain activity.
+
+### **Supported Networks**
+
+The getBlock RPC Solana method supports the following networks:
+
+* Mainnet
+* Devnet
 
 ### Parameters
 
-
-`u64` - u64
-
-slot, as u64 integer
-
-`Config` - object
-
-Optional.
-
-Configuration object containing the following optional fields: -
-encoding: string - encoding for Account data, either "base58" (slow),
-"base64", "base64+zstd", or "jsonParsed". "base58" is limited to Account
-data of less than 129 bytes. "base64" will return base64 encoded data
-for Account data of any size. "base64+zstd" compresses the Account data
-using Zstandard and base64-encodes the result. "jsonParsed" encoding
-attempts to use program-specific state parsers to return more
-human-readable and explicit account state data. If "jsonParsed" is
-requested but a parser cannot be found, the field falls back to "base64"
-encoding, detectable when the data field is type string. -
-transaction.message.instructions: list If "jsonParsed" is requested but
-a parser cannot be found, the instruction falls back to regular JSON
-encoding (accounts, data, and programIdIndex fields). -
-transactionDetails: string (optional) - level of transaction detail to
-return, either "full", "signatures", or "none". If parameter not
-provided, the default detail level is "full". - rewards: bool
-(optional) - whether to populate the rewards array. If parameter not
-provided, the default includes rewards. - Commitment (optional) -
-"processed" is not supported. If parameter not provided, the default is
-"finalized".
+* Slot (u64, required): The slot number of the block you want to query. It should be passed as a 64-bit unsigned integer.
+* Config (optional, object): Configuration object that provides additional options for the block query:
+  * encoding: The encoding for account data. Can be one of the following:
+    * "base58": Slow, suitable for small Account data.
+    * "base64": Standard encoding for Account data of any size.
+    * "base64+zstd": Compresses Account data using Zstandard and base64-encodes it.
+    * "jsonParsed": Attempts to parse Account data into a more human-readable format.
+  * transaction.message.instructions: If jsonParsed is requested but no parser is available, this field will fall back to regular JSON encoding for accounts, data, and programIdIndex fields.
+  * transactionDetails: Level of transaction detail to return. Options are:
+    * "full": Returns complete transaction details (default).
+    * "signatures": Returns only the signatures.
+    * "none": Does not include transaction details.
+  * field will fall back to regular JSON encoding for accounts, data, and programIdIndex fields.
+  * transactionDetails: Level of transaction detail to return. Options are:
+  * rewards: A boolean indicating whether to include rewards data in the response. Defaults to true.
+  * commitment: Defines the level of commitment for the block query, with the default set to "finalized".
 
 ### Request
 
-``` java
-curl --location --request POST 'https://sol.getblock.io/mainnet' \ 
---header 'x-api-key: YOUR-API-KEY' \ 
---header 'Content-Type: application/json' \ 
---data-raw '{"jsonrpc": "2.0",
-"method": "getBlock",
-"params": [122788843, null],
-"id": "getblock.io"}'
+URL(Endpoints)
+
+<pre class="language-json" data-full-width="false"><code class="lang-json"><strong>https://go.getblock.io/&#x3C;ACCESS-TOKEN>/
+</strong></code></pre>
+
+### Example (cURL):
+
+{% tabs %}
+{% tab title="curl" %}
+```json
+curl --location "https://go.getblock.io/api-key" -XPOST \
+--header "Content-Type: application/json" \
+--data '{
+    "jsonrpc": "2.0",
+    "id": 1,
+    "method": "getBlock",
+    "params": [122788843, null]
+}'
 ```
+{% endtab %}
+{% endtabs %}
 
-###  Response
+### Response
 
-``` java
+A successful response contains detailed information about the block, including the block height, block time, blockhash, parent slot, previous blockhash, rewards, and transactions.
+
+```json
 {
     "id": "getblock.io",
     "jsonrpc": "2.0",
@@ -73,13 +92,6 @@ curl --location --request POST 'https://sol.getblock.io/mainnet' \
                 "postBalance": 4694146146,
                 "pubkey": "DAHJgPKdmncYW8DmY6meaU953a7SktQ7eDGtWduC8W8m",
                 "rewardType": "Fee"
-            },
-            {
-                "commission": null,
-                "lamports": 226,
-                "postBalance": 915183364848,
-                "pubkey": "EvnRmnMrd69kFdbLMxWkTn1icZ7DCceRhvmb2SJXqDo4",
-                "rewardType": "Rent"
             }
         ],
         "transactions": [
@@ -93,21 +105,6 @@ curl --location --request POST 'https://sol.getblock.io/mainnet' \
                         "Program FsJ3A3u2vn5cTVofAjvy6y5kwABJAqYWpe4975bi2epH consumed 32275 of 200000 compute units",
                         "Program FsJ3A3u2vn5cTVofAjvy6y5kwABJAqYWpe4975bi2epH success"
                     ],
-                    "postBalances": [
-                        28954045000,
-                        23942400,
-                        1169280,
-                        1141440
-                    ],
-                    "postTokenBalances": [],
-                    "preBalances": [
-                        28954050000,
-                        23942400,
-                        1169280,
-                        1141440
-                    ],
-                    "preTokenBalances": [],
-                    "rewards": [],
                     "status": {
                         "Ok": null
                     }
@@ -115,28 +112,15 @@ curl --location --request POST 'https://sol.getblock.io/mainnet' \
                 "transaction": {
                     "message": {
                         "accountKeys": [
-                            "5YXnWX6Mmd8hp7fCpAB3wQUrHt6WtjJrA5QjmBuySsDP",
-                            "5ALDzwcRJfSyGdGyhP3kP628aqBNHZzLuVww7o9kdspe",
-                            "SysvarC1ock11111111111111111111111111111111",
-                            "FsJ3A3u2vn5cTVofAjvy6y5kwABJAqYWpe4975bi2epH"
+                            "5YXnWX6Mmd8hp7fCpAB3wQUrHt6WtjJrA5QjmBuySsDP"
                         ],
-                        "header": {
-                            "numReadonlySignedAccounts": 0,
-                            "numReadonlyUnsignedAccounts": 2,
-                            "numRequiredSignatures": 1
-                        },
                         "instructions": [
                             {
-                                "accounts": [
-                                    0,
-                                    1,
-                                    2
-                                ],
+                                "accounts": [0, 1, 2],
                                 "data": "6mJFQAEssWECZ33ewGbTZAvtVaeV9QBGxMZvAabzAeqe7ffgxn9zbR",
                                 "programIdIndex": 3
                             }
-                        ],
-                        "recentBlockhash": "FfnbGUXtfGHiZqnkSxC6pRZjGKfZqrdM4L2wPwgLCrcn"
+                        ]
                     },
                     "signatures": [
                         "2YBeDREvfocgiwmtwE7j2yNWj8vbSG3Uxw17HKYp2f2iNoBy3ps7MuTdQ31PPY5AmAEghgoKJbTGUn25m3SUY96c"
@@ -146,5 +130,70 @@ curl --location --request POST 'https://sol.getblock.io/mainnet' \
         ]
     }
 }
+
 ```
 
+**Response Parameters**
+
+* id: A unique request identifier, matching the ID sent in the request body.
+* jsonrpc: Specifies the use of JSON-RPC version 2.0.
+* result:
+  * blockHeight: The block’s height.
+  * blockTime: The block’s timestamp.
+  * blockhash: The block’s hash.
+  * parentSlot: The parent slot number.
+  * previousBlockhash: The previous block’s hash.
+  * rewards: An array of reward details for the block, including the lamports earned and the account that received them.
+  * transactions: An array of transactions included in the block, each with metadata and transaction details.
+
+### Use Case
+
+The getBlock method is highly beneficial for developers working on blockchain analytics, block explorers, or any Solana-based decentralized applications (dApps) that require detailed information about specific blocks. It allows the retrieval of transaction data, reward information, and other block-related details in real time, which is essential for building rich user experiences.
+
+### Code Example
+
+{% tabs %}
+{% tab title="JavaScript" %}
+```javascript
+const axios = require('axios');
+
+const url = "https://go.getblock.io/YOUR-API-KEY";
+const headers = { "Content-Type": "application/json" };
+
+const payload = {
+    jsonrpc: "2.0",
+    id: 1, 
+    method: "getBlock",
+    params: [
+        122788843,
+        null
+    ]
+};
+
+const fetchBlockInfo = async () => {
+    try {
+        const response = await axios.post(url, payload, { headers });
+
+        if (response.status === 200) {
+            const blockInfo = response.data.result;
+            console.log("Block Height:", blockInfo?.blockHeight || "No data available");
+            console.log("Block Time:", blockInfo?.blockTime || "No data available");
+        } else {
+            console.error("Unexpected status:", response.status, response.statusText);
+        }
+    } catch (error) {
+        console.error("Error:", error.response?.data || error.message);
+    }
+};
+
+fetchBlockInfo();
+
+```
+{% endtab %}
+{% endtabs %}
+
+This code example demonstrates how to make a request to the getBlock method, fetch block data, and handle the response. It prints the block's height and time as part of the output.
+
+### Integration with Web3
+
+The getBlock method is an essential tool for retrieving block information from the Solana blockchain. By querying a block by its slot, developers can gain detailed insights into blockchain activity, including transaction data and rewards. The method’s flexibility in configuring encoding and transaction details makes it an important tool for building sophisticated Web3 applications and blockchain analytics solutions.
