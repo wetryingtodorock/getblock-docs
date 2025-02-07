@@ -1,111 +1,184 @@
 ---
 title: getVoteAccounts - Solana
-description: Example code for the getVoteAccounts json-rpc method. Сomplete guide on how to use getVoteAccounts json-rpc in GetBlock.io Web3 documentation.
+description: >-
+  The getVoteAccounts JSON-RPC method retrieves detailed information about
+  active vote accounts on the Solana network, including validators’ staking
+  activity and performance metrics.
 ---
+
+# getVoteAccounts - Solana
+
+{% hint style="success" %}
+The getVoteAccounts JSON-RPC method retrieves detailed information about active vote accounts on the Solana network, including validators’ staking activity and performance metrics.
+{% endhint %}
+
+
+
+The getVoteAccounts RPC method returns a list of active vote accounts, highlighting key parameters such as activatedStake, commission, and epochCredits. As part of Solana’s Core API, it enables developers to monitor validator health, track decentralization metrics, and analyze governance-related value distributions.
+
+getVoteAccounts RPC Solana method supports optional filters like votePubkey (to target specific validators) and keepUnstakedDelinquents (to include inactive validators). By leveraging these parameters, Web3 applications can tailor data retrieval for staking analytics or real-time network audits.
+
+### Supported Networks
+
+Access this method via Solana API endpoints:
+
+* Mainnet
+* Devnet
 
 ### Parameters
 
+#### Config (object, optional)
 
-`config` - object
+Customize the request with these fields:
 
-Optional
-
-Configuration object containing the following field: - commitment
-(optional) - votePubkey: string (optional) - Only return results for
-this validator vote address (base-58 encoded) - keepUnstakedDelinquents:
-bool (optional) - Do not filter out delinquent validators with no
-stake - delinquentSlotDistance: u64 (optional) - Specify the number of
-slots behind the tip that a validator must fall to be considered
-delinquent. NOTE: For the sake of consistency between ecosystem
-products, it is not recommended that this argument be specified.
+* commitment (string, optional): Confirmation level: finalized (default), confirmed, or processed.
+* votePubkey (string, optional): Filter results to a specific validator’s vote address (Base58-encoded).
+* keepUnstakedDelinquents (bool, optional): Include delinquent validators with no active stake (default: false).
+* delinquentSlotDistance (u64, optional): Define the slot distance threshold for marking validators as delinquent.
 
 ### Request
 
-``` java
+#### API Endpoints
+
+```
+https://go.getblock.io/<ACCESS-TOKEN>/
 ```
 
-###  Response
+#### Example (cURL)
 
-``` java
+{% tabs %}
+{% tab title="curl" %}
+```json
+curl --location "https://go.getblock.io/api-key" -XPOST \
+--header "Content-Type: application/json" \
+--data '{
+   "jsonrpc": "2.0",
+   "id": 1,
+   "method": "getVoteAccounts",
+   "params": [{"commitment": "finalized"}]
+}'
+```
+{% endtab %}
+{% endtabs %}
+
+### Response
+
+A successful response returns two lists: current (active validators) and delinquent (underperforming validators). Each entry includes metrics like stake, commission, and voting history.
+
+#### &#x20;getVoteAccounts example Response
+
+```json
 {
-    "id": "getblock.io",
-    "jsonrpc": "2.0",
-    "result": {
-        "current": [
-            {
-                "activatedStake": 65136133648061,
-                "commission": 10,
-                "epochCredits": [
-                    [
-                        280,
-                        3946620,
-                        3579916
-                    ],
-                    [
-                        281,
-                        4303497,
-                        3946620
-                    ],
-                    [
-                        282,
-                        4652270,
-                        4303497
-                    ],
-                    [
-                        283,
-                        4999558,
-                        4652270
-                    ],
-                    [
-                        284,
-                        5095638,
-                        4999558
-                    ]
-                ],
-                "epochVoteAccount": true,
-                "lastVote": 122802577,
-                "nodePubkey": "dpuDVLGSXT28Z3RGS28QBD5LUmcWARQVu36vXCEhhBg",
-                "rootSlot": 122802546,
-                "votePubkey": "6AqFc9V6PqyXJReuP12ATGggaVpG1Ppg4LFNvnqQYz8B"
-            },
-            {
-                "activatedStake": 81872060716406,
-                "commission": 10,
-                "epochCredits": [
-                    [
-                        280,
-                        7726424,
-                        7359721
-                    ],
-                    [
-                        281,
-                        8083234,
-                        7726424
-                    ],
-                    [
-                        282,
-                        8432165,
-                        8083234
-                    ],
-                    [
-                        283,
-                        8779570,
-                        8432165
-                    ],
-                    [
-                        284,
-                        8875323,
-                        8779570
-                    ]
-                ],
-                "epochVoteAccount": true,
-                "lastVote": 122802575,
-                "nodePubkey": "ECAq48skWmYJobngNd8ZDUQxB8y9KCaRAAzsfp3y2hjK",
-                "rootSlot": 122802543,
-                "votePubkey": "DcbnYSBPSscNZNUk39mj5xtjCUdXM6QA6oRa4KrnTdaC"
-            }
-        ]
-    }
+   "id": "getblock.io",
+   "jsonrpc": "2.0",
+   "result": {
+       "current": [
+           {
+               "activatedStake": 65136133648061,
+               "commission": 10,
+               "epochCredits": [[280, 3946620, 3579916]],
+               "epochVoteAccount": true,
+               "lastVote": 122802577,
+               "nodePubkey": "dpuDVLGSXT28Z3RGS28QBD5LUmcWARQVu36vXCEhhBg",
+               "rootSlot": 122802546,
+               "votePubkey": "6AqFc9V6PqyXJReuP12ATGggaVpG1Ppg4LFNvnqQYz8B"
+           }
+       ]
+   }
 }
 ```
 
+#### Key Response Fields
+
+* activatedStake: Stake delegated to the validator (in lamports).
+* commission: Validator’s fee percentage.
+* epochCredits: Voting credits earned per epoch.
+* lastVote: Slot of the validator’s latest vote.
+
+### Error Handling
+
+Common getVoteAccounts error scenarios include:
+
+* Invalid votePubkey format.
+* Unsupported parameters (e.g., delinquentSlotDistance with non-standard values).
+* Missing API key or incorrect endpoint.
+
+#### Error Response Example
+
+```json
+{
+   "jsonrpc": "2.0",
+   "error": {
+       "code": -32602,
+       "message": "Invalid votePubkey format"
+   },
+   "id": "getblock.io"
+}
+```
+
+### Use Case
+
+The  Solana getVoteAccounts method powers:
+
+* Staking platforms evaluating validator performance.
+* Governance dashboards tracking voting participation.
+* Analytics tools calculating network decentralization metrics.
+* Block explorers displaying validator-specific transaction histories.
+
+By filtering with votePubkey or analyzing epochCredits, developers build applications that enhance transparency in Solana’s block production ecosystem.
+
+### Code Example (JavaScript) – Web3 Integration
+
+{% tabs %}
+{% tab title="JavaScript" %}
+```javascript
+const axios = require('axios');
+
+const url = "https://go.getblock.io/api-key"; 
+const headers = { "Content-Type": "application/json" };
+
+const payload = {
+   jsonrpc: "2.0",
+   id: 1, 
+   method: "getVoteAccounts",
+   params: [
+       {
+           commitment: "finalized",
+           keepUnstakedDelinquents: false
+       }
+   ]
+};
+
+const fetchVoteAccounts = async () => {
+   try {
+       const response = await axios.post(url, payload, { headers });
+
+       if (response.status === 200) {
+           const voteAccounts = response.data.result?.current || [];
+           if (voteAccounts.length === 0) {
+               console.log("No vote accounts found.");
+           } else {
+               voteAccounts.forEach(account => {
+                   console.log("Validator:", account.votePubkey);
+                   console.log("Stake:", account.activatedStake);
+               });
+           }
+       } else {
+           console.error("Unexpected response:", response.status, response.statusText);
+       }
+   } catch (error) {
+       console.error("getVoteAccounts error:", error.response?.data || error.message);
+   }
+};
+
+fetchVoteAccounts();
+
+```
+{% endtab %}
+{% endtabs %}
+
+### Integration with Web3
+
+Integrate the Web3 getVoteAccounts RPC method into Web3 applications to monitor validator networks, optimize staking strategies, and ensure compliance with governance standards. By leveraging Core API parameters like commitment and votePubkey, developers deliver real-time insights into Solana’s decentralized value ecosystem.
+
+\
